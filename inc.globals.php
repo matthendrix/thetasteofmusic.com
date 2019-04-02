@@ -30,10 +30,10 @@ if(SERVER === 'dev') {
 	$db_user = 'devo';
 	$db_passwd = 'devo';
 } else {
-	$db_server = 'mysql.thetasteofmusic.com';
-	$db_name = 'tom_somafm';
-	$db_user = 'tom_somafm';
-	$db_passwd = 'bscene2008';
+	$db_server = '';
+	$db_name = '';
+	$db_user = '';
+	$db_passwd = '';
 }
 
 
