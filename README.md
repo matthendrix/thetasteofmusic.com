@@ -25,6 +25,8 @@ npm run dev
 
 Open: `http://127.0.0.1:3000`
 
+If port `3000` is already in use, Next.js will auto-pick another port (for example `3003`) and print it in the terminal.
+
 ## Build And Run
 
 ```bash
@@ -38,9 +40,9 @@ npm run start
 2. Use the default Next.js framework detection.
 3. Build command: `npm run build`
 4. Output: Next.js managed output (default)
-5. Deploy from `feature/nextjs-vercel-migration` (or merge to `master` first).
+5. Production branch: `master`
 
 ## Notes
 
 - Legacy root PHP files were archived to keep the repository focused on the Next.js app.
-- Temporary local server logs are ignored via `.gitignore` (`.next-*.log`).
+- Temporary local files are ignored via `.gitignore` (`.next-*.log`, `dev-*.log`, `CLAUDE.md`).
