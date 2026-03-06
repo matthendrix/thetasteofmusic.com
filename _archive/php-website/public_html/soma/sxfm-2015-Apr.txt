@@ -1,0 +1,617 @@
+Wed Apr  1 00:03:57 2015	7	Rod Picott	Rust Belt Fileds	n/a
+Wed Apr  1 00:08:00 2015	7	Run The Jewels	Oh My Darling Don't Cry	Run The Jewels 2
+Wed Apr  1 00:11:35 2015	7	Redinho	Playing With Fire	n/a
+Wed Apr  1 00:14:38 2015	8	Intrepidos Navegantes	Bailan	n/a
+Wed Apr  1 00:17:51 2015	7	Mexican Slang	Blisters	n/a
+Wed Apr  1 00:19:57 2015	6	Dark Time Sunshine	Valiant (feat. Child Actor)	ANX
+Wed Apr  1 00:24:40 2015	6	Bastard Sons of Johnny Cash	No Honky Tonks	n/a
+Wed Apr  1 00:28:39 2015	6	60 Tigres	Hay Mas	n/a
+Wed Apr  1 00:32:44 2015	7	World Rejects	W's Up	n/a
+Wed Apr  1 00:37:58 2015	6	Silva	Janeiro	n/a
+Wed Apr  1 00:42:16 2015	6	Apanhador So	Mordido	New Sounds Of Brazil
+Wed Apr  1 00:46:15 2015	5	Doomtree	My Own Nation	All Hands
+Wed Apr  1 00:49:48 2015	5	ODESZA	Bloom	In Return
+Wed Apr  1 00:52:57 2015	5	TsuShiMaMiRe	Human Coating	n/a
+Wed Apr  1 00:55:13 2015	4	Centavrvs	Por Eso	n/a
+Wed Apr  1 00:59:54 2015	4	King Charles	Love Lust	Loveblood
+Wed Apr  1 01:02:45 2015	4	Bomba Estereo	Pure Love	Elegancia Tropical
+Wed Apr  1 01:07:26 2015	5	Danay Suarez	Flores	n/a
+Wed Apr  1 01:11:45 2015	6	Derek Minor	Who You Know	n/a
+Wed Apr  1 01:15:55 2015	6	DJ Spinn	'Burn That Kush'	n/a
+Wed Apr  1 01:19:28 2015	6	Hikes	Spring Forward	n/a
+Wed Apr  1 01:26:37 2015	5	Vandaveer	Dig Down Deep	Dig Down Deep
+Wed Apr  1 01:30:31 2015	5	Slow Magic	Girls (Kodak to Graph Remix)	Single
+Wed Apr  1 01:33:58 2015	8	Coffeehouse	On This Side	n/a
+Wed Apr  1 01:37:43 2015	11	Marie Miller	You're Not Alone	n/a
+Wed Apr  1 01:40:51 2015	11	Sertified	Day in, Day Out	n/a
+Wed Apr  1 01:45:10 2015	11	Mungal Patasar	Cale basse cafe	n/a
+Wed Apr  1 01:49:22 2015	10	Deebs	Waves (Project Pablo Remix)	Songs4UByMe EP- Remixes [via XLR8R]
+Wed Apr  1 01:53:34 2015	10	Years & Years	Take Shelter	n/a
+Wed Apr  1 01:57:26 2015	10	Eastern Sidekick	Fight For Rainbow	n/a
+Wed Apr  1 02:01:01 2015	12	LODRO	If Life Was Like A Movie	n/a
+Wed Apr  1 02:06:24 2015	13	Group of the Altos	News from Wino	n/a
+Wed Apr  1 02:10:47 2015	12	Young Statues	Natives	n/a
+Wed Apr  1 02:14:38 2015	14	G.R.I.T. BOYS	WAT U 1NU DO	n/a
+Wed Apr  1 02:19:28 2015	14	S U R V I V E	Floating Cube	mnq026
+Wed Apr  1 02:23:23 2015	14	Butcher Brown	Forest Green	n/a
+Wed Apr  1 02:29:46 2015	14	Paper Tiger	5360	Made Like Us
+Wed Apr  1 02:32:26 2015	14	BADBADNOTGOOD	Eyes Closed	III
+Wed Apr  1 02:38:32 2015	15	Chancha Via Circuito	Prima	Rio Arriba
+Wed Apr  1 02:41:53 2015	13	Shilpa Ray	Nocturnal Emissions	n/a
+Wed Apr  1 02:47:29 2015	13	Colony House	Silhouettes	n/a
+Wed Apr  1 02:50:21 2015	13	Weekend Money	Yellow	n/a
+Wed Apr  1 02:52:54 2015	14	Side Effect	The Change	n/a
+Wed Apr  1 02:57:16 2015	16	San Cisco	RUN	n/a
+Wed Apr  1 03:00:05 2015	14	Liquid Stranger	Cryo	Cryogenic Encounters
+Wed Apr  1 03:06:28 2015	14	Natasha Kmeto	Channel 1	Unspeakable Volume One
+Wed Apr  1 03:09:41 2015	14	Andy Frasco & the U.N.	Main Squeeze	n/a
+Wed Apr  1 03:13:19 2015	14	Marcelo Fruet & os Cozinheiros	Samba da Conexao	n/a
+Wed Apr  1 03:17:47 2015	13	Kode9 & The Spaceape	CHASING A BEAST	Killing Season
+Wed Apr  1 03:20:32 2015	12	Lapalux	Forgetting and Learning Again	Some Other Time
+Wed Apr  1 03:24:17 2015	12	Kode9	Xingfu Lu (Helix Remix)	Hyperdub 10.1 DISC 1
+Wed Apr  1 03:27:51 2015	11	Cleopatra Degher	California Forest Fire	n/a
+Wed Apr  1 03:31:33 2015	10	Scatter Their Own	All I Have	n/a
+Wed Apr  1 03:35:47 2015	13	Untold	Breathe	n/a
+Wed Apr  1 03:42:51 2015	12	Kodak to Graph	IAMANTHEM	New Album- Untitled
+Wed Apr  1 03:47:08 2015	13	The Dove & the Wolf	the words you said	n/a
+Wed Apr  1 03:50:42 2015	14	.Stendal	sinestesia	n/a
+Wed Apr  1 03:54:49 2015	14	Jess Williamson	Snake Song	n/a
+Wed Apr  1 03:58:46 2015	14	SAFIA	You Are The One	n/a
+Wed Apr  1 04:02:30 2015	14	La Sabrosura Dura	No Le Temo	n/a
+Wed Apr  1 04:05:31 2015	14	Bill Baird	Your Dark Sunglasses	n/a
+Wed Apr  1 04:08:41 2015	14	Qarabagh Ensemble	Isterem Seni	n/a
+Wed Apr  1 04:18:43 2015	13	Rare Essence	Rock This Party	n/a
+Wed Apr  1 04:21:57 2015	13	Penguin Prison	Calling Out	n/a
+Wed Apr  1 04:25:57 2015	13	ODESZA	Say My Name (feat. Zyra) (Ambassadeurs Remix)	Say My Name Remixes
+Wed Apr  1 04:31:28 2015	12	Rochelle Jordan	Lowkey	n/a
+Wed Apr  1 04:34:58 2015	12	Skinny Lister	Trouble On Oxford Street	n/a
+Wed Apr  1 04:38:12 2015	12	Ikonika	Mega Church	Aerotropolis
+Wed Apr  1 04:42:41 2015	14	MAX CAPOTE	Sin Mentirte	n/a
+Wed Apr  1 04:44:50 2015	14	Andy Shauf	I'm Not Falling Asleep	n/a
+Wed Apr  1 04:47:45 2015	14	Matias Cena	Cerro Dragon	n/a
+Wed Apr  1 04:51:29 2015	14	Dark Time Sunshine	Overlordian (feat. P.O.S.)	ANX
+Wed Apr  1 04:55:51 2015	15	The Velvet Teen	Forfor	No Star EP
+Wed Apr  1 04:59:14 2015	14	SLOTHRUST	Crockpot	n/a
+Wed Apr  1 05:04:28 2015	13	Reuben Hollebon	Skin Addict	n/a
+Wed Apr  1 05:06:53 2015	12	Ho99o9	Bone Collector	n/a
+Wed Apr  1 05:09:45 2015	12	Third Root	Unified	n/a
+Wed Apr  1 05:13:29 2015	13	Rival Consoles	Milo	IO
+Wed Apr  1 05:15:52 2015	12	Da T.r.u.t.h	Made It	n/a
+Wed Apr  1 05:20:43 2015	13	Amad-Jamal	Believe (feat. Dilated Peoples)	Barely Hangin' On: The Chronicles Of A Brotha Like Rodney King
+Wed Apr  1 05:25:13 2015	14	Beacon	Safety's Off	For Now
+Wed Apr  1 05:27:41 2015	15	Mystery Skulls	Paralyzed	n/a
+Wed Apr  1 05:30:42 2015	14	Palmbomen II (live)	Carina Sayles	n/a
+Wed Apr  1 05:35:10 2015	14	Mallory Knox	Shout At The Moon	n/a
+Wed Apr  1 05:38:33 2015	13	Jake La Botz	Everybody Got to Fall Down	n/a
+Wed Apr  1 05:42:16 2015	13	Your Old Droog	Bad To The Bone	n/a
+Wed Apr  1 05:44:44 2015	13	Jay Prince	Polaroids	n/a
+Wed Apr  1 05:49:20 2015	13	Paper Tiger	The Bully Plant	n/a
+Wed Apr  1 05:52:53 2015	13	The Lowest Pair	Living Is Dying	n/a
+Wed Apr  1 05:56:16 2015	12	Birdcloud	Springwater	n/a
+Wed Apr  1 05:57:43 2015	11	Baptiste W. Hamon	Comme La Vie Est belle	n/a
+Wed Apr  1 06:00:55 2015	12	Sims	Burn It Down	Burn It Down
+Wed Apr  1 06:03:43 2015	12	Shurwayne Winchester	We Pumpin	n/a
+Wed Apr  1 06:06:55 2015	12	Genevieve	Colros	n/a
+Wed Apr  1 06:10:32 2015	12	Dawn and Hawkes	Holler	n/a
+Wed Apr  1 06:13:44 2015	11	LooseTemper	From The Bay	n/a
+Wed Apr  1 06:16:40 2015	12	Cecil Otter	Demon Girl	n/a
+Wed Apr  1 06:18:27 2015	14	Bomba Estereo	Pajaros	Elegancia Tropical
+Wed Apr  1 06:23:20 2015	14	Gal Pals	Here's To The Girls	n/a
+Wed Apr  1 06:26:38 2015	12	Tanya Tagaq	Umingmak	n/a
+Wed Apr  1 06:30:36 2015	11	Golden Fable	Breathe In	n/a
+Wed Apr  1 06:33:38 2015	10	CJ Fly	Ernee	n/a
+Wed Apr  1 06:37:23 2015	11	Peanut Butter Wolf	Rawcore (feat. Madlib)	Constant Elevation: The 'Say Word' Mix
+Wed Apr  1 06:38:59 2015	11	Peter Bibby	No More Sleepover	n/a
+Wed Apr  1 06:44:41 2015	12	The Districts	4TH AND ROEBLING	n/a
+Wed Apr  1 06:49:01 2015	12	BADBADNOTGOOD	CS60	III
+Wed Apr  1 06:55:53 2015	10	Brolin	Swim Deep	n/a
+Wed Apr  1 06:59:23 2015	11	Gustave Tiger	Gourgandine Simaitha	n/a
+Wed Apr  1 07:00:40 2015	10	Dilated Peoples	Worst Comes to Worst	Expansion Team
+Wed Apr  1 07:04:12 2015	13	Lapalux	Kelly Brook	Nostalchic
+Wed Apr  1 07:06:52 2015	12	DJ dTrain	Pimp (Trap Remix)	n/a
+Wed Apr  1 07:09:42 2015	12	Hinds	Bamboo	n/a
+Wed Apr  1 07:13:27 2015	14	Laura Reed	Struggle	n/a
+Wed Apr  1 07:17:17 2015	13	Slow Magic	Girls (Kodak to Graph Remix)	Single
+Wed Apr  1 07:20:38 2015	12	Kodak To Graph	Departure	Monthly Singles | 2013
+Wed Apr  1 07:24:11 2015	11	Once Tiros	Tu Postura	n/a
+Wed Apr  1 07:27:47 2015	13	Kode9	UH	Hyperdub Tour Sampler 2013
+Wed Apr  1 07:31:44 2015	11	Viet Cong	Silhouettes	Viet Cong
+Wed Apr  1 07:35:53 2015	11	The Lonely Wild	Buried in the Murder	The Sun As It Comes
+Wed Apr  1 07:40:55 2015	11	Jay Nash and Josh Day are The Contenders	The Contender	n/a
+Wed Apr  1 07:44:56 2015	10	Avid Dancer	I Want To See You Dance	n/a
+Wed Apr  1 07:48:35 2015	12	Delicate Steve, Dustin Wong of Pony Tail	Flyin' High	n/a
+Wed Apr  1 07:51:34 2015	12	Alex Winston	Careless	n/a
+Wed Apr  1 07:55:36 2015	11	Intimate Stranger	Girl	n/a
+Wed Apr  1 08:00:31 2015	12	Emily Wolfe	Ghost Limb	n/a
+Wed Apr  1 08:03:55 2015	12	Homeboy Sandman	America the Beautiful	Hallways
+Wed Apr  1 08:06:40 2015	12	The Accidentals	The Silence	n/a
+Wed Apr  1 08:10:15 2015	12	Lil J	Keep It Real	n/a
+Wed Apr  1 08:13:16 2015	12	Begun	San Francisco	n/a
+Wed Apr  1 08:18:32 2015	11	Ikonika	Mr Cake	Aerotropolis
+Wed Apr  1 08:22:35 2015	12	Cairo Knife Fight	Rezlord	n/a
+Wed Apr  1 08:26:38 2015	11	Chancha Via Circuito	Tornasol (feat. Leandro Frias)	Semillas EP
+Wed Apr  1 08:28:30 2015	10	Hundred Visions	You're Gonna Cut Me Loose	n/a
+Wed Apr  1 08:32:00 2015	10	Mikal kHill	Challenge Your Audience (featuring MC Frontalot & More or Les)	n/a
+Wed Apr  1 08:35:34 2015	11	Little Simz	Devour	n/a
+Wed Apr  1 08:38:36 2015	13	The Snaz	Anna	n/a
+Wed Apr  1 08:41:05 2015	11	Booher	Pick Up The Robot (feat. Will Sheff)	n/a
+Wed Apr  1 08:45:18 2015	12	The SLOTHS	Makin' Love (50 Years Later)	n/a
+Wed Apr  1 08:47:46 2015	11	George Maple	Talk Talk	n/a
+Wed Apr  1 08:51:14 2015	14	Rival Consoles	Helios	Sonne [via XLR8R]
+Wed Apr  1 08:56:03 2015	14	Serge Beynaud	Loko	n/a
+Wed Apr  1 09:00:41 2015	13	Beacon	Minor Structures	L1 (LR)
+Wed Apr  1 09:03:50 2015	13	Chief Scout	Oh Shit	n/a
+Wed Apr  1 09:07:39 2015	14	ODESZA	Sun Models (feat. Madelyn Grant)	In Return
+Wed Apr  1 09:09:59 2015	15	Jitterbug Vipers	A Viper Just The Same	n/a
+Wed Apr  1 09:14:16 2015	15	Lazerbeak	Knight Fighter	n/a
+Wed Apr  1 09:15:33 2015	14	Salva	Issey Miyake	Complex Housing
+Wed Apr  1 09:17:48 2015	14	Well Hung Heart	Big Plans	n/a
+Wed Apr  1 09:20:41 2015	14	People's Blues of Richmond	Black Cat	n/a
+Wed Apr  1 09:24:48 2015	15	Byzantine	Soul Eraser	n/a
+Wed Apr  1 09:29:33 2015	14	YB (TEXAS)	Throw It In The Air	n/a
+Wed Apr  1 09:33:15 2015	14	Fritz Kalkbrenner	Void (Gui Boratto Remix)	Void Remix EP
+Wed Apr  1 09:42:10 2015	13	Greighwolfe	Last Night In The City	n/a
+Wed Apr  1 09:45:01 2015	14	Ghost Magnet Roach Motel	SEARCHING FOR THE WHITEMAN'S SOUL	n/a
+Wed Apr  1 10:02:40 2015	14	YB (KOREA)	Stay Alive	n/a
+Wed Apr  1 10:08:32 2015	12	The Lees of Memory	We Are Siamese	n/a
+Wed Apr  1 10:13:26 2015	9	Dark Waves	I Don't Wanna Be In Love	n/a
+Wed Apr  1 10:16:36 2015	9	Shura	Touch	n/a
+Wed Apr  1 10:19:47 2015	9	Spring King	Better Man	n/a
+Wed Apr  1 10:22:50 2015	9	Harvest Thieves	Little Feet	n/a
+Wed Apr  1 10:26:42 2015	9	EE	Banging Till I Die	n/a
+Wed Apr  1 10:31:07 2015	10	Bomba Estereo	Bosque	Elegancia Tropical
+Wed Apr  1 10:35:46 2015	11	Rozwell Kid	Kangaroo Pocket	n/a
+Wed Apr  1 10:40:16 2015	11	The Posterz	All I Know	n/a
+Wed Apr  1 10:45:30 2015	11	Run The Jewels	Blockbuster Night Part 1	Run The Jewels 2
+Wed Apr  1 10:48:15 2015	11	Dilated Peoples	Hard Hitters (feat. Black Thought)	Expansion Team
+Wed Apr  1 10:52:17 2015	12	Amason	Duvan	n/a
+Wed Apr  1 10:55:50 2015	12	Zuzuka Poderosa & Kush Arora	Pisicodelia (HxdB Remix)	Carioca Bass EP
+Wed Apr  1 10:59:15 2015	13	Daniel Romano	He Lets Her Memory Go (Wild)	n/a
+Wed Apr  1 11:04:29 2015	13	Deebs	You (In My World)	[via XLR8R]
+Wed Apr  1 11:08:38 2015	13	Terry Malts	Don't	n/a
+Wed Apr  1 11:11:33 2015	13	Sims	They Don't Work For Us	n/a
+Wed Apr  1 11:15:58 2015	14	DJ Earl	'Heart Breakk'	n/a
+Wed Apr  1 11:19:16 2015	13	Wild Party	Out Right	SXSW 2014 Showcasing Artists
+Wed Apr  1 11:21:52 2015	14	No Brain	Your Crush On Me	n/a
+Wed Apr  1 11:25:31 2015	13	Lapalux	Swallowing Smoke	Nostalchic
+Wed Apr  1 11:29:51 2015	13	The Cerny Brothers	Don't Run	n/a
+Wed Apr  1 11:33:47 2015	13	Hand Job Academy	Lena Dunham	n/a
+Wed Apr  1 11:36:40 2015	13	Braille	Better Than Nothing (feat. Angelica Bess)	5oFoF Disc 2
+Wed Apr  1 11:39:53 2015	15	Talkshow	Shadows	n/a
+Wed Apr  1 11:42:57 2015	15	Crew54	Ghetto Routine ft. David Sha	n/a
+Wed Apr  1 11:46:48 2015	16	Twerps	I Don't Mind	n/a
+Wed Apr  1 11:52:14 2015	16	The Stone Foxes	Locomotion	n/a
+Wed Apr  1 11:54:39 2015	17	P.O.S	Fuck Your Stuff- Clean	We Don't Even Live Here- Clean
+Wed Apr  1 11:58:16 2015	16	Hooka Hey	Nasty	n/a
+Wed Apr  1 12:02:24 2015	16	Good Harvest	Sugar	n/a
+Wed Apr  1 12:05:39 2015	12	Michna	She Exists In My Mind	Thousand Thursday
+Wed Apr  1 12:08:48 2015	13	Southern Hospitality DJ's	Blueberry (Pills & Cocaine)	n/a
+Wed Apr  1 12:13:31 2015	11	Kevin Devine	Bubblegum	n/a
+Wed Apr  1 12:15:41 2015	11	Dre Prince	All Around The World	n/a
+Wed Apr  1 12:19:36 2015	11	Beacon	Feeling's Gone	For Now
+Wed Apr  1 12:22:38 2015	13	Doug Burr	Black Light	n/a
+Wed Apr  1 12:25:37 2015	13	Highly Suspect	Bath Salts	n/a
+Wed Apr  1 12:28:17 2015	12	Andrew Duhon	The Moorings	n/a
+Wed Apr  1 12:31:31 2015	13	Doomtree	Mini Brute	All Hands
+Wed Apr  1 12:36:01 2015	12	Chris Catalena And The Native Americans	Plain Paper Plane	n/a
+Wed Apr  1 12:39:29 2015	11	Samurai Dynamites	Let's Go Party Music	n/a
+Wed Apr  1 12:43:33 2015	12	dLo	The Strictly Science Mixshow	n/a
+Wed Apr  1 13:03:16 2015	11	All Them Witches	Charles William	n/a
+Wed Apr  1 13:08:49 2015	11	Eddy Kenzo	Sitya Loss Remix	n/a
+Wed Apr  1 13:12:12 2015	11	HxdB	Stylish Cadaver (Grenier Remix)	Up EP [via XLR8R]
+Wed Apr  1 13:16:40 2015	12	Vordan Karmir	Testosterone	n/a
+Wed Apr  1 13:19:15 2015	13	The Wind & The Wave	It's A Longer Road To California Than I Thought	n/a
+Wed Apr  1 13:22:39 2015	12	Blossoms	Cut Me And I'll Bleed	n/a
+Wed Apr  1 13:25:54 2015	12	Natasha Kmeto	Dirty Mind Melt (Sweatson Klank Remix)	[via XLR8R]
+Wed Apr  1 13:29:23 2015	10	SEAN FALYON	Famous	n/a
+Wed Apr  1 13:32:33 2015	10	July Talk	Guns + Ammunition	n/a
+Wed Apr  1 13:35:31 2015	10	Clareta Haddon	Help Me	n/a
+Wed Apr  1 13:38:32 2015	10	Bomba Estereo	Pure Love	Elegancia Tropical
+Wed Apr  1 13:43:00 2015	10	La Inedita	Fayah	n/a
+Wed Apr  1 13:46:19 2015	10	Chancha Via Circuito	Prima	Rio Arriba
+Wed Apr  1 13:49:43 2015	8	Dark Time Sunshine	Take My Hand (feat. Swamburger & Aesop Rock)	ANX
+Wed Apr  1 13:53:41 2015	9	Ava Luna	Billz	n/a
+Wed Apr  1 13:56:46 2015	10	My Education	Roboter-Hohlenbewohner	A Drink for All My Friends
+Wed Apr  1 14:04:43 2015	10	Blind Prophet	Sunset	n/a
+Wed Apr  1 14:08:37 2015	12	Tank and The Bangas	Rhythm Of Life	n/a
+Wed Apr  1 14:13:11 2015	11	Suzy Bogguss	The Bottle Let Me Down	n/a
+Wed Apr  1 14:16:59 2015	12	The Last Year	Mania	n/a
+Wed Apr  1 14:20:25 2015	14	Deebs	Waves (Project Pablo Remix)	Songs4UByMe EP- Remixes [via XLR8R]
+Wed Apr  1 14:24:40 2015	15	Sammus	Power-Ups	n/a
+Wed Apr  1 14:28:40 2015	16	Crayon Pop	BarBarBar	n/a
+Wed Apr  1 14:31:29 2015	15	Daedelus	Madlib Bonus Beats	n/a
+Wed Apr  1 14:33:38 2015	15	Buck Biloxi and the Fucks	Stop Living Your Life	n/a
+Wed Apr  1 14:35:13 2015	15	A Pony Named Olga	Funny What You Pray	n/a
+Wed Apr  1 14:37:59 2015	14	Gateway Drugs	Teenage Heart	n/a
+Wed Apr  1 14:41:25 2015	15	Blacklist Royals	Die Young With Me	Die Young With Me
+Wed Apr  1 14:44:19 2015	13	Hawthorne Heights	Pens and Needles	n/a
+Wed Apr  1 14:47:38 2015	12	Lazerbeak	Had Enough	Lava Bangers
+Wed Apr  1 14:49:22 2015	12	Liquid Stranger	Ectoplasm	Cryogenic Encounters
+Wed Apr  1 14:54:48 2015	13	Tkay Maidza	Switch Lanes	n/a
+Wed Apr  1 14:57:58 2015	11	Diwan Saz	Az Yeranen	n/a
+Wed Apr  1 15:02:35 2015	12	BRONCHO	Class Historian	Just Enough Hip To Be A Woman
+Wed Apr  1 15:06:00 2015	12	Silent Land Time Machine	I (excerpt)	n/a
+Wed Apr  1 15:09:52 2015	11	Happyness	Anything I Do Is All Right	Anything I Do Is All Right EP
+Wed Apr  1 15:11:53 2015	10	Port Juvee	All That's Fine	n/a
+Wed Apr  1 15:15:16 2015	13	Transit	Poor People Like To Dance Too ft. Jam	n/a
+Wed Apr  1 15:18:12 2015	13	Hector Bizerk	Skin & Bone	n/a
+Wed Apr  1 15:22:09 2015	12	Echo	Shimao	n/a
+Wed Apr  1 15:26:29 2015	14	Michna	Nuroq Legacy	Thousand Thursday
+Wed Apr  1 15:29:27 2015	15	Hudson Mohawke	Thunder Bay	Showcasing Scotland SxSW 2012
+Wed Apr  1 15:32:42 2015	14	Quiet Company	Understand the Problem	n/a
+Wed Apr  1 15:36:35 2015	12	VERITE	Strange Enough	n/a
+Wed Apr  1 15:39:17 2015	12	Jack Ladder & The Dreamlanders	Come On Back This Way	n/a
+Wed Apr  1 15:45:01 2015	12	Twin Peaks	I Found a New Way	Wild Onion
+Wed Apr  1 15:47:38 2015	12	Beto y los Fairlanes	Sesos de Huesos	n/a
+Wed Apr  1 15:51:01 2015	12	Victim Mentality	Don't Spit On Me	n/a
+Wed Apr  1 15:54:35 2015	12	UNTOLD	Kane	n/a
+Wed Apr  1 16:02:30 2015	12	Mexicans With Guns	Highway to Hell (feat. Freddie Gibbs)	n/a
+Wed Apr  1 16:05:30 2015	10	Kawehi	ANTHEM	n/a
+Wed Apr  1 16:09:41 2015	11	LEVANTE	ALFONSO	n/a
+Wed Apr  1 16:12:53 2015	12	Kodak to Graph	IAMANTHEM	New Album- Untitled
+Wed Apr  1 16:17:16 2015	10	Francisco The Man	Big Ideas	n/a
+Wed Apr  1 16:20:34 2015	11	The Matinee	Call of the Wild	n/a
+Wed Apr  1 16:24:25 2015	11	quttinirpaaq	MALVERT	n/a
+Wed Apr  1 16:28:12 2015	11	Mungo's Hi Fi	Bike Rider	n/a
+Wed Apr  1 16:31:55 2015	11	The Boxing Lesson	Red River Blues	n/a
+Wed Apr  1 16:35:10 2015	10	ODESZA	Bloom	In Return
+Wed Apr  1 16:38:11 2015	10	Barretso	modern love (barretso remix)	n/a
+Wed Apr  1 16:42:31 2015	10	Daniel Ellsworth & The Great Lakes	Phantoms	Kid Tiger
+Wed Apr  1 16:45:28 2015	11	Lust for Youth	Epoetin Alfa	n/a
+Wed Apr  1 16:48:49 2015	11	Beacon	Safety's Off	For Now
+Wed Apr  1 16:51:29 2015	10	Intocable	Te Amo (Para Siempre)	n/a
+Wed Apr  1 16:55:46 2015	10	Fotogramas	Algo	n/a
+Wed Apr  1 16:59:27 2015	10	Paper Tiger	Big Light	Priceless EP
+Wed Apr  1 17:02:59 2015	9	Run The Jewels	Close Your Eyes (And Count To Fuck) (Feat. Zack De La Rocha)	Run The Jewels 2
+Wed Apr  1 17:06:58 2015	7	Profetas	Chocolate	n/a
+Wed Apr  1 17:10:34 2015	6	VIMES	Ential	n/a
+Wed Apr  1 17:14:50 2015	7	Dessa	Fighting Fish	n/a
+Wed Apr  1 17:17:37 2015	7	Quiet Life	Housebroken Man	n/a
+Wed Apr  1 17:21:29 2015	8	Doomtree	Generator	All Hands
+Wed Apr  1 17:24:54 2015	8	Calvin Martyr	Spazzy	n/a
+Wed Apr  1 17:27:19 2015	8	bemyfriend	White Iverson (bemyfriend edit)	n/a
+Wed Apr  1 17:32:49 2015	10	Deebs	At Last	n/a
+Wed Apr  1 17:35:28 2015	9	Otis the Destroyer	Goldfame	n/a
+Wed Apr  1 17:40:15 2015	9	Sal Show	Black Lemonheads	n/a
+Wed Apr  1 17:41:46 2015	8	Pirates Canoe	Guitar Blue	n/a
+Wed Apr  1 17:45:48 2015	8	BEGINNERS	Who Knows	n/a
+Wed Apr  1 17:49:10 2015	9	BOAN	Freak Snake	n/a
+Wed Apr  1 17:53:08 2015	9	Liquid Stranger	Cryo	Cryogenic Encounters
+Wed Apr  1 17:59:12 2015	11	ROXY ROCA	Love Maker DeVille	n/a
+Wed Apr  1 18:02:15 2015	13	The Bros. Landreth	I Am The Fool	n/a
+Wed Apr  1 18:05:53 2015	12	Kevin Garrett	Coloring	n/a
+Wed Apr  1 18:09:30 2015	11	Brother Ali	Mourning In America	n/a
+Wed Apr  1 18:13:37 2015	11	The Horrorist	One Night in NYC	n/a
+Wed Apr  1 18:17:23 2015	11	Big Data	Dangerous (feat. Joywave)	n/a
+Wed Apr  1 18:21:50 2015	11	Dilated Peoples	Hard Hitters (feat. Black Thought)	Expansion Team
+Wed Apr  1 18:25:46 2015	10	Buck 65	Sublimation	n/a
+Wed Apr  1 18:30:14 2015	10	Hanne Kolsto	We Don't See Ourselves	n/a
+Wed Apr  1 18:33:42 2015	10	B. DOLAN	NATURAL BORN TROUBLE	n/a
+Wed Apr  1 18:38:13 2015	9	Dark Time Sunshine	No Worries	n/a
+Wed Apr  1 18:41:58 2015	9	Bomba Estereo	Bosque	Elegancia Tropical
+Wed Apr  1 18:46:46 2015	9	Count This Penny	Shoebox Scene	n/a
+Wed Apr  1 18:49:58 2015	10	Ikonika	Backhand Winners	Aerotropolis
+Wed Apr  1 18:53:48 2015	10	Caloncho	Palmar	n/a
+Wed Apr  1 18:56:45 2015	9	Wand	Flying Golem	Ganglion Reef
+Wed Apr  1 18:59:57 2015	9	The Everymen	Spain	n/a
+Wed Apr  1 19:03:06 2015	10	Get a Grip	Green Peaks, Dark Valleys	n/a
+Wed Apr  1 19:03:52 2015	9	Swimm	Souvenir	n/a
+Wed Apr  1 19:08:40 2015	9	Lion Babe	Treat Me Like Fire	n/a
+Wed Apr  1 19:12:39 2015	9	Phantoms	Broken Halo feat. Nicholas Braun	n/a
+Wed Apr  1 19:16:39 2015	9	D'Banj	Oliver Twist	n/a
+Wed Apr  1 19:20:28 2015	11	Be Forest	Captured Heart	Earthbeat
+Wed Apr  1 19:25:25 2015	11	Magic Giant	Glass Heart	n/a
+Wed Apr  1 19:29:10 2015	11	Wave Chapelle	Go Out & Get It	n/a
+Wed Apr  1 19:33:25 2015	11	Grieves	Speak Easy- Clean	n/a
+Wed Apr  1 19:35:51 2015	11	The Memories	I Wanna Be That Guy	n/a
+Wed Apr  1 19:37:42 2015	11	Fred Falke	Intro	n/a
+Wed Apr  1 19:42:27 2015	10	The Blackfoot Gypsies	Don't know about you	n/a
+Wed Apr  1 19:45:46 2015	12	Roddy Hart & The Lonesome Fire	Cold City Avalanche	n/a
+Wed Apr  1 19:49:48 2015	14	Daedelus	Scaling Snowdon	n/a
+Wed Apr  1 19:54:14 2015	13	Sick Morrison	Sintomas de una Bigamia	n/a
+Wed Apr  1 19:57:14 2015	13	The Vaccines	Handsome	n/a
+Wed Apr  1 19:59:29 2015	13	Luisa Sobral	Not There Yet	n/a
+Wed Apr  1 20:02:31 2015	13	The Rich Hands	Teenager	Out Of My Head
+Wed Apr  1 20:05:27 2015	12	Adil Omar	Exploding Heart	n/a
+Wed Apr  1 20:10:18 2015	12	Sons of Bill	Big Unknown	n/a
+Wed Apr  1 20:14:36 2015	11	Lapalux	Kelly Brook	Nostalchic
+Wed Apr  1 20:17:29 2015	11	Chancha Via Circuito	Burkina	Semillas EP
+Wed Apr  1 20:19:28 2015	11	Run The Jewels	Oh My Darling Don't Cry	Run The Jewels 2
+Wed Apr  1 20:22:46 2015	11	Slow Magic	Girls (Kodak to Graph Remix)	Single
+Wed Apr  1 20:26:28 2015	10	Estados Alterados	Guayaquil	n/a
+Wed Apr  1 20:29:26 2015	10	Heat (GERMANY)	Labyrinth	n/a
+Wed Apr  1 20:36:10 2015	10	Michna	Titanium Glaciers	Moving Mountains
+Wed Apr  1 20:39:47 2015	11	Niia	BODY	n/a
+Wed Apr  1 20:44:30 2015	10	Natasha Kmeto	Channel 1	Unspeakable Volume One
+Wed Apr  1 20:48:13 2015	10	Guantanamo Baywatch	Chest Crawl	n/a
+Wed Apr  1 20:50:53 2015	10	Hypnotic Brass Ensemble	War	n/a
+Wed Apr  1 20:53:42 2015	10	Fort Lean	Cut To The Chase	n/a
+Wed Apr  1 20:57:38 2015	10	Sean McConnell	Bottom of the Sea	n/a
+Wed Apr  1 21:00:57 2015	10	Beat Connection	Hesitation	n/a
+Wed Apr  1 21:05:23 2015	11	Beacon	Feeling's Gone	For Now
+Wed Apr  1 21:08:34 2015	11	Xu Xu Fang	Noir State Beach	n/a
+Wed Apr  1 21:13:19 2015	10	Crosss	Bones Brigade	n/a
+Wed Apr  1 21:17:25 2015	11	Autoramas	Verao	n/a
+Wed Apr  1 21:20:40 2015	11	BP Fallon	Does Anyone Care What Anyone Says In Rock'n'Roll	n/a
+Wed Apr  1 21:26:43 2015	8	The Columnist	Soldier's Mail	n/a
+Wed Apr  1 21:30:49 2015	8	Sucre	Young and Free	n/a
+Wed Apr  1 21:34:27 2015	8	Dilated Peoples	Worst Comes to Worst	Expansion Team
+Wed Apr  1 21:37:57 2015	8	Inner Oceans	Everything's Alright	n/a
+Wed Apr  1 21:41:55 2015	8	Ryan Corn	The Only Good	n/a
+Wed Apr  1 21:45:30 2015	8	The Shivas	You Know What To Do	PDX Pop Now! 2013
+Wed Apr  1 21:48:34 2015	8	Guy Blakeslee	Kneel and Pray	n/a
+Wed Apr  1 21:52:40 2015	8	Indevotion	Beating Like A Drum	n/a
+Wed Apr  1 21:56:01 2015	8	Bad Vibes	OUT IN THE STREET	n/a
+Wed Apr  1 21:58:28 2015	8	Haroon	Love Love Love	n/a
+Wed Apr  1 22:02:30 2015	8	El Conjunto Nueva Ola	El Jom Dipo	n/a
+Wed Apr  1 22:05:47 2015	9	The Outfit, TX	Purple Diamond Tea	n/a
+Wed Apr  1 22:10:14 2015	8	Jarren Benton	Life In The Jungle	n/a
+Wed Apr  1 22:13:46 2015	8	Hudson Mohawke	No One Could Ever	Butter
+Wed Apr  1 22:16:14 2015	8	HUMANS	Tell Me	n/a
+Wed Apr  1 22:21:26 2015	8	Hawthorne Heights	Dead in the Water	n/a
+Wed Apr  1 22:25:14 2015	8	Grace London	Honest Thief	n/a
+Wed Apr  1 22:28:59 2015	8	MKRNI	Inercia	n/a
+Wed Apr  1 22:32:44 2015	8	Amad-Jamal	Believe (feat. Dilated Peoples)	Barely Hangin' On: The Chronicles Of A Brotha Like Rodney King
+Wed Apr  1 22:37:27 2015	8	TASO	Only the Strong Will Survive	n/a
+Wed Apr  1 22:40:26 2015	9	Lindsay Lowend and Jonah Baseball	Should Be	n/a
+Wed Apr  1 22:43:27 2015	8	Talk in Tongues	Still Don't Seem To Care	n/a
+Wed Apr  1 22:46:29 2015	8	Dark Time Sunshine	Valiant (feat. Child Actor)	ANX
+Wed Apr  1 22:51:07 2015	9	Vision	Control	n/a
+Wed Apr  1 22:54:28 2015	10	Ikonika	Eternal Mode	Aerotropolis
+Wed Apr  1 22:59:10 2015	10	BADBADNOTGOOD	Eyes Closed	III
+Wed Apr  1 23:05:00 2015	9	Vockah Redu	pump it up	n/a
+Wed Apr  1 23:08:10 2015	10	Paper Lions	My Friend	n/a
+Wed Apr  1 23:11:22 2015	11	Lapalux	Swallowing Smoke	Nostalchic
+Wed Apr  1 23:15:40 2015	9	JoyCut	Dominio	n/a
+Wed Apr  1 23:19:17 2015	9	J Fernandez	Cosmic Was	n/a
+Wed Apr  1 23:22:10 2015	9	Bomba Estereo	Rocas	Elegancia Tropical
+Wed Apr  1 23:24:57 2015	8	The Saturday Tea	Walking Dead	n/a
+Wed Apr  1 23:28:13 2015	9	The Miseries	Skinflint	n/a
+Wed Apr  1 23:29:41 2015	10	Puntin	Choices	n/a
+Wed Apr  1 23:33:05 2015	10	Dillon Cooper	R.A.D.	n/a
+Wed Apr  1 23:36:30 2015	9	Slow Motion Rider	Evil	n/a
+Wed Apr  1 23:39:26 2015	9	Zuzuka Poderosa & Kush Arora	Pisicodelia (HxdB Remix)	Carioca Bass EP
+Wed Apr  1 23:42:44 2015	9	Self Defense Family	Tithe Pig	n/a
+Wed Apr  1 23:45:36 2015	9	Doomtree	Mini Brute	All Hands
+Wed Apr  1 23:49:57 2015	9	nive nielsen & the deer children	walking	n/a
+Wed Apr  1 23:53:49 2015	9	DJ Earl	Bombaklot	n/a
+Wed Apr  1 23:56:27 2015	10	Priory	Weekend	n/a
+Thu Apr  2 00:00:28 2015	9	The Last Bison	Every TIme	n/a
+Thu Apr  2 00:03:43 2015	8	412	Body Party	n/a
+Thu Apr  2 00:07:43 2015	9	Dark Time Sunshine	Overlordian (feat. P.O.S.)	ANX
+Thu Apr  2 00:12:29 2015	8	New York City Queens	Waited For You	n/a
+Thu Apr  2 00:14:54 2015	8	JPNSGRLS	Smalls	Circulation
+Thu Apr  2 00:17:49 2015	8	Sims	SIMS JONG IL	Field Notes
+Thu Apr  2 00:20:31 2015	8	Lost Midas	Head Games feat. Audris	n/a
+Thu Apr  2 00:23:34 2015	8	Beacon	Fault Lines (Dauwd Remix)	Fault Lines
+Thu Apr  2 00:30:33 2015	8	Schaffer the Darklord	Giant Iron Snake	n/a
+Thu Apr  2 00:34:47 2015	8	Bomba Estereo	Pajaros	Elegancia Tropical
+Thu Apr  2 00:39:38 2015	9	River City Extension	Something's Gotta Give	n/a
+Thu Apr  2 00:43:57 2015	9	Kode9 & The Spaceape	CHASING A BEAST	Killing Season
+Thu Apr  2 00:46:39 2015	8	Babes (NEW ORLEANS)	Children of God	n/a
+Thu Apr  2 00:49:13 2015	8	Kode9	Xingfu Lu (Helix Remix)	Hyperdub 10.1 DISC 1
+Thu Apr  2 00:52:49 2015	8	Northern American	Elysian	n/a
+Thu Apr  2 00:57:36 2015	8	DJ Halo	Notes From Baudelaire (HALO Remix)	n/a
+Thu Apr  2 01:03:56 2015	9	Matias Aguayo	El Sucu Tucu	n/a
+Thu Apr  2 01:08:40 2015	9	Chancha Via Circuito	Coplita	n/a
+Thu Apr  2 01:12:33 2015	9	The Blind Owls	Cold Hearted Woman	n/a
+Thu Apr  2 01:16:31 2015	9	Untold	Breathe	n/a
+Thu Apr  2 01:23:21 2015	8	Ikonika	'Position'	n/a
+Thu Apr  2 01:27:35 2015	7	Hey Marseilles	Bright Stars Burning	Lines We Trace
+Thu Apr  2 01:31:42 2015	7	Danny B. Harvey	Shake It On Down	n/a
+Thu Apr  2 01:35:16 2015	8	Buxton	Icebreaker	n/a
+Thu Apr  2 01:39:44 2015	9	White Reaper	Half Bad	n/a
+Thu Apr  2 01:42:22 2015	8	Thrice	Stare at the Sun	n/a
+Thu Apr  2 01:45:35 2015	8	The Yawpers	9 to 3	n/a
+Thu Apr  2 01:49:39 2015	8	Swearing At Motorists	I Love You (liar)	n/a
+Thu Apr  2 01:51:29 2015	8	catl	F.U. Blues	n/a
+Thu Apr  2 01:55:32 2015	9	Doomtree	My Own Nation	All Hands
+Thu Apr  2 01:59:03 2015	9	Michna	She Exists In My Mind	Thousand Thursday
+Thu Apr  2 02:02:26 2015	10	Jackie Greene	Call Me, Corinna	n/a
+Thu Apr  2 02:07:47 2015	9	Celestial Trax	Gotta	n/a
+Thu Apr  2 02:10:54 2015	9	Institute	Salt	n/a
+Thu Apr  2 02:13:35 2015	8	Girl Pilot	Lazarus	n/a
+Thu Apr  2 02:17:01 2015	8	Paper Tiger	5360	Made Like Us
+Thu Apr  2 02:19:33 2015	8	Quantic	Magnetica	n/a
+Thu Apr  2 02:22:36 2015	8	ODESZA	Say My Name (feat. Zyra) (Ambassadeurs Remix)	Say My Name Remixes
+Thu Apr  2 02:28:11 2015	8	God Damn	Horus	n/a
+Thu Apr  2 02:31:55 2015	8	The Painted Redstarts	Curtains Wide	n/a
+Thu Apr  2 02:34:10 2015	8	Megan Lane	Cabin in the Woods	n/a
+Thu Apr  2 02:37:57 2015	8	Dreamend	Magnesium Light	n/a
+Thu Apr  2 02:40:21 2015	8	Ajnascent feat. NKSR aka Cinematic Experience	Amina	n/a
+Thu Apr  2 02:48:38 2015	8	Wild Child	Rillo Talk	The Runaround
+Thu Apr  2 02:53:17 2015	8	Rival Consoles	Milo	IO
+Thu Apr  2 02:56:17 2015	7	Melie	Las Olas	n/a
+Thu Apr  2 02:59:11 2015	7	Elvis Depressedly	n.m.s.s.	n/a
+Thu Apr  2 03:02:05 2015	7	Greenbeard	Dead Valley	n/a
+Thu Apr  2 03:07:24 2015	8	Night Terrors of 1927	When You Were Mine	n/a
+Thu Apr  2 03:10:49 2015	8	The California Honeydrops	Here Comes Love	n/a
+Thu Apr  2 03:15:12 2015	8	Town Hall Devils	Kick It Around	n/a
+Thu Apr  2 03:18:37 2015	8	Apolo	La Noche	n/a
+Thu Apr  2 03:21:27 2015	8	Kane West	good price	n/a
+Thu Apr  2 03:25:39 2015	8	Cettina Donato & Beppe Delre Quartet	Apulia	n/a
+Thu Apr  2 03:32:53 2015	10	Liquid Stranger	Ectoplasm	Cryogenic Encounters
+Thu Apr  2 03:38:31 2015	10	Del Barber	Big Smoke	n/a
+Thu Apr  2 03:42:33 2015	10	Run The Jewels	Blockbuster Night Part 1	Run The Jewels 2
+Thu Apr  2 03:45:00 2015	10	TOKiMONSTA	The Beginning	Desiderium
+Thu Apr  2 03:46:45 2015	10	Rangleklods	lost u	n/a
+Thu Apr  2 03:50:39 2015	10	Black TIger Sex Machine	Funeral March	n/a
+Thu Apr  2 03:54:46 2015	11	Suboi	1000 WATTS	n/a
+Thu Apr  2 03:56:44 2015	11	The Barberettes	When It's Rainin'	n/a
+Thu Apr  2 03:59:57 2015	10	Hot Panda	Future Markets	Go Outside
+Thu Apr  2 04:03:31 2015	10	ELEL	40 Watt	n/a
+Thu Apr  2 04:06:15 2015	10	BADBADNOTGOOD	CS60	III
+Thu Apr  2 04:12:59 2015	10	Doughbeezy	I'm From Texas	n/a
+Thu Apr  2 04:17:13 2015	10	Glenn White	Cuddlah 4 Life	n/a
+Thu Apr  2 04:26:56 2015	8	Junk Riot	Idle	n/a
+Thu Apr  2 04:31:18 2015	8	The People The Poet	People	n/a
+Thu Apr  2 04:36:07 2015	8	Handsome Boy Modeling School	Once Again (Here To Kick One For You) (Featuring Grand Puba & S	n/a
+Thu Apr  2 04:40:16 2015	8	Bogan Via	KANYE	Wait Up
+Thu Apr  2 04:45:00 2015	8	Whiskey Shivers	Free	n/a
+Thu Apr  2 04:47:13 2015	9	The Lemons	Lemoncita	n/a
+Thu Apr  2 04:48:52 2015	8	Thrice	The Artist in the Ambulance	n/a
+Thu Apr  2 04:52:32 2015	9	Joseph	Cloudline	n/a
+Thu Apr  2 04:55:52 2015	12	The Parrots	I am a man	n/a
+Thu Apr  2 04:58:41 2015	11	East India Youth	Total Strife Forever II	n/a
+Thu Apr  2 05:01:29 2015	12	Beacon	Minor Structures	L1 (LR)
+Thu Apr  2 05:04:31 2015	10	Geographer	I'm Ready	n/a
+Thu Apr  2 05:07:55 2015	10	Zuzuka Poderosa & Kush Arora	Pisicodelia (HxdB Remix)	Carioca Bass EP
+Thu Apr  2 05:11:29 2015	8	Fences	Sunburns	n/a
+Thu Apr  2 05:15:15 2015	10	Jawws	Bad Power	n/a
+Thu Apr  2 05:16:35 2015	9	Kodak to Graph	IAMANTHEM	New Album- Untitled
+Thu Apr  2 05:20:47 2015	8	GoldLink	Bedtime Story	n/a
+Thu Apr  2 05:23:24 2015	9	Michna	She Exists In My Mind	Thousand Thursday
+Thu Apr  2 05:26:51 2015	8	Sophie	Hard	n/a
+Thu Apr  2 05:29:37 2015	8	Cho'zyn Boy	Exclusive Remix Set	n/a
+Thu Apr  2 05:49:29 2015	11	Fritz Kalkbrenner	Void (Gui Boratto Remix)	Void Remix EP
+Thu Apr  2 05:58:23 2015	10	MC Frontalot	Two Dreamers	n/a
+Thu Apr  2 06:01:12 2015	9	Chancha Via Circuito	Prima	Rio Arriba
+Thu Apr  2 06:04:38 2015	10	CARDIEL	Tabla	n/a
+Thu Apr  2 06:07:42 2015	10	The Wet Secrets	I Can Swing a Hammer	n/a
+Thu Apr  2 06:11:27 2015	10	Untold	Sing A Love	n/a
+Thu Apr  2 06:15:13 2015	10	ODESZA	White Lies (feat. Jenni Potts)	In Return
+Thu Apr  2 06:19:42 2015	9	Quantic	Blow Your Horn (feat. Ohmega Watts)	An Announcement to Answer
+Thu Apr  2 06:24:22 2015	9	Baby Baby	Keisha	n/a
+Thu Apr  2 06:27:51 2015	9	The Black Cadillacs	Methodrone	n/a
+Thu Apr  2 06:31:28 2015	8	The oOohh Baby Gimme Mores	Beat Up Kidz	n/a
+Thu Apr  2 06:33:31 2015	8	Royal Teeth	Wild	Glow
+Thu Apr  2 06:38:03 2015	8	Natasha Kmeto	Channel 1	Unspeakable Volume One
+Thu Apr  2 06:41:30 2015	7	Lapalux	Swallowing Smoke	Nostalchic
+Thu Apr  2 06:45:53 2015	7	LUMBERJVCK	Click Clvck (VIP)	n/a
+Thu Apr  2 06:49:21 2015	7	Bee Caves	Running Home To You	n/a
+Thu Apr  2 06:52:55 2015	7	Kode9	UH	Hyperdub Tour Sampler 2013
+Thu Apr  2 06:56:47 2015	8	Keath Mead	Polite Refusal	Sunday Dinner
+Thu Apr  2 07:00:41 2015	8	Paperwhite	Magic	n/a
+Thu Apr  2 07:04:33 2015	6	Slow Magic	Girls (Kodak to Graph Remix)	Single
+Thu Apr  2 07:08:00 2015	6	New Hands	Strange Attractor	n/a
+Thu Apr  2 07:13:11 2015	9	Dave Arcari	Devil's Left Hand	n/a
+Thu Apr  2 07:15:28 2015	9	Big Wild	Venice Venture	n/a
+Thu Apr  2 07:18:56 2015	10	Lazyeyes	Islip	n/a
+Thu Apr  2 07:21:49 2015	10	The Seshen	Oblivion	n/a
+Thu Apr  2 07:26:17 2015	11	Kosha Dillz	We Are Different	n/a
+Thu Apr  2 07:29:54 2015	12	Daddy Long Legs	Death Train Blues	n/a
+Thu Apr  2 07:32:58 2015	13	Braille	Better Than Nothing (feat. Angelica Bess)	5oFoF Disc 2
+Thu Apr  2 07:36:19 2015	12	Lazerbeak	LRL	n/a
+Thu Apr  2 07:38:29 2015	12	BADBADNOTGOOD	Eyes Closed	III
+Thu Apr  2 07:44:14 2015	12	Gold Beach	Impression	n/a
+Thu Apr  2 07:48:37 2015	13	Ikonika	Mr Cake	Aerotropolis
+Thu Apr  2 07:52:35 2015	13	Jesse Harris with Star Rover	No Wrong No Right	n/a
+Thu Apr  2 07:55:31 2015	12	Run The Jewels	Blockbuster Night Part 1	Run The Jewels 2
+Thu Apr  2 07:58:14 2015	12	Samini	Time Bomb	n/a
+Thu Apr  2 08:01:56 2015	13	VUURWERK	Bad Habits	n/a
+Thu Apr  2 08:06:40 2015	10	Agoraphobia	Night of the living dead	n/a
+Thu Apr  2 08:09:31 2015	10	Frankie Wilson	Knowledge Vs. Wisdom	n/a
+Thu Apr  2 08:12:17 2015	10	Chaos Chaos	Breaker	n/a
+Thu Apr  2 08:16:42 2015	10	Spain	It Could Be Heaven	n/a
+Thu Apr  2 08:19:28 2015	9	Doomtree	Generator	All Hands
+Thu Apr  2 08:23:01 2015	9	Homeboy Sandman	America the Beautiful	Hallways
+Thu Apr  2 08:25:28 2015	11	Peanut Butter Wolf	Rawcore (feat. Madlib)	Constant Elevation: The 'Say Word' Mix
+Thu Apr  2 08:27:37 2015	8	Deebs	Waves (Project Pablo Remix)	Songs4UByMe EP- Remixes [via XLR8R]
+Thu Apr  2 08:31:29 2015	8	Heyrocco	Virgin	n/a
+Thu Apr  2 08:34:41 2015	9	Sean C. Johnson	Silver And Gold (Neo Soul Remix)	n/a
+Thu Apr  2 08:38:43 2015	9	Jess Klein	dear god	n/a
+Thu Apr  2 08:43:23 2015	9	Fantastic Negrito	An Honest Man	n/a
+Thu Apr  2 08:47:00 2015	10	Why Not Satellite	Roll the Bones	n/a
+Thu Apr  2 08:49:23 2015	10	HOLYCHILD	Running Behind	n/a
+Thu Apr  2 08:52:16 2015	11	The Blind Pets	Everybodies	n/a
+Thu Apr  2 08:56:08 2015	11	Dark Time Sunshine	Valiant (feat. Child Actor)	ANX
+Thu Apr  2 09:00:47 2015	12	Roger Sellers	Spectrolite	n/a
+Thu Apr  2 09:05:23 2015	13	Rashid	Patrao	n/a
+Thu Apr  2 09:09:16 2015	12	LE GALAXIE	Humanise	n/a
+Thu Apr  2 09:13:30 2015	15	Wilsen	Anahita	n/a
+Thu Apr  2 09:23:07 2015	15	The Cabin Project	Sine	n/a
+Thu Apr  2 09:26:44 2015	13	(RAS) Riders Against the Storm	Booty Sweat	n/a
+Thu Apr  2 09:30:50 2015	14	Dilated Peoples	Hard Hitters (feat. Black Thought)	Expansion Team
+Thu Apr  2 09:34:44 2015	14	Dott	Car Song	n/a
+Thu Apr  2 09:37:51 2015	13	Taso	Drop That Thang	n/a
+Thu Apr  2 09:40:53 2015	12	Luluc	Without A Face	n/a
+Thu Apr  2 09:44:28 2015	13	Sophie Villy	Position	n/a
+Thu Apr  2 09:48:33 2015	13	et aliae	White Light	n/a
+Thu Apr  2 09:50:09 2015	13	Planet Booty	Treat My Body Right	n/a
+Thu Apr  2 09:55:29 2015	15	Chancha Via Circuito	Burkina	Semillas EP
+Thu Apr  2 09:57:24 2015	15	Big Phony	I Love Lucy	SXSW 2014 Showcasing Artists
+Thu Apr  2 10:01:33 2015	16	Jessie Frye	White Heat	n/a
+Thu Apr  2 10:05:21 2015	16	Bomba Estereo	Bosque	Elegancia Tropical
+Thu Apr  2 10:10:03 2015	15	Khumariyaan	Tamasha	n/a
+Thu Apr  2 10:13:51 2015	14	ODESZA	Sun Models (feat. Madelyn Grant)	In Return
+Thu Apr  2 10:16:26 2015	14	Nina Las Vegas	Don't Send	n/a
+Thu Apr  2 10:19:13 2015	14	Dylan Gardner	Let's Get Started	n/a
+Thu Apr  2 10:22:25 2015	14	Paper Tiger	Big Light	Priceless EP
+Thu Apr  2 10:26:33 2015	16	TOKiMONSTA	Dusty Stars	n/a
+Thu Apr  2 10:29:00 2015	17	PROF	Zoo	n/a
+Thu Apr  2 10:32:11 2015	17	Adelaida	O sea no mundial	n/a
+Thu Apr  2 10:35:13 2015	18	Ynfynyt Scroll	Freetown	n/a
+Thu Apr  2 10:39:17 2015	19	La Orquesta Vulgar	La Victima Del Canibal	n/a
+Thu Apr  2 10:48:17 2015	21	EPROM	Subroc	Halflife
+Thu Apr  2 10:50:09 2015	19	Flatliner	Dangerous Visions (instrumental)	n/a
+Thu Apr  2 10:54:26 2015	17	Famasloop	The Choro Dance	n/a
+Thu Apr  2 10:57:05 2015	16	The Octopus Project	All of the Champs That Ever Lived	One Ten Hundred Thousand Million
+Thu Apr  2 11:01:23 2015	15	FJAAK	Oben	n/a
+Thu Apr  2 11:08:00 2015	17	HxdB	Stylish Cadaver (Grenier Remix)	Up EP [via XLR8R]
+Thu Apr  2 11:12:20 2015	16	JUNE	Big Pimpin	n/a
+Thu Apr  2 11:15:15 2015	16	Demi Louise	Ruins	n/a
+Thu Apr  2 11:18:57 2015	15	Max Pain and the Groovies	What You Wanna Hear	n/a
+Thu Apr  2 11:21:57 2015	15	Kode9	Xingfu Lu (Helix Remix)	Hyperdub 10.1 DISC 1
+Thu Apr  2 11:25:34 2015	17	Lapalux	Swallowing Smoke	Nostalchic
+Thu Apr  2 11:29:55 2015	18	Run The Jewels	Oh My Darling Don't Cry	Run The Jewels 2
+Thu Apr  2 11:33:15 2015	18	Trae Tha Truth	Try Me	n/a
+Thu Apr  2 11:37:34 2015	16	Ikonika	Mega Church	Aerotropolis
+Thu Apr  2 11:41:46 2015	16	P.O.S	Fuck Your Stuff- Clean	We Don't Even Live Here- Clean
+Thu Apr  2 11:45:34 2015	15	Walking On Cars	Hand In Hand	n/a
+Thu Apr  2 11:49:33 2015	15	La Banda Baston	Me Gustas	n/a
+Thu Apr  2 11:52:44 2015	16	The McCrary Sisters	Fire	n/a
+Thu Apr  2 11:55:51 2015	16	Jeff Lofton	Nola Beat	n/a
+Thu Apr  2 12:01:26 2015	16	Thi'sl	Detroit	n/a
+Thu Apr  2 12:05:03 2015	15	Ground Up	Lets Ride	n/a
+Thu Apr  2 12:08:17 2015	15	The Acorn	Sleepwalking	n/a
+Thu Apr  2 12:11:30 2015	15	Royal Thunder	Parsonz Curse	n/a
+Thu Apr  2 12:18:27 2015	15	Moon City Boys	Stranger	n/a
+Thu Apr  2 12:21:17 2015	15	Kode9 & The Spaceape	CHASING A BEAST	Killing Season
+Thu Apr  2 12:23:45 2015	15	Mekaal Hasan Band	Ghunghat	n/a
+Thu Apr  2 12:28:50 2015	13	Hundred Waters	Out Alee	The Moon Rang Like a Bell
+Thu Apr  2 12:33:12 2015	12	Doomtree	Mini Brute	All Hands
+Thu Apr  2 12:37:35 2015	13	UNTOLD	Kane	n/a
+Thu Apr  2 12:45:33 2015	11	T. Hardy Morris	Painted On Attitude	n/a
+Thu Apr  2 12:48:58 2015	13	Yung Gleesh	Wasabi	n/a
+Thu Apr  2 12:52:49 2015	12	Dellacoma	My Kinda Woman	n/a
+Thu Apr  2 12:55:44 2015	11	Buraka Som Sistema	Kalemba (Wegue Wegue) (feat. Pongolove)	n/a
+Thu Apr  2 12:59:43 2015	10	Dizzy Wright	Everywhere I Go	n/a
+Thu Apr  2 13:02:54 2015	11	Mike Mictlan	CLAPP'D	n/a
+Thu Apr  2 13:07:41 2015	13	Michna	Titanium Glaciers	Moving Mountains
+Thu Apr  2 13:11:29 2015	13	Alex Wiley	Vibration	n/a
+Thu Apr  2 13:13:51 2015	15	Green River Ordinance	Dancing Shoes	n/a
+Thu Apr  2 13:17:35 2015	13	Rival Consoles	Helios	Sonne [via XLR8R]
+Thu Apr  2 13:22:33 2015	14	Krill	Torturer	n/a
+Thu Apr  2 13:27:13 2015	14	Bomba Estereo	Pure Love	Elegancia Tropical
+Thu Apr  2 13:31:44 2015	13	Chancha Via Circuito	Tornasol (feat. Leandro Frias)	Semillas EP
+Thu Apr  2 13:33:56 2015	13	Kill! Kill! Pussycat!	Robot Girl	n/a
+Thu Apr  2 13:37:21 2015	15	Venomous Maximus	Give Up the witch	n/a
+Thu Apr  2 13:42:15 2015	16	SEVDALIZA	Clear Air	n/a
+Thu Apr  2 13:46:16 2015	17	Sonido San Francisco	El Genero Romantico	n/a
+Thu Apr  2 13:49:42 2015	17	Amad-Jamal	Believe (feat. Dilated Peoples)	Barely Hangin' On: The Chronicles Of A Brotha Like Rodney King
+Thu Apr  2 13:53:59 2015	16	Deebs	You (In My World)	[via XLR8R]
+Thu Apr  2 13:58:41 2015	15	San Fermin	Sonsick	San Fermin
+Thu Apr  2 14:02:42 2015	14	Johnny Stimson	So. Good.	n/a
+Thu Apr  2 14:06:34 2015	13	The Sour Notes	It Could Be Worse	n/a
+Thu Apr  2 14:10:51 2015	12	Only Real	Cadillac Girl	Cadillac Girl EP
+Thu Apr  2 14:14:36 2015	10	BADBADNOTGOOD	Eyes Closed	III
+Thu Apr  2 14:20:35 2015	9	Jasmine Le'Shea	True Beauty ft. Deraj	n/a
+Thu Apr  2 14:23:59 2015	10	Ceschi	Barely Alive (feat. Sage Francis)	n/a
+Thu Apr  2 14:27:57 2015	9	Dark Time Sunshine	Take My Hand (feat. Swamburger & Aesop Rock)	ANX
+Thu Apr  2 14:31:57 2015	12	Holiday Mountain	I Love You	n/a
+Thu Apr  2 14:35:35 2015	11	Frida Sundemo	Drawn to You	n/a
+Thu Apr  2 14:38:53 2015	11	The Octopus Project	Whitby	Fever Forms
+Thu Apr  2 14:41:24 2015	11	Zeke Duhon	Faith & Hope	n/a
+Thu Apr  2 14:45:37 2015	11	Delicate Steve	Welcome- Begin	n/a
+Thu Apr  2 14:47:26 2015	12	Agosto	Let's Keep on fighting	n/a
+Thu Apr  2 14:51:16 2015	11	COIN	It's Okay	n/a
+Thu Apr  2 14:54:42 2015	10	Liquid Stranger	Mr. Unbreakable feat. Khadafi Dub	n/a
+Thu Apr  2 14:58:16 2015	9	Heathered Pearls	Beach Shelter (Loscil's Grind Remix)	Loyal
+Thu Apr  2 15:02:48 2015	9	THE NIGHTOWLS	Good As Gold	n/a
+Thu Apr  2 15:07:12 2015	10	The Suffers	Make Some Room	n/a
+Thu Apr  2 15:11:39 2015	10	Milo Greene	Lie To Me	n/a
+Thu Apr  2 15:15:03 2015	10	Kid Dakota	Phantom Pain	n/a
+Thu Apr  2 15:19:44 2015	9	Sims	Burn It Down	Burn It Down
+Thu Apr  2 15:22:23 2015	9	Dustin Cavazos	All I BEEN DOING	n/a
+Thu Apr  2 15:26:02 2015	9	Jacco Gardner	Jacco Gardner	n/a
+Thu Apr  2 15:29:18 2015	10	Wiz Kid	Jaiye Jaiye	n/a

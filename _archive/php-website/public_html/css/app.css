@@ -1,0 +1,47 @@
+/* http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans:400,600,700,800,300 */
+/* Open Sans:300,400,600,700,800 */
+
+.button {
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+.brand-color {
+	color:#cc9900;
+}
+
+body {
+	background-color:#000;
+	background-image:url(../img/noise-light.png);
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1em; }
+h5 { font-size: .83em; }
+h6 { font-size: .75em; }
+
+h1,h2,h3,h4,h5,h6 {
+	color:#cc9900;
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/*
+==============================================
+media queries
+==============================================
+*/
+
+@media only screen and (max-width:40em) { /* max-width 640px, mobile-only styles */
+}
+@media only screen and (max-width: 64em) { /* max-width 1024px, <= medium screens */
+}	
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { /* min-width 641px and max-width 1024px */
+}
+@media only screen and (width: 768px) { /* iPad portrait · width: 768px */
+}	
+@media only screen and (min-width: 40.063em) { /* min-width 641px, > mobile screens */
+}
+@media only screen and (max-width: 64em) { /* max-width 1024px, <= medium screens */
+}		
+@media only screen and (min-width: 64.063em) { /* min-width 1025px, >= large screens */
+}
+

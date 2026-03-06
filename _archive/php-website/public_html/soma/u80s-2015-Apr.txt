@@ -1,0 +1,551 @@
+Wed Apr  1 00:03:35 2015	300	Devo	Deep Sleep	Oh No It's Devo
+Wed Apr  1 00:06:55 2015	296	Ministry	Everyday Is Halloween	Twelve Inch Singles
+Wed Apr  1 00:13:10 2015	303	Icehouse	Great Southern Land	Pop & Wave 3from1 - Wave
+Wed Apr  1 00:18:16 2015	298	Pete Shelley	If You Ask Me (I Won't Say No)	Xl1
+Wed Apr  1 00:22:38 2015	297	Re-Flex	The Politics Of Dancing [Radio Edit]	Politics of Dancing
+Wed Apr  1 00:26:27 2015	302	Blancmange	Murder	Mange Tout
+Wed Apr  1 00:32:18 2015	304	Art Of Noise	Close (To The Edit)	(Who's Afraid Of?) The Art of Noise!
+Wed Apr  1 00:37:42 2015	288	Inxs	Black And White	Shabooh Shoobah
+Wed Apr  1 00:41:23 2015	298	Celebrate The Nun	Stay Away	Meanwhile
+Wed Apr  1 00:45:51 2015	295	Alphaville	Sounds Like A Melody (12' Version)	Best of Pop & Wave - The 12" Mixes
+Wed Apr  1 00:53:37 2015	296	Trans-X	3D-Dance	Living on Video
+Wed Apr  1 00:59:10 2015	292	New Order	Shame Of The Nation	Substance (2 of 2)
+Wed Apr  1 01:07:00 2015	313	Talk Talk	Today	Natural History
+Wed Apr  1 01:10:30 2015	321	Soft Cell	Memorabilia	The Singles
+Wed Apr  1 01:15:07 2015	320	Information Society	Tomorrow	Information Society
+Wed Apr  1 01:18:58 2015	315	Talking Heads	Girlfriend Is Better	Speaking In Tongues
+Wed Apr  1 01:24:56 2015	328	Peter Schilling	Major Tom	Error in the System
+Wed Apr  1 01:29:39 2015	340	Naked Eyes	Promises, Promises	Promises, Promises The Very Best Of Naked Eyes
+Wed Apr  1 01:33:19 2015	334	Thompson Twins	Lies	Side Kicks
+Wed Apr  1 01:36:24 2015	342	Orchestral Manoeuvres In The Dark	We Love You	Best of
+Wed Apr  1 01:40:23 2015	338	Human League	Being Boiled	Travelogue
+Wed Apr  1 01:44:25 2015	345	Alison Moyet	Where Hides Sleep	Alf
+Wed Apr  1 01:48:38 2015	339	Depeche Mode	Shake The Disease	The Singles 1981-1985
+Wed Apr  1 01:53:31 2015	343	Oingo Boingo	No Spill Blood	Good For Your Soul
+Wed Apr  1 01:56:45 2015	341	Dollar	Videotheque (Alternative Trevor Horn 1982 Mix)	The Dollar Album
+Wed Apr  1 02:00:21 2015	347	The Thompson Twins	Lay Your Hands On Me (1984 U.S. Remix)	Remixes & Rarities
+Wed Apr  1 02:06:02 2015	331	Land Of Giants	Room With A View	Cannibal Dolls/Seven Men
+Wed Apr  1 02:08:58 2015	330	China Crisis	The Soul Awakening	Working With Fire & Steel
+Wed Apr  1 02:13:16 2015	340	Shriekback	My Spine (Is The Bass Line)	Natural History: The Very Best Of Shriekback
+Wed Apr  1 02:16:59 2015	336	Dead Or Alive	Lover Come Back To Me	"Youthquake" [Rewind Series]
+Wed Apr  1 02:19:54 2015	338	I Signori Della Galassia	Iceman	Iceman
+Wed Apr  1 02:24:21 2015	335	SSQ	Jet Town	Hardest Hits, Vol. 5
+Wed Apr  1 02:28:10 2015	328	Fiction Factory	Hit The Mark	Throw The Warped Wheel Out
+Wed Apr  1 02:32:00 2015	324	Icehouse	No Promises	Meltdown
+Wed Apr  1 02:36:17 2015	324	Thomas Dolby	Airwaves	The Golden Age Of Wireless
+Wed Apr  1 02:41:24 2015	322	Bill Nelson	Flaming Desire	Vistamix
+Wed Apr  1 02:45:54 2015	326	Cure	In Between Days	Staring At The Sea-The Singles 1979-1985
+Wed Apr  1 02:48:54 2015	325	Animotion	Anxiety	20th Century Masters
+Wed Apr  1 02:53:05 2015	328	Visage	Pleasure Boys (Dance Mix)	Hardest Hits, Vol. 5
+Wed Apr  1 02:59:52 2015	333	Kate Bush	Running Up That Hill (A Deal With God)	Hounds Of Love
+Wed Apr  1 03:04:31 2015	338	Heaven 17	We Live So Fast	The Luxury Gap
+Wed Apr  1 03:08:41 2015	342	English Evenings	English Evenings	n/a
+Wed Apr  1 03:13:05 2015	341	Tones On Tail	Go	Living In Oblivion: The 80's Greatest Hits, Vol. 4
+Wed Apr  1 03:15:41 2015	342	Kraftwerk	Computer Love	Computer World
+Wed Apr  1 03:22:49 2015	352	Kon Kan	Am I In Love	Move To Move
+Wed Apr  1 03:27:40 2015	348	Yaz	Sweet Thing	You And Me Both
+Wed Apr  1 03:31:31 2015	346	Devo	Jerkin' Back 'n' Forth	Greatest Hits
+Wed Apr  1 03:34:33 2015	346	Howard Jones	What Is Love	Human's Lib
+Wed Apr  1 03:40:43 2015	350	Cee Farrow	Distant Picture	Red and Blue
+Wed Apr  1 03:44:08 2015	350	Book Of Love	Boy [Extended Mix]	Book of Love
+Wed Apr  1 03:48:33 2015	354	Tom Tom Club	Genius Of Love	Tom Tom Club
+Wed Apr  1 03:54:21 2015	356	Duran Duran	Save A Prayer	Decade
+Wed Apr  1 03:59:32 2015	360	A Drop In The Gray	Past Your Frame	Certain Sculptures
+Wed Apr  1 04:02:51 2015	357	Dream Academy	Life In A Northern Town	Dream Academy
+Wed Apr  1 04:06:53 2015	355	Ad Infinitum	Telstar	FAC. Dance 02
+Wed Apr  1 04:10:11 2015	365	Blancmange	My Baby	Mange Tout
+Wed Apr  1 04:13:45 2015	358	Devo	The 4th Dimension	E-Z Listening Disc
+Wed Apr  1 04:18:07 2015	369	Book Of Love	Modigliani	n/a
+Wed Apr  1 04:21:49 2015	366	Icicle Works	Whisper To A Scream (Birds Fly	Chart Toppers: Modern Rock Hits of the 80s, Volume 2 (Compilation)
+Wed Apr  1 04:25:24 2015	367	Pet Shop Boys	Love Comes Quickly	Discography
+Wed Apr  1 04:29:34 2015	367	Cee Farrow	Wild Life Romance	n/a
+Wed Apr  1 04:33:30 2015	379	Alphaville	The Jet Set	First Harvest: The Best Of Alphaville 1984-1992
+Wed Apr  1 04:36:54 2015	385	Men Without Hats	Antarctica	Rhythm Of Youth/Folk Of The 80's (Part III)
+Wed Apr  1 04:40:11 2015	390	Yello	Vicious Games	Stella
+Wed Apr  1 04:44:32 2015	387	New Order	Perfect Kiss	Substance (1 of 2)
+Wed Apr  1 04:52:31 2015	389	Thomas Dolby	Flying North	The Golden Age Of Wireless
+Wed Apr  1 04:56:32 2015	391	Ebn-Ozn	Aeiou Sometimes Y	Living In Oblivion: The 80's Greatest Hits, Vol. 3
+Wed Apr  1 05:00:01 2015	385	Yaz	Nobody's Diary [12` Mix]	Best of Yaz
+Wed Apr  1 05:06:11 2015	395	ABC	How To Be A Millionaire	How To Be A Zillionaire
+Wed Apr  1 05:09:44 2015	391	Lene Lovich	Lucky Number	Sedated In The Eighties
+Wed Apr  1 05:12:32 2015	386	Tim Scott	Swear	Swear EP
+Wed Apr  1 05:17:35 2015	390	Kim Wilde	Words Fell Down	The Gold Collection
+Wed Apr  1 05:20:59 2015	391	Simple Minds	Someone, Somewhere In Summerti	The Best of Simple Minds
+Wed Apr  1 05:25:45 2015	389	Propaganda	Duel (Bitter Sweet)	Outside World
+Wed Apr  1 05:32:55 2015	394	Until December	We Are The Boys [Extended Version]	Best of 415 Records
+Wed Apr  1 05:39:26 2015	393	Stephen Duffy	Unkiss That Kiss	They Called Him Tin Tin
+Wed Apr  1 05:42:52 2015	389	The Boys Brigade	Melody	Hardest Hits, Vol. 5
+Wed Apr  1 05:46:43 2015	396	Style Council	Speak Like A Child	The Singular Adventures of the Style Council
+Wed Apr  1 05:49:58 2015	409	Fashion	Move On	Fabrique
+Wed Apr  1 05:53:46 2015	414	New Musik	The Safe Side	From A To B
+Wed Apr  1 05:56:48 2015	412	Depeche Mode	See You	The Singles 1981-1985
+Wed Apr  1 06:00:35 2015	424	Power Station	Some Like It Hot	The Power Station
+Wed Apr  1 06:05:42 2015	422	Tin Tin	Kiss Me	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 8
+Wed Apr  1 06:13:10 2015	431	King	Love & Pride (Body And Soul Mix)	Pop + Wave - The 12 Inch Mixes
+Wed Apr  1 06:18:25 2015	439	Ultravox	Dancing With Tears In My Eyes	If I Was: The Very Best Of...
+Wed Apr  1 06:22:32 2015	446	A-ha	Living A Boy's Adventure Tale	Hunting High And Low
+Wed Apr  1 06:27:25 2015	462	Bridget Novik & M	Danube	The Big Stiff Box Set
+Wed Apr  1 06:30:48 2015	446	Thompson Twins	Lay Your Hands On Me	Here's To Future Days
+Wed Apr  1 06:35:11 2015	446	Art Of Noise	Paranoimia	In Visible Silence
+Wed Apr  1 06:39:32 2015	468	Shriekback	Fish Below The Ice	The Dancing Years
+Wed Apr  1 06:45:34 2015	470	The Danse Society	Say It Again (12 Mix)	Pop + Wave - The 12 Inch Mixes
+Wed Apr  1 06:52:29 2015	461	A Flock Of Seagulls	I Ran (So Far Away)	Just Can't Get Enough -Vol. 5-
+Wed Apr  1 06:56:19 2015	464	Talking Heads	Making Flippy Floppy	Speaking in Tongues
+Wed Apr  1 07:01:56 2015	466	Duran Duran	Rio	Decade: Greatest Hits
+Wed Apr  1 07:07:26 2015	478	Devo	Ton O' Love	Freedom of Choice
+Wed Apr  1 07:09:41 2015	469	Ultravox	Vienna	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 2
+Wed Apr  1 07:14:24 2015	470	Thompson Twins	Don't Mess With Doctor Dream	Here's To Future Days
+Wed Apr  1 07:18:39 2015	473	Wire Train	With God On Our Side	Last Perfect Thing: Retrospective
+Wed Apr  1 07:23:00 2015	478	New Order	Round & Round	Technique
+Wed Apr  1 07:27:32 2015	480	Japan	The Art Of Parties	Just Can't Get Enough -Vol. 5-
+Wed Apr  1 07:31:30 2015	483	Fixx	One Thing Leads To Another	The Fixx - One Thing Leads to Another: Greatest Hits
+Wed Apr  1 07:34:49 2015	488	Endgames	First, Last For Everything (Club Version)	Hardest Hits, Vol. 5
+Wed Apr  1 07:39:34 2015	490	Yello	Eternal Legs	Solid Pleasure
+Wed Apr  1 07:43:35 2015	485	Alphaville	Mysteries Of Love (Remix)	so8os
+Wed Apr  1 07:51:32 2015	485	Kim Wilde	Suburbs Of Moscow	Teases And Dares
+Wed Apr  1 07:54:34 2015	490	Thomas Dolby	Windpower	n/a
+Wed Apr  1 07:58:26 2015	492	ABC	The Look Of Love (Part One)	The Lexicon Of Love
+Wed Apr  1 08:01:41 2015	490	The The	Perfect [Original 7` Version]	n/a
+Wed Apr  1 08:05:31 2015	495	English Evenings	I Still Love You	After Dark
+Wed Apr  1 08:08:56 2015	481	Power Station	Lonely Tonight	The Power Station
+Wed Apr  1 08:12:48 2015	483	Wall Of Voodoo	Mexican Radio	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 8
+Wed Apr  1 08:16:41 2015	478	Bollock Brothers	Horror Movies	Last Supper
+Wed Apr  1 08:21:45 2015	473	Human League	Love Action (I Believe In Love)	Dare
+Wed Apr  1 08:26:35 2015	487	Heaven 17	I'm Your Money [12 Version]	We Will Follow: Tribute to U2
+Wed Apr  1 08:31:43 2015	488	Experimental Products	Sweet Rejection	Prototype
+Wed Apr  1 08:36:50 2015	483	Propaganda	Jewel	Outside World
+Wed Apr  1 08:43:31 2015	458	Cure	Let's Go To Bed	Staring At The Sea-The Singles 1979-1985
+Wed Apr  1 08:47:09 2015	468	B-Movie	Nowhere Girl  (12'' Extended Remix)	Platinum Collection
+Wed Apr  1 08:53:25 2015	472	Talk Talk	It's My Life	It's My Life
+Wed Apr  1 08:57:09 2015	474	Until December	Until December	n/a
+Wed Apr  1 09:00:40 2015	474	Laid Back	Ride The White Horse	n/a
+Wed Apr  1 09:05:34 2015	466	Blancmange	Feel Me	Best of Blancmange
+Wed Apr  1 09:10:37 2015	476	Stephen Duffy	Kiss Me [12 Version]	80's Extended
+Wed Apr  1 09:17:47 2015	463	Orchestral Manoeuvres In The Dark	(Forever) Live And Die	The Pacific Age
+Wed Apr  1 09:21:11 2015	469	Pet Shop Boys	It's A Sin	Discography: The Complete Singles Collection
+Wed Apr  1 09:25:59 2015	477	Oingo Boingo	Dead Man's Party	Dead Man's Party
+Wed Apr  1 09:32:11 2015	488	Re-Flex	The Politics Of Dancing [12` Extended Mix]	Politics of Dancing
+Wed Apr  1 09:39:14 2015	489	Sparks	Angst In My Pants	Angst in My Pants
+Wed Apr  1 09:42:37 2015	487	Depeche Mode	Told You So	Construction Time Again
+Wed Apr  1 09:46:53 2015	482	Prefab Sprout	Appetite	Two Wheels Good
+Wed Apr  1 09:50:48 2015	474	Vicious Pink	Take Me Now	Hardest Hits, Vol. 4
+Wed Apr  1 09:56:55 2015	465	A Flock Of Seagulls	D.N.A.	A Flock Of Seagulls
+Wed Apr  1 09:59:34 2015	466	Comsat Angels	Island Heart	BBC Sessions 1979-1984
+Wed Apr  1 10:03:12 2015	451	Art Of Noise	Beatbox Diversion 10	SS Moments In Love
+Wed Apr  1 10:07:22 2015	457	Spandau Ballet	Chant No. 1 (I Don't Need This Pressure On)	The Singles Collection
+Wed Apr  1 10:11:15 2015	454	A-ha	Here I Stand And Face The Rain	Hunting High And Low
+Wed Apr  1 10:15:37 2015	458	Trio	Da Da Da I Don't Love You You Don't Love Me Aha Aha Aha	Da Da Da
+Wed Apr  1 10:18:57 2015	467	Peter Baumann	Be Mine	Strangers In The Night
+Wed Apr  1 10:22:11 2015	461	Devo	Love Without Anger	New Traditionalists
+Wed Apr  1 10:24:43 2015	457	Roxy Music	More Than This	Avalon
+Wed Apr  1 10:29:09 2015	463	Shark Vegas	You Hurt Me	FAC. Dance 02
+Wed Apr  1 10:35:53 2015	471	Raf	Self Control	Pop & Wave Vol. 8
+Wed Apr  1 10:39:55 2015	479	Romeo Void	A Girl In Trouble [12 Version]	n/a
+Wed Apr  1 10:45:53 2015	489	Camouflage	The Great Commandment (12` Version)	Voices & Images
+Wed Apr  1 10:51:41 2015	495	Pete Shelley	Homosapien	The Best Of Pete Shelley
+Wed Apr  1 10:56:30 2015	496	Anna Domino	Take That	FAC. Dance 02
+Wed Apr  1 11:00:22 2015	497	Yello	I Love You	You Gotta Say Yes to Another Excess
+Wed Apr  1 11:03:34 2015	500	Duran Duran	My Own Way	Rio
+Wed Apr  1 11:08:07 2015	484	Fixx	Stand Or Fall	The Fixx - One Thing Leads to Another: Greatest Hits
+Wed Apr  1 11:12:14 2015	500	Thompson Twins	Watching	Side Kicks
+Wed Apr  1 11:15:39 2015	498	When In Rome	The Promise	When in Rome
+Wed Apr  1 11:19:32 2015	494	Yaz	Only You	Hits Of The '80s Vol. 12
+Wed Apr  1 11:22:33 2015	500	Platinum Blonde	Take It From Me	Standing In The Dark
+Wed Apr  1 11:26:33 2015	511	Gary Myrick & The Figures	Model	Gary Myrick And The Figures (With Bonus Tracks)
+Wed Apr  1 11:29:59 2015	503	Fashion	Slow Blue	Fabrique
+Wed Apr  1 11:34:50 2015	514	Alphaville	Big In Japan	First Harvest: The Best Of Alphaville 1984-1992
+Wed Apr  1 11:38:36 2015	509	Billy Idol	Love Calling	Billy Idol
+Wed Apr  1 11:43:30 2015	512	Kajagoogoo	Hang On Now	Too Shy-The Singles...And More
+Wed Apr  1 11:46:33 2015	510	Lene Lovich	Say When	Lucky Number (The Best Of)
+Wed Apr  1 11:49:39 2015	506	Gary Numan	Conversation	The Pleasure Principle
+Wed Apr  1 11:56:47 2015	485	Book Of Love	Still Angry	Book Of Love
+Wed Apr  1 12:00:11 2015	499	Animotion	Obsession	80s One Hit Wonders
+Wed Apr  1 12:04:22 2015	501	The Thompson Twins	Lies [Bigger & Better Version]	n/a
+Wed Apr  1 12:10:39 2015	503	Power Station	Get It On (Bang A Gong)	Power Station
+Wed Apr  1 12:16:11 2015	490	Heaven 17	Groove Thang	Higher & Higher: Best of
+Wed Apr  1 12:20:11 2015	485	Berlin	Sex (I'm a ...)	Sedated In The Eighties
+Wed Apr  1 12:25:13 2015	480	Ministry	Work For Love	With Sympathy
+Wed Apr  1 12:29:48 2015	476	New Order	Bizarre Love Triangle	Brotherhood
+Wed Apr  1 12:36:21 2015	472	Joy Division	Love Will Tear Us Apart	1980
+Wed Apr  1 12:39:46 2015	472	Talk Talk	The Party's Over	Party's Over
+Wed Apr  1 12:45:35 2015	468	Orchestral Manoeuvres In The Dark	Goddess Of Love	The Pacific Age
+Wed Apr  1 12:49:43 2015	468	China Crisis	Wishful Thinking [12 Version]	80's Extended
+Wed Apr  1 12:54:25 2015	477	Buggles	On Tv	Adventures In Modern Recording
+Wed Apr  1 12:56:59 2015	473	Dollar	Mirror Mirror (Mon Amour)	The Dollar Album
+Wed Apr  1 13:00:25 2015	471	Thomas Dolby	Commercial Breakup	The Golden Age Of Wireless
+Wed Apr  1 13:04:47 2015	460	Dead Or Alive	You Spin Me Round (Like A Record)	"Youthquake" [Rewind Series]
+Wed Apr  1 13:07:54 2015	462	Comsat Angels	Nature Trails	BBC Sessions 1979-1984
+Wed Apr  1 13:12:34 2015	458	ABC	Many Happy Returns	The Lexicon Of Love
+Wed Apr  1 13:16:14 2015	467	A Flock Of Seagulls	Space Age Love Song	A Flock Of Seagulls
+Wed Apr  1 13:19:58 2015	461	A Drop In The Gray	Be There	Certain Sculptures
+Wed Apr  1 13:24:36 2015	450	Simple Minds	Promised You A Miracle	Glittering Prize 81/92 (Compilation)
+Wed Apr  1 13:28:36 2015	462	Naked Eyes	Voices In My Head	Promises, Promises The Very Best Of Naked Eyes
+Wed Apr  1 13:32:05 2015	463	Kraftwerk	Boing Boom Tschak	Electric Cafe
+Wed Apr  1 13:35:07 2015	460	Devo	What I Must Do	Oh No! It's Devo
+Wed Apr  1 13:37:38 2015	453	Human League	The Things That Dreams Are Made Of	Dare
+Wed Apr  1 13:41:46 2015	450	Blondie	Call Me	The Best of Blondie
+Wed Apr  1 13:45:12 2015	460	Stephen Duffy	A Lot Of Ink	Because We Love You
+Wed Apr  1 13:49:41 2015	450	Roxy Music	The Space Between	Avalon
+Wed Apr  1 13:54:13 2015	432	Peter Godwin	The Art Of Love	Images Of Heaven
+Wed Apr  1 13:58:47 2015	428	Devo	Smart Patrol/Mr. DNA	Greatest Hits
+Wed Apr  1 14:04:42 2015	420	New Order	Blue Monday	Substance (1 of 2)
+Wed Apr  1 14:12:13 2015	412	Pete Shelley	Telephone Operator	The Best Of Pete Shelley
+Wed Apr  1 14:15:34 2015	402	Human League	(Keep Feeling) Fascination	Greatest Hits
+Wed Apr  1 14:19:09 2015	400	The Thompson Twins	Don't Mess With Doctor Dream (Snackattack)	Remixes & Rarities
+Wed Apr  1 14:25:21 2015	399	Thompson Twins	Doctor Doctor	Hold Me Now
+Wed Apr  1 14:29:43 2015	405	Kim Wilde	Chequered Love	Greatest Hits Collection 80s
+Wed Apr  1 14:32:47 2015	404	The The	This Is The Day	Soul Mining
+Wed Apr  1 14:37:29 2015	406	Naked Eyes	Always Something There To Remind Me	FLaShBaCk! New WAve CLaSsics
+Wed Apr  1 14:40:54 2015	420	Ultravox	One Small Day [Special Re-Mix]	Collection
+Wed Apr  1 14:48:30 2015	415	Midge Ure	Cold, Cold Heart	If I Was: The Very Best Of...
+Wed Apr  1 14:52:35 2015	405	Buggles	Blue Nylon	Adventures In Modern Recording
+Wed Apr  1 14:54:55 2015	417	Information Society	What's On Your Mind (Pure Enerergy)	Insoc Recombinant
+Wed Apr  1 14:59:30 2015	416	M	Woman Make Man	Pop Muzik
+Wed Apr  1 15:01:40 2015	409	Gary Numan	Observer	The Pleasure Principle
+Wed Apr  1 15:04:30 2015	404	Blancmange	Don't Tell Me [12` Extended Mix]	Best of Blancmange
+Wed Apr  1 15:11:11 2015	404	Freur	My Room	Doot Doot
+Wed Apr  1 15:14:43 2015	401	Fixx	Red Skies	The Fixx - One Thing Leads to Another: Greatest Hits
+Wed Apr  1 15:17:49 2015	401	Wang Chung	Don't Be My Enemy	Points On The Curve
+Wed Apr  1 15:22:05 2015	396	Black	Finder	Wonderful Life
+Wed Apr  1 15:26:27 2015	398	Dead Or Alive	My Heart Goes Bang	"Youthquake" [Rewind Series]
+Wed Apr  1 15:29:24 2015	391	Swamp Children	Softly Saying Goodbye	FAC. Dance 02
+Wed Apr  1 15:33:40 2015	389	New Musik	Straight Lines	From A To B
+Wed Apr  1 15:38:51 2015	384	Yaz	Walk Away From Love	You And Me Both
+Wed Apr  1 15:41:55 2015	383	Erasure	A Little Respect	The Innocents
+Wed Apr  1 15:45:23 2015	377	Yello	Heavy Whispers	You Gotta Say Yes to Another Excess
+Wed Apr  1 15:49:22 2015	374	Eurythmics	Here Comes The Rain Again	Greatest Hits
+Wed Apr  1 15:54:13 2015	379	Thomas Dolby	White City	The Flat Earth
+Wed Apr  1 15:59:31 2015	371	Book Of Love	Lost Souls	Book Of Love
+Wed Apr  1 16:04:09 2015	360	ABC	Valentine's Day	The Lexicon Of Love
+Wed Apr  1 16:07:45 2015	364	Kajagoogoo	Ooh To Be Ah	Too Shy-The Singles...And More
+Wed Apr  1 16:11:28 2015	370	Blanket Of Secrecy	Say You Will	Walls Have Ears
+Wed Apr  1 16:15:11 2015	374	Flash And The Pan	Hey St. Peter	Panorama
+Wed Apr  1 16:19:26 2015	371	Dollar	Guessing Games	The Dollar Album
+Wed Apr  1 16:22:52 2015	364	Exotic Birds	Fashion And Luxury	Equilibrium
+Wed Apr  1 16:27:14 2015	354	Talking Heads	Crosseyed And Painless	Remain In Light
+Wed Apr  1 16:31:47 2015	354	Until December	Heaven	Best of 415 Records
+Wed Apr  1 16:35:54 2015	354	Depeche Mode	Blasphemous Rumours	The Singles 1981-1985
+Wed Apr  1 16:42:29 2015	350	Lene Lovich	It's Only You (Mein Schmerz)	Lucky Number (The Best Of)
+Wed Apr  1 16:46:04 2015	342	Trio	Hearts Are Trump	Da Da Da
+Wed Apr  1 16:49:36 2015	346	Spandau Ballet	Only When You Leave	The Singles Collection
+Wed Apr  1 16:54:12 2015	353	Flying Lizards	Money (That's What I Want)	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 1
+Wed Apr  1 16:56:34 2015	350	Payolas	Eyes Of A Stranger	Classic Alternatives 1
+Wed Apr  1 17:01:26 2015	349	Animotion	Strange Behavior	20th Century Masters
+Wed Apr  1 17:05:07 2015	348	Psychedelic Furs	No Easy Street	Forever Now
+Wed Apr  1 17:08:58 2015	353	Falco	Vienna Calling	Falco 3
+Wed Apr  1 17:12:52 2015	354	When In Rome	Wide, Wide Sea	When In Rome
+Wed Apr  1 17:16:49 2015	347	Devo	Through Being Cool	New Traditionalists
+Wed Apr  1 17:19:52 2015	349	New Order	True Faith	Substance (1 of 2)
+Wed Apr  1 17:25:32 2015	338	Robert Hazard	Escalator Of Life	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 8
+Wed Apr  1 17:29:08 2015	337	Pet Shop Boys	Suburbia	Discography: The Complete Singles Collection
+Wed Apr  1 17:34:14 2015	338	999	Homicide	Greatest Hits Collection 70s
+Wed Apr  1 17:37:51 2015	339	Alphaville	Dance With Me	First Harvest: The Best Of Alphaville 1984-1992
+Wed Apr  1 17:41:38 2015	344	Cetu Javu	Love Me	Southern Lands
+Wed Apr  1 17:45:55 2015	338	Berlin	The Metro	Pleasure Victim
+Wed Apr  1 17:49:51 2015	339	Thompson Twins	Tears	Side Kicks
+Wed Apr  1 17:54:55 2015	342	Oingo Boingo	Good For Your Soul	Good For Your Soul
+Wed Apr  1 17:58:13 2015	331	Howard Jones	Equality	Human's Lib
+Wed Apr  1 18:02:30 2015	335	Pete Shelley	Many A Time	The Best Of Pete Shelley
+Wed Apr  1 18:09:16 2015	325	New Order	The Perfect Kiss	Substance (1 of 2)
+Wed Apr  1 18:13:59 2015	319	Devo	C'mon	Shout
+Wed Apr  1 18:17:07 2015	318	Kim Wilde	Kids In America	Just Can't Get Enough -Vol. 5-
+Wed Apr  1 18:20:29 2015	311	Talking Heads	Life During Wartime	Fear of Music
+Wed Apr  1 18:24:11 2015	319	Lene Lovich	Faces	Lucky Number (The Best Of)
+Wed Apr  1 18:27:35 2015	319	Ultravox	Sleepwalk	Dancing With Tears in My Eyes (Best Of...)
+Wed Apr  1 18:30:41 2015	314	New Musik	Guitars	Anywhere [Bonus Tracks]
+Wed Apr  1 18:34:09 2015	317	Wire Train	She Comes On	Best of 415 Records
+Wed Apr  1 18:37:35 2015	311	T42	Don't Let Me Love (Remix)	Retro Club Classics
+Wed Apr  1 18:43:56 2015	312	Men Without Hats	The Safety Dance	Rhythm Of Youth/Folk Of The 80's (Part III)
+Wed Apr  1 18:46:37 2015	311	Red Flag	Pretty In Pity	Naive Art
+Wed Apr  1 18:50:49 2015	302	The The	Uncertain Smile [Original 7` Version]	Left of the Dial: Dispatches From the 80's Underground (Compilation)
+Wed Apr  1 18:55:35 2015	312	Heaven 17	Honeymoon In New York	We Will Follow: Tribute to U2
+Wed Apr  1 18:58:28 2015	312	Depeche Mode	Love In Itself	The Singles 1981-1985
+Wed Apr  1 19:02:47 2015	309	Twins	Time Will Tell (12` Mix)	Selected Ambient Works 85-92
+Wed Apr  1 19:08:49 2015	306	Alphaville	Jerusalem (The Palace Version)	so8os
+Wed Apr  1 19:14:57 2015	317	Trans-X	Living On Video	Back To Mine Richard X
+Wed Apr  1 19:20:39 2015	319	Tim Scott	Good As Gold	Swear EP
+Wed Apr  1 19:23:54 2015	309	Grace Jones	Private Life	Island Life
+Wed Apr  1 19:29:07 2015	299	Inxs	To Look At You	Shine Like It Does - The Anthology (1979-1997)
+Wed Apr  1 19:33:07 2015	290	The Call Featuring Peter Gabriel & Jim Kerr	Everywhere I Go	Hardest Hits, Vol. 4
+Wed Apr  1 19:37:11 2015	294	Thompson Twins	Love Lies Bleeding	Side Kicks
+Wed Apr  1 19:39:56 2015	291	Intaferon	Get Out Of London	Living In Oblivion: The 80's Greatest Hits, Vol. 4
+Wed Apr  1 19:43:21 2015	289	Play	In My Mind	Red Movies
+Wed Apr  1 19:46:23 2015	287	SSQ	Big Electronic Beat	Playback
+Wed Apr  1 19:49:40 2015	282	Lou Champagne System	Selling So Sweet	No Visible Means
+Wed Apr  1 19:52:30 2015	279	Simple Minds	Glittering Prize	1982
+Wed Apr  1 19:56:05 2015	277	Thomas Dolby	The Flat Earth	The Flat Earth
+Wed Apr  1 20:02:30 2015	275	Human League	Do Or Die	Dare
+Wed Apr  1 20:07:34 2015	277	Kissing The Pink	Maybe This Day	Naked/Kissing the Pink
+Wed Apr  1 20:11:06 2015	281	A-ha	The Sun Always Shines On T.v.	Hunting High And Low
+Wed Apr  1 20:16:01 2015	280	Dream Academy	The Love Parade	A Different Kind of Weather
+Wed Apr  1 20:19:36 2015	278	Gary Numan	Cars	The Pleasure Principle
+Wed Apr  1 20:23:22 2015	282	Freeez	Within These Walls	Idle Vice
+Wed Apr  1 20:27:53 2015	281	Blancmange	All Things Are Nice	Mange Tout
+Wed Apr  1 20:32:42 2015	279	Billy Idol	Nobody's Business	Billy Idol
+Wed Apr  1 20:36:38 2015	272	Orchestral Manoeuvres In The Dark	So In Love	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 15
+Wed Apr  1 20:40:01 2015	275	Buggles	Astroboy (And The Proles On Pa	The Age of Plastic [Vinyl]
+Wed Apr  1 20:44:39 2015	276	Land Of Giants	Cannibal Dolls	Cannibal Dolls/Seven Men
+Wed Apr  1 20:48:10 2015	283	Peter Godwin	Images Of Heaven	Hits Of The '80s Vol. 12
+Wed Apr  1 20:52:59 2015	285	The Thompson Twins	Sister Of Mercy (Extended Version)	Remixes & Rarities
+Wed Apr  1 21:02:28 2015	295	Bronski Beat	Hit That Perfect Beat	Pop & Wave Vol. 3
+Wed Apr  1 21:05:41 2015	293	Psychedelic Furs	Love My Way	All of This and Nothing
+Wed Apr  1 21:09:11 2015	288	Duran Duran	The Chauffeur	Rio (W/Book) (Coll)
+Wed Apr  1 21:14:25 2015	283	Book Of Love	Sea Of Tranquility	Lullaby
+Wed Apr  1 21:17:47 2015	285	Kraftwerk	Home Computer	The Catalogue
+Wed Apr  1 21:24:14 2015	291	Cee Farrow	Lost and Memorized	Red and Blue
+Wed Apr  1 21:28:46 2015	289	Freur	Steam Machine	Doot Doot
+Wed Apr  1 21:31:42 2015	290	Devo	Baby Doll	Total Devo
+Wed Apr  1 21:35:25 2015	294	Cure	Pictures Of You	Disintegration
+Wed Apr  1 21:40:10 2015	295	Kajagoogoo	Too Shy	Just Can't Get Enough_New Wave Hits Of The '80s Vol. 9
+Wed Apr  1 21:43:34 2015	296	Nyam Nyam	Fate	FAC. Dance 02
+Wed Apr  1 21:51:36 2015	290	Propaganda	Das Testament Des Dr Mabuse  (13th Life Mix)	Produced by Trevor Horn (Compilation)
+Wed Apr  1 21:58:08 2015	289	Fad Gadget	Love Parasite	Under The Flag
+Wed Apr  1 22:03:00 2015	280	Talking Heads	Swamp	Speaking in Tongues
+Wed Apr  1 22:08:11 2015	277	Real Life	Send Me An Angel	New Wave Hits Of The '80s, Vol. 11
+Wed Apr  1 22:11:56 2015	275	Fixx	The Sign Of The Fire	Reach the Beach
+Wed Apr  1 22:15:42 2015	279	Yello	Bimbo	Solid Pleasure
+Wed Apr  1 22:19:21 2015	276	The Blue Nile	Stay	A Walk Across The Rooftops
+Wed Apr  1 22:23:49 2015	275	Berlin	Tell Me Why	Pleasure Victim
+Wed Apr  1 22:29:27 2015	278	Naked Eyes	Flag Of Convenience	Best Of Naked Eyes
+Wed Apr  1 22:33:11 2015	281	Visage	Fade To Grey	If I Was: The Very Best Of...
+Wed Apr  1 22:37:10 2015	286	Blondie	Heart Of Glass	Best Of Blondie
+Wed Apr  1 22:41:21 2015	292	Shriekback	Lined Up	Natural History: The Very Best Of Shriekback
+Wed Apr  1 22:44:50 2015	299	Heaven 17	Who'll Stop The Rain	The Luxury Gap
+Wed Apr  1 22:47:54 2015	309	Fiction Factory	Heart And Mind	Throw The Warped Wheel Out
+Wed Apr  1 22:50:55 2015	304	Lene Lovich	Savages	Lucky Number (The Best Of)
+Wed Apr  1 22:54:38 2015	301	ABC	Poison Arrow	The Look Of Love- Greatest Hi
+Wed Apr  1 22:57:53 2015	300	Sparks	All You Ever Think About Is Se	Best of
+Wed Apr  1 23:01:54 2015	301	Talk Talk	Talk Talk	n/a
+Wed Apr  1 23:05:14 2015	304	Depeche Mode	My Secret Garden (Excerpts)	Leave In Silence (UK CD-S)
+Wed Apr  1 23:09:21 2015	303	Thompson Twins	The Gap	Into The Gap
+Wed Apr  1 23:14:09 2015	296	Frankie Goes To Hollywood	Two Tribes [12` Extended Mix]	Welcome to the Pleasuredome
+Wed Apr  1 23:23:13 2015	310	Thomas Leer	International (Global Mix)	Hardest Hits, Vol. 5
+Wed Apr  1 23:30:30 2015	312	The The	Infected	Infected (Remaster)
+Wed Apr  1 23:35:08 2015	313	Bill Nelson	The Real Adventure	Vistamix
+Wed Apr  1 23:39:06 2015	307	Q-Feel	Dancing In Heaven (Orbital Be-Bop)	Just Can't Get Enough_New Wave Hits Of The '80s Vol. 9
+Wed Apr  1 23:42:05 2015	301	Twins	Love System	Pop & Wave Vol. 8
+Wed Apr  1 23:46:28 2015	304	Yaz	Good Times	You And Me Both
+Wed Apr  1 23:50:28 2015	310	Black	Everything's Coming Up Roses	Wonderful Life
+Wed Apr  1 23:54:27 2015	310	Human League	Crow And A Baby	Travelogue
+Wed Apr  1 23:57:59 2015	315	Play	This Little Girl	Red Movies
+Thu Apr  2 00:01:44 2015	312	Orchestral Manoeuvres In The Dark	Locomotion	Junk Culture
+Thu Apr  2 00:05:18 2015	319	Devo	That's Pep	Freedom of Choice
+Thu Apr  2 00:07:35 2015	315	Alphaville	Golden Feeling	so8os
+Thu Apr  2 00:11:16 2015	313	Naked Eyes	Eyes Of A Child	Best Of Naked Eyes
+Thu Apr  2 00:14:27 2015	314	Propaganda	P-Machinery	A Secret Wish
+Thu Apr  2 00:18:29 2015	321	Heaven 17	Penthouse And Pavement	Penthouse And Pavement
+Thu Apr  2 00:24:40 2015	319	Buggles	I Love You (Miss Robot)	The Age of Plastic [Vinyl]
+Thu Apr  2 00:29:25 2015	324	ABC	Date Stamp	The Lexicon Of Love
+Thu Apr  2 00:33:08 2015	327	B-52's	Strobe Light	Nude On The Moon: The Anthology
+Thu Apr  2 00:37:20 2015	329	Fashion	Something In Your Picture	Fabrique
+Thu Apr  2 00:40:38 2015	326	Human League	The Path Of Least Resistance	Reproduction
+Thu Apr  2 00:44:10 2015	324	Kraftwerk	It's More Fun To Compute (Lp V	Computer World
+Thu Apr  2 00:48:30 2015	324	New Order	Shellshock	Substance (1 of 2)
+Thu Apr  2 00:54:53 2015	324	Blancmange	Don't Tell Me	Mange Tout
+Thu Apr  2 00:58:19 2015	328	Depeche Mode	Leave In Silence [Longer]	The Singles 81-85
+Thu Apr  2 01:04:42 2015	338	Thomas Dolby	Europa And The Pirate Twins	The Golden Age Of Wireless
+Thu Apr  2 01:07:47 2015	336	Minimal Compact	Nil Nil	The Figure One Cuts
+Thu Apr  2 01:12:44 2015	341	Captain Sensible	Wot	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 6
+Thu Apr  2 01:15:49 2015	340	Desireless	Voyage, Voyage [Extended Version]	NonPlusUltra Pop+Wave The 12Inch Mixes
+Thu Apr  2 01:22:31 2015	343	Eurythmics	Sweet Dreams (Are Made Of This)	Greatest Hits
+Thu Apr  2 01:27:15 2015	348	Fiction Factory	(Feels Like) Heaven	Throw The Warped Wheel Out
+Thu Apr  2 01:30:38 2015	350	Yaz	Situation [US Remix]	In Your Room
+Thu Apr  2 01:36:35 2015	359	Fad Gadget	Collapsing New People	The Tyranny Of The Beat
+Thu Apr  2 01:40:40 2015	360	Book Of Love	Pretty Boys And Pretty Girls	Lullaby
+Thu Apr  2 01:45:00 2015	359	Peter Godwin	Baby's In The Mountains	Images Of Heaven
+Thu Apr  2 01:48:59 2015	350	Fischer Z	Big Drum	Highlights 1979 to 2004
+Thu Apr  2 01:52:43 2015	352	Style Council	Long Hot Summer	The Singular Adventures of the Style Council
+Thu Apr  2 01:59:24 2015	350	Frankie Goes To Hollywood	Rage Hard	Liverpool
+Thu Apr  2 02:04:35 2015	355	Billy Idol	Dancing With Myself	Dancing With Myself
+Thu Apr  2 02:07:59 2015	358	Shriekback	Nemesis	The Dancing Years
+Thu Apr  2 02:11:39 2015	361	Belouis Some	Some People	Living In Oblivion: The 80's Greatest Hits, Vol. 4
+Thu Apr  2 02:15:22 2015	363	A Flock Of Seagulls	Telecommunication	A Flock Of Seagulls
+Thu Apr  2 02:17:54 2015	368	Duran Duran	New Religion	Rio
+Thu Apr  2 02:23:23 2015	362	Shark Vegas	You Hurt Me	FAC. Dance 02
+Thu Apr  2 02:30:27 2015	360	Nina Hagen	Auf'm Bahnhof Zoo	Nina Hagen Band
+Thu Apr  2 02:35:44 2015	361	Freur	All Too Much	Doot Doot
+Thu Apr  2 02:40:16 2015	353	Cure	Primary	Faith
+Thu Apr  2 02:43:46 2015	355	M	Made In Munich	Pop Muzik
+Thu Apr  2 02:49:25 2015	356	Dream Academy	Moving On	The Dream Academy
+Thu Apr  2 02:54:12 2015	349	Thompson Twins	Kamikaze	Side Kicks
+Thu Apr  2 02:57:59 2015	355	Simple Minds	I Travel	The Best of Simple Minds
+Thu Apr  2 03:01:47 2015	360	China Crisis	Tragedy And Mystery	Working With Fire & Steel
+Thu Apr  2 03:05:42 2015	351	Martin Dupont	I Never Tried	Hot paradox
+Thu Apr  2 03:10:48 2015	349	Information Society	Walking Away	Hits
+Thu Apr  2 03:15:31 2015	348	Play	You Don't Look The Same	Red Movies
+Thu Apr  2 03:18:46 2015	349	Joy Division	Transmission	1980
+Thu Apr  2 03:22:16 2015	345	Pete Shelley	Witness the Change	Homosapien / Telephone Operator
+Thu Apr  2 03:27:07 2015	352	Devo	Big Mess	Oh No! It's Devo
+Thu Apr  2 03:29:47 2015	352	Howard Jones	Natural	Human's Lib
+Thu Apr  2 03:33:57 2015	361	Inxs	Spy Of Love	Remasters Collection Boxset
+Thu Apr  2 03:37:30 2015	362	Kissing The Pink	Broken Body	Naked/Kissing the Pink
+Thu Apr  2 03:40:12 2015	355	Gary Numan	I'm An Agent	Telekon
+Thu Apr  2 03:44:32 2015	351	Dresden China	Come Back	Dresden China
+Thu Apr  2 03:47:53 2015	353	Taco	Puttin' On The Ritz	Just Can't Get Enough- New Wave Hits Of The '80s, Vol. 10
+Thu Apr  2 03:51:09 2015	354	Ultravox	The Voice	Rage In Eden
+Thu Apr  2 03:56:52 2015	354	Heaven 17	Key To The World	The Luxury Gap
+Thu Apr  2 04:00:35 2015	349	Romeo Void	Never Say Never [Original 12 Version]	Benefactor / Instincts
+Thu Apr  2 04:06:32 2015	345	Devo	R U Experienced	Shout
+Thu Apr  2 04:09:41 2015	346	Thomas Dolby	She Blinded Me With Science [12` Version]	Golden Age of Wireless
+Thu Apr  2 04:14:47 2015	349	Human League	The Sound Of The Crowd [12'' Version]	Very Best of
+Thu Apr  2 04:21:09 2015	350	Bill Nelson	Glow World	Vistamix
+Thu Apr  2 04:25:11 2015	344	Thompson Twins	Roll Over	Here's To Future Days
+Thu Apr  2 04:29:54 2015	346	Ultravox	All Stood Still	Vienna
+Thu Apr  2 04:34:25 2015	352	New Order	Confusion	Wasted: The Best Of Volume Part 1
+Thu Apr  2 04:38:58 2015	351	Minny Pops	Blue Roses	FAC. Dance 02
+Thu Apr  2 04:41:28 2015	359	SSQ	Anonymous	Playback
+Thu Apr  2 04:45:12 2015	355	English Evenings	Winter Feelings	After Dark
+Thu Apr  2 04:49:57 2015	361	Fischer Z	Need You	Highlights 1979 to 2004
+Thu Apr  2 04:54:12 2015	359	Buggles	Clean, Clean	The Age of Plastic [Vinyl]
+Thu Apr  2 04:57:43 2015	352	Book Of Love	Book Of Love	n/a
+Thu Apr  2 05:02:27 2015	370	Naked Eyes	Burning Bridges	Best Of Naked Eyes
+Thu Apr  2 05:05:39 2015	364	Kissing The Pink	Watching Their Eyes	Naked/Kissing the Pink
+Thu Apr  2 05:08:52 2015	366	Sigue Sigue Sputnik	Twenty First Century Boy	21st Century Boys: Singles
+Thu Apr  2 05:14:12 2015	349	Duran Duran	Girls On Film	Decade: Greatest Hits
+Thu Apr  2 05:17:35 2015	348	Dead Or Alive	Come Inside	Mad, Bad, And Dangerous To Know.
+Thu Apr  2 05:21:42 2015	347	Alphaville	Universal Daddy (Aquarian Dance Mix)	so8os
+Thu Apr  2 05:27:46 2015	351	Freur	Doot Doot (12` Mix)	Get Us out of Here/Doot Doot
+Thu Apr  2 05:33:34 2015	358	Yaz	Situation	Situation
+Thu Apr  2 05:39:11 2015	361	Lene Lovich	New Toy	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 3
+Thu Apr  2 05:42:35 2015	359	Scott Goddard	Cowpunk	The Obscurity File
+Thu Apr  2 05:47:11 2015	371	Xtc	This Is Pop	Waxworks: Some Singles - 1977-1982
+Thu Apr  2 05:49:49 2015	369	Peter Godwin	Torch Song For The Heroine (Single Version)	Images Of Heaven
+Thu Apr  2 05:53:55 2015	361	Fixx	Saved By Zero	The Fixx - One Thing Leads to Another: Greatest Hits
+Thu Apr  2 05:57:30 2015	369	Talk Talk	It's So Serious	The Party's Over
+Thu Apr  2 06:00:36 2015	376	Altered Images	I Could Be Happy	The Best Of Altered Images
+Thu Apr  2 06:03:58 2015	377	Comsat Angels	As Above So Below	Land
+Thu Apr  2 06:09:35 2015	386	Fashion	Do You Wanna Make Love	Fabrique
+Thu Apr  2 06:14:55 2015	383	Dream Academy	The Edge Of Forever	The Dream Academy
+Thu Apr  2 06:19:08 2015	399	Wang Chung	To Lie And Die In L.A.	To Live And Die In L.A.
+Thu Apr  2 06:23:50 2015	404	Pete Shelley	If You Ask Me (I Won't Say No)	Xl1
+Thu Apr  2 06:28:17 2015	406	Freeez	One Seconde Chance	Idle Vice
+Thu Apr  2 06:32:35 2015	404	Fad Gadget	For Whom The Bells Toll	Under The Flag
+Thu Apr  2 06:37:31 2015	402	Experimental Products	Modern Living	Prototype
+Thu Apr  2 06:43:10 2015	400	ABC	That Was Then But This Is Now	Beauty Stab
+Thu Apr  2 06:46:59 2015	394	Nik Kershaw	Shame On You	Human Racing
+Thu Apr  2 06:50:12 2015	391	Oingo Boingo	Just Another Day	Dead Man's Party
+Thu Apr  2 06:55:25 2015	407	New Musik	While You Wait	Anywhere [Bonus Tracks]
+Thu Apr  2 07:00:39 2015	406	Devo	Mongoloid	Greatest Misses
+Thu Apr  2 07:04:11 2015	398	Tears For Fears	Mad World	The Hurting
+Thu Apr  2 07:07:38 2015	401	New Order	Way Of Life	Brotherhood
+Thu Apr  2 07:11:39 2015	405	A Flock Of Seagulls	Standing In The Doorway	A Flock Of Seagulls
+Thu Apr  2 07:16:13 2015	412	Billy Idol	Daytime Drama	Rebel Yell
+Thu Apr  2 07:20:23 2015	409	I Signori Della Galassia	Iceman	Iceman
+Thu Apr  2 07:24:36 2015	415	Philip Oakey	Shake It Up	Philip Oakey & Giorgio Moroder
+Thu Apr  2 07:28:44 2015	419	Art Of Noise	Donna	Daft
+Thu Apr  2 07:30:27 2015	414	Nik Kershaw	Wouldn't It Be Good	Human Racing
+Thu Apr  2 07:34:33 2015	438	Klondike Karl	Time Is A Ticky Talk	The Obscurity File
+Thu Apr  2 07:37:22 2015	428	Freur	Riders In The Night	Doot Doot
+Thu Apr  2 07:42:47 2015	421	Xtc	Generals And Majors	Waxworks: Some Singles - 1977-1982
+Thu Apr  2 07:46:32 2015	420	Book Of Love	Late Show	Book Of Love
+Thu Apr  2 07:49:33 2015	423	Heaven 17	Temptation	The Luxury Gap
+Thu Apr  2 07:53:01 2015	422	Fun Boy Three	The Lunatics (Have Taken Over The Asylum)	Very Best of the Specials and Fun Boy Three
+Thu Apr  2 07:56:00 2015	424	The The	Sweet Bird Of Truth	45 RPM, The Singles Of The The
+Thu Apr  2 08:00:37 2015	418	Ultravox	The Thin Wall	Rage in Eden
+Thu Apr  2 08:05:56 2015	426	Bill Nelson	Tender Is The Night	Vistamix
+Thu Apr  2 08:10:41 2015	425	Soft Cell	Bedsitter	Memorabilia: The Singles
+Thu Apr  2 08:14:38 2015	426	Thompson Twins	Long Goodbye	Close To The Bone
+Thu Apr  2 08:18:13 2015	421	Captain Sensible	Stop The World	Collection
+Thu Apr  2 08:22:46 2015	420	Inxs	The One Thing	Best Of INXS
+Thu Apr  2 08:26:08 2015	433	Buggles	Living In The Plastic Age	The Age of Plastic [Vinyl]
+Thu Apr  2 08:30:47 2015	431	Trans-X	Message On The Radio	Living on Video
+Thu Apr  2 08:35:25 2015	434	Howard Jones	Why Look For The Key	Dream Into Action
+Thu Apr  2 08:38:40 2015	438	Phil Lynott	Yellow Pearl	If I Was: The Very Best Of...
+Thu Apr  2 08:42:10 2015	436	Talking Heads	Burning Down The House	Speaking in Tongues
+Thu Apr  2 08:45:42 2015	439	Surprize	In Movimento	FAC. Dance 02
+Thu Apr  2 08:50:54 2015	438	Depeche Mode	Just Can't Get Enough	Catching Up With Depeche Mode
+Thu Apr  2 08:54:36 2015	438	King	Won't You Hold My Hand Now	Steps in Time
+Thu Apr  2 08:57:47 2015	447	Secession	Simon Says	Hardest Hits, Vol. 5
+Thu Apr  2 09:03:53 2015	450	Endgames	Love Cares [12` Version]	n/a
+Thu Apr  2 09:07:11 2015	444	M	Moonlight And Muzak	Pop Muzik
+Thu Apr  2 09:12:34 2015	439	Eight Seconds	Zoe	Almacantar
+Thu Apr  2 09:17:58 2015	432	Propaganda	Complete Machinery	Outside World
+Thu Apr  2 09:28:36 2015	439	Translator	Everywhere That I'm Not	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 4
+Thu Apr  2 09:32:48 2015	438	Visage	Mind Of A Toy	Pop & Wave Vol. 8
+Thu Apr  2 09:36:17 2015	446	Human League	Seconds	Dare
+Thu Apr  2 09:41:11 2015	465	Thomas Dolby	One Of Our Submarines	The Golden Age Of Wireless
+Thu Apr  2 09:46:10 2015	466	Blancmange	Blind Vision	Mange Tout
+Thu Apr  2 09:50:05 2015	467	Elektrics	Building Buildings	State of Shock
+Thu Apr  2 09:53:02 2015	464	Kim Wilde	Chaos At The Airport	Select (Plus Bonus Tracks)
+Thu Apr  2 09:56:15 2015	470	Oingo Boingo	No Spill Blood	Good For Your Soul
+Thu Apr  2 09:59:57 2015	459	Kate Bush	The Big Sky	Hounds Of Love
+Thu Apr  2 10:04:18 2015	461	Men Without Hats	Ideas For Walls	Rhythm Of Youth/Folk Of The 80's (Part III)
+Thu Apr  2 10:07:36 2015	456	Yello	Pinball Cha Cha	Claro Que Si
+Thu Apr  2 10:10:52 2015	456	Peter Godwin	Young Pleasure	Images Of Heaven
+Thu Apr  2 10:15:18 2015	452	Devo	That's Good	Oh No! It's Devo
+Thu Apr  2 10:18:24 2015	456	Fashion	Streetplayer Mechanik	Fabrique
+Thu Apr  2 10:22:20 2015	448	Fiction Factory	Hit The Mark	Throw The Warped Wheel Out
+Thu Apr  2 10:26:30 2015	471	Bow Wow Wow	W.O.R.K	The Best Of Bow Wow Wow
+Thu Apr  2 10:28:59 2015	452	Tears For Fears	Pale Shelter	Tears Roll Down (Greatest Hits 82-92)
+Thu Apr  2 10:33:35 2015	453	The Lotus Eaters	You Don't Need Someone New	Hardest Hits, Vol. 4
+Thu Apr  2 10:39:39 2015	456	Scarlett & Black	You Don't Know	Living In Oblivion: The 80's Greatest Hits, Vol. 4
+Thu Apr  2 10:43:24 2015	452	New Musik	Changing Minds	Anywhere [Bonus Tracks]
+Thu Apr  2 10:48:14 2015	449	Jane Wiedlin	Blue Kiss	Jane Wiedlin
+Thu Apr  2 10:51:10 2015	452	A Flock Of Seagulls	You Can Run	Flock of Seagulls
+Thu Apr  2 10:55:37 2015	460	Malcolm Mclaren	Buffalo Gals	Duck Rock
+Thu Apr  2 10:59:50 2015	438	Kraftwerk	Electric Cafe	Electric Cafe
+Thu Apr  2 11:04:32 2015	429	ABC	Ocean Blue	How to Be a Zillionaire
+Thu Apr  2 11:07:32 2015	423	The Thompson Twins	Rollunder	Remixes & Rarities
+Thu Apr  2 11:12:16 2015	421	Land Of Giants	Fountains In The Rain	Cannibal Dolls/Seven Men
+Thu Apr  2 11:16:39 2015	418	Alphaville	Romeos (Tribal Mix)	so8os
+Thu Apr  2 11:22:49 2015	437	Heaven 17	(We Don't Need This) Fascist Groove Thang	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 8
+Thu Apr  2 11:27:02 2015	436	New Order	This Time Of Night	Low-life
+Thu Apr  2 11:31:40 2015	434	Billy Idol	Flesh For Fantasy	Rebel Yell
+Thu Apr  2 11:36:27 2015	432	Gary Numan	Films	The Pleasure Principle
+Thu Apr  2 11:40:01 2015	425	Twins	Desert Place	12 Inch Classics
+Thu Apr  2 11:45:45 2015	428	Martin Dupont	He Saw The Light	Hot paradox
+Thu Apr  2 11:50:33 2015	421	A Drop In The Gray	No Lights	Certain Sculptures
+Thu Apr  2 11:54:34 2015	414	Soft Cell	Sex Dwarf	Just Can't Get Enough -Vol. 5-
+Thu Apr  2 11:59:25 2015	418	Eurythmics	Who's That Girl	Greatest Hits
+Thu Apr  2 12:03:18 2015	414	Red Rockers	China	Just Can't Get Enough- New Wave Hits Of The '80s, Vol. 10
+Thu Apr  2 12:07:00 2015	412	Howard Jones	Things Can Only Get Better	Dream Into Action
+Thu Apr  2 12:10:51 2015	414	Talking Heads	Girlfriend Is Better	Speaking In Tongues
+Thu Apr  2 12:16:49 2015	418	Rachel Sweet	Voo Doo	Just Can't Get Enough: New Wave Hits Of The '80s, Vol. 8
+Thu Apr  2 12:20:15 2015	425	Dead Or Alive	I Wanna Be A Toy	"Youthquake" [Rewind Series]
+Thu Apr  2 12:24:03 2015	434	I Signori Della Galassia	Archeopterix	Iceman
+Thu Apr  2 12:27:49 2015	421	Cult	She Sells Sanctuary (2009 Rema	n/a
+Thu Apr  2 12:32:12 2015	420	Cetu Javu	Get It	Southern Lands
+Thu Apr  2 12:37:09 2015	425	Philip Oakey	Now	Philip Oakey & Giorgio Moroder
+Thu Apr  2 12:41:33 2015	417	Tim Scott	The Rules I Broke	Swear EP
+Thu Apr  2 12:45:31 2015	422	Our Daughter's Wedding	Lawnchairs	Living In Oblivion: The 80's Greatest Hits, Vol. 4
+Thu Apr  2 12:48:36 2015	417	Producers	She Sheila	Producers / You Make the Heat
+Thu Apr  2 12:53:10 2015	410	Depeche Mode	Master And Servant	The Singles 1981-1985
+Thu Apr  2 12:56:43 2015	413	Chaz Jankel	Number One	Best Of
+Thu Apr  2 13:03:54 2015	408	Blancmange	Living On The Ceiling	1982
+Thu Apr  2 13:07:59 2015	405	Jean Michel Jarre	Zoolook	Zoolook
+Thu Apr  2 13:11:49 2015	408	Wide Boy Awake	Slang Teacher	Living In Oblivion: The 80's Greatest Hits, Vol. 4
+Thu Apr  2 13:15:12 2015	410	Thomas Dolby	Dissidents	The Flat Earth
+Thu Apr  2 13:20:11 2015	403	Human League	Darkness	Dare
+Thu Apr  2 13:23:59 2015	398	Alison Moyet	Where Hides Sleep	Alf
+Thu Apr  2 13:28:09 2015	394	China Crisis	Working With Fire And Steel	New Wave Hits Of The '80s Vol. 13
+Thu Apr  2 13:31:43 2015	395	Berlin	Lost In The Crowd	Love Life
+Thu Apr  2 13:36:12 2015	399	Yello	Bostich	Solid Pleasure
+Thu Apr  2 13:38:12 2015	395	Yaz	Bad Connection	In Your Room (W/Dvd)
+Thu Apr  2 13:41:28 2015	389	Blondie	Rapture	Best Of Blondie
+Thu Apr  2 13:46:34 2015	381	Fashion	Love Shadow	Fabrique
+Thu Apr  2 13:49:51 2015	387	Pete Shelley	I Don't Know What It Is	Homosapien / Telephone Operator
+Thu Apr  2 13:53:11 2015	384	Devo	Shout	Shout
+Thu Apr  2 13:56:34 2015	397	Orchestral Manoeuvres In The Dark	Shame	The Pacific Age
+Thu Apr  2 14:00:37 2015	392	Devo	Pink Pussycat	Duty Now For The Future [Deluxe Remastered Edition] [Explicit]
+Thu Apr  2 14:03:31 2015	383	Cure	Lovesong	Mixed Up
+Thu Apr  2 14:06:55 2015	386	Art Of Noise	Moments In Love	(Who's Afraid Of?) The Art of Noise!
+Thu Apr  2 14:11:31 2015	387	New Order	Love Vigilantes	(The Best Of) New Order
+Thu Apr  2 14:15:42 2015	383	Blancmange	Game Above My Head	Mange Tout
+Thu Apr  2 14:19:30 2015	378	Human League	Don't You Want Me	Like, Omigod! The 80's Pop Culture Box (Totally) [Disc 3]
+Thu Apr  2 14:23:28 2015	389	Tom Tom Club	Genius Of Love	Tom Tom Club
+Thu Apr  2 14:28:50 2015	381	Billy Idol	Crank Call	Rebel Yell
+Thu Apr  2 14:32:47 2015	377	Land Of Giants	Room With A View	Cannibal Dolls/Seven Men
+Thu Apr  2 14:35:33 2015	361	Kon Kan	Bite The Bullet	Move To Move
+Thu Apr  2 14:39:55 2015	364	Buggles	Adventures In Modern Recording	Adventures In Modern Recording
+Thu Apr  2 14:43:37 2015	368	Fischer Z	The Perfect Day	Very Best Fischer Z Album Ever
+Thu Apr  2 14:47:39 2015	375	Alison Moyet	Love Resurrection	Alf
+Thu Apr  2 14:51:13 2015	377	Ultravox	Herr X	Vienna
+Thu Apr  2 14:56:56 2015	376	Yaz	Nobody's Diary	You And Me Both
+Thu Apr  2 15:01:26 2015	367	Gary Myrick & The Figures	She Talks In Stereo	Gary Myrick And The Figures (With Bonus Tracks)
+Thu Apr  2 15:05:04 2015	367	Thomas Dolby	Windpower	n/a
+Thu Apr  2 15:08:55 2015	366	G.A.N.G.	KKK	Single
+Thu Apr  2 15:14:16 2015	356	Shriekback	My Spine (Is The Bass Line)	Natural History: The Very Best Of Shriekback
+Thu Apr  2 15:18:00 2015	359	Tears For Fears	Change	The Hurting
+Thu Apr  2 15:22:17 2015	357	Roxy Music	The Main Thing	Avalon
+Thu Apr  2 15:25:59 2015	353	Kim Wilde	The Touch	You Keep Me Hangin' on
+Thu Apr  2 15:29:53 2015	354	Depeche Mode	Two Minute Warning	Construction Time Again

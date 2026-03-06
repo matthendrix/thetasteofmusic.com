@@ -1,0 +1,671 @@
+Wed Apr  1 00:00:45 2015	72	The Decemberists	Don't Carry It All	The King Is Dead
+Wed Apr  1 00:04:53 2015	70	Lord Huron	Brother	Lonesome Dreams
+Wed Apr  1 00:08:53 2015	71	Tumbleweed Wanderers	I Went Away	Tumbleweed Wanderers
+Wed Apr  1 00:12:22 2015	73	Gregory Alan Isakov	Astronaut	The Weatherman [Explicit]
+Wed Apr  1 00:14:28 2015	76	First Aid Kit	To a Poet	The Lion's Roar
+Wed Apr  1 00:19:50 2015	80	Punch Brothers	Don't Need No	Antifogmatic
+Wed Apr  1 00:24:15 2015	83	Wolf Larsen	Jedi	Quiet at the Kitchen Door
+Wed Apr  1 00:28:46 2015	81	Brown Bird	Chairkickers	Salt For Salt
+Wed Apr  1 00:32:21 2015	82	Kenneth Pattengale & Joey Ryan	Laredo	Retrospect
+Wed Apr  1 00:37:50 2015	81	Matt Dorrien	Suzy	Always Winter
+Wed Apr  1 00:41:12 2015	76	Rocky Votolato	Sparks	Television Of Saints
+Wed Apr  1 00:44:16 2015	77	Fionn Regan	Little Nancy	The Shadow Of An Empire
+Wed Apr  1 00:47:27 2015	80	Benjamin Henderson	All In Your Name	Dirty Birdies
+Wed Apr  1 00:50:14 2015	80	Cave Clove	Favorite Lullaby	Cabin Habits
+Wed Apr  1 00:52:42 2015	79	Iron & Wine	Morning	Around The Well
+Wed Apr  1 00:55:29 2015	83	Father John Misty	Tee Pees 1-12	Fear Fun
+Wed Apr  1 00:58:34 2015	82	River City Extension	South for the Winter	The Unmistakable Man
+Wed Apr  1 01:02:22 2015	81	Daughter	Switzerland	His Young Heart EP
+Wed Apr  1 01:06:01 2015	82	Mr. Andrew	Feelin' Lonely	His Guitar Is Noir
+Wed Apr  1 01:07:44 2015	82	Mandolin Orange	Killer	Hard Hearted Stranger [Disc 2]
+Wed Apr  1 01:10:32 2015	79	The Lumineers	Elouise (Lost EP Version)	n/a
+Wed Apr  1 01:12:49 2015	78	Native Son	Migration	Migration EP
+Wed Apr  1 01:15:13 2015	81	Spirits Of The Red City	Goodbye Don't Go	Hunter Moon
+Wed Apr  1 01:18:42 2015	82	The Tallest Man On Earth	You're Going Back	The Wild Hunt
+Wed Apr  1 01:21:46 2015	82	Passenger & Pilot	Visitation	The Calm Before
+Wed Apr  1 01:25:06 2015	80	Chelsea Wolfe	Mer	Apokalypsis
+Wed Apr  1 01:28:42 2015	80	Milk Carton Kids	No Hammer To Hold	Prologue
+Wed Apr  1 01:31:41 2015	77	Round Mountain	Hundreds Of Ships	The Goat
+Wed Apr  1 01:36:16 2015	79	Greg Gives Peter Space	Electric Eel River	Greg Gives Peter Space
+Wed Apr  1 01:40:07 2015	78	Fox & Woman	Porch	Fox & Woman
+Wed Apr  1 01:42:40 2015	80	Westwood & Willow	Colours	Doorways, Vehicles and Markets (320 kbps MP3)
+Wed Apr  1 01:46:50 2015	84	Gregory Alan Isakov	The Universe	The Weatherman [Explicit]
+Wed Apr  1 01:50:57 2015	86	The Civil Wars	To Whom It May Concern	Barton Hollow
+Wed Apr  1 01:54:32 2015	87	Lord Huron	She Lit A Fire	Lonesome Dreams
+Wed Apr  1 01:58:42 2015	85	Amiina	Leather And Lace	The Lighthouse Project
+Wed Apr  1 02:02:38 2015	89	M. Ward	For Beginners	Hold Time
+Wed Apr  1 02:05:18 2015	88	Ah Holly Fam'ly	Year of The Viking	Reservoir
+Wed Apr  1 02:07:25 2015	89	Kenneth Pattengale & Joey Ryan	As It Must Be	Retrospect
+Wed Apr  1 02:12:07 2015	91	Brown Bird	End of Days	Salt For Salt
+Wed Apr  1 02:15:05 2015	93	Cartoon Bar Fight	The Kingdom Of...	Reincarnate
+Wed Apr  1 02:17:52 2015	95	Hurray For The Riff Raff	Goin' Away	My Dearest Darkest Neighbor
+Wed Apr  1 02:20:16 2015	95	Ben Howard	The Fear	Every Kingdom
+Wed Apr  1 02:24:26 2015	95	Sonya Cotton	Washington	It is so
+Wed Apr  1 02:28:13 2015	92	Iron & Wine	Woman King	Woman King
+Wed Apr  1 02:32:28 2015	88	Daughter	Candles	His Young Heart EP
+Wed Apr  1 02:37:15 2015	93	Tumbleweed Wanderers	Someday You'll Understand	Tumbleweed Wanderers
+Wed Apr  1 02:40:46 2015	94	Sea Of Bees	The Gold	Songs For The Ravens
+Wed Apr  1 02:44:20 2015	92	Townes Van Zandt	Why She's Acting This Way	Our Mother the Mountain
+Wed Apr  1 02:49:48 2015	95	The Decemberists	Summersong	The Crane Wife
+Wed Apr  1 02:53:08 2015	90	Spirits Of The Red City	Mirror	Hunter Moon
+Wed Apr  1 02:56:43 2015	87	Not Waving But Drowning	Windowsill	Processional
+Wed Apr  1 02:59:25 2015	90	Jay Brannan	La La La	Rob Me Blind
+Wed Apr  1 03:02:36 2015	89	Olof Arnalds	Vittu af mer	Vid og Vid
+Wed Apr  1 03:07:00 2015	87	Tiny Ruins	Reasonable Man	Brightly Painted One
+Wed Apr  1 03:12:14 2015	86	Fionn Regan	Midnight Ferry Crossing	The Bunkhouse Vol. 1: Anchor Black Tattoo
+Wed Apr  1 03:13:55 2015	85	First Aid Kit	King of the World	The Lion's Roar
+Wed Apr  1 03:17:24 2015	83	River City Extension	It's No Ha-ha-ha	Nautical Sabbatical
+Wed Apr  1 03:21:34 2015	84	Angus & Julia Stone	Mango Tree	Memories Of An Old Friend
+Wed Apr  1 03:25:06 2015	83	Round Mountain	Appear To Me	The Goat
+Wed Apr  1 03:28:35 2015	85	Chelsea Wolfe	Boyfriend	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 03:32:16 2015	80	Shelley Short	Godamn Thing	Water For The Day
+Wed Apr  1 03:35:30 2015	83	The Civil Wars	Barton Hollow	Barton Hollow
+Wed Apr  1 03:38:44 2015	87	Tre Burt and a Big Gust of Wind	Music From The House Next Door	Little Mornings.
+Wed Apr  1 03:42:13 2015	85	Bluemore Blaze	Medication	n/a
+Wed Apr  1 03:44:58 2015	86	Black Prairie	Red Rocking Chair	Feast of the Hunter's Moon
+Wed Apr  1 03:49:18 2015	89	Benjamin Henderson	Summer Beast	Dirty Birdies
+Wed Apr  1 03:53:45 2015	92	Owl Paws	Singing Strong	Owl Paws
+Wed Apr  1 03:55:55 2015	88	Arcola	Oh, What A World	Arcola
+Wed Apr  1 03:57:51 2015	89	Matt Dorrien	Love Is A Long Black River	Always Winter
+Wed Apr  1 04:00:47 2015	90	The Decemberists	All Arise!	The King Is Dead
+Wed Apr  1 04:03:41 2015	88	The Lumineers	Submarines	The Lumineers
+Wed Apr  1 04:06:20 2015	88	Shelley Short	The Getalong	Water For The Day
+Wed Apr  1 04:08:48 2015	89	Azure Ray	Your Weak Hands	Burn and Shiver
+Wed Apr  1 04:11:55 2015	87	Jake Flood & T.bias	Yeah Yeah	n/a
+Wed Apr  1 04:14:39 2015	86	The Tallest Man On Earth	Troubles Will be Gone	The Wild Hunt
+Wed Apr  1 04:17:30 2015	88	Mandolin Orange	Big Men In The Sky	Hard Hearted Stranger [Disc 2]
+Wed Apr  1 04:21:33 2015	89	Kenneth Pattengale & Joey Ryan	Permanent	Retrospect
+Wed Apr  1 04:26:41 2015	90	Iron & Wine	Belated Promise Ring	Around The Well
+Wed Apr  1 04:30:15 2015	91	Chelsea Wolfe	Flatlands	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 04:34:16 2015	90	Father John Misty	Misty's Nightmares 1 & 2	Fear Fun
+Wed Apr  1 04:37:08 2015	89	Lissie	First To Say Goodbye	Lissie - EP
+Wed Apr  1 04:40:34 2015	85	Fionn Regan	Lord Help My Poor Soul	The Shadow Of An Empire
+Wed Apr  1 04:44:51 2015	82	Noahs	Love Will Save Us	Cedar & Fire EP
+Wed Apr  1 04:48:01 2015	84	Bon Iver	Re: Stacks	For Emma, Forever Ago
+Wed Apr  1 04:54:14 2015	89	M. Ward	Jailbird	Hold Time
+Wed Apr  1 04:56:34 2015	87	Mr. Andrew	Can't Help Myself	Love and How to Lose It
+Wed Apr  1 04:58:45 2015	86	Hurray For The Riff Raff	Just A Heart	My Dearest Darkest Neighbor
+Wed Apr  1 05:02:18 2015	90	Ah Holly Fam'ly	All Unfolding	Reservoir
+Wed Apr  1 05:06:44 2015	86	Olof Arnalds	Englar og darar	Vid og Vid
+Wed Apr  1 05:09:35 2015	86	First Aid Kit	Blue	The Lion's Roar
+Wed Apr  1 05:12:35 2015	85	Lord Huron	The Ghost On The Shore	Lonesome Dreams
+Wed Apr  1 05:16:44 2015	85	Jay Brannan	Everywhere There's Statues	Rob Me Blind
+Wed Apr  1 05:20:12 2015	85	Wolf Larsen	Two Doves	Quiet at the Kitchen Door
+Wed Apr  1 05:24:12 2015	84	Control Noodle	Out in the Sun	n/a
+Wed Apr  1 05:25:51 2015	83	Gravenhurst	Damage	Flashlight Seasons
+Wed Apr  1 05:29:53 2015	82	Round Mountain	Coffee	The Goat
+Wed Apr  1 05:32:56 2015	80	Gregory Alan Isakov	Time Will Tell	The Weatherman [Explicit]
+Wed Apr  1 05:35:39 2015	84	Ben Howard	The Wolves	Every Kingdom
+Wed Apr  1 05:40:46 2015	86	Rocky Votolato	Where We Started	True Devotion
+Wed Apr  1 05:44:15 2015	89	Stephen Steinbrink	Minor Scrapes	Condensed Nothing
+Wed Apr  1 05:48:45 2015	88	Fences	My Girl the Horse	Fences
+Wed Apr  1 05:53:20 2015	87	Emily Jane White	The Country Life	Victorian America
+Wed Apr  1 05:57:16 2015	85	River City Extension	Clever & Quickness	Nautical Sabbatical
+Wed Apr  1 06:00:37 2015	84	Cartoon Bar Fight	Grace	Tell All The Children E.P.
+Wed Apr  1 06:03:18 2015	84	Mandolin Orange	Runnin' Red	Haste Make [Disc 1]
+Wed Apr  1 06:06:36 2015	89	Westwood & Willow	Lifelike Surprise	Laddercats (320 MP3)
+Wed Apr  1 06:09:49 2015	87	Fox & Woman	Cruel	Fox & Woman
+Wed Apr  1 06:14:41 2015	89	The Lumineers	Classy Girls	The Lumineers
+Wed Apr  1 06:17:14 2015	91	Fionn Regan	House Detective	The Shadow Of An Empire
+Wed Apr  1 06:20:26 2015	95	Passenger & Pilot	Ballad of the Wide Wound	The Calm Before
+Wed Apr  1 06:23:53 2015	91	The Tallest Man On Earth	Bright Lanterns	There's No Leaving Now
+Wed Apr  1 06:27:27 2015	94	Sonya Cotton	Frozen Hands	It is so
+Wed Apr  1 06:30:37 2015	93	Other Lives	Dark Horse	Tamer Animals
+Wed Apr  1 06:33:21 2015	94	Tumbleweed Wanderers	Roll With the Times	So Long
+Wed Apr  1 06:37:24 2015	92	Matt Dorrien	Summer	Always Winter
+Wed Apr  1 06:39:47 2015	90	Bon Iver	For Emma	For Emma, Forever Ago
+Wed Apr  1 06:43:13 2015	96	Kenneth Pattengale & Joey Ryan	Maybe It's Time	Retrospect
+Wed Apr  1 06:47:44 2015	95	Courtney Marie Andrews	Mt. Saint Helens	For One I Knew (320 MP3)
+Wed Apr  1 06:50:13 2015	100	The Decemberists	Dear Avery	The King Is Dead
+Wed Apr  1 06:54:57 2015	94	M. Ward	Shangri-La	Hold Time
+Wed Apr  1 06:57:23 2015	96	Not Waving But Drowning	Processional	Processional
+Wed Apr  1 07:00:41 2015	97	Father John Misty	Well, You Can Do It Without Me	Fear Fun
+Wed Apr  1 07:03:19 2015	95	Round Mountain	The Goat	The Goat
+Wed Apr  1 07:04:49 2015	95	Other Lives	Old Statues	Tamer Animals
+Wed Apr  1 07:08:54 2015	98	Stephen Steinbrink	Reservation For A Nest	Condensed Nothing
+Wed Apr  1 07:12:55 2015	97	Rocky Votolato	Start Over	Television Of Saints
+Wed Apr  1 07:15:33 2015	97	Mandolin Orange	Slither	Haste Make [Disc 1]
+Wed Apr  1 07:19:17 2015	97	Courtney Marie Andrews	Broken Feet	For One I Knew (320 MP3)
+Wed Apr  1 07:25:48 2015	93	Milk Carton Kids	I Still Want A Little More	Prologue
+Wed Apr  1 07:28:50 2015	92	Chelsea Wolfe	The Way We Used To	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 07:31:33 2015	93	Iron & Wine	Sunset Soon Forgotten	Our Endless Numbered Days
+Wed Apr  1 07:34:50 2015	96	Unknown Mortal Orchestra	Swim & Sleep (Like A Shark)	Blue Record
+Wed Apr  1 07:37:32 2015	99	Ah Holly Fam'ly	Loneliest City	Reservoir
+Wed Apr  1 07:41:33 2015	98	Lissie	Little Lovin'	SXSW 2010 Showcasing Artists
+Wed Apr  1 07:46:12 2015	101	Ben Howard	Only Love	Every Kingdom
+Wed Apr  1 07:50:14 2015	97	M. Ward	Oh Lonesome Me	Hold Time
+Wed Apr  1 07:56:16 2015	99	Fionn Regan	Coat Hook	The Shadow Of An Empire
+Wed Apr  1 07:58:29 2015	98	Spirits Of The Red City	As Animal	Hunter Moon
+Wed Apr  1 08:01:15 2015	94	Arcola	What Happens	Arcola
+Wed Apr  1 08:04:12 2015	94	Matt Dorrien	New and Cloudless Morning	Always Winter
+Wed Apr  1 08:07:32 2015	94	Daughter	Landfill	His Young Heart EP
+Wed Apr  1 08:11:44 2015	92	Tumbleweed Wanderers	Hard Times	So Long
+Wed Apr  1 08:17:15 2015	91	The Tallest Man On Earth	The Blizzard's Never Seen The Desert Sands	Shallow Grave
+Wed Apr  1 08:19:17 2015	93	Olof Arnalds	Klara	Vid og Vid
+Wed Apr  1 08:21:36 2015	91	Kenneth Pattengale & Joey Ryan	Broken Headlights	Retrospect
+Wed Apr  1 08:24:49 2015	90	Angus & Julia Stone	Take You Away	Memories Of An Old Friend
+Wed Apr  1 08:28:46 2015	94	The Decemberists	Rox in the Box	The King Is Dead
+Wed Apr  1 08:31:45 2015	94	Des Ark	My Saddle Is Waitin' (C'mon Jump On It)	Don't Rock The Boat, Sink The Fucker
+Wed Apr  1 08:37:01 2015	95	The Lumineers	Charlie Boy	The Lumineers
+Wed Apr  1 08:41:24 2015	102	Father John Misty	This Is Sally Hatchet	Fear Fun
+Wed Apr  1 08:45:20 2015	96	Orenda Fink	Wind	Ask The Night
+Wed Apr  1 08:48:16 2015	98	Wolf Larsen	No One's To Blame	Quiet at the Kitchen Door
+Wed Apr  1 08:51:51 2015	107	Azure Ray	While I'm Still Young	Burn and Shiver
+Wed Apr  1 08:56:33 2015	105	John Prine	Sour Grapes	Diamonds In The Rough
+Wed Apr  1 08:58:37 2015	105	Other Lives	As I Lay My Head Down	Tamer Animals
+Wed Apr  1 09:02:27 2015	106	Milk Carton Kids	Undress The World	Prologue
+Wed Apr  1 09:05:36 2015	105	The Civil Wars	My Father's Father	Barton Hollow
+Wed Apr  1 09:08:47 2015	104	Iron & Wine	Dearest Forsaken	Around The Well
+Wed Apr  1 09:12:33 2015	108	Emily Jane White	Never Dead	Victorian America
+Wed Apr  1 09:15:57 2015	108	Fences	Sadie	Fences
+Wed Apr  1 09:19:15 2015	109	Bluemore Blaze	Love Me or Leave Me	n/a
+Wed Apr  1 09:22:58 2015	106	River City Extension	Adrianne	The Unmistakable Man
+Wed Apr  1 09:26:13 2015	110	Mandolin Orange	Clover Tune	Hard Hearted Stranger [Disc 2]
+Wed Apr  1 09:28:58 2015	106	Sea Of Bees	Blind	Songs For The Ravens
+Wed Apr  1 09:32:15 2015	107	Fionn Regan	Catacombs	The Shadow Of An Empire
+Wed Apr  1 09:35:29 2015	109	Chelsea Wolfe	Spinning Centers	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 09:38:37 2015	108	Punch Brothers	Next to the Trash	Antifogmatic
+Wed Apr  1 09:41:33 2015	111	Rocky Votolato	Sparklers	True Devotion
+Wed Apr  1 09:44:26 2015	110	Stephen Steinbrink	Three Brothers	Condensed Nothing
+Wed Apr  1 09:47:35 2015	111	Black Prairie	Home Made Lemonade	Feast of the Hunter's Moon
+Wed Apr  1 09:49:33 2015	113	PICTURE ATLANTIC	ANTIQUES UNLTD	Dulce Et Decorum Est
+Wed Apr  1 09:53:40 2015	119	Bon Iver	Beach Baby	Blood Bank
+Wed Apr  1 09:55:46 2015	115	Mr. Andrew	,	Love and How to Lose It
+Wed Apr  1 09:57:15 2015	118	Sonya Cotton	Regrets	It is so
+Wed Apr  1 09:59:36 2015	119	Tumbleweed Wanderers	I Went Away	Tumbleweed Wanderers
+Wed Apr  1 10:02:55 2015	122	Lonesome Animals	Burn	Lonesome Animals
+Wed Apr  1 10:05:56 2015	121	The Cave Singers	Dancing On Our Graves	Invitation Songs
+Wed Apr  1 10:09:27 2015	121	Brown Bird	Bilgewater	Salt For Salt
+Wed Apr  1 10:12:52 2015	124	Shelley Short	Swimming	Water For The Day
+Wed Apr  1 10:16:38 2015	122	Orenda Fink	High Ground	Ask The Night
+Wed Apr  1 10:19:35 2015	120	Noahs	Carry On	Cedar & Fire EP
+Wed Apr  1 10:23:26 2015	116	Ben Howard	Black Flies	Every Kingdom
+Wed Apr  1 10:29:37 2015	113	Tre Burt and a Big Gust of Wind	Conundrums	Little Mornings.
+Wed Apr  1 10:32:27 2015	113	Olof Arnalds	Skjaldborg	Vid og Vid
+Wed Apr  1 10:35:15 2015	111	Split Screens	Hovering	Split Screens EP
+Wed Apr  1 10:38:36 2015	111	The Tallest Man On Earth	Into The Stream	Shallow Grave
+Wed Apr  1 10:41:16 2015	108	Milk Carton Kids	Michigan	Prologue
+Wed Apr  1 10:46:34 2015	108	Matt Dorrien	Dear Alena	Always Winter
+Wed Apr  1 10:50:18 2015	106	Courtney Marie Andrews	Venus Is Prominent	For One I Knew (320 MP3)
+Wed Apr  1 10:56:33 2015	110	Jay Brannan	Greatest Hits	Rob Me Blind
+Wed Apr  1 11:00:00 2015	111	Gregory Alan Isakov	Honey, It's Alright	The Weatherman [Explicit]
+Wed Apr  1 11:03:13 2015	108	Not Waving But Drowning	Processional	Processional
+Wed Apr  1 11:06:20 2015	112	Father John Misty	Well, You Can Do It Without Me	Fear Fun
+Wed Apr  1 11:08:53 2015	109	Round Mountain	The Goat	The Goat
+Wed Apr  1 11:10:33 2015	107	Other Lives	Old Statues	Tamer Animals
+Wed Apr  1 11:14:38 2015	104	Stephen Steinbrink	Reservation For A Nest	Condensed Nothing
+Wed Apr  1 11:18:51 2015	106	Rocky Votolato	Start Over	Television Of Saints
+Wed Apr  1 11:21:39 2015	107	Mandolin Orange	Slither	Haste Make [Disc 1]
+Wed Apr  1 11:25:07 2015	113	Courtney Marie Andrews	Broken Feet	For One I Knew (320 MP3)
+Wed Apr  1 11:31:43 2015	104	Milk Carton Kids	I Still Want A Little More	Prologue
+Wed Apr  1 11:34:51 2015	110	Chelsea Wolfe	The Way We Used To	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 11:37:32 2015	107	Iron & Wine	Sunset Soon Forgotten	Our Endless Numbered Days
+Wed Apr  1 11:40:49 2015	102	Unknown Mortal Orchestra	Swim & Sleep (Like A Shark)	Blue Record
+Wed Apr  1 11:43:13 2015	101	Ah Holly Fam'ly	Loneliest City	Reservoir
+Wed Apr  1 11:47:32 2015	105	Lissie	Little Lovin'	SXSW 2010 Showcasing Artists
+Wed Apr  1 11:51:52 2015	100	Ben Howard	Only Love	Every Kingdom
+Wed Apr  1 11:56:05 2015	102	M. Ward	Oh Lonesome Me	Hold Time
+Wed Apr  1 12:02:01 2015	104	Fionn Regan	Coat Hook	The Shadow Of An Empire
+Wed Apr  1 12:04:27 2015	104	Spirits Of The Red City	As Animal	Hunter Moon
+Wed Apr  1 12:06:57 2015	107	Arcola	What Happens	Arcola
+Wed Apr  1 12:09:59 2015	108	Matt Dorrien	New and Cloudless Morning	Always Winter
+Wed Apr  1 12:13:32 2015	110	Daughter	Landfill	His Young Heart EP
+Wed Apr  1 12:17:42 2015	106	Tumbleweed Wanderers	Hard Times	So Long
+Wed Apr  1 12:23:16 2015	106	The Tallest Man On Earth	The Blizzard's Never Seen The Desert Sands	Shallow Grave
+Wed Apr  1 12:25:17 2015	102	Olof Arnalds	Klara	Vid og Vid
+Wed Apr  1 12:27:18 2015	97	Kenneth Pattengale & Joey Ryan	Broken Headlights	Retrospect
+Wed Apr  1 12:30:41 2015	93	Angus & Julia Stone	Take You Away	Memories Of An Old Friend
+Wed Apr  1 12:34:38 2015	92	The Decemberists	Rox in the Box	The King Is Dead
+Wed Apr  1 12:37:33 2015	93	Des Ark	My Saddle Is Waitin' (C'mon Jump On It)	Don't Rock The Boat, Sink The Fucker
+Wed Apr  1 12:42:57 2015	88	The Lumineers	Charlie Boy	The Lumineers
+Wed Apr  1 12:47:12 2015	92	Father John Misty	This Is Sally Hatchet	Fear Fun
+Wed Apr  1 12:51:21 2015	89	Orenda Fink	Wind	Ask The Night
+Wed Apr  1 12:54:00 2015	87	Wolf Larsen	No One's To Blame	Quiet at the Kitchen Door
+Wed Apr  1 12:57:36 2015	88	Azure Ray	While I'm Still Young	Burn and Shiver
+Wed Apr  1 13:02:37 2015	91	John Prine	Sour Grapes	Diamonds In The Rough
+Wed Apr  1 13:04:36 2015	90	Other Lives	As I Lay My Head Down	Tamer Animals
+Wed Apr  1 13:08:16 2015	87	Milk Carton Kids	Undress The World	Prologue
+Wed Apr  1 13:11:27 2015	85	The Civil Wars	My Father's Father	Barton Hollow
+Wed Apr  1 13:14:36 2015	88	Iron & Wine	Dearest Forsaken	Around The Well
+Wed Apr  1 13:18:20 2015	86	Emily Jane White	Never Dead	Victorian America
+Wed Apr  1 13:21:46 2015	90	Fences	Sadie	Fences
+Wed Apr  1 13:25:16 2015	88	Bluemore Blaze	Love Me or Leave Me	n/a
+Wed Apr  1 13:28:39 2015	90	River City Extension	Adrianne	The Unmistakable Man
+Wed Apr  1 13:32:11 2015	86	Mandolin Orange	Clover Tune	Hard Hearted Stranger [Disc 2]
+Wed Apr  1 13:34:44 2015	88	Sea Of Bees	Blind	Songs For The Ravens
+Wed Apr  1 13:38:09 2015	86	Fionn Regan	Catacombs	The Shadow Of An Empire
+Wed Apr  1 13:41:35 2015	84	Chelsea Wolfe	Spinning Centers	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 13:44:36 2015	76	Punch Brothers	Next to the Trash	Antifogmatic
+Wed Apr  1 13:47:34 2015	80	Rocky Votolato	Sparklers	True Devotion
+Wed Apr  1 13:50:22 2015	78	Stephen Steinbrink	Three Brothers	Condensed Nothing
+Wed Apr  1 13:53:30 2015	75	Black Prairie	Home Made Lemonade	Feast of the Hunter's Moon
+Wed Apr  1 13:55:25 2015	73	PICTURE ATLANTIC	ANTIQUES UNLTD	Dulce Et Decorum Est
+Wed Apr  1 13:59:30 2015	79	Rocky Votolato	Little Spring	Television Of Saints
+Wed Apr  1 14:02:29 2015	76	Mr. Andrew	Goodbye My Love	Farewell Folks!
+Wed Apr  1 14:04:11 2015	72	Brittsommar	Sing Low	n/a
+Wed Apr  1 14:06:08 2015	73	Gregory Alan Isakov	All Shades Of Blue	The Weatherman [Explicit]
+Wed Apr  1 14:09:32 2015	77	M. Ward	One Hundred Million Years	Hold Time
+Wed Apr  1 14:11:42 2015	76	Mandolin Orange	Haste Make	Haste Make [Disc 1]
+Wed Apr  1 14:15:00 2015	75	Brown Bird	Fingers to the Bone	Salt For Salt
+Wed Apr  1 14:18:16 2015	79	Azure Ray	We Exchanged Words	Burn and Shiver
+Wed Apr  1 14:20:40 2015	75	Kenneth Pattengale & Joey Ryan	Charlie	Retrospect
+Wed Apr  1 14:24:41 2015	76	Chelsea Wolfe	Halfsleeper	The Grime and The Glow
+Wed Apr  1 14:30:37 2015	73	Iron & Wine	Gray Stables	Woman King
+Wed Apr  1 14:34:28 2015	72	Amiina	Leather And Lace	The Lighthouse Project
+Wed Apr  1 14:38:21 2015	72	Noahs	Take Me Higher	Cedar & Fire EP
+Wed Apr  1 14:41:26 2015	73	Fionn Regan	Anchor Black Tattoo	The Bunkhouse Vol. 1: Anchor Black Tattoo
+Wed Apr  1 14:42:56 2015	72	Angus & Julia Stone	Babylon	Memories Of An Old Friend
+Wed Apr  1 14:47:55 2015	74	Matt Dorrien	Heal Me Tonight	Always Winter
+Wed Apr  1 14:50:38 2015	76	Lonesome Animals	With Every Heartbeat	Lonesome Animals
+Wed Apr  1 14:54:19 2015	76	Tumbleweed Wanderers	Quiver in my Bones	So Long
+Wed Apr  1 14:58:16 2015	74	River City Extension	South for the Winter	The Unmistakable Man
+Wed Apr  1 15:01:56 2015	77	Sonya Cotton	One By One	It is so
+Wed Apr  1 15:05:36 2015	72	Native Son	Migration	Migration EP
+Wed Apr  1 15:07:54 2015	67	Orenda Fink	The Garden	Ask The Night
+Wed Apr  1 15:10:59 2015	75	Gravenhurst	Bluebeard	Flashlight Seasons
+Wed Apr  1 15:15:35 2015	77	Father John Misty	I'm Writing a Novel	Fear Fun
+Wed Apr  1 15:18:48 2015	79	Emily Jane White	The Country Life	Victorian America
+Wed Apr  1 15:23:10 2015	76	First Aid Kit	King of the World	The Lion's Roar
+Wed Apr  1 15:26:42 2015	78	David Berkeley	Song For The Road	The Fire in My Head
+Wed Apr  1 15:32:31 2015	84	John Prine	Yes I Guess They Oughta Name A Drink After You	Diamonds In The Rough
+Wed Apr  1 15:34:34 2015	78	Other Lives	Woodwind Loop	Tamer Animals
+Wed Apr  1 15:36:47 2015	77	Owl Paws	Eyes Of the Prey	Owl Paws
+Wed Apr  1 15:41:14 2015	81	Brittsommar	Tell Me	n/a
+Wed Apr  1 15:45:26 2015	81	Milk Carton Kids	New York	Prologue
+Wed Apr  1 15:48:45 2015	85	Shelley Short	The Getalong	Water For The Day
+Wed Apr  1 15:51:22 2015	83	Daughter	Home	The Wild Youth (EP)
+Wed Apr  1 15:55:00 2015	84	Gregory Alan Isakov	Suitcase Full Of Sparks	The Weatherman [Explicit]
+Wed Apr  1 15:58:44 2015	83	Sea Of Bees	Sidepain	Songs For The Ravens
+Wed Apr  1 16:02:49 2015	84	Olof Arnalds	Orfeus og Evridis	Vid og Vid
+Wed Apr  1 16:08:17 2015	82	Black Prairie	Red Rocking Chair	Feast of the Hunter's Moon
+Wed Apr  1 16:12:36 2015	80	The Tallest Man On Earth	To Just Grow Away	There's No Leaving Now
+Wed Apr  1 16:15:40 2015	77	The Decemberists	Shankill Butchers	The Crane Wife
+Wed Apr  1 16:20:21 2015	77	Iron & Wine	Resurrection Fern	The Shepherd's Dog
+Wed Apr  1 16:24:50 2015	76	Chelsea Wolfe	Cousins of the Antichrist	The Grime and The Glow
+Wed Apr  1 16:27:40 2015	75	Kenneth Pattengale & Joey Ryan	Laredo	Retrospect
+Wed Apr  1 16:33:31 2015	78	The Lumineers	Stubborn Love	The Lumineers
+Wed Apr  1 16:37:56 2015	77	The Civil Wars	Girl with the Red Balloon	Barton Hollow
+Wed Apr  1 16:41:38 2015	79	Fionn Regan	Lines Written In Winter	The Shadow Of An Empire
+Wed Apr  1 16:45:38 2015	77	Rin Tin Tiger	Splinter Remedies	Splinter Remedies
+Wed Apr  1 16:47:34 2015	78	Rocky Votolato	Above The Water	Television Of Saints
+Wed Apr  1 16:50:56 2015	78	Damien Jurado	Life Away From The Garden	Maraqopa
+Wed Apr  1 16:53:45 2015	75	Matt Dorrien	When I Get Back Home	Always Winter
+Wed Apr  1 16:56:55 2015	74	Gravenhurst	Hopechapel Hill	Flashlight Seasons
+Wed Apr  1 17:01:28 2015	69	Lonesome Animals	Sunrise	Soft Light
+Wed Apr  1 17:04:24 2015	70	Passenger & Pilot	Ballad of the Wide Wound	The Calm Before
+Wed Apr  1 17:08:34 2015	70	Unknown Mortal Orchestra	Faded In The Morning (Acoustic Version)	Blue Record
+Wed Apr  1 17:11:46 2015	69	River City Extension	Too Tired to Drink	The Unmistakable Man
+Wed Apr  1 17:14:42 2015	69	John Prine	Diamonds In The Rough	Diamonds In The Rough
+Wed Apr  1 17:16:42 2015	66	Ben Howard	The Wolves	Every Kingdom
+Wed Apr  1 17:21:40 2015	72	Hurray For The Riff Raff	Jealous Guy	My Dearest Darkest Neighbor
+Wed Apr  1 17:25:02 2015	71	M. Ward	Rave On	Hold Time
+Wed Apr  1 17:28:42 2015	66	PICTURE ATLANTIC	WE SING LIKE JAILBIRDS	Dulce Et Decorum Est
+Wed Apr  1 17:31:59 2015	65	Mandolin Orange	Wake Me	Haste Make [Disc 1]
+Wed Apr  1 17:36:39 2015	66	Father John Misty	Nancy From Now On	Fear Fun
+Wed Apr  1 17:40:16 2015	73	Gregory Alan Isakov	Astronaut	The Weatherman [Explicit]
+Wed Apr  1 17:42:33 2015	73	Daughter	Youth	If You Leave
+Wed Apr  1 17:46:30 2015	70	Azure Ray	A Thousand Years	Burn and Shiver
+Wed Apr  1 17:48:49 2015	71	Stephen Steinbrink	Repressed Filler Candor	Condensed Nothing
+Wed Apr  1 17:52:30 2015	67	The Tallest Man On Earth	King of Spain	The Wild Hunt
+Wed Apr  1 17:55:52 2015	63	Benjamin Henderson	Summer Beast	Dirty Birdies
+Wed Apr  1 18:00:33 2015	64	The Decemberists	Don't Carry It All	The King Is Dead
+Wed Apr  1 18:04:45 2015	64	Round Mountain	Without Fear	The Goat
+Wed Apr  1 18:09:31 2015	61	Rocky Votolato	Red River	True Devotion
+Wed Apr  1 18:12:56 2015	65	Fionn Regan	Genocide Matinee	The Shadow Of An Empire
+Wed Apr  1 18:16:49 2015	64	Chelsea Wolfe	Appalachia	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 18:19:59 2015	65	The Lumineers	Flowers In Your Hair	The Lumineers
+Wed Apr  1 18:21:42 2015	68	Stephen Steinbrink	Acher	Condensed Nothing
+Wed Apr  1 18:24:32 2015	67	Ben Howard	Diamonds	Every Kingdom
+Wed Apr  1 18:28:29 2015	68	Olof Arnalds	Nattsongur	Vid og Vid
+Wed Apr  1 18:32:40 2015	63	Ah Holly Fam'ly	All Unfolding	Reservoir
+Wed Apr  1 18:37:26 2015	60	Orenda Fink	Sister	Ask The Night
+Wed Apr  1 18:39:49 2015	60	Jay Brannan	La La La	Rob Me Blind
+Wed Apr  1 18:43:25 2015	53	The Lower 48	The End	Where All Maps End
+Wed Apr  1 18:47:52 2015	54	Angus & Julia Stone	Private Lawns	Memories Of An Old Friend
+Wed Apr  1 18:50:50 2015	56	The Civil Wars	To Whom It May Concern	Barton Hollow
+Wed Apr  1 18:54:33 2015	57	Tumbleweed Wanderers	You Should Know By Now	So Long
+Wed Apr  1 18:57:27 2015	59	Milk Carton Kids	Milk Carton Kid	Prologue
+Wed Apr  1 19:01:29 2015	58	Brown Bird	Blood of Angels	Salt For Salt
+Wed Apr  1 19:04:46 2015	61	Owl Paws	Sleepless&Hollow	Owl Paws
+Wed Apr  1 19:09:14 2015	60	Native Son	Keep My Head Down Low	Migration EP
+Wed Apr  1 19:12:40 2015	61	Mr. Andrew	Breathing Fire	Love and How to Lose It
+Wed Apr  1 19:14:41 2015	60	Arcola	Folklore	Arcola
+Wed Apr  1 19:17:23 2015	59	Sea Of Bees	Wizbot	Songs For The Ravens
+Wed Apr  1 19:21:58 2015	65	First Aid Kit	Blue	The Lion's Roar
+Wed Apr  1 19:24:57 2015	60	Black Prairie	Crooked Little Heart	Feast of the Hunter's Moon
+Wed Apr  1 19:28:56 2015	59	Cave Clove	If We're Lucky	Cabin Habits
+Wed Apr  1 19:32:19 2015	59	Lord Huron	She Lit A Fire	Lonesome Dreams
+Wed Apr  1 19:36:29 2015	56	John Prine	Everybody	Diamonds In The Rough
+Wed Apr  1 19:39:21 2015	54	Unknown Mortal Orchestra	So Good At Being In Trouble (Acoustic Version)	Blue Record
+Wed Apr  1 19:42:46 2015	53	Kenneth Pattengale & Joey Ryan	As It Must Be	Retrospect
+Wed Apr  1 19:47:27 2015	57	Gregory Alan Isakov	Amsterdam	The Weatherman [Explicit]
+Wed Apr  1 19:50:47 2015	57	Father John Misty	Hollywood Forever Cemetery Sings	Terminal Sales Vol. 5: Mixed Nuts
+Wed Apr  1 19:53:52 2015	52	Daughter	Candles	His Young Heart EP
+Wed Apr  1 19:58:39 2015	50	Iron & Wine	Belated Promise Ring	Around The Well
+Wed Apr  1 20:02:32 2015	46	The Decemberists	June Hymn	The King Is Dead
+Wed Apr  1 20:06:14 2015	49	Chelsea Wolfe	Our Work Was Good	Unknown Rooms: A Collection Of Acoustic Songs
+Wed Apr  1 20:07:50 2015	49	Fionn Regan	Protection Racket	The Shadow Of An Empire
+Wed Apr  1 20:10:33 2015	50	Control Noodle	Queen of the Underworld	n/a
+Wed Apr  1 20:13:23 2015	47	Stephen Steinbrink	Call You Later	Condensed Nothing
+Wed Apr  1 20:16:28 2015	48	Rin Tin Tiger	Spooky Spider	Rin Tin Tiger
+Wed Apr  1 20:19:45 2015	46	Lonesome Animals	Loralei	Lonesome Animals
+Wed Apr  1 20:22:14 2015	47	Round Mountain	One More Dream To Find	The Goat
+Wed Apr  1 20:25:27 2015	45	Angus & Julia Stone	Old Friend	Memories Of An Old Friend
+Wed Apr  1 20:29:27 2015	46	Rocky Votolato	Fragments	True Devotion
+Wed Apr  1 20:32:11 2015	46	Brown Bird	Chairkickers	Salt For Salt
+Wed Apr  1 20:35:26 2015	48	Milk Carton Kids	One Goodbye	Prologue
+Wed Apr  1 20:39:30 2015	53	Olof Arnalds	Vid og vid	Vid og Vid
+Wed Apr  1 20:45:08 2015	55	Emily Jane White	Liza	Victorian America
+Wed Apr  1 20:48:51 2015	56	Jay Brannan	Rob Me Blind	Rob Me Blind
+Wed Apr  1 20:53:49 2015	58	Mr. Andrew	Down The Sink	His Guitar Is Noir
+Wed Apr  1 20:54:40 2015	57	Other Lives	Dust Bowl III	Tamer Animals
+Wed Apr  1 20:59:13 2015	54	Mandolin Orange	Wake Me	Haste Make [Disc 1]
+Wed Apr  1 21:03:44 2015	53	Split Screens	Hovering	Split Screens EP
+Wed Apr  1 21:07:22 2015	55	Fox & Woman	Porch	Fox & Woman
+Wed Apr  1 21:09:53 2015	56	The Civil Wars	Barton Hollow	Barton Hollow
+Wed Apr  1 21:13:20 2015	55	John Prine	The Frying Pan	Diamonds In The Rough
+Wed Apr  1 21:15:16 2015	55	The Tallest Man On Earth	The Wild Hunt	The Wild Hunt
+Wed Apr  1 21:18:30 2015	56	First Aid Kit	Emmylou	The Lion's Roar
+Wed Apr  1 21:22:32 2015	58	Fences	Hands	Fences
+Wed Apr  1 21:25:49 2015	55	Kenneth Pattengale & Joey Ryan	Queen Jane	Retrospect
+Wed Apr  1 21:29:33 2015	54	Sonya Cotton	It Wasn't Long Ago	It is so
+Wed Apr  1 21:34:44 2015	55	M. Ward	For Beginners	Hold Time
+Wed Apr  1 21:37:27 2015	54	Bon Iver	Holocene	Bon Iver
+Wed Apr  1 21:42:45 2015	53	The Decemberists	Down By the Water	The King Is Dead
+Wed Apr  1 21:46:31 2015	55	Fionn Regan	Violent Demeanour	The Shadow Of An Empire
+Wed Apr  1 21:49:56 2015	51	Passenger & Pilot	Visitation	The Calm Before
+Wed Apr  1 21:53:18 2015	55	Owl Paws	Singing Strong	Owl Paws
+Wed Apr  1 21:55:20 2015	52	Hurray For The Riff Raff	I'm So Lonesome I Could Cry	My Dearest Darkest Neighbor
+Wed Apr  1 21:59:41 2015	53	Tumbleweed Wanderers	Someday You'll Understand	Tumbleweed Wanderers
+Wed Apr  1 22:03:03 2015	57	Matt Dorrien	Won't Leave Me	Always Winter
+Wed Apr  1 22:06:15 2015	56	PICTURE ATLANTIC	BEEHIVE	Dulce Et Decorum Est
+Wed Apr  1 22:09:14 2015	56	The Lumineers	Elouise (Lost EP Version)	n/a
+Wed Apr  1 22:11:34 2015	56	Lissie	First To Say Goodbye	Lissie - EP
+Wed Apr  1 22:14:45 2015	58	Amiina	Leather And Lace	The Lighthouse Project
+Wed Apr  1 22:18:38 2015	58	Greg Gives Peter Space	Electric Eel River	Greg Gives Peter Space
+Wed Apr  1 22:22:27 2015	58	Rocky Votolato	What Waited For Me	True Devotion
+Wed Apr  1 22:25:15 2015	54	Ah Holly Fam'ly	Young Veins	Reservoir
+Wed Apr  1 22:29:00 2015	52	Rin Tin Tiger	Far Away	Rin Tin Tiger
+Wed Apr  1 22:32:28 2015	51	Gregory Alan Isakov	She Always Takes It Black	The Weatherman [Explicit]
+Wed Apr  1 22:34:47 2015	54	Lisa Hannigan	Flowers	Passenger Bonus Track
+Wed Apr  1 22:39:21 2015	53	Jay Brannan	Greatest Hits	Rob Me Blind
+Wed Apr  1 22:43:14 2015	50	Angus & Julia Stone	Mango Tree	Memories Of An Old Friend
+Wed Apr  1 22:46:39 2015	53	Arcola	Winter Ladders	Arcola
+Wed Apr  1 22:49:11 2015	55	Reverend Peyton's Big Damn Band	Clap Your Hands	The Wages
+Wed Apr  1 22:53:41 2015	54	Chelsea Wolfe	Mer	Apokalypsis
+Wed Apr  1 22:57:27 2015	52	First Aid Kit	In the Hearts of Men	The Lion's Roar
+Wed Apr  1 23:01:24 2015	54	Not Waving But Drowning	Lowlands	Any Old Iron
+Wed Apr  1 23:03:44 2015	54	Ben Howard	Old Pine	Every Kingdom
+Wed Apr  1 23:09:07 2015	56	Courtney Marie Andrews	Pomegranate	For One I Knew (320 MP3)
+Wed Apr  1 23:13:15 2015	58	Restaurnaut	In Blunderland fin	n/a
+Wed Apr  1 23:16:59 2015	55	Emily Jane White	Never Dead	Victorian America
+Wed Apr  1 23:20:16 2015	56	Jens Lekman	I Want a Pair of Cowboy Boots	I Know What Love Isn't
+Wed Apr  1 23:23:16 2015	55	The Plastic Arts	I'm Fine	Academy Clonez
+Wed Apr  1 23:26:41 2015	54	Iron & Wine	Sunset Soon Forgotten	Our Endless Numbered Days
+Wed Apr  1 23:29:56 2015	55	Fionn Regan	House Detective	The Shadow Of An Empire
+Wed Apr  1 23:33:07 2015	58	Hurray For The Riff Raff	People Talkin'	My Dearest Darkest Neighbor
+Wed Apr  1 23:36:40 2015	56	Father John Misty	This Is Sally Hatchet	Fear Fun
+Wed Apr  1 23:40:40 2015	54	Kenneth Pattengale & Joey Ryan	Broken Headlights	Retrospect
+Wed Apr  1 23:43:52 2015	54	Townes Van Zandt	Like a Summer Thursday	Our Mother the Mountain
+Wed Apr  1 23:46:55 2015	56	Punch Brothers	Rye Whiskey	Antifogmatic
+Wed Apr  1 23:50:13 2015	57	Fox & Woman	Dark	Fox & Woman
+Wed Apr  1 23:54:29 2015	61	Matt Dorrien	Suzy	Always Winter
+Wed Apr  1 23:57:28 2015	61	River City Extension	Clever & Quickness	Nautical Sabbatical
+Thu Apr  2 00:00:46 2015	59	Tumbleweed Wanderers	Roll With the Times	So Long
+Thu Apr  2 00:04:54 2015	60	Damien Jurado	Maraqopa	Maraqopa
+Thu Apr  2 00:08:37 2015	65	Spirits Of The Red City	Can't Come Home	Hunter Moon
+Thu Apr  2 00:11:38 2015	68	Emily Jane White	A Shot Rang Out	Victorian America
+Thu Apr  2 00:16:00 2015	68	Angus & Julia Stone	Lonely Hands	Memories Of An Old Friend
+Thu Apr  2 00:19:45 2015	70	Fox & Woman	Whiskey	Fox & Woman
+Thu Apr  2 00:22:48 2015	70	Cave Clove	Favorite Lullaby	Cabin Habits
+Thu Apr  2 00:25:24 2015	71	Arcola	Oh, What A World	Arcola
+Thu Apr  2 00:27:37 2015	72	Black Prairie	Single Mistake	Feast of the Hunter's Moon
+Thu Apr  2 00:31:13 2015	69	The Decemberists	Dear Avery	The King Is Dead
+Thu Apr  2 00:36:14 2015	67	Other Lives	As I Lay My Head Down	Tamer Animals
+Thu Apr  2 00:39:46 2015	68	Angus Stone	River Love	Broken Brights
+Thu Apr  2 00:44:30 2015	75	Olof Arnalds	I nyju husi	Vid og Vid
+Thu Apr  2 00:48:56 2015	74	David Berkeley	Back To Blue	The Fire in My Head
+Thu Apr  2 00:52:30 2015	73	Townes Van Zandt	Why She's Acting This Way	Our Mother the Mountain
+Thu Apr  2 00:57:53 2015	73	Tiny Ruins	Reasonable Man	Brightly Painted One
+Thu Apr  2 01:03:12 2015	69	Gregory Alan Isakov	Time Will Tell	The Weatherman [Explicit]
+Thu Apr  2 01:05:46 2015	69	Rin Tin Tiger	War Veteran	Splinter Remedies
+Thu Apr  2 01:06:37 2015	73	Round Mountain	Come To The Garden	The Goat
+Thu Apr  2 01:12:18 2015	69	Kenneth Pattengale & Joey Ryan	Girls, Gather 'Round	Retrospect
+Thu Apr  2 01:17:10 2015	69	Chelsea Wolfe	Friedrichshain	Apokalypsis
+Thu Apr  2 01:19:37 2015	69	Rocky Votolato	Where We Started	True Devotion
+Thu Apr  2 01:23:10 2015	72	Matt Dorrien	Dear Alena	Always Winter
+Thu Apr  2 01:26:40 2015	73	Jens Lekman	Every Little Hair Knows Your Name	I Know What Love Isn't
+Thu Apr  2 01:29:45 2015	73	Joni Mitchell	Little Green	Blue
+Thu Apr  2 01:33:11 2015	69	Mandolin Orange	Big Men In The Sky	Hard Hearted Stranger [Disc 2]
+Thu Apr  2 01:37:08 2015	73	The Lumineers	Dead Sea	The Lumineers
+Thu Apr  2 01:41:12 2015	76	Not Waving But Drowning	In Flames	Any Old Iron
+Thu Apr  2 01:46:01 2015	79	Ah Holly Fam'ly	Lucky Peak	Reservoir
+Thu Apr  2 01:50:48 2015	81	Father John Misty	Tee Pees 1-12	Fear Fun
+Thu Apr  2 01:53:52 2015	78	River City Extension	Our New Intelligence	The Unmistakable Man
+Thu Apr  2 01:57:53 2015	78	Fionn Regan	Midnight Ferry Crossing	The Bunkhouse Vol. 1: Anchor Black Tattoo
+Thu Apr  2 01:59:45 2015	77	Emily Jane White	Baby	Victorian America
+Thu Apr  2 02:04:41 2015	74	Mr. Andrew	Goodbye Baby	Love and How to Lose It
+Thu Apr  2 02:07:04 2015	75	Sonya Cotton	One By One	It is so
+Thu Apr  2 02:10:39 2015	79	Noahs	Love Will Save Us	Cedar & Fire EP
+Thu Apr  2 02:13:49 2015	77	Hurray For The Riff Raff	My Morphine	My Dearest Darkest Neighbor
+Thu Apr  2 02:17:55 2015	78	Spirits Of The Red City	Goodbye Don't Go	Hunter Moon
+Thu Apr  2 02:21:52 2015	78	The Aviation Museum	I Just Got Here	Love Life
+Thu Apr  2 02:26:08 2015	77	Benjamin Henderson	All In Your Name	Dirty Birdies
+Thu Apr  2 02:28:35 2015	79	Shelley Short	How Grand	Water For The Day
+Thu Apr  2 02:31:22 2015	78	Milk Carton Kids	Stealing Romance	Prologue
+Thu Apr  2 02:33:56 2015	77	Bon Iver	Re: Stacks	For Emma, Forever Ago
+Thu Apr  2 02:40:01 2015	79	Sea Of Bees	The Gold	Songs For The Ravens
+Thu Apr  2 02:43:47 2015	78	The Decemberists	Yankee Bayonet (I Will Be Home Then)	Crane Wife
+Thu Apr  2 02:48:10 2015	78	Stephen Steinbrink	Nobody	Condensed Nothing
+Thu Apr  2 02:51:34 2015	78	Shaun David & The Lost	Diamonds	Super Baby
+Thu Apr  2 02:55:35 2015	79	John Prine	The Great Compromise	Diamonds In The Rough
+Thu Apr  2 03:00:19 2015	79	Brittsommar	Tell Me	n/a
+Thu Apr  2 03:04:38 2015	77	Ben Howard	The Fear	Every Kingdom
+Thu Apr  2 03:08:38 2015	80	Gregory Alan Isakov	Second Chances	The Weatherman [Explicit]
+Thu Apr  2 03:12:18 2015	80	The Tallest Man On Earth	1904	There's No Leaving Now
+Thu Apr  2 03:16:11 2015	79	Punch Brothers	This is the Song (Good Luck)	Antifogmatic
+Thu Apr  2 03:20:00 2015	79	Unknown Mortal Orchestra	Faded In The Morning (Acoustic Version)	Blue Record
+Thu Apr  2 03:23:18 2015	82	Chelsea Wolfe	Flatlands	Unknown Rooms: A Collection Of Acoustic Songs
+Thu Apr  2 03:27:23 2015	81	Rocky Votolato	Instrument	True Devotion
+Thu Apr  2 03:30:46 2015	81	Lord Huron	Brother	Lonesome Dreams
+Thu Apr  2 03:34:34 2015	78	Wolf Larsen	Jedi	Quiet at the Kitchen Door
+Thu Apr  2 03:39:13 2015	79	Father John Misty	Funtimes in Babylon	Fear Fun
+Thu Apr  2 03:42:51 2015	77	Olof Arnalds	Englar og darar	Vid og Vid
+Thu Apr  2 03:45:36 2015	82	Matt Dorrien	Summer	Always Winter
+Thu Apr  2 03:48:24 2015	82	Fionn Regan	Coat Hook	The Shadow Of An Empire
+Thu Apr  2 03:50:40 2015	81	The Civil Wars	20 Years	Barton Hollow
+Thu Apr  2 03:53:30 2015	83	Mandolin Orange	Runnin' Red	Haste Make [Disc 1]
+Thu Apr  2 03:56:45 2015	87	Azure Ray	A Thousand Years	Burn and Shiver
+Thu Apr  2 03:59:29 2015	87	Gravenhurst	Hopechapel Hill	Flashlight Seasons
+Thu Apr  2 04:03:56 2015	85	Round Mountain	Alight	The Goat
+Thu Apr  2 04:09:12 2015	84	Gregory Alan Isakov	Honey, It's Alright	The Weatherman [Explicit]
+Thu Apr  2 04:12:17 2015	83	The Decemberists	Rise to Me	The King Is Dead
+Thu Apr  2 04:17:15 2015	82	John Prine	The Late John Garfield Blues	Diamonds In The Rough
+Thu Apr  2 04:20:18 2015	83	Angus & Julia Stone	Paper Aeroplane	Memories Of An Old Friend
+Thu Apr  2 04:23:48 2015	88	Kenneth Pattengale & Joey Ryan	Like A Cloak	Retrospect
+Thu Apr  2 04:28:46 2015	83	Bon Iver	Beach Baby	Blood Bank
+Thu Apr  2 04:31:01 2015	80	Lord Huron	Lullaby	Lonesome Dreams
+Thu Apr  2 04:34:40 2015	81	Chelsea Wolfe	Tracks (Tall Bodies)	Apokalypsis
+Thu Apr  2 04:38:43 2015	80	The Lower 48	Into The Woods	Where All Maps End
+Thu Apr  2 04:43:19 2015	75	Milk Carton Kids	I Still Want A Little More	Prologue
+Thu Apr  2 04:46:01 2015	78	Orenda Fink	High Ground	Ask The Night
+Thu Apr  2 04:49:16 2015	83	Westwood & Willow	Colours	Doorways, Vehicles and Markets (320 kbps MP3)
+Thu Apr  2 04:53:12 2015	83	Olof Arnalds	Moldin	Vid og Vid
+Thu Apr  2 04:56:39 2015	77	Iron & Wine	Woman King	Woman King
+Thu Apr  2 05:00:50 2015	74	Hurray For The Riff Raff	Black Jack Davey	My Dearest Darkest Neighbor
+Thu Apr  2 05:03:54 2015	76	Stephen Steinbrink	Minor Scrapes	Condensed Nothing
+Thu Apr  2 05:08:33 2015	72	Sonya Cotton	Frozen Hands	It is so
+Thu Apr  2 05:11:30 2015	73	Fionn Regan	The Shadow Of An Empire	The Shadow Of An Empire
+Thu Apr  2 05:15:18 2015	70	Tumbleweed Wanderers	Hard Times	So Long
+Thu Apr  2 05:20:47 2015	73	The Lumineers	Submarines	The Lumineers
+Thu Apr  2 05:23:26 2015	70	Tre Burt and a Big Gust of Wind	Conundrums	Little Mornings.
+Thu Apr  2 05:26:00 2015	68	Shareef Ali & The Radical Folksonomy	World's Oldest Profession	The Once And Future Boyfriend (MP3)
+Thu Apr  2 05:30:57 2015	71	Daughter	Switzerland	His Young Heart EP
+Thu Apr  2 05:34:51 2015	77	The Cave Singers	Dancing On Our Graves	Invitation Songs
+Thu Apr  2 05:38:15 2015	72	Matt Dorrien	Love Is A Long Black River	Always Winter
+Thu Apr  2 05:40:48 2015	74	River City Extension	It's No Ha-ha-ha	Nautical Sabbatical
+Thu Apr  2 05:44:57 2015	72	Other Lives	Dark Horse	Tamer Animals
+Thu Apr  2 05:47:30 2015	76	Brown Bird	End of Days	Salt For Salt
+Thu Apr  2 05:50:35 2015	71	Azure Ray	We Exchanged Words	Burn and Shiver
+Thu Apr  2 05:53:12 2015	71	Arcola	Folklore	Arcola
+Thu Apr  2 05:55:42 2015	70	Mr. Andrew	In the Choir	Farewell Folks!
+Thu Apr  2 05:58:24 2015	73	Rocky Votolato	Red River	True Devotion
+Thu Apr  2 06:01:42 2015	73	M. Ward	Jailbird	Hold Time
+Thu Apr  2 06:04:00 2015	74	Lonesome Animals	Burn	Lonesome Animals
+Thu Apr  2 06:07:13 2015	73	Round Mountain	St. Joseph	The Goat
+Thu Apr  2 06:12:35 2015	73	Ah Holly Fam'ly	Year of The Viking	Reservoir
+Thu Apr  2 06:14:47 2015	74	The Tallest Man On Earth	Burden of Tomorrow	The Wild Hunt
+Thu Apr  2 06:18:19 2015	72	Milk Carton Kids	There By Your Side	Prologue
+Thu Apr  2 06:22:00 2015	76	The Decemberists	June Hymn	The King Is Dead
+Thu Apr  2 06:25:56 2015	79	Not Waving But Drowning	The Mission	Processional
+Thu Apr  2 06:28:49 2015	76	Cartoon Bar Fight	The Kingdom Of...	Reincarnate
+Thu Apr  2 06:31:51 2015	73	Father John Misty	Misty's Nightmares 1 & 2	Fear Fun
+Thu Apr  2 06:34:53 2015	75	Hurray For The Riff Raff	Cuckoo	My Dearest Darkest Neighbor
+Thu Apr  2 06:38:27 2015	75	Jay Brannan	Everywhere There's Statues	Rob Me Blind
+Thu Apr  2 06:41:42 2015	74	Gregory Alan Isakov	O' City Lights	The Weatherman [Explicit]
+Thu Apr  2 06:44:14 2015	73	Fionn Regan	Little Nancy	The Shadow Of An Empire
+Thu Apr  2 06:47:20 2015	74	Iron & Wine	Gray Stables	Woman King
+Thu Apr  2 06:51:02 2015	74	Wolf Larsen	No One's To Blame	Quiet at the Kitchen Door
+Thu Apr  2 06:54:34 2015	79	Olof Arnalds	Klara	Vid og Vid
+Thu Apr  2 06:56:48 2015	79	Mandolin Orange	Killer	Hard Hearted Stranger [Disc 2]
+Thu Apr  2 06:59:41 2015	83	Father John Misty	Nancy From Now On	Fear Fun
+Thu Apr  2 07:03:14 2015	76	Gregory Alan Isakov	Living Proof	The Weatherman [Explicit]
+Thu Apr  2 07:07:23 2015	81	Kenneth Pattengale & Joey Ryan	Memoirs Of An Owned Dog	Retrospect
+Thu Apr  2 07:11:30 2015	90	Arcola	Sam And Lorraine	Arcola
+Thu Apr  2 07:13:47 2015	90	John Prine	Souvenirs	Diamonds In The Rough
+Thu Apr  2 07:17:34 2015	89	Rocky Votolato	Sparks	Television Of Saints
+Thu Apr  2 07:20:40 2015	86	Lonesome Animals	With Every Heartbeat	Lonesome Animals
+Thu Apr  2 07:24:17 2015	88	Lord Huron	The Ghost On The Shore	Lonesome Dreams
+Thu Apr  2 07:28:34 2015	85	The Lumineers	Slow It Down	The Lumineers
+Thu Apr  2 07:33:36 2015	82	Joni Mitchell	River	Blue
+Thu Apr  2 07:37:26 2015	81	Iron & Wine	Belated Promise Ring	Around The Well
+Thu Apr  2 07:41:03 2015	82	Emily Jane White	The Country Life	Victorian America
+Thu Apr  2 07:45:29 2015	80	Chelsea Wolfe	Gold	Unknown Rooms: A Collection Of Acoustic Songs
+Thu Apr  2 07:48:38 2015	79	The Civil Wars	My Father's Father	Barton Hollow
+Thu Apr  2 07:51:35 2015	82	River City Extension	Today, I Feel Like I'm Evolving	The Unmistakable Man
+Thu Apr  2 07:57:14 2015	88	Rin Tin Tiger	Ghost Door	Rin Tin Tiger
+Thu Apr  2 07:59:57 2015	89	Milk Carton Kids	New York	Prologue
+Thu Apr  2 08:03:17 2015	90	Round Mountain	Mama Sweet Mama	The Goat
+Thu Apr  2 08:06:41 2015	89	Tumbleweed Wanderers	No Longer Waiting	So Long
+Thu Apr  2 08:09:50 2015	90	Matt Dorrien	New and Cloudless Morning	Always Winter
+Thu Apr  2 08:13:12 2015	95	Fionn Regan	Anchor Black Tattoo	The Bunkhouse Vol. 1: Anchor Black Tattoo
+Thu Apr  2 08:14:57 2015	95	First Aid Kit	In the Hearts of Men	The Lion's Roar
+Thu Apr  2 08:18:52 2015	98	Hurray For The Riff Raff	Goin' Away	My Dearest Darkest Neighbor
+Thu Apr  2 08:21:02 2015	96	The Tallest Man On Earth	Love is All	The Wild Hunt
+Thu Apr  2 08:25:13 2015	96	Jens Lekman	I Want a Pair of Cowboy Boots	I Know What Love Isn't
+Thu Apr  2 08:28:24 2015	97	Unknown Mortal Orchestra	Swim & Sleep (Like A Shark)	Blue Record
+Thu Apr  2 08:31:09 2015	95	David Berkeley	The Well (Wait For The Rain)	The Fire in My Head
+Thu Apr  2 08:33:45 2015	96	Brown Bird	Bilgewater	Salt For Salt
+Thu Apr  2 08:37:02 2015	96	The Lower 48	The End	Where All Maps End
+Thu Apr  2 08:41:38 2015	100	Kenneth Pattengale & Joey Ryan	Trouble In These Parts	Retrospect
+Thu Apr  2 08:46:01 2015	103	Des Ark	My Saddle Is Waitin' (C'mon Jump On It)	Don't Rock The Boat, Sink The Fucker
+Thu Apr  2 08:51:14 2015	103	Spirits Of The Red City	Mirror	Hunter Moon
+Thu Apr  2 08:54:54 2015	104	Shelley Short	Godamn Thing	Water For The Day
+Thu Apr  2 08:58:05 2015	105	Ben Howard	Diamonds	Every Kingdom
+Thu Apr  2 09:02:14 2015	95	Arcola	Houses	Arcola
+Thu Apr  2 09:05:25 2015	101	Mandolin Orange	Haste Make	Haste Make [Disc 1]
+Thu Apr  2 09:09:18 2015	97	Bon Iver	For Emma	For Emma, Forever Ago
+Thu Apr  2 09:12:07 2015	100	Damien Jurado	Maraqopa	Maraqopa
+Thu Apr  2 09:15:37 2015	99	Rocky Votolato	Sparklers	True Devotion
+Thu Apr  2 09:18:45 2015	99	Iron & Wine	Morning	Around The Well
+Thu Apr  2 09:21:21 2015	100	Sonya Cotton	Regrets	It is so
+Thu Apr  2 09:23:11 2015	101	Control Noodle	Out in the Sun	n/a
+Thu Apr  2 09:25:13 2015	103	Stephen Steinbrink	Acher	Condensed Nothing
+Thu Apr  2 09:27:24 2015	103	The Decemberists	Summersong	The Crane Wife
+Thu Apr  2 09:30:51 2015	105	Amiina	Leather And Lace	The Lighthouse Project
+Thu Apr  2 09:34:47 2015	102	Jake Flood & T.bias	Yeah Yeah	n/a
+Thu Apr  2 09:37:37 2015	99	Olof Arnalds	Orfeus og Evridis	Vid og Vid
+Thu Apr  2 09:42:55 2015	100	Owl Paws	Sleepless&Hollow	Owl Paws
+Thu Apr  2 09:47:20 2015	100	Angus & Julia Stone	Mango Tree	Memories Of An Old Friend
+Thu Apr  2 09:50:53 2015	102	Chelsea Wolfe	Spinning Centers	Unknown Rooms: A Collection Of Acoustic Songs
+Thu Apr  2 09:53:48 2015	104	Lissie	Little Lovin'	SXSW 2010 Showcasing Artists
+Thu Apr  2 09:58:24 2015	106	Tre Burt and a Big Gust of Wind	Music From The House Next Door	Little Mornings.
+Thu Apr  2 10:01:35 2015	108	M. Ward	Oh Lonesome Me	Hold Time
+Thu Apr  2 10:07:38 2015	113	Greg Gives Peter Space	Electric Eel River	Greg Gives Peter Space
+Thu Apr  2 10:11:30 2015	110	Black Prairie	Single Mistake	Feast of the Hunter's Moon
+Thu Apr  2 10:15:21 2015	113	John Prine	Sour Grapes	Diamonds In The Rough
+Thu Apr  2 10:17:11 2015	113	Other Lives	Woodwind Loop	Tamer Animals
+Thu Apr  2 10:19:41 2015	111	David Berkeley	The Fire In My Head	The Fire in My Head
+Thu Apr  2 10:23:14 2015	109	Split Screens	Born	Split Screens EP
+Thu Apr  2 10:27:18 2015	113	The Lumineers	Charlie Boy	The Lumineers
+Thu Apr  2 10:31:30 2015	111	Milk Carton Kids	Undress The World	Prologue
+Thu Apr  2 10:34:43 2015	110	River City Extension	Something Salty, Something Sweet	The Unmistakable Man
+Thu Apr  2 10:38:18 2015	112	Hurray For The Riff Raff	Just A Heart	My Dearest Darkest Neighbor
+Thu Apr  2 10:41:56 2015	110	Jay Brannan	Denmark	Rob Me Blind
+Thu Apr  2 10:45:11 2015	117	Shelley Short	Further & Farther	Water For The Day
+Thu Apr  2 10:48:21 2015	114	The Civil Wars	To Whom It May Concern	Barton Hollow
+Thu Apr  2 10:51:55 2015	111	Mandolin Orange	Wake Me	Haste Make [Disc 1]
+Thu Apr  2 10:56:25 2015	119	Iron & Wine	Resurrection Fern	The Shepherd's Dog
+Thu Apr  2 11:01:24 2015	123	Mandolin Orange	Killer	Hard Hearted Stranger [Disc 2]
+Thu Apr  2 11:03:55 2015	122	Father John Misty	Nancy From Now On	Fear Fun
+Thu Apr  2 11:07:35 2015	128	Gregory Alan Isakov	Living Proof	The Weatherman [Explicit]
+Thu Apr  2 11:11:43 2015	131	Kenneth Pattengale & Joey Ryan	Memoirs Of An Owned Dog	Retrospect
+Thu Apr  2 11:15:57 2015	122	Arcola	Sam And Lorraine	Arcola
+Thu Apr  2 11:18:18 2015	118	John Prine	Souvenirs	Diamonds In The Rough
+Thu Apr  2 11:21:47 2015	120	Rocky Votolato	Sparks	Television Of Saints
+Thu Apr  2 11:25:00 2015	120	Lonesome Animals	With Every Heartbeat	Lonesome Animals
+Thu Apr  2 11:28:39 2015	120	Lord Huron	The Ghost On The Shore	Lonesome Dreams
+Thu Apr  2 11:32:50 2015	117	The Lumineers	Slow It Down	The Lumineers
+Thu Apr  2 11:37:56 2015	117	Joni Mitchell	River	Blue
+Thu Apr  2 11:41:47 2015	119	Iron & Wine	Belated Promise Ring	Around The Well
+Thu Apr  2 11:45:35 2015	121	Emily Jane White	The Country Life	Victorian America
+Thu Apr  2 11:49:34 2015	124	Chelsea Wolfe	Gold	Unknown Rooms: A Collection Of Acoustic Songs
+Thu Apr  2 11:52:45 2015	119	The Civil Wars	My Father's Father	Barton Hollow
+Thu Apr  2 11:56:04 2015	119	River City Extension	Today, I Feel Like I'm Evolving	The Unmistakable Man
+Thu Apr  2 12:01:43 2015	120	Rin Tin Tiger	Ghost Door	Rin Tin Tiger
+Thu Apr  2 12:04:18 2015	123	Milk Carton Kids	New York	Prologue
+Thu Apr  2 12:07:36 2015	123	Round Mountain	Mama Sweet Mama	The Goat
+Thu Apr  2 12:10:53 2015	118	Tumbleweed Wanderers	No Longer Waiting	So Long
+Thu Apr  2 12:14:11 2015	119	Matt Dorrien	New and Cloudless Morning	Always Winter
+Thu Apr  2 12:17:33 2015	116	Fionn Regan	Anchor Black Tattoo	The Bunkhouse Vol. 1: Anchor Black Tattoo
+Thu Apr  2 12:19:13 2015	115	First Aid Kit	In the Hearts of Men	The Lion's Roar
+Thu Apr  2 12:23:13 2015	118	Hurray For The Riff Raff	Goin' Away	My Dearest Darkest Neighbor
+Thu Apr  2 12:25:27 2015	114	The Tallest Man On Earth	Love is All	The Wild Hunt
+Thu Apr  2 12:29:35 2015	116	Jens Lekman	I Want a Pair of Cowboy Boots	I Know What Love Isn't
+Thu Apr  2 12:32:43 2015	118	Unknown Mortal Orchestra	Swim & Sleep (Like A Shark)	Blue Record
+Thu Apr  2 12:35:09 2015	115	David Berkeley	The Well (Wait For The Rain)	The Fire in My Head
+Thu Apr  2 12:37:46 2015	113	Brown Bird	Bilgewater	Salt For Salt
+Thu Apr  2 12:41:37 2015	118	The Lower 48	The End	Where All Maps End
+Thu Apr  2 12:45:52 2015	111	Kenneth Pattengale & Joey Ryan	Trouble In These Parts	Retrospect
+Thu Apr  2 12:50:16 2015	110	Des Ark	My Saddle Is Waitin' (C'mon Jump On It)	Don't Rock The Boat, Sink The Fucker
+Thu Apr  2 12:55:32 2015	109	Spirits Of The Red City	Mirror	Hunter Moon
+Thu Apr  2 12:59:28 2015	102	Shelley Short	Godamn Thing	Water For The Day
+Thu Apr  2 13:02:31 2015	102	Ben Howard	Diamonds	Every Kingdom
+Thu Apr  2 13:06:24 2015	101	Arcola	Houses	Arcola
+Thu Apr  2 13:09:34 2015	99	Mandolin Orange	Haste Make	Haste Make [Disc 1]
+Thu Apr  2 13:13:00 2015	101	Bon Iver	For Emma	For Emma, Forever Ago
+Thu Apr  2 13:16:38 2015	105	Damien Jurado	Maraqopa	Maraqopa
+Thu Apr  2 13:20:18 2015	100	Rocky Votolato	Sparklers	True Devotion
+Thu Apr  2 13:22:51 2015	100	Iron & Wine	Morning	Around The Well
+Thu Apr  2 13:25:35 2015	100	Sonya Cotton	Regrets	It is so
+Thu Apr  2 13:27:36 2015	101	Control Noodle	Out in the Sun	n/a
+Thu Apr  2 13:28:58 2015	100	Stephen Steinbrink	Acher	Condensed Nothing
+Thu Apr  2 13:31:45 2015	102	The Decemberists	Summersong	The Crane Wife
+Thu Apr  2 13:35:21 2015	105	Amiina	Leather And Lace	The Lighthouse Project
+Thu Apr  2 13:39:01 2015	103	Jake Flood & T.bias	Yeah Yeah	n/a
+Thu Apr  2 13:41:46 2015	100	Olof Arnalds	Orfeus og Evridis	Vid og Vid
+Thu Apr  2 13:47:10 2015	96	Owl Paws	Sleepless&Hollow	Owl Paws
+Thu Apr  2 13:51:38 2015	91	Angus & Julia Stone	Mango Tree	Memories Of An Old Friend
+Thu Apr  2 13:55:15 2015	90	Chelsea Wolfe	Spinning Centers	Unknown Rooms: A Collection Of Acoustic Songs
+Thu Apr  2 13:57:57 2015	94	Lissie	Little Lovin'	SXSW 2010 Showcasing Artists
+Thu Apr  2 14:02:28 2015	93	Father John Misty	I'm Writing a Novel	Fear Fun
+Thu Apr  2 14:05:58 2015	93	Stephen Steinbrink	Three Brothers	Condensed Nothing
+Thu Apr  2 14:09:23 2015	93	Round Mountain	The Goat	The Goat
+Thu Apr  2 14:10:59 2015	93	Chelsea Wolfe	Friedrichshain	Apokalypsis
+Thu Apr  2 14:13:37 2015	91	Matt Dorrien	Suzy	Always Winter
+Thu Apr  2 14:16:49 2015	88	Gravenhurst	Damage	Flashlight Seasons
+Thu Apr  2 14:21:19 2015	87	Spirits Of The Red City	As Animal	Hunter Moon
+Thu Apr  2 14:23:51 2015	88	Hurray For The Riff Raff	Jealous Guy	My Dearest Darkest Neighbor
+Thu Apr  2 14:27:23 2015	88	The Lumineers	Classy Girls	The Lumineers
+Thu Apr  2 14:29:52 2015	88	Kenneth Pattengale & Joey Ryan	Laredo	Retrospect
+Thu Apr  2 14:35:48 2015	83	Bluemore Blaze	Medication	n/a
+Thu Apr  2 14:38:44 2015	86	Orenda Fink	Why Is The Night Sad	Ask The Night
+Thu Apr  2 14:41:25 2015	88	Ben Howard	Black Flies	Every Kingdom
+Thu Apr  2 14:47:28 2015	83	Fences	My Girl the Horse	Fences
+Thu Apr  2 14:51:43 2015	80	Daughter	Switzerland	His Young Heart EP
+Thu Apr  2 14:55:34 2015	79	Mandolin Orange	Slither	Haste Make [Disc 1]
+Thu Apr  2 14:59:11 2015	77	The Decemberists	January Hymn	The King Is Dead
+Thu Apr  2 15:02:06 2015	74	Passenger & Pilot	Visitation	The Calm Before
+Thu Apr  2 15:05:21 2015	75	Gregory Alan Isakov	The Universe	The Weatherman [Explicit]
+Thu Apr  2 15:09:28 2015	78	Sonya Cotton	Washington	It is so
+Thu Apr  2 15:13:42 2015	75	Fionn Regan	67 Blackout	The Bunkhouse Vol. 1: Anchor Black Tattoo

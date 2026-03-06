@@ -1,0 +1,706 @@
+Wed Apr  1 00:01:20 2015	113	Carolyn Mark & Nq Arbuckle	All Time Low	Let's Just Stay Here
+Wed Apr  1 00:04:52 2015	114	Miss Lonely Hearts	Lonely Girls	Crying Bottle Blues
+Wed Apr  1 00:08:52 2015	118	Chuckanut Drive	Broken Promise Land	Fidelity Grange
+Wed Apr  1 00:13:09 2015	116	Oldtime Stringband	That's The Way The World Goes Round	n/a
+Wed Apr  1 00:17:01 2015	121	Dead Rock West	Boredom (How Did I Get Here)	n/a
+Wed Apr  1 00:20:31 2015	122	Dave Alvin	Amanda	Lonesome, On'ry and Mean: A Tribute to Waylon Jennings (Compilation)
+Wed Apr  1 00:23:22 2015	122	Corb Lund Band	Time To Switch To Whiskey	Five Dollar Bill
+Wed Apr  1 00:26:41 2015	122	Dead Hot Workshop	River Otis	1001
+Wed Apr  1 00:29:23 2015	122	Hail The Size	Mean Means I Love You	Side Two
+Wed Apr  1 00:31:08 2015	121	Star Room Boys	Whiskey And You	This World Just Won't Leave You Alone
+Wed Apr  1 00:35:42 2015	120	Wylie & The Wild West	Diet Of Strange Places	Relic
+Wed Apr  1 00:40:00 2015	118	Lee Hazelwood	If It's Monday Morning	n/a
+Wed Apr  1 00:43:52 2015	120	Rosie Flores	Who's Gonna Take Your Garbage Out?	n/a
+Wed Apr  1 00:46:10 2015	121	James Hand	Don't Want Me Too	Shadow on the Ground
+Wed Apr  1 00:48:38 2015	124	Eddie Spaghetti	Little Ol' Wine Drinker, Me	The Sauce
+Wed Apr  1 00:50:45 2015	123	Br5-49	Bettie Bettie	Live from Robert's
+Wed Apr  1 00:54:32 2015	119	Meat Purveyors	Little White Pills	More Songs About Buildings and Cows
+Wed Apr  1 00:56:49 2015	117	Long Ryders	You Don't Know What's Right, You Don't Know What's Wrong	Looking For Lewis And Clark: The Long Ryders Anthology
+Wed Apr  1 01:00:41 2015	118	Prickly Pair	The Big Food Chain	The Lights of Cheyenne
+Wed Apr  1 01:03:16 2015	118	Handsome Ned	Put The Blame On Me	The Name is Ned
+Wed Apr  1 01:06:13 2015	114	Rich Mahan	Tequila Y Mota	Blame Bobby Bare [Explicit]
+Wed Apr  1 01:10:10 2015	117	Deano Waco	Bottle Of Wine	n/a
+Wed Apr  1 01:12:41 2015	117	Inbreds	Don't Die While I'm Alive	Insurgent Country, Vol. 2: Hell-Bent
+Wed Apr  1 01:15:04 2015	112	Junior Brown	Broke Down South Of Dallas	12 Shades of Brown
+Wed Apr  1 01:17:25 2015	111	Bottle Rockets	Idiot's Revenge	The Brooklyn Side
+Wed Apr  1 01:21:05 2015	115	Joe Ely	Honky Tonk Masquerade	Honky Tonk Masquerade
+Wed Apr  1 01:24:55 2015	114	Townes Van Zandt	I'll Be Here In The Morning	Texas Troubadour
+Wed Apr  1 01:27:42 2015	116	Karl Shiflett And Big Country Show	If I Could Take You Home	Worries on My Mind
+Wed Apr  1 01:30:23 2015	114	Yvette Landry	Misery Loves Company	n/a
+Wed Apr  1 01:36:14 2015	114	Two Dollar Pistols	All About Eve	n/a
+Wed Apr  1 01:40:15 2015	112	Abner Burnett	Pancho & Lefty	Calavera
+Wed Apr  1 01:44:54 2015	112	Merle Haggard	Branded Man	Merle Haggard - 20 Greatest Hits
+Wed Apr  1 01:47:53 2015	112	Drive-By Truckers	Gravity's Gone	A Blessing and a Curse
+Wed Apr  1 01:51:25 2015	122	Loretta Lynch	Gone To Stay	n/a
+Wed Apr  1 01:55:54 2015	125	Dam Combo	Hannah's Lullabye	n/a
+Wed Apr  1 01:57:24 2015	127	Arty Hill And The Long Gone Daddys	Omaha Icu	n/a
+Wed Apr  1 02:00:52 2015	127	Dolly Ranchers	Train Bridge	Escape Artist
+Wed Apr  1 02:03:19 2015	128	Red Meat	Baby Beats Me The Best	13
+Wed Apr  1 02:05:29 2015	127	House Of Mercy Band	Burn A Hole	Too Many Treasures
+Wed Apr  1 02:07:58 2015	127	Robert Earl Keen	I Like Texas	n/a
+Wed Apr  1 02:12:06 2015	129	Gas Money	Every Empty Bottle	n/a
+Wed Apr  1 02:15:14 2015	129	Kevin Deal	Mucho Trabajo Y Poco Dinero	n/a
+Wed Apr  1 02:17:41 2015	127	Mark Simos	Crazy Faith	Crazy Faith
+Wed Apr  1 02:21:06 2015	120	Gram Parsons	Six Days On The Road	Live 1973
+Wed Apr  1 02:24:20 2015	126	Addam Scott	Running To The Ground	San Diablo [Explicit]
+Wed Apr  1 02:28:08 2015	127	Becky And The Ivanhoe Dutchmen	Seven Beers With The Wrong Woman	Sing Your Dancing Drink
+Wed Apr  1 02:30:38 2015	125	Big Joe Burke	Life In Prison	Love or Money
+Wed Apr  1 02:33:38 2015	129	Adam Carroll	Tears In My Gumbo	n/a
+Wed Apr  1 02:36:54 2015	129	Sara Petite	Drinkin' To Remember	n/a
+Wed Apr  1 02:40:40 2015	131	Gurf Morlix	Blanket	Diamonds to Dust
+Wed Apr  1 02:45:10 2015	135	Calamity & Main	Honky Tonk Heaven	Honky Tonk Heaven
+Wed Apr  1 02:47:43 2015	133	Gourds	Valentine	Haymaker!
+Wed Apr  1 02:51:21 2015	135	Jubileers	The Right String But The Wrong Yo Yo	n/a
+Wed Apr  1 02:53:47 2015	134	Texas Tornados	Guacamole	Hangin' on by a Thread
+Wed Apr  1 02:56:20 2015	134	Riptones	World Renowned	Insurgent Country, Vol. 2: Hell-Bent
+Wed Apr  1 02:59:37 2015	134	Corb Lund	Horse Soldier, Horse Soldier	Horse Soldier! Horse Soldier!
+Wed Apr  1 03:04:13 2015	128	Girls Guns And Glory	Keep On Calling	Inverted Valentine
+Wed Apr  1 03:07:31 2015	125	Arty Hill	Fight Night	n/a
+Wed Apr  1 03:10:18 2015	123	NQ Arbuckle	Art O'Leary	n/a
+Wed Apr  1 03:13:53 2015	127	Frog Holler	Spiders and Planes	Idiots
+Wed Apr  1 03:17:56 2015	125	Alejandro Escovedo	1968	Man of Somebody's Dreams - A Tribute to Chris Gaffney (Compilation)
+Wed Apr  1 03:22:57 2015	131	Johnny Cash	Paradise	Personal File
+Wed Apr  1 03:25:52 2015	130	Kelly Hogan & The Pine Valley Cosmonauts	13 Nights	Down To The Promised Land
+Wed Apr  1 03:29:00 2015	133	Sons Of The Pioneers	I'm An Old Cowhand	Ultimate Collection
+Wed Apr  1 03:31:44 2015	132	Jason Isbell & The 400 Unit	Alabama Pines	Here We Rest
+Wed Apr  1 03:35:28 2015	134	Rod Balch	Jesus In Jail	Fort Worth 76102
+Wed Apr  1 03:38:42 2015	130	Carolyn Mark	Wine Song	Pros & Cons of Collaboration
+Wed Apr  1 03:40:59 2015	132	Old 97's	Goin' Goin' Gone	Wreck Your Life
+Wed Apr  1 03:44:49 2015	133	Faron Young	Live Fast, Love Hard, Die Young	Faron Young - All-Time Greatest Hits
+Wed Apr  1 03:47:04 2015	135	Katy Moffatt	Stoned At The Jukebox	An Empty Glass: A Collection of Drinkin' Songs
+Wed Apr  1 03:50:30 2015	134	Jp Harris & The Tough Choices	Cross Your Name	I'll Keep Calling
+Wed Apr  1 03:54:49 2015	136	Rick Moranis	Three Days Rest	The Agoraphobic Cowboy
+Wed Apr  1 03:58:31 2015	137	77 El Deora	Short On Cash	Hammer & Tongs
+Wed Apr  1 04:02:04 2015	138	Patty Griffin	Don't Let Me Die In Florida	American Kid
+Wed Apr  1 04:05:41 2015	140	Hang Jones	Hangman's Noose	The Ballad of Carlsbad County
+Wed Apr  1 04:08:40 2015	139	Jonathan Byrd	Reckon I Did	Cackalack
+Wed Apr  1 04:12:29 2015	140	Johnny Horton	John Henry	Live Recordings from the Louisiana Hayride
+Wed Apr  1 04:15:39 2015	138	Country Fried	Faithful Man Woes	Life is Fine
+Wed Apr  1 04:19:08 2015	142	Roger Clyne & The Peacemakers	Loco To Stay Sane	Americano
+Wed Apr  1 04:25:33 2015	139	Steve Earle	Copperhead Road	Copperhead Road
+Wed Apr  1 04:29:50 2015	143	Arty Hill	Drunk Down By First Baptist	n/a
+Wed Apr  1 04:35:28 2015	144	Raul Malo	Tonight The Bottle Let Me Down	n/a
+Wed Apr  1 04:38:08 2015	147	Milton Mapes	The Only Sound That Matters	Westernaire
+Wed Apr  1 04:41:58 2015	150	Ann Humphreys With Greg Hawks	A 11	n/a
+Wed Apr  1 04:44:31 2015	151	Lonnie Spiker	Let Me Drink This Over	My Future Ain't What It Use to Be
+Wed Apr  1 04:47:09 2015	152	Cross Canadian Ragweed	Jimmy Annie	Cow Hear This!
+Wed Apr  1 04:50:10 2015	150	Hoyle Brothers	If I'm Not Drunk	Don't Leave Yet
+Wed Apr  1 04:52:58 2015	150	Tennessee Boltsmokers	Vintage All American Dream	Vintage All American Dream
+Wed Apr  1 04:56:10 2015	151	Buck Owens	Tiger By The Tail	40 Greatest Hits
+Wed Apr  1 04:58:29 2015	150	Bill Nettles	Hadacol Boogie	Tennesse Saturday Night: The Rural Route to Rock 'N' Roll
+Wed Apr  1 05:00:56 2015	152	New Heathens	Back To Jesus	n/a
+Wed Apr  1 05:05:09 2015	151	Texas Tornados	Laredo Rose	Texas Tornados
+Wed Apr  1 05:08:33 2015	153	Brennen Leigh & Noel McKay	Two Step Program	n/a
+Wed Apr  1 05:11:27 2015	152	Cornell Hurd Band	I Drink Too Much	Fanmail From The Lost Planet
+Wed Apr  1 05:15:10 2015	153	Bills	Nowhere To Be (And All Day To Get There)	Let Em Run
+Wed Apr  1 05:17:52 2015	152	Johnny Cash	Would You Lay With Me (In A Field Of Stone)	Unearthed
+Wed Apr  1 05:20:29 2015	150	Four Bitchin' Babes	Viagra In The Waters	Beyond Bitchin'
+Wed Apr  1 05:26:07 2015	159	Refreshments	Horses	The Bottle & Fresh Horses
+Wed Apr  1 05:30:19 2015	166	Steam Donkeys	April Fool For You	Little Honky Tonks
+Wed Apr  1 05:33:07 2015	172	Willie Nelson	Bloody Mary Morning	 Honeysuckle Rose: Music From The Original Soundtrack
+Wed Apr  1 05:36:01 2015	173	Bill Passalacqua	Whiskey	Reckless Pedestrian
+Wed Apr  1 05:38:55 2015	172	Tom Russell	Modern Art	Modern Art
+Wed Apr  1 05:42:59 2015	175	Blind Liquor Corn Pickers	Party Down Below	Appalachian Trail
+Wed Apr  1 05:46:52 2015	176	Red Meat	My Answered Prayer	Meet Red Meat
+Wed Apr  1 05:48:32 2015	174	Ronny Elliott	Camera Zone	Magneto
+Wed Apr  1 05:53:35 2015	175	Neko Case	Rated X	The Tigers Have Spoken
+Wed Apr  1 05:56:10 2015	179	JP Jones	Crawlin Out Of Wakefield	Thugs and Lovers
+Wed Apr  1 06:01:26 2015	186	Br549	Me And Opie	n/a
+Wed Apr  1 06:04:51 2015	188	Slaid Cleaves	Green Mountains And Me	Everything You Love Will Be Taken Away
+Wed Apr  1 06:08:31 2015	192	Robert Ellis	Sing Along	The Lights From The Chemical Plant
+Wed Apr  1 06:12:33 2015	184	Eric Brace And Peter Cooper	Ponzi Scheme	The Comeback Album
+Wed Apr  1 06:14:49 2015	187	Carolyn Mark & NQ Arbuckle	Officer Down	Let's Just Stay Here
+Wed Apr  1 06:18:42 2015	187	The Bills	Hello	Let Em Run
+Wed Apr  1 06:20:39 2015	187	Arty Hill And The Long Gone Daddys	Halfway House	n/a
+Wed Apr  1 06:24:27 2015	188	Warren Zevon	Carmelita	Warren Zevon
+Wed Apr  1 06:27:46 2015	192	Scott Miller And The Commonwealth	Red Ball Express	Upside Downside
+Wed Apr  1 06:30:47 2015	193	Long Gone Lonesome Boys	King Of Beers	Lonesome Time
+Wed Apr  1 06:34:34 2015	192	Dave Gleason's Wasted Days	(Wine) Take Away My Mind	Just Fall to Pieces
+Wed Apr  1 06:38:09 2015	199	Julian Fauth	Cobalt	Songs of Vice and Sorrow
+Wed Apr  1 06:43:27 2015	191	Joe Ely	She Never Spoke Spanish To Me	The Best of Joe Ely
+Wed Apr  1 06:46:43 2015	196	Meat Puppets	Lost	Classic Puppets
+Wed Apr  1 06:50:07 2015	202	Dale Watson	That's What I Like About Texas	Blessed or Damned
+Wed Apr  1 06:53:09 2015	209	Junior Brown	Little Red Rivi Airhead	This is Americana (Compilation)
+Wed Apr  1 06:56:40 2015	208	Kenny Rogers	Tulsa Turnaround	The Best of Kenny Rogers & The First Edition
+Wed Apr  1 07:00:11 2015	212	Dave Alvin	Barn Burning	King of California
+Wed Apr  1 07:03:55 2015	214	Phil Lee	Sonny George	So Long, It's Been Good To Know You
+Wed Apr  1 07:08:38 2015	213	Nick Kraus And His Austin Torpedoes	Medical Student	...the tragic tale of kim & polly jean
+Wed Apr  1 07:11:09 2015	214	Marty Jones & The Pork Boilin Poor Boys	One More Beer	n/a
+Wed Apr  1 07:14:56 2015	215	Country Dick	Led Zepplin Medley	n/a
+Wed Apr  1 07:16:06 2015	213	Old 97's	W-I-F-E	Early Tracks
+Wed Apr  1 07:19:35 2015	215	Lee Hazelwood	I Just Learned To Run	n/a
+Wed Apr  1 07:22:34 2015	211	David Ball	Amigo	Amigo
+Wed Apr  1 07:25:32 2015	211	Ramsay Midwood	Jesus Is # 1	n/a
+Wed Apr  1 07:28:09 2015	212	John Prine	Dear John (In Spite of Ourselves)	In Spite Of Ourselves
+Wed Apr  1 07:30:36 2015	215	Hot Club Of Cowtown	Dev'lish Mary	Dev'lish Mary
+Wed Apr  1 07:32:52 2015	211	Gourds	My Name Is Jorge	Cow Fish Fowl or Pig
+Wed Apr  1 07:36:42 2015	215	Beautiful Loser Society	The Desperate Promenade	n/a
+Wed Apr  1 07:40:26 2015	216	Rich Mahan	I'll Get Off The Booze	n/a
+Wed Apr  1 07:42:49 2015	217	Hank Williams	Move It On Over	20 of Hank Williams' Greatest Hits
+Wed Apr  1 07:45:31 2015	217	Meat Purveyors	Tallboy	All Relationships Are Doomed to Fail
+Wed Apr  1 07:48:33 2015	223	Eldorado	Don't Know What Hit Me	Suitcase
+Wed Apr  1 07:50:47 2015	222	Janet Bean	The Snakes Crawl At Night	The Executioner's Last Songs, Volume 1
+Wed Apr  1 07:53:44 2015	227	Texas Tornados	Una Mas Cerveza	Texas Tornados
+Wed Apr  1 07:56:32 2015	222	Leaving, TX	Father's Son	Anywhere on Good Roads
+Wed Apr  1 08:00:26 2015	224	Pine Box Boys	Arkansas Killing Time	Arkansas Killing Time
+Wed Apr  1 08:03:09 2015	225	Eddie Spaghetti	Cocaine Blues	The Sauce
+Wed Apr  1 08:05:44 2015	225	Wrinkle Neck Mules	Bury My Gold	n/a
+Wed Apr  1 08:09:45 2015	224	Robert Ellis	Bottle Of Wine	The Lights From The Chemical Plant
+Wed Apr  1 08:16:26 2015	231	Earl Brothers	Don't Drink From A Whiskey Bottle	n/a
+Wed Apr  1 08:19:10 2015	228	Rusty Evans	Shadow Of Night	Burning Man
+Wed Apr  1 08:23:09 2015	229	77 El Deora	Everybody Knows	Hammer & Tongs
+Wed Apr  1 08:26:34 2015	231	Jp Jones	Thas Right	Salvation Street
+Wed Apr  1 08:29:53 2015	234	Robbie Fulks	Knot Hole	13 Hillbilly Giants
+Wed Apr  1 08:32:19 2015	235	Michelle Shocked	Come A Long Way	Arkansas Traveler
+Wed Apr  1 08:36:59 2015	236	Carper Family	I've Tried	n/a
+Wed Apr  1 08:39:36 2015	229	Ronny Elliott	Burn, Burn, Burn	Poisonville
+Wed Apr  1 08:43:44 2015	227	Audrey Auld	Buck Hungry	Resurrection Moon
+Wed Apr  1 08:47:29 2015	228	Frank Black And The Catholics	New House Of The Pope	Show Me Your Tears
+Wed Apr  1 08:50:36 2015	231	Waco Brothers	Johnson To Jones	New Deal
+Wed Apr  1 08:53:23 2015	237	Floyd Tolston	Walmart Lovers	n/a
+Wed Apr  1 08:56:00 2015	233	Long Gone Lonesome Boys	Beaten Man	Crawling Back to You
+Wed Apr  1 08:58:33 2015	229	Guy Clark	Maybe I Can Paint Over That	Somedays The Song Writes You
+Wed Apr  1 09:02:44 2015	233	Handsome Family	The Bottomless Hole	Singing Bones
+Wed Apr  1 09:05:33 2015	230	Ryan Adams	To Be Young (Is To Be Sad, Is To Be High)	Heartbreaker
+Wed Apr  1 09:08:43 2015	230	Scott Miller	On A Roll	Citation (With The Commonweal
+Wed Apr  1 09:11:09 2015	231	Dave Alvin	Abilene	Blackjack David
+Wed Apr  1 09:15:55 2015	239	Dead Rock West	Angel Band	n/a
+Wed Apr  1 09:18:56 2015	242	Arizona Baby	Dieciseis Toneladas	n/a
+Wed Apr  1 09:22:50 2015	239	Youngers	Big Ol' Freight Train	Heritage
+Wed Apr  1 09:25:56 2015	228	Hank Penny	Rabbits Don't Ever Get Married	Crazy Rhythm: The Standard Transcriptions
+Wed Apr  1 09:28:39 2015	225	Gleny Rae Virus And Her Tamworth Playboys	Amnesia	Beyond Horizontal
+Wed Apr  1 09:32:34 2015	226	Wanda Jackson	Two Separate Barstools	Tears Will Be the Chaser for the Wine (Compilation)
+Wed Apr  1 09:35:00 2015	225	Bee's Knees	Another Day	Long Before
+Wed Apr  1 09:38:51 2015	233	Ali Holder	Drinking Double	In Preparation for Saturn's Return
+Wed Apr  1 09:43:21 2015	237	Gutt N Buckett	Drinkin Time	n/a
+Wed Apr  1 09:46:38 2015	231	Karl Shiflett And Big Country Show	How Wrong A Man Can Be	Worries on My Mind
+Wed Apr  1 09:49:29 2015	238	James Low	Back In The Saddle	Blackheart
+Wed Apr  1 09:51:46 2015	233	Amanda Pearcy	The Story Of My Heart	Royal Street
+Wed Apr  1 09:54:38 2015	232	Jay Farrar	Highwood	The Slaughter Rule
+Wed Apr  1 09:56:29 2015	238	NQ Arbuckle	In Another Time	Hanging the Battle-Scarred Pinata
+Wed Apr  1 09:59:32 2015	235	Arty Hill	Don't Take It Out On Tina	Bar of Gold
+Wed Apr  1 10:03:09 2015	233	Gas Money	Pretty Bar Girl	22 Dollars
+Wed Apr  1 10:07:43 2015	221	Frankie Laine	Rawhide	Round-Up
+Wed Apr  1 10:09:43 2015	218	Patty Griffin	Faithful Son	American Kid
+Wed Apr  1 10:14:31 2015	219	Smooth Hound Smith	30 Days	Smooth Hound Smith
+Wed Apr  1 10:17:44 2015	226	Beautiful Loser Society	A Bottle And A Bar Stool	n/a
+Wed Apr  1 10:21:34 2015	230	Abalone Dots	Craighead County Sky	Traveler
+Wed Apr  1 10:24:56 2015	232	Scott Miller Commonwealth	Highland County Boy	Thus Always to Tyrants
+Wed Apr  1 10:27:45 2015	241	Jason Ringenberg	Buckminster Fuller We Need You	Best Tracks and Side Tracks 1979-2007
+Wed Apr  1 10:30:51 2015	233	Chris Gaffney And The Cold Hard Facts	Every Now And Then	live and then some
+Wed Apr  1 10:34:34 2015	235	Hank Williams, Jr.	Whisky Bent And Hell Bound	The Complete Hank Williams Jr.
+Wed Apr  1 10:37:34 2015	227	Brian Wright And The Waco Tragedies	Falls County	Dog Ears
+Wed Apr  1 10:42:36 2015	224	BR549	When I Come Home	Tangled in the Pines
+Wed Apr  1 10:44:47 2015	223	Pine Box Boys	Bucket Of Guts	Arkansas Killing Time
+Wed Apr  1 10:48:39 2015	229	Hillbilly Cafe	I Like What I See	n/a
+Wed Apr  1 10:51:22 2015	230	Robbie Fulks	Act Like A Married Man	13 Hillbilly Giants
+Wed Apr  1 10:53:10 2015	231	Steam Donkeys	Little Honkey Tonks	n/a
+Wed Apr  1 10:56:01 2015	231	Lyle Lovett	San Antonio Girl	My Baby Don't Tolerate
+Wed Apr  1 10:59:35 2015	233	Hot Club Of Cowtown	I Had Someone Else	Swingin' Stampede: The Hot Club Of Cowtown Playing Hot Jazz & Western Swing
+Wed Apr  1 11:02:37 2015	232	Red Meat	Stay Away From Me	Alameda County Line
+Wed Apr  1 11:05:11 2015	230	Pondering Judd	Lakeshore Drive	Coalesce
+Wed Apr  1 11:09:28 2015	229	Sons Of The Pioneers	Cigareets And Whuskey And Wild Wild Women	Swinging Hollywood Hillbilly Cowboys (Compilation)
+Wed Apr  1 11:12:11 2015	228	Frank Black And The Catholics	Horrible Day	Show Me Your Tears
+Wed Apr  1 11:15:56 2015	224	I See Hawks In LA	Stop Driving Like An Asshole	n/a
+Wed Apr  1 11:17:09 2015	222	Bumper Jacksons	When I Get Low I Get High	n/a
+Wed Apr  1 11:19:53 2015	222	Matt Grimm & The Red Smear	Honea Path	n/a
+Wed Apr  1 11:24:05 2015	221	Buck Owens	Made In Japan	21
+Wed Apr  1 11:26:48 2015	222	Joe Ely	Suckin' A Big Bottle Of Gin	Joe Ely/Honky Tonk Masquerade
+Wed Apr  1 11:29:50 2015	230	Iris Dement And Loudon Wain...	Pack Up Your Sorrows	Bleecker Street: Greenwich Village In The 60's
+Wed Apr  1 11:32:25 2015	231	77 El Deora	Short On Cash	Hammer & Tongs
+Wed Apr  1 11:36:10 2015	231	Doug Seegers	Pour Me	n/a
+Wed Apr  1 11:39:40 2015	231	Willie Nelson	Dry Lightning	To All The Girls...
+Wed Apr  1 11:43:56 2015	224	Arlenes	She Ran Me Down	The Rough Guide to Americana (Compilation)
+Wed Apr  1 11:47:45 2015	223	Emmylou Harris	Slow Surprise	The Horse Whisperer
+Wed Apr  1 11:51:36 2015	224	Del Amitri	Be My Downfall	Hatful of Rain: The Best of Del Amitri
+Wed Apr  1 11:54:52 2015	221	Mulehead	Crooked Spine	Rocket Surgery
+Wed Apr  1 11:57:34 2015	216	Texas Tornados	Dinero	Texas Tornados
+Wed Apr  1 12:00:09 2015	224	Stevie Agnew	Pretend You Love Me Tonight	Wreckin' Yard [Explicit]
+Wed Apr  1 12:04:19 2015	221	Paleface & Just About To Burn	Upsetter	Raw
+Wed Apr  1 12:06:53 2015	219	Roger Creager	Love	Cow Hear This!
+Wed Apr  1 12:10:38 2015	220	Earl Brothers	Been Sittin' Here Drinkin'	n/a
+Wed Apr  1 12:13:29 2015	216	Corb Lund Band	No Roads Here	Five Dollar Bill
+Wed Apr  1 12:16:40 2015	217	Railbenders	Leavin' Song	Showdown
+Wed Apr  1 12:18:49 2015	220	Sovines	Some Blame Truckers	n/a
+Wed Apr  1 12:21:34 2015	228	John Moreland	God's Medicine	n/a
+Wed Apr  1 12:24:37 2015	231	Little Willies	I Gotta Get Drunk	The Little Willies
+Wed Apr  1 12:26:46 2015	232	Austin Lounge Lizards	Stupid Texas Song	Employee of the Month
+Wed Apr  1 12:30:09 2015	232	Handsome Family	Your Great Journey	Last Days of Wonder
+Wed Apr  1 12:33:21 2015	223	Whipsaws	High Tide	60 Watt Avenue
+Wed Apr  1 12:36:44 2015	231	Turnpike Troubadours	Gin, Smoke, Lies	Goodbye Normal Street
+Wed Apr  1 12:41:00 2015	228	Arty Hill & The Long Gone Daddys	Church On Saturday Night	Montgomery on My Mind
+Wed Apr  1 12:44:38 2015	234	Merle Haggard	Drink Up And Be Somebody	I'm a Lonesome Fugitive/Branded Man
+Wed Apr  1 12:46:41 2015	231	Cornell Hurd Band	Your Ex-Husband Sent Me Flowers	Cool & Unusual Punishment
+Wed Apr  1 12:49:54 2015	228	Joe Ely	Live Forever	Satisfied at Last
+Wed Apr  1 12:53:29 2015	223	77 El Deora	My Old Address Book	Sirens
+Wed Apr  1 12:56:25 2015	219	Tractors	Thirty Days	The Tractors
+Wed Apr  1 12:58:55 2015	219	Adam Carroll	Old Child Country Star	n/a
+Wed Apr  1 13:03:09 2015	217	Parker Millsap	Old Time Religion	Parker Millsap
+Wed Apr  1 13:06:57 2015	222	Robert Ellis	No Fun	Photographs
+Wed Apr  1 13:10:07 2015	219	Reverend Payton's Big Damn Band	Brown County Bound	n/a
+Wed Apr  1 13:12:53 2015	213	JP Jones	The Last Song	Life and Death
+Wed Apr  1 13:16:38 2015	219	Billy Bacon And The Forbidden Pigs	While The Wife's Away	Still Smokin' After 20 Years
+Wed Apr  1 13:19:58 2015	221	NQ Arbuckle	This Dark Kitchen	Hanging the Battle-Scarred Pinata
+Wed Apr  1 13:24:36 2015	216	Ronnie Fauss	I Can't Remember (What You Can't Forget)	I Am the Man You Know I'm Not
+Wed Apr  1 13:28:34 2015	218	Sean Wheeler And Zander Schloss	Stranded	n/a
+Wed Apr  1 13:32:45 2015	212	Broken Prayers	Little Black Heart	Crow
+Wed Apr  1 13:37:38 2015	219	Lucinda Williams	Jailhouse Tears	Little Honey
+Wed Apr  1 13:42:59 2015	214	Chuck Wagon and the Wheels	My Girl Passed Out In Her Food	n/a
+Wed Apr  1 13:45:33 2015	210	Julie Lee	Stillhouse Road	Stillhouse Road
+Wed Apr  1 13:49:39 2015	214	Skeeters	Honky Tonkin	Easy for the Takin'
+Wed Apr  1 13:52:45 2015	211	Mary Chapin Carpenter, Sheryl Crow & Emmylou Harris	Flesh And Blood	n/a
+Wed Apr  1 13:56:33 2015	221	Lyle Lovett	She's Leaving Me Because She R	Joshua Judges Ruth
+Wed Apr  1 14:00:11 2015	214	George Jones	The Window Up Above	The Essential George Jones
+Wed Apr  1 14:02:40 2015	206	James Intveld	Motel Time	Have Faith
+Wed Apr  1 14:05:20 2015	205	Tex Smith	A Wayfarer's Lament	n/a
+Wed Apr  1 14:08:55 2015	205	Chuckanut Drive	Half-Hopin'	Fidelity Grange
+Wed Apr  1 14:12:36 2015	207	Gwil Owen	No Ammunition	Insurgent Country, Vol. 3: Nashville, The Other Side Of The Alley
+Wed Apr  1 14:15:33 2015	201	Frog Holler	Idiots	Railings
+Wed Apr  1 14:19:29 2015	201	King Wilkie	Broke Down & Lonesome	Broke EP
+Wed Apr  1 14:22:19 2015	205	Beat Farmers	Big River	Pursuit of Happiness
+Wed Apr  1 14:24:50 2015	202	Mulehead	X'S In My Eyes	Rocket Surgery
+Wed Apr  1 14:26:56 2015	204	Jeff Hanna And Matraca Berg	Dark Eyed Gal	Unsung Hero: A Tribute to the Music of Ron Davies
+Wed Apr  1 14:30:11 2015	201	Robert Earl Keen	Goodbye Cleveland	The Rose Hotel
+Wed Apr  1 14:34:23 2015	199	Dennis Jay	Sorry Excuse For Love	WHAT YOU SEE
+Wed Apr  1 14:39:08 2015	196	Benny Martin And Bobby Osborne	Dim Lights, Thick Smoke	n/a
+Wed Apr  1 14:41:39 2015	192	Jason Ringenberg	Don't Come Home A Drinkin	All Over Creation
+Wed Apr  1 14:43:59 2015	192	Meatyard	The Sun Is On My Face Again	Toot Toot Boom Boom
+Wed Apr  1 14:46:44 2015	192	Whiskeytown	Nervous Breakdown	Rural Free Delivery
+Wed Apr  1 14:49:00 2015	192	Billy Joe Shaver	Try And Try Again	Try And Try Again
+Wed Apr  1 14:52:34 2015	191	James Hand	The Parakeet	Shadow on the Ground
+Wed Apr  1 14:54:47 2015	189	David Grissom	Nothin' Makes A Man Go Crazy	Loud Music
+Wed Apr  1 14:58:52 2015	190	Phil Lee	You Should Have Known Me Then	You Should Have Known Me Then
+Wed Apr  1 15:03:28 2015	188	Far West	Nothing Like You	The Far West
+Wed Apr  1 15:06:00 2015	189	Deano Waco	Workin For The Devil	n/a
+Wed Apr  1 15:08:48 2015	188	Slaid Cleaves	Horses And Divorces	Wishbones
+Wed Apr  1 15:11:52 2015	186	Todd Snider	The Ballad Of The Kingsmen	East Nashville Skyline
+Wed Apr  1 15:16:50 2015	187	Freakwater	Picture In My Mind	Springtime
+Wed Apr  1 15:20:30 2015	185	Dave Alvin	Railroad Bill	Public Domain: Songs from the Wild Land
+Wed Apr  1 15:23:36 2015	184	Diane Craig	The Ghost Of Townes Van Zandt	Fortunes Told
+Wed Apr  1 15:27:11 2015	181	Johnny Cash	I Still Miss Someone	The Essential Johnny Cash
+Wed Apr  1 15:29:38 2015	177	Rich Mahan	I'll Get Off The Booze	n/a
+Wed Apr  1 15:32:29 2015	177	Robbie Fulks	When You Get To The Bottom	Gone Away Backward
+Wed Apr  1 15:35:21 2015	181	Red Meat	Nashville Fantasy	Meet Red Meat
+Wed Apr  1 15:36:45 2015	179	Drive-By Truckers	Let There Be Rock	Southern Rock Opera (Dig)
+Wed Apr  1 15:40:49 2015	179	Meat Raffle Road	Shitfaced	Meat Raffle Road
+Wed Apr  1 15:47:59 2015	174	Barnstormers	Misery	Graveyard Town
+Wed Apr  1 15:51:00 2015	173	Johnnys	Injun Joe	Highlights of a Dangerous Life
+Wed Apr  1 15:54:10 2015	174	Over Mountain Men	Glorious Day	n/a
+Wed Apr  1 15:57:11 2015	173	Merle Haggard, Willie Nelson & George Jones	I Gotta Get Drunk	Walking the Line
+Wed Apr  1 15:59:16 2015	168	Jonell Mosser	Lungs	Around Townes
+Wed Apr  1 16:02:29 2015	170	Wayne Hancock	Best To Be Alone	Ride
+Wed Apr  1 16:04:58 2015	168	Rob Lytle	Drunk Girl	n/a
+Wed Apr  1 16:09:28 2015	172	Marty Stuart (With Johnny Cash	One More Ride	n/a
+Wed Apr  1 16:12:46 2015	172	Hangdogs	Beware Of Dog	Beware of Dog
+Wed Apr  1 16:14:59 2015	169	Merle Haggard	Set My Chickens Free	1994
+Wed Apr  1 16:17:29 2015	166	Railbenders	Gunfight	Showdown
+Wed Apr  1 16:19:44 2015	167	Victor Mourning	Fire Fire	A Handful of Locusts
+Wed Apr  1 16:22:16 2015	164	Dallas Wayne	Bouncin' Beer Cans Off The Jukebox	Here I Am in Dallas
+Wed Apr  1 16:25:09 2015	164	Old Crow Medicine Show	Dearly Departed Friend	n/a
+Wed Apr  1 16:29:28 2015	161	Asylum Street Spankers	Antifreeze	My Favorite Record
+Wed Apr  1 16:32:41 2015	162	Cornell Hurd Band	The Genitalia Of A Fool	Stage Coach Named Desire
+Wed Apr  1 16:36:05 2015	156	Gourds	Magnolia	Stadium Blitzer
+Wed Apr  1 16:38:38 2015	155	Steve Earle	Mr. Mudd & Mr. Gold	Townes
+Wed Apr  1 16:40:44 2015	158	Buddy and Julie Miller	Forever Has Come To An End	Buddy & Julie Miller
+Wed Apr  1 16:43:39 2015	160	Floyd Tolston	Mary Ann	Redneck Cheer
+Wed Apr  1 16:48:10 2015	158	Rizdales	Here I Go	Radio Country
+Wed Apr  1 16:50:47 2015	154	John Doe	I Can't Hold Myself In Love	Tulare Dust: A Songwriters' Tribute To Merle Haggard
+Wed Apr  1 16:53:44 2015	152	Mulehead	Eventually	Finer Thing
+Wed Apr  1 16:57:52 2015	154	George Thorogood & The Destroyers	Cocaine Blues	Let's Work Together Live
+Wed Apr  1 17:00:45 2015	151	Jason Ringenberg	Broken Whiskey Glass	Best Tracks and Side Tracks 1979-2007
+Wed Apr  1 17:04:19 2015	149	My Darling Clementine	I Bought Some Roses	How Do You Plead?
+Wed Apr  1 17:08:12 2015	148	Audrey Auld	Your Wife	Tonk
+Wed Apr  1 17:11:00 2015	146	Chuckanut Drive	Reno To Vegas	The Crooked Mile Home
+Wed Apr  1 17:13:27 2015	145	Ralph Stanley	False Hearted Lover's Blues	Ralph Stanley
+Wed Apr  1 17:17:59 2015	147	B Stars	One More Beer	West Coast Special
+Wed Apr  1 17:21:26 2015	147	Phil Lee	I'm The Why She's Gone	The Mighty King of Love
+Wed Apr  1 17:25:00 2015	145	Blind Robins	William Jennings Bryan	Panorama Valley
+Wed Apr  1 17:28:13 2015	142	77 El Deora	Happy Hour	Blue Line
+Wed Apr  1 17:31:26 2015	139	New Lost City Ramblers	Goodbye Old Booze	American Moonshine &amp; Prohibition
+Wed Apr  1 17:34:13 2015	140	Hot Club Of Cowtown	Stay All Night	n/a
+Wed Apr  1 17:36:53 2015	138	Peter Wolf	Growin' Pain	Sleepless
+Wed Apr  1 17:39:59 2015	142	Shut-Ins	There's A Man Who Comes To Our House	Sing Songs of Pain and Joy
+Wed Apr  1 17:42:31 2015	141	Howlin Tumbleweeds	Hell's Gate Motel	Trouble with the Man Downstairs
+Wed Apr  1 17:47:01 2015	132	Hank Williams	Half As Much	20 of Hank Williams' Greatest Hits
+Wed Apr  1 17:49:43 2015	132	Meat Purveyors	Go Out Smokin'	Sweet in the Pants
+Wed Apr  1 17:53:04 2015	130	Earl C. Whitehead & The Grievous Angels	Get It While It's Hot	Insurgent Country, Vol. 2: Hell-Bent
+Wed Apr  1 17:56:27 2015	132	Joe Ely	Character Flaw	Tin Cup
+Wed Apr  1 17:59:07 2015	129	Ali Holder	Drinking Double	In Preparation for Saturn's Return
+Wed Apr  1 18:03:46 2015	125	Copper & Coal	The Whole Damn Bottle	Copper & Coal
+Wed Apr  1 18:06:44 2015	125	Arty Hill & The Long Gone Daddys	Big Daddy's Rye	Back on the Rail
+Wed Apr  1 18:09:54 2015	127	William Lee Ellis	She Conquered The Conqueroo	Conqueroo
+Wed Apr  1 18:12:11 2015	127	Dave Alvin	What Did The Deep Sea Say	Public Domain: Songs from the Wild Land
+Wed Apr  1 18:15:15 2015	127	Lefty Frizzell	Saginaw Michigan	Look What Thoughts Will Do
+Wed Apr  1 18:18:09 2015	129	Rick Moranis	It's The Champagne Talkin'	The Agoraphobic Cowboy
+Wed Apr  1 18:21:24 2015	128	JP Jones	The King Is Dead	Life and Death
+Wed Apr  1 18:25:45 2015	129	Mack Allen Smith	Angel Face With A Body Full Of Sin	n/a
+Wed Apr  1 18:28:26 2015	129	Jay Farrar	No Rolling Back	Terroir Blues
+Wed Apr  1 18:31:25 2015	130	Robert Earl Keen	Five Pound Bass	The Party Never Ends
+Wed Apr  1 18:35:06 2015	132	Gleny Rae Virus And Her Tamworth Playboys	Second Fiddle	Highrollin'
+Wed Apr  1 18:37:42 2015	130	Johnny Bush	Jones On The Jukebox	Honkytonic
+Wed Apr  1 18:40:40 2015	129	Joe Maphis & Rose Lee	Dim Lights, Thick Smoke	Hillbilly Fever, Vol. 4: Legends of the West Coast
+Wed Apr  1 18:43:33 2015	125	Hangdogs	Alcohol Of Fame	Wallace '48
+Wed Apr  1 18:46:36 2015	126	Fred Harin	There's A Song In My Head	n/a
+Wed Apr  1 18:49:35 2015	124	James McMurtry	Out Here In The Middle	Live in Aught-Three
+Wed Apr  1 18:53:47 2015	123	Emmylou Harris With Mark Knopfler	Alone And Forsaken	Timeless (Compilation)
+Wed Apr  1 18:57:10 2015	127	Bills	Old Blue Bridge	Let Em Run
+Wed Apr  1 19:00:31 2015	124	Jimmie Dale Gilmore	Ramblin' Man	One Endless Night
+Wed Apr  1 19:04:09 2015	123	John Moreland	Blacklist	n/a
+Wed Apr  1 19:09:07 2015	127	Willie Nelson	No Mas Amor	To All The Girls...
+Wed Apr  1 19:13:22 2015	129	Fiftymen	Can't Walk Away	Balances + Sums
+Wed Apr  1 19:17:21 2015	134	Corb Lund Band	(Gonna) Shine Up My Boots	Five Dollar Bill
+Wed Apr  1 19:19:31 2015	131	Johnny Cash	Jackson	Johnny Cash - The Man in Black: His Greatest Hits
+Wed Apr  1 19:22:09 2015	133	Malcolm Holcombe Group	Killing The Blues	n/a
+Wed Apr  1 19:25:34 2015	131	Bill Monroe And His Blue Grass Boys	Six White Horses	Bona Fide Bluegrass and Mountain Music
+Wed Apr  1 19:28:30 2015	134	Scott Snake Miller	Jehovah Witness Girl	After Church [Explicit]
+Wed Apr  1 19:32:47 2015	130	Brian Wright And The Waco Tragedies	The Best We'll Ever Have	Dog Ears
+Wed Apr  1 19:36:44 2015	128	ThorNton Creek	Whiskey	Whiskey
+Wed Apr  1 19:40:39 2015	126	Lisa Marie Experiment	Shooting Stars	n/a
+Wed Apr  1 19:44:27 2015	125	Southern Folk Theme Union	Mosul Train	Southern Folk Theme Union
+Wed Apr  1 19:48:46 2015	124	Katy Moffatt	Can't Be Myself	Tulare Dust: A Songwriters' Tribute To Merle Haggard
+Wed Apr  1 19:51:53 2015	124	Flying Burrito Brothers	Six Days On The Road	Hot Burritos! The Flying Burrito Bros. Anthology 1969-1972
+Wed Apr  1 19:54:42 2015	124	Buck Owens	Before You Go	Buck Owens - All-Time Greatest Hits, Vol.1
+Wed Apr  1 19:56:52 2015	120	Todd Snider	Sangria Wine	Time As We Know It: Songs of Jerry Jeff Walker
+Wed Apr  1 20:01:34 2015	121	Ramsay Midwood	Prozac	Popular Delusions & the Madness of Cows
+Wed Apr  1 20:04:59 2015	120	Knitters	Long Chain On	n/a
+Wed Apr  1 20:09:18 2015	124	77 El Deora	When I'm Drinkin I Ain't Thinkin	n/a
+Wed Apr  1 20:13:21 2015	121	Mulehead	Bring Me My Medicine	Rocket Surgery
+Wed Apr  1 20:17:14 2015	125	Mary Gauthier	Good-Bye	Filth & Fire
+Wed Apr  1 20:20:36 2015	125	Aj Downing	The Other Cheek	River of Life
+Wed Apr  1 20:24:33 2015	129	Beat Farmers	Goldmine	Tales of the New West
+Wed Apr  1 20:27:28 2015	129	David Brake And That Damn Band	Cowpunks, Angels And Architects	Lean Mean Texas Machine
+Wed Apr  1 20:31:09 2015	128	Al Traynor	Whiskey Made Mommy That Way	All Mine
+Wed Apr  1 20:36:37 2015	121	Fred Eaglesmith	Drinking Too Much	Lipstick, Lies & Gasoline
+Wed Apr  1 20:40:22 2015	122	Jenny Kerr	Tijuana Waltz	Extra Strength
+Wed Apr  1 20:44:28 2015	121	Rachel Harrington	Up The River	The Bootlegger's Daughter
+Wed Apr  1 20:49:41 2015	122	Devil Makes Three	Bangor Mash	A Little Bit Faster and a Little Bit Worse
+Wed Apr  1 20:52:59 2015	123	Phil Lee	Last Year, Pt. 2	The Mighty King of Love
+Wed Apr  1 20:56:37 2015	118	Jp Jones	Dante's Highway	Salvation Street
+Wed Apr  1 20:59:50 2015	117	Mack Allen Smith	I'm Not Drunk, I'm Just Drinking	From Memphis to Eupora (Compilation)
+Wed Apr  1 21:01:47 2015	118	Texas Tornados	(Hey Baby) Que Paso	Texas Tornados
+Wed Apr  1 21:04:39 2015	121	Dale Watson	Hair Of The Dog	An Empty Glass: A Collection of Drinkin' Songs
+Wed Apr  1 21:06:47 2015	121	Cowlicks	Store No More	Hey Hey We're the Cowlicks
+Wed Apr  1 21:10:17 2015	114	Roger Clyne & The Peacemakers	Mexican Moonshine	Americano
+Wed Apr  1 21:14:02 2015	111	Dan Montgomery	The Seventies	Man from Out of State
+Wed Apr  1 21:17:39 2015	113	Louvin Brothers	Knoxville Girl	Tragic Songs of Life
+Wed Apr  1 21:21:23 2015	115	Dead Rock West	Boredom (How Did I Get Here)	n/a
+Wed Apr  1 21:24:48 2015	117	Big Sur	Short Hair In A Dress	Women
+Wed Apr  1 21:28:12 2015	116	Jason Ringenberg	Bible And A Gun (with Steve Earle)	All Over Creation
+Wed Apr  1 21:32:39 2015	118	Tex Williams	Downtown Poker Club	Vintage Collections Series
+Wed Apr  1 21:35:25 2015	115	Melissa McClelland	A Girl Can Dream	Victoria Day
+Wed Apr  1 21:38:27 2015	115	ThorNton Creek	Don't Forget About Me	Whiskey
+Wed Apr  1 21:41:32 2015	117	Dallas Wayne	Rock Bottom, Pop. 1	Big Thinkin'
+Wed Apr  1 21:44:28 2015	115	Skeeters	Mother Trucker	Easy for the Takin'
+Wed Apr  1 21:47:28 2015	115	Dave Alvin	Kern River	West of the West
+Wed Apr  1 21:51:12 2015	116	Red Meat	Lolita	Meet Red Meat
+Wed Apr  1 21:54:13 2015	119	Johnny Cash	Hung My Head	American IV: The Man Comes Around (Bonus DVD)
+Wed Apr  1 21:58:06 2015	116	Greg Hawks The Tremblers	Fool's Paradise	Fool's Paradise
+Wed Apr  1 22:01:22 2015	114	Yvette Landry	Misery Loves Company	n/a
+Wed Apr  1 22:07:17 2015	115	Deano Waco	Bottle Of Wine	n/a
+Wed Apr  1 22:09:50 2015	113	Robert Earl Keen	New Life In Old Mexico	The Best of Robert Earl Keen
+Wed Apr  1 22:14:05 2015	112	Hellbound Truckers	Drinkin	n/a
+Wed Apr  1 22:16:09 2015	111	Asylum Street Spankers	Startin' To Hate Country	Spanks for the Memories
+Wed Apr  1 22:20:37 2015	112	Michael Reno Harrell	Southern Suggestions	Grit & Wit
+Wed Apr  1 22:25:26 2015	117	Johnny Horton	Honky Tonk Man	Johnny Horton - 1956-1960
+Wed Apr  1 22:27:25 2015	114	Guy Clark	El Coyote	My Favorite Picture Of You
+Wed Apr  1 22:31:22 2015	114	Cory Branan	Sour Mash	n/a
+Wed Apr  1 22:33:36 2015	115	Leon Russell	Truck Drivin` Man	Hank Wilson's Back
+Wed Apr  1 22:35:39 2015	115	Lyle Lovett	My Baby Don't Tolerate	My Baby Don't Tolerate
+Wed Apr  1 22:39:17 2015	115	Pete Bernhard	Straight Line	Straight Line
+Wed Apr  1 22:42:37 2015	117	Eleanor Roosevelt	Queen Of Sweetwater	Walker with his Head Down
+Wed Apr  1 22:46:10 2015	115	Aubrey Haynie	Doin' My Time	Doin' My Time
+Wed Apr  1 22:50:27 2015	116	James Hand	Ain't A Goin'	Shadow on the Ground
+Wed Apr  1 22:52:56 2015	116	Robber Barons	Mountain Time	Kerosene Communion
+Wed Apr  1 22:55:25 2015	119	Holly Cole	Fearless And Free	n/a
+Wed Apr  1 22:59:35 2015	120	Devil Shakes	I Drink Too Much	At the Request of the Rodeo Queen [Explicit]
+Wed Apr  1 23:02:35 2015	121	Paul Burch	Straight Tears, No Chaser	SXSW 2014 Showcasing Artists
+Wed Apr  1 23:06:29 2015	123	Junior Brown	Lovely Hula Hands	Junior High
+Wed Apr  1 23:10:22 2015	123	Cruzeros	Scandalosa	Scandalosa
+Wed Apr  1 23:13:26 2015	125	Justin Owens	Tired Man Blues (Whore Song)	Drunken Hillbilly Ballads
+Wed Apr  1 23:16:33 2015	125	Johnny Hickman	Little Tom	Palmhenge
+Wed Apr  1 23:20:29 2015	123	77 El Deora	330 In The Afternoon	77 el Deora: Sirens
+Wed Apr  1 23:22:45 2015	124	Fred Eaglesmith	Spookin The Horses	Lipstick, Lies & Gasoline
+Wed Apr  1 23:26:48 2015	126	Arty Hill	Lie To Me	n/a
+Wed Apr  1 23:30:29 2015	127	Derailers	Take It Back	Genuine
+Wed Apr  1 23:32:28 2015	125	Arthur Godfrey	She's Too Far Gone	East Side of Town
+Wed Apr  1 23:37:06 2015	128	Malcolm Holcombe	Back In 29	A Far Cry From Here
+Wed Apr  1 23:40:48 2015	131	Riptones	It's Too Late	Down to the Promised Land: 5 Years of Bloodshot Records (Compilation)
+Wed Apr  1 23:44:28 2015	131	David Ball	She Always Talked About Mexico	Amigo
+Wed Apr  1 23:48:01 2015	130	Sovines	Rio	Stupefyin' Jones
+Wed Apr  1 23:51:27 2015	128	Johnny Russell	Red Necks, White Socks And Blue Ribbon Beer	Rednecks, White Socks & Blue Ribbon Beer
+Wed Apr  1 23:53:55 2015	128	Stan Ridgway	This Town Called Fate	Neon Mirage
+Wed Apr  1 23:57:11 2015	129	Country Fried	Teardrops On My Pillow	Life is Fine
+Thu Apr  2 00:00:03 2015	126	Bill Kirchen	Quit Feelin Sorry For You	Tied to the Wheel
+Thu Apr  2 00:03:19 2015	127	Dave Alvin	Haley's Comet	Blue Blvd
+Thu Apr  2 00:07:22 2015	128	Noah Gundersen	Day Is Gone	Songs of Anarchy: Volume 3
+Thu Apr  2 00:11:37 2015	129	Rod Balch	Jesus In Jail	Fort Worth 76102
+Thu Apr  2 00:14:46 2015	127	Southern Culture On The Skids	Drunk And Lonesome (Again)	Liquored Up & Lacquered Down
+Thu Apr  2 00:17:41 2015	128	Johnny Cash	Understand Your Man	16 Biggest Hits
+Thu Apr  2 00:20:11 2015	127	Jason Isbell & The 400 Unit	Codeine	Here We Rest
+Thu Apr  2 00:25:33 2015	131	James Low	Mexiquita	Mexiquita
+Thu Apr  2 00:29:24 2015	131	Hail The Size	Booze, Pills And Her	I Can't Die in L.A.
+Thu Apr  2 00:32:40 2015	137	Dead Rock West	All I Know	n/a
+Thu Apr  2 00:37:32 2015	133	Oldtime Stringband	That's The Way The World Goes Round	n/a
+Thu Apr  2 00:41:29 2015	135	Eldorado	Jaded Julie	Eldorado
+Thu Apr  2 00:43:56 2015	133	Elvis Costello	A Good Year For The Roses	The Very Best Of Elvis Costello [Disc 1]
+Thu Apr  2 00:46:54 2015	131	Loudon Wainwright III	The Deal	High Wide & Handsome: The Charlie Poole Project
+Thu Apr  2 00:50:56 2015	132	Gourds	Foggy Blossom (Mechanical Bride)	Cow Fish Fowl or Pig
+Thu Apr  2 00:54:41 2015	136	Webb Pierce	Teenage Boogie	The Wondering Boy (The King of 50's Country)
+Thu Apr  2 00:56:47 2015	135	Black Boot Trio	Long Time Since I Talked To Jesus	n/a
+Thu Apr  2 00:59:12 2015	136	Kid Dakota	Parin Off	n/a
+Thu Apr  2 01:00:47 2015	136	Cory Morrow	Stayin Out Late	The Man That I Have Been
+Thu Apr  2 01:03:47 2015	135	Old 97s	Doreen	n/a
+Thu Apr  2 01:06:59 2015	139	Dale Watson And His Lone Stars	I'm Fixin To Have Me A Breakdown	The Truckin' Sessions
+Thu Apr  2 01:08:57 2015	140	Tom T. Hall	I Like Beer	Greatest Hits, Vol. 2
+Thu Apr  2 01:11:43 2015	141	Wayne Hancock	Locomotive Joe	Thunderstorms and Neon Signs
+Thu Apr  2 01:13:49 2015	139	Billy Joe Shaver	Black Rose	Restless Wind: The Legendary Billy Joe Shaver: 1973-1987
+Thu Apr  2 01:16:08 2015	139	Rusty Weir	Quervo's Gold	Brewed in Texas (Compilation)
+Thu Apr  2 01:18:58 2015	138	Billie Jo Spears	Your Good Girl's Gonna Go Bad	The Best of Billie Jo Spears
+Thu Apr  2 01:21:08 2015	134	Hoots & Hellmouth	Asleep On The Couch	n/a
+Thu Apr  2 01:24:22 2015	139	Freakwater	White Rose	Old Paint
+Thu Apr  2 01:28:38 2015	138	Beat Farmers	Lonesome Hound	Tales of the New West
+Thu Apr  2 01:31:07 2015	139	Rick Cookin' Sherry	Hanged Man	The Executioner's Last Songs, Volume 1
+Thu Apr  2 01:34:46 2015	139	Rugburns	Single Life	Morning Wood
+Thu Apr  2 01:38:52 2015	141	Asleep At The Wheel	Route 66	Hot Rod: Hot Rod Cowboys
+Thu Apr  2 01:41:29 2015	137	Slaid Cleaves	Hard To Believe	Everything You Love Will Be Taken Away
+Thu Apr  2 01:45:08 2015	139	Junior Brown	My Wife Thinks You're Dead	Guit with It
+Thu Apr  2 01:48:47 2015	140	Delmore Brothers	Pan American Boogie	Anthology of the Delmore Brothers: Blues Stay Awy from Me
+Thu Apr  2 01:51:39 2015	141	Devil Makes Three	The Plank	Devil Makes Three
+Thu Apr  2 01:54:00 2015	139	Holiday	Sail Away From Here	Become
+Thu Apr  2 01:57:34 2015	143	Hayes Carll	She Left Me For Jesus	Trouble in Mind
+Thu Apr  2 02:01:15 2015	140	Dead Hot Workshop	Mr. S.o.b.	River Otis
+Thu Apr  2 02:04:29 2015	140	Careless Hearts	Talking Backwards	Alum Rock
+Thu Apr  2 02:07:58 2015	140	Scott Snake Miller	Wake Up Call	After Church [Explicit]
+Thu Apr  2 02:11:10 2015	144	Scott Miller & The Commonwealth	Double Indemnity	For Crying Out Loud
+Thu Apr  2 02:14:58 2015	142	James Monroe	Train 45	The Way I Am
+Thu Apr  2 02:17:37 2015	145	Girls Guns And Glory	Brown Bottle Blues	Pretty Little Wrecking Ball
+Thu Apr  2 02:20:22 2015	141	Dollar Store	Around The Bend	Dollar Store
+Thu Apr  2 02:24:04 2015	141	Meat Purveyors	Lady Muleskinner	Sweet in the Pants
+Thu Apr  2 02:27:22 2015	140	Lewis And Leigh	All Night Drive	n/a
+Thu Apr  2 02:30:45 2015	140	Adam Carroll	Bernadine	Hard Times
+Thu Apr  2 02:35:04 2015	141	Dave Alvin	Wanda And Duane	Blue Blvd
+Thu Apr  2 02:38:59 2015	143	Robert Earl Keen	Furnace Fan	Farm Fresh Onions
+Thu Apr  2 02:42:41 2015	141	Corb Lund	Bible On The Dash	Cabin Fever
+Thu Apr  2 02:47:01 2015	144	Mark Simos	Firefly	Crazy Faith
+Thu Apr  2 02:50:58 2015	146	Steve Earle	Lungs	Townes
+Thu Apr  2 02:53:13 2015	147	Merle Travis	Merle's Boogie	Tennesse Saturday Night: The Rural Route to Rock 'N' Roll
+Thu Apr  2 02:56:31 2015	148	Ben Nichols	Chambers	The Last Pale Light In The West
+Thu Apr  2 03:00:48 2015	151	Johnny Cash	Solitary Man	American III: Solitary Man
+Thu Apr  2 03:03:11 2015	148	Sam Baker	Migrants	Say Grace
+Thu Apr  2 03:07:14 2015	143	Old 97's	W-I-F-E	Early Tracks
+Thu Apr  2 03:10:47 2015	147	Punch Brothers	Rye Whiskey	Antifogmatic
+Thu Apr  2 03:13:45 2015	144	Unknown Hinson	Foggy Windows	The Future Is Unknown
+Thu Apr  2 03:16:31 2015	145	Arty Hill	A Wreck Of A Man	Bar of Gold
+Thu Apr  2 03:19:13 2015	145	Addam Scott	Cocaine In The Mourning	San Diablo [Explicit]
+Thu Apr  2 03:22:50 2015	148	Mike Clifford	Get The L Out Of LA	n/a
+Thu Apr  2 03:25:57 2015	143	Steep Canyon Rangers	Lovin' Pretty Women	Lovin' Pretty Women
+Thu Apr  2 03:29:46 2015	144	Gas Money	Ex Girl Friends	n/a
+Thu Apr  2 03:33:48 2015	143	Fred Eaglesmith	Drinking Too Much	Lipstick, Lies & Gasoline
+Thu Apr  2 03:37:40 2015	149	Handsome Family	So Much Wine	Live at Schuba's
+Thu Apr  2 03:41:21 2015	148	Red Steagall	Truck Drivin' Man	Hot Rod: Hot Rod Cowboys
+Thu Apr  2 03:43:39 2015	147	Phil Pritchett	God Save The King	Tougher Than the Rest
+Thu Apr  2 03:46:33 2015	163	Hot Club Of Cowtown	Secret Of Mine	Ghost Train
+Thu Apr  2 03:49:27 2015	145	Everly Brothers	Leave My Woman Alone	The Complete Cadence Recordings: 1957-1960
+Thu Apr  2 03:51:52 2015	146	Bob Dylan	Love Minus Zero / No Limit	The Original Mono Recordings (Compilation)
+Thu Apr  2 03:54:44 2015	146	Hazeldine	A Song For You	Orphans
+Thu Apr  2 03:59:40 2015	146	Hot Texas Swing Band	I Forgot To Remember	'Bout Time
+Thu Apr  2 04:02:30 2015	140	Audrey Auld Mezera	Down In A Hole	Lost Men & Angry Girls
+Thu Apr  2 04:06:09 2015	143	Beat Farmers	Reason To Believe	Tales of the New West
+Thu Apr  2 04:08:29 2015	143	Amanda Shires	When You Need A Train It Never Comes	Carrying Lightning
+Thu Apr  2 04:12:43 2015	148	Michelle Shocked	Memories Of East Texas	Short Sharp Shocked
+Thu Apr  2 04:16:10 2015	151	Roses Pawn Shop	Deep Red Clay	The Arsonist
+Thu Apr  2 04:19:16 2015	151	Big In Iowa	Gettin' Gone	n/a
+Thu Apr  2 04:21:56 2015	151	Gas Money	Untethered	n/a
+Thu Apr  2 04:25:26 2015	156	Annie Lynch And The Beekepers	Dirty Laundry	n/a
+Thu Apr  2 04:29:01 2015	159	Louvin Brothers	Cash On The Barrelhead	The Essential Louvin Brothers 1955-1964: My Baby's Gone
+Thu Apr  2 04:31:40 2015	159	Dave Alvin	Nine Volt Heart	Ashgrove
+Thu Apr  2 04:36:29 2015	160	Cornell Hurd Band	It Was Either The Whiskey Or The Wife	Cool & Unusual Punishment
+Thu Apr  2 04:38:58 2015	159	Calico Trail	I Shot Your Dog	n/a
+Thu Apr  2 04:42:07 2015	156	Chris Wall	Hello, I'm An Old Country Song	n/a
+Thu Apr  2 04:45:32 2015	155	Loudon Wainwright III	Goodbye Booze	High Wide & Handsome: The Charlie Poole Project
+Thu Apr  2 04:48:08 2015	154	Two Dollar Pistols	Without Goodbye	Hands Up!
+Thu Apr  2 04:51:38 2015	158	Sadies	Walkin' Cane	Poor Little Knitter on the Road: A Tribute to The Knitters (Compilation)
+Thu Apr  2 04:54:37 2015	161	Juanita Family And Friends	You Look Like Trouble	Juanita Family And Friends
+Thu Apr  2 04:56:37 2015	160	Roger Clyne & The Peacemakers	Your Name On A Grain Of Rice	Americano
+Thu Apr  2 05:00:48 2015	160	Willie Nelson	Bloody Mary Morning	 Honeysuckle Rose: Music From The Original Soundtrack
+Thu Apr  2 05:03:45 2015	159	John Moreland	Nobody Gives A Damn About Songs Anymore	n/a
+Thu Apr  2 05:06:46 2015	161	Buddy And Julie Miller	Rachel	Buddy & Julie Miller
+Thu Apr  2 05:10:33 2015	165	Paul Burch	Walls Of Time	The Executioner's Last Songs, Volume 1
+Thu Apr  2 05:14:35 2015	165	Cliff Bruner	Too Wet To Plough	n/a
+Thu Apr  2 05:16:32 2015	155	Rose's Pawn Shop	Danger Behind The Wheel	Dancing on the Gallows
+Thu Apr  2 05:20:45 2015	156	Nick Kraus And His Austin Torpedoes	Talkin To Me	...the tragic tale of kim & polly jean
+Thu Apr  2 05:23:50 2015	165	Robert Ellis	Bottle Of Wine	The Lights From The Chemical Plant
+Thu Apr  2 05:29:47 2015	167	Slaid Cleaves	Horses And Divorces	Wishbones
+Thu Apr  2 05:32:59 2015	169	James Hand	The Drought	Mighty Lonesome Man
+Thu Apr  2 05:35:30 2015	168	Drive-By Truckers	Loaded Gun In The Closet	Decoration Day
+Thu Apr  2 05:40:34 2015	168	Leroy Preston	Fool On A Stool	Country Pedigree
+Thu Apr  2 05:43:37 2015	166	Ernest Tubbs	Pass The Booze	The Complete Live 1965 Show
+Thu Apr  2 05:46:24 2015	168	Chicken Coupe Deville	Warm Beer	Drinkin Songs & Smokin Guitars
+Thu Apr  2 05:49:40 2015	166	Red Meat	Honky Tonk Habit	We Never Close
+Thu Apr  2 05:52:34 2015	167	Kevin Fowler	The Lord Loves The Drinkin' Man	High on the Hog
+Thu Apr  2 05:56:55 2015	168	Phil Lee	So Long, It's Been Good To Know You	So Long, It's Been Good To Know You
+Thu Apr  2 06:00:35 2015	168	Arty Hill	Here Where The Rain Comes In	n/a
+Thu Apr  2 06:04:36 2015	169	Sam Baker	Ditch	Say Grace
+Thu Apr  2 06:06:25 2015	172	Tracy Grammer	Blue Wing	Book of Sparrows
+Thu Apr  2 06:11:06 2015	175	Heather Myles	Little Chapel	Sweet Talk & Good Lies
+Thu Apr  2 06:13:51 2015	176	Karl Shiflett And Big Country Show	I Wish I Was Him	Worries On My Mind
+Thu Apr  2 06:17:42 2015	187	Behind The Barn With The B Stars	Drunk On Whiskey	n/a
+Thu Apr  2 06:20:57 2015	131	Merle Haggard	I've Seen It Go Away	I Am What I Am [Vinyl]
+Thu Apr  2 06:23:40 2015	179	Steve Earle	Home To Houston	The Revolution Starts...Now
+Thu Apr  2 06:26:33 2015	189	Beautiful Loser Society	One Good Dog	Long Slow Decline
+Thu Apr  2 06:31:40 2015	189	Liam Fitzgerald And The Raineros	Honky Tonk Hard Times	n/a
+Thu Apr  2 06:34:32 2015	190	Br549	That's What I Get	Tangled in the Pines
+Thu Apr  2 06:37:53 2015	190	Blind Corn Liquor Pickers	Bad Tom Smith	Anywhere Else?
+Thu Apr  2 06:41:28 2015	193	Loretta Lynch	Indicator	Home Fires
+Thu Apr  2 06:43:40 2015	195	Ralph Stanley	White Light White Heat	Lawless
+Thu Apr  2 06:45:30 2015	193	100s	(Just Call Me) Slow	100 Hits 80s
+Thu Apr  2 06:50:35 2015	192	George Jones Tammy Wynette	Southern California	16 Biggest Hits
+Thu Apr  2 06:53:28 2015	193	Addam Scott	She's In Church, He's At The Bar	n/a
+Thu Apr  2 06:56:34 2015	197	Scott Miller And The Commonwealth	The Way	Upside Downside
+Thu Apr  2 06:59:58 2015	200	Grandpa Jones	Mountain Dew	Grandpa Jones - 28 Greatest Hits
+Thu Apr  2 07:01:47 2015	198	Eddie Spaghetti	Gotta Get Drunk	The Sauce
+Thu Apr  2 07:03:30 2015	200	Carper Family	Bad Attitude	Old-Fashioned Gal
+Thu Apr  2 07:06:05 2015	200	Scott Snake Miller	Wake Up Call	After Church [Explicit]
+Thu Apr  2 07:09:00 2015	197	Chuckanut Drive	Burning .44	Fidelity Grange
+Thu Apr  2 07:12:10 2015	200	Michelle Shocked	The L & N Don't Stop Here Anymore	Short Sharp Shocked
+Thu Apr  2 07:16:11 2015	204	Pondering Judd	Dry As Fire	Lonesome Heart Strangers
+Thu Apr  2 07:19:50 2015	210	Wailin Jennys	Devil's Paintbrush Road	Firecracker
+Thu Apr  2 07:23:27 2015	216	Nightjar	Slow It Down	Hometown Stranger
+Thu Apr  2 07:26:54 2015	216	Brennen Leigh & Noel McKay	Breaking Up And Making Up Again	Before the World Was Made
+Thu Apr  2 07:29:03 2015	213	Rich Mahan	Mama Found My Bong	Blame Bobby Bare [Explicit]
+Thu Apr  2 07:31:41 2015	210	Webb Wilder And The Nashvegans	How Long Can She Last	It Came from Nashville
+Thu Apr  2 07:34:45 2015	209	They Might Be Giants	Number 3	n/a
+Thu Apr  2 07:35:59 2015	211	Handsome Family	When You Whispered	Honey Moon [Vinyl]
+Thu Apr  2 07:39:09 2015	220	Cowlicks	Three Thousand Woodchips	Psychedelic Service Station
+Thu Apr  2 07:42:32 2015	218	Hickman Dalton Gang	Long Tall Pine Tree	Volume 1 EP
+Thu Apr  2 07:45:43 2015	217	Stoney Edwards	Honky Tonk Heaven	Stoney Edwards/She's My Rock
+Thu Apr  2 07:47:44 2015	222	Rizdales	You're Not To Blame	n/a
+Thu Apr  2 07:50:50 2015	223	Hank Cochran And Willie Nelson	Ain't Life Hell	Rebels &amp; Outlaws: Music From the Wild Side of Life EP
+Thu Apr  2 07:53:17 2015	223	Cornell Hurd Band	I Drink Too Much	Fanmail From The Lost Planet
+Thu Apr  2 07:56:54 2015	226	Blushin Roulettes	Peach Man	n/a
+Thu Apr  2 08:00:11 2015	228	Neal Casal	Me And Queen Sylvia	Leaving Traces: Songs 1994-2004
+Thu Apr  2 08:02:53 2015	228	Gwil Owen	Tennessee Hi-Way Blues	Insurgent Country, Vol. 2: Hell-Bent
+Thu Apr  2 08:05:30 2015	221	Audrey Auld	Parasitic Publicist Blues	n/a
+Thu Apr  2 08:09:29 2015	221	Fred Eaglesmith	Small Motors	Balin
+Thu Apr  2 08:12:35 2015	219	Kern Richards	10 More Miles	Anywhere but Home
+Thu Apr  2 08:16:55 2015	217	Kelly Pardekooper	Just Shoot Me	Haymaker Heart
+Thu Apr  2 08:20:04 2015	216	Devil Makes Three	A Moment's Rest	Iam a Stranger Here
+Thu Apr  2 08:23:56 2015	219	Arizona Baby & Los Coronas	Wish You Were Here	n/a
+Thu Apr  2 08:27:32 2015	221	Stovall	Blue Skies	n/a
+Thu Apr  2 08:31:01 2015	221	Flying Burrito Brothers	Sin City	Hot Burritos! The Flying Burrito Bros. Anthology 1969-1972
+Thu Apr  2 08:35:22 2015	227	Juanita Ford	I Gave Her A Ring She Gave Me The Finger	music from the heart
+Thu Apr  2 08:38:37 2015	231	Sovines	Sittin And Thinkin	n/a
+Thu Apr  2 08:41:02 2015	235	Over Mountain Men	Rembrandt	n/a
+Thu Apr  2 08:43:44 2015	227	Beat Farmers	Sloppy Drunk	Live at the Spring Valley Inn, 1983
+Thu Apr  2 08:46:57 2015	224	Leon's Lonestar Cowboys	Deep Elm Blues	n/a
+Thu Apr  2 08:49:42 2015	222	Jon Langford And His Sadies	What Makes Johnny Run?	Mayors of the Moon
+Thu Apr  2 08:52:10 2015	217	Wayfarers	Drunk Again	Sorrow & Snakes
+Thu Apr  2 08:56:03 2015	224	Jason Boland and the Stragglers	Drinkin' Song	Pearl Snaps
+Thu Apr  2 09:00:16 2015	221	Jp Harris And The Tough Choices	One For Every Day	n/a
+Thu Apr  2 09:02:02 2015	229	Stella	Down In The Cellar	Sorry, Stella
+Thu Apr  2 09:04:56 2015	224	Chris Wall	We're All In This Together	n/a
+Thu Apr  2 09:09:46 2015	222	Dixie Chicks	Hole In My Head	Fly
+Thu Apr  2 09:12:48 2015	222	Chuckanut Drive	Pittsburgh	The Crooked Mile Home
+Thu Apr  2 09:16:34 2015	224	Gourds	Pill Bug Blues	Heavy Ornamentals
+Thu Apr  2 09:20:38 2015	225	Axton Kincaid	Irene, Goodnight	Songs From The Pine Room
+Thu Apr  2 09:22:58 2015	221	Jimmie Driftwood	He Had A Long Chain On	n/a
+Thu Apr  2 09:26:35 2015	223	Laura Benitez And The Heartache	This Empty Bottle	n/a
+Thu Apr  2 09:29:10 2015	223	77 El Deora	The Outside To The In	Crown & the Crow's Confession
+Thu Apr  2 09:32:25 2015	223	Girls Guns And Glory	Tennessee Rose	Pretty Little Wrecking Ball
+Thu Apr  2 09:35:30 2015	235	Jon Langford's Hillbilly Lovechild	Over The Cliff	All the Fame of Lofty Deeds
+Thu Apr  2 09:38:47 2015	225	Jonathan Byrd	Chicken Wire	Cackalack
+Thu Apr  2 09:42:18 2015	228	Jack Ingram	Talk About	Hey You
+Thu Apr  2 09:45:39 2015	231	Hank Williams	Why Don't You Love Me	20 of Hank Williams' Greatest Hits
+Thu Apr  2 09:47:50 2015	230	Steam Donkeys	Pity Party	Little Honky Tonks
+Thu Apr  2 09:50:32 2015	233	Richard Thompson	God Loves A Drunk	Rumor and Sigh
+Thu Apr  2 09:54:46 2015	238	Hot Texas Swing Band	Beam Me Up, Mr. Scotch	'Bout Time
+Thu Apr  2 09:57:44 2015	237	Victor Mourning	Too Many Drinking Songs	A Handful of Locusts
+Thu Apr  2 10:00:45 2015	229	Drive-By Truckers	Two Daughters And A Beautiful Wife	Brighter Than Creation's Dark
+Thu Apr  2 10:03:42 2015	226	Johnny Cash	I Walk The Line	Memphis Celebrates 50 Years Of Rock 'N' Roll
+Thu Apr  2 10:06:10 2015	231	Lyle Lovett	South Texas Girl	It's Not Big It's Large [Deluxe Edition]
+Thu Apr  2 10:12:43 2015	227	Tom Waits	Bad Liver And A Broken Heart	Small Change
+Thu Apr  2 10:17:34 2015	232	Southern Culture On The Skids	Cheap Motels	Liquored Up & Lacquered Down
+Thu Apr  2 10:19:34 2015	231	Dwight Yokum	Since I Started Drinkin' Again	If There Was a Way
+Thu Apr  2 10:23:07 2015	227	Brian Wright And The Waco Tragedies	Falls County	Dog Ears
+Thu Apr  2 10:28:13 2015	227	Carolyn Mark	Two Days Smug And Sober	n/a
+Thu Apr  2 10:32:36 2015	225	Jack Grace Band	Ice Cold Beer	I Like It Wrong
+Thu Apr  2 10:35:49 2015	227	Phil Lee	Miller's Mill Pond	So Long, It's Been Good To Know You
+Thu Apr  2 10:39:38 2015	230	Volebeats	Two Seconds	Sky And The Ocean
+Thu Apr  2 10:43:21 2015	228	NQ Arbuckle	Happy Birthday	Hanging the Battle-Scarred Pinata
+Thu Apr  2 10:47:35 2015	232	Beasts Of Bourbon	Psycho	Beyond Good & Evil (Best Of)
+Thu Apr  2 10:51:36 2015	225	Uncle Tupelo	Screen Door	No Depression
+Thu Apr  2 10:54:16 2015	227	Elvis Costello	Why Don't You Love Me (Like You Used To Do)	Almost Blue
+Thu Apr  2 10:55:34 2015	227	Meatyard	Don't Want No Angels	Toot Toot Boom Boom
+Thu Apr  2 10:59:33 2015	228	Lucinda Williams	Sharp Cutting Wings	Happy Woman Blues
+Thu Apr  2 11:02:50 2015	228	Harry Nilsson	Joy	Son of Schmilsson
+Thu Apr  2 11:06:37 2015	224	Carper Family	I've Tried	n/a
+Thu Apr  2 11:09:14 2015	223	Robbie Fulks	When You Get To The Bottom	Gone Away Backward
+Thu Apr  2 11:11:55 2015	226	Bobby Bare & Lacy J Dalton	Beer Drinking Christians	n/a
+Thu Apr  2 11:14:44 2015	226	Cliff Wagner	The Loneliest Man	n/a
+Thu Apr  2 11:16:37 2015	226	Dolly Ranchers	Drink Me	Escape Artist
+Thu Apr  2 11:19:29 2015	226	Mat D And The Profane Saints	Motel City Limits	n/a
+Thu Apr  2 11:22:48 2015	223	Capgun Cowboys	Goes Down Slow	n/a
+Thu Apr  2 11:26:20 2015	228	Wylie & The Wild West	Diet Of Strange Places	Relic
+Thu Apr  2 11:30:40 2015	224	John Moreland	Gospel	n/a
+Thu Apr  2 11:33:57 2015	227	Gourds	Blankets	Cow Fish Fowl or Pig
+Thu Apr  2 11:36:46 2015	232	Trampled By Turtles	Gasoline	Palomino
+Thu Apr  2 11:39:30 2015	229	K.D. Lang	I'm Down To My Last Cigarette	Shadowland
+Thu Apr  2 11:42:11 2015	228	Mitguards	Born Without A Conscience	Nobody's Fool
+Thu Apr  2 11:44:48 2015	226	Slobberbone	Engine Joe	Barrel Chested
+Thu Apr  2 11:47:09 2015	227	Bobby Bare Jr.	Borrow Your Girl	From the End of Your Leash
+Thu Apr  2 11:51:28 2015	225	De Soto Rush	Close Up The Honky Tonks	n/a
+Thu Apr  2 11:53:54 2015	226	Corb Lund Band	Five Dollar Bill	Five Dollar Bill
+Thu Apr  2 11:56:26 2015	218	Patty Griffin	Don't Let Me Die In Florida	American Kid
+Thu Apr  2 11:59:58 2015	224	Rich Mahan	Tequila Y Mota	Blame Bobby Bare [Explicit]
+Thu Apr  2 12:03:50 2015	222	Freakwater	Drunk Friend	Feels Like the Third Time
+Thu Apr  2 12:07:18 2015	222	Dave Alvin	King Of California	King of California
+Thu Apr  2 12:11:54 2015	221	Steve Earle	Oxycontin Blues	Washington Square Serenade (DIG)
+Thu Apr  2 12:14:44 2015	218	Calamity & Main	Doin' My Part	Honky Tonk Heaven
+Thu Apr  2 12:18:42 2015	219	R. B. Morris	Roy	Insurgent Country, Vol. 3: Nashville, The Other Side Of The Alley
+Thu Apr  2 12:22:29 2015	216	Ella Mae Morse	I'm Hog Tied Over You	Barrelhouse, Boogie and the Blues
+Thu Apr  2 12:24:49 2015	219	Chuck Mead	Sittin' And Thinkin'	Back at the Quonset Hut
+Thu Apr  2 12:29:12 2015	215	Ryan Adams	Hallelujah	Demolition
+Thu Apr  2 12:32:09 2015	214	Gary Stewart	Brand New Whiskey	An Empty Glass: A Collection of Drinkin' Songs
+Thu Apr  2 12:34:30 2015	219	Careless Hearts	Yolo County Line	Heart's Delight
+Thu Apr  2 12:39:55 2015	217	Texas Tornados	Rueda De Fuego (Ring Of Fire)	Price of Glory: Original Motion Picture Soundtrack [Soundtrack]
+Thu Apr  2 12:44:48 2015	214	Hangdogs	Serious Guy	Wallace '48
+Thu Apr  2 12:46:46 2015	215	Maddox Bros And Rose	Milk Cow Blues	Tennesse Saturday Night: The Rural Route to Rock 'N' Roll
+Thu Apr  2 12:49:46 2015	212	Eleven Hundred Springs	See You In The Next Life	Cow Hear This!
+Thu Apr  2 12:52:57 2015	208	Shitkickers	Beer N' Bacon	Noon's Moonlight
+Thu Apr  2 12:54:56 2015	206	Roger Creager	I Say When I Drink What I Think When I'm Sober	Long Way to Mexico
+Thu Apr  2 12:59:23 2015	209	Country Doctors	Quiet Desperation	More Venom Less Self Pity
+Thu Apr  2 13:02:24 2015	213	Roger Clyne & The Peacemakers	Ashes Of San Miguel	Sonoran Hope & Madness
+Thu Apr  2 13:06:41 2015	213	James Intveld	Motel Time	Have Faith
+Thu Apr  2 13:09:08 2015	222	Billy Joe Shaver	Last Call For Alcohol	n/a
+Thu Apr  2 13:12:59 2015	213	Black Boot Trio	Four Horsemen	n/a
+Thu Apr  2 13:15:32 2015	210	Pondering Judd	Devil's Son	Coalesce
+Thu Apr  2 13:20:08 2015	209	Cowlicks	You Don't Know Me	Hey Hey We're the Cowlicks
+Thu Apr  2 13:25:33 2015	204	Devil Makes Three	Uncle Harvey's Plane	A Little Bit Faster and a Little Bit Worse
+Thu Apr  2 13:29:31 2015	200	Jon Rauhouse	Corn & Coffee	Steel Guitar Rodeo
+Thu Apr  2 13:30:49 2015	201	Old Crow Medicine Show	Dearly Departed Friend	n/a
+Thu Apr  2 13:34:59 2015	200	NQ Arbuckle	Art O'Leary	n/a
+Thu Apr  2 13:38:37 2015	197	Steam Donkeys	Pothead	Little Honky Tonks
+Thu Apr  2 13:42:08 2015	192	George Jones	The Warm Red Wine	Sings Bob Wills
+Thu Apr  2 13:44:47 2015	196	Starkweathers	Little White Trash Boy	Insurgent Country, Vol. 2: Hell-Bent
+Thu Apr  2 13:47:49 2015	200	Br549	Seven Nights To Rock	Big Backyard Beat Show
+Thu Apr  2 13:50:35 2015	198	Whiskey Daredevils	Ida Jane	The Essential Whiskey Daredevils
+Thu Apr  2 13:52:49 2015	195	Jim Quick	Don't Shoot The Snake	n/a
+Thu Apr  2 13:55:52 2015	192	Robert Earl Keen	4th Of July	Picnic
+Thu Apr  2 13:59:45 2015	191	Country Dick Montana	Headed Out For Texas	Devil Lied to Me
+Thu Apr  2 14:02:23 2015	188	Gurf Morlix	My Life's Been Taken	n/a
+Thu Apr  2 14:06:45 2015	186	True Historians	Right Back In Your Arms	True Historians
+Thu Apr  2 14:08:53 2015	184	Andrew Anderson	Once Met A Girl	n/a
+Thu Apr  2 14:12:58 2015	193	Ralph Stanley	Girl From The Greenbriar Shore	Ralph Stanley
+Thu Apr  2 14:16:48 2015	186	Blind Liquor Corn Pickers	Moonshine Bill	Appalachian Trail
+Thu Apr  2 14:20:32 2015	186	The Youngers	Downtown	Heritage
+Thu Apr  2 14:26:59 2015	184	Dead Hot Workshop	R U Sure Hank Done It This Way	1001
+Thu Apr  2 14:29:28 2015	181	James Low	Thinking California	Live at Mississippi Studios
+Thu Apr  2 14:34:34 2015	180	Hot Texas Swing Band	Beam Me Up, Mr. Scotch	'Bout Time
+Thu Apr  2 14:36:51 2015	177	Railbenders	There's Gonna Be A Hangin'	Showdown
+Thu Apr  2 14:40:34 2015	182	Willie Heath Neal	Warm Whiskey	Sunday Morning Hymns
+Thu Apr  2 14:44:11 2015	186	Dave Alvin	Museum Of Heart	Museum of Heart
+Thu Apr  2 14:48:34 2015	189	Two Dollar Pistols (Feat Tift Merritt)	Suppose Tonight (Would Be Our Last)	Two Dollar Pistols with Tift Merritt
+Thu Apr  2 14:50:58 2015	190	Arthur Godfrey	Don't Tell Me	Amen
+Thu Apr  2 14:54:27 2015	186	Dave Alvin And The Guilty Men	Blue Boulevard	Out in California
+Thu Apr  2 14:58:33 2015	183	Buddy Miller	Midnight And Lonesome	Midnight and Lonesome
+Thu Apr  2 15:02:19 2015	186	Bastard Sons Of Johnny Cash	The Road To Bakersfield	Mile Markers

@@ -1,0 +1,588 @@
+Wed Apr  1 00:02:11 2015	118	Rene Lopez	Puerto Ricans In America	E.L.S.
+Wed Apr  1 00:05:22 2015	119	Bloodgroup	A Threat	Tracing Echoes
+Wed Apr  1 00:09:29 2015	114	Of Montreal	1st Time High (Jon Brion Remix)	An Eluardian Instance
+Wed Apr  1 00:13:47 2015	115	Yacht	We're Always Waiting	I Believe In You. Your Magic Is Real
+Wed Apr  1 00:16:37 2015	112	Bird & The Bee	I Can't Go For That	Interpreting the Masters, Vol. 1: A Tribute to Daryl Hall & John Oates
+Wed Apr  1 00:20:14 2015	119	The Chain Gang of 1974	You	Daydream Forever
+Wed Apr  1 00:22:54 2015	115	Lettie	Sanctuary	Good Fortune, Bad Weather
+Wed Apr  1 00:28:00 2015	112	Original Hamster	Apet 8	n/a
+Wed Apr  1 00:33:28 2015	116	Blow	Hey Boy	Poor Aim: Love Songs
+Wed Apr  1 00:36:14 2015	121	Simian Mobile Disco (Featuring	Bad Blood	n/a
+Wed Apr  1 00:40:01 2015	113	Tigarah	Let Me Plug Usb Stick In	The EP
+Wed Apr  1 00:43:26 2015	115	Lykke Li	Breaking It Up	Youth Novels
+Wed Apr  1 00:46:57 2015	120	Passion Pit	Carried Away	Gossamer
+Wed Apr  1 00:50:37 2015	120	Malbec	Free	The Answering Machine
+Wed Apr  1 00:55:28 2015	127	Poni Hoax	The Bird Is On Fire	Images Of Sigrid
+Wed Apr  1 00:59:47 2015	127	Grand Lake	She's A Hater (James & Evander Remix)	Nevermint
+Wed Apr  1 01:03:17 2015	129	Steve Aoki	Goose, Bring It On	Pillowface and his Airline Chronicles (Additional Tracks)
+Wed Apr  1 01:07:00 2015	131	Claire	Broken Promised Land	The Great Escape
+Wed Apr  1 01:11:26 2015	137	Mary Onettes	God Knows I Had Plans	Islands
+Wed Apr  1 01:15:09 2015	139	Does It Offend You, Yeah	Dawn Of The Dead	You Have No Idea What You're Getting Yourself Into
+Wed Apr  1 01:18:33 2015	149	Classixx	I'll Get You (Feat. Jeppe)	Hanging Gardens
+Wed Apr  1 01:22:22 2015	150	Hey Champ	No Future	Star
+Wed Apr  1 01:26:14 2015	152	Junior Senior	Hip Hop A Lula (Album Version)	The Wedding Collection
+Wed Apr  1 01:29:28 2015	155	Gus Gus	Starlovers	This Is Normal
+Wed Apr  1 01:33:57 2015	159	Hot Chip	Night And Day	In Our Heads
+Wed Apr  1 01:38:21 2015	152	Fujiya & Miyagi	Uh	Lightbulbs
+Wed Apr  1 01:41:26 2015	154	Summer Camp	Summer Camp	Welcome To Condale
+Wed Apr  1 01:44:16 2015	153	Rubies	Stand In Line	Explode From The Center
+Wed Apr  1 01:49:21 2015	160	Black Gold	Idols	Rush
+Wed Apr  1 01:53:32 2015	161	Underground Lovers	The Lie That Sets You Free	Weekend
+Wed Apr  1 02:00:23 2015	166	Lights	Peace Sign	Siberia
+Wed Apr  1 02:03:30 2015	163	Phoenix	Drakkar Noir	Bankrupt!
+Wed Apr  1 02:06:51 2015	163	Galimatias & Joppe	Last Night in Sydney	Departure
+Wed Apr  1 02:11:50 2015	169	Yuksek	So Down (Ft Chromeo)	Away From The Sea
+Wed Apr  1 02:15:24 2015	169	Starfucker	Laadeedaa	Starfucker
+Wed Apr  1 02:17:42 2015	173	Strfkr	While I'm Alive	Miracle Mile
+Wed Apr  1 02:21:16 2015	171	Body Language	Lose My Head	Grammar
+Wed Apr  1 02:25:24 2015	169	Blackbird Blackbird	Treehouse	Tangerine Sky (with Radio Edits)
+Wed Apr  1 02:31:17 2015	168	Pompeya	We Like Songs	Tropical
+Wed Apr  1 02:35:40 2015	167	MSTRKRFT	Easy Love	The Looks
+Wed Apr  1 02:40:43 2015	168	David E. Sugar	Cornered	Cornered
+Wed Apr  1 02:44:15 2015	172	Mansions On The Moon	Don't Tell	Mansions On The Moon
+Wed Apr  1 02:47:44 2015	171	Via Audio	Babies	Animalore
+Wed Apr  1 02:51:04 2015	169	Toro Y Moi	Lissoms	Causers of This
+Wed Apr  1 02:53:22 2015	169	Sykur	Rocketship	Record Records Presents
+Wed Apr  1 02:56:31 2015	167	Tensnake	No Colour	Glow
+Wed Apr  1 03:00:03 2015	164	Gold Panda	Vanilla Minus	Lucky Shiner
+Wed Apr  1 03:03:46 2015	158	Heartsrevolution	Ultraviolence (Spank Rock Mix)	Ultraviolence
+Wed Apr  1 03:07:34 2015	157	Justice	Newlands	Audo, Video, Disco
+Wed Apr  1 03:11:36 2015	160	Blip Blip Bleep	Da Me Cinco	Alarm Clock, Snooze Bar, Get Up - EP
+Wed Apr  1 03:15:00 2015	161	Caribou	Hannibal	Swim
+Wed Apr  1 03:21:17 2015	165	Dj Cam	Swim Feat Chris James (Blackjoy Version)	Swim
+Wed Apr  1 03:26:36 2015	160	Adanowsky	Dancing To The Radio	ADA
+Wed Apr  1 03:29:57 2015	162	Phenomenal Handclap Band	I Been Born Again	The Phenomenal Handclap Band
+Wed Apr  1 03:34:34 2015	167	Imperial Teen	Out From Inside	Feel The Sound
+Wed Apr  1 03:38:43 2015	172	Kinky	El Tiempo	Barracuda
+Wed Apr  1 03:41:48 2015	170	Passion Pit	The Reeling	Manners
+Wed Apr  1 03:46:11 2015	168	Lettie	Fitter	Good Fortune, Bad Weather
+Wed Apr  1 03:48:59 2015	169	Lo-fi-fnk	Unighted	(...And The JFG?)
+Wed Apr  1 03:52:53 2015	172	Eats Tapes Vs. Soft Pink Truth	Uh Huh	Let's Lazertag Sometime
+Wed Apr  1 03:57:59 2015	172	TYTHE	Careless Woman	& Also With You
+Wed Apr  1 04:03:29 2015	171	Tame Impala	Elephant	Lonerism
+Wed Apr  1 04:06:54 2015	170	Faunts	Parler De La Pluie Et Du Beau Temps (Copy Remix)	High Expectations/Low Results
+Wed Apr  1 04:10:54 2015	171	Body Language	Infinite Sunshine	Infinite Sunshine
+Wed Apr  1 04:15:08 2015	174	Blackbird Blackbird	Happy With You	Om Lounge, Vol. 12
+Wed Apr  1 04:19:53 2015	173	Black Gold	Detroit	Rush
+Wed Apr  1 04:23:35 2015	174	Stereolab	Neon Beanbag	Chemical Chords
+Wed Apr  1 04:27:28 2015	171	Beekeepers	To The Roots	Apiculture
+Wed Apr  1 04:31:59 2015	173	Chairlift	Sidewalk Safari	Something
+Wed Apr  1 04:35:39 2015	176	Mstrkrft	Heartbreaker (Feat. John Legend)	Fist of God
+Wed Apr  1 04:38:41 2015	177	Lcd Soundsystem	Pow Pow	This Is Happening
+Wed Apr  1 04:47:12 2015	173	Groove Armada	Paper Romance 2	Black Light
+Wed Apr  1 04:53:28 2015	173	Whip	Save My Soul	X Marks Destination
+Wed Apr  1 04:58:31 2015	171	Black Ghosts	Repetition Kills You (Rac Remix)	Black Ghosts
+Wed Apr  1 05:01:43 2015	172	Tobacco	Street Trash	Fucked Up Friends
+Wed Apr  1 05:03:28 2015	173	Dirty Vegas	Changes (Instrumental)	Electric Love (Instrumentals)
+Wed Apr  1 05:07:02 2015	177	Miike Snow	Enter The Jokers Lair	Happy to You
+Wed Apr  1 05:10:18 2015	179	Starfucker	Death As A Fetish	Reptilians
+Wed Apr  1 05:14:24 2015	173	Soulwax	Ny Excuse	Any Minute Now
+Wed Apr  1 05:19:07 2015	174	Sebastian	Arabest	Total
+Wed Apr  1 05:22:42 2015	171	Fm Belfast	Frequency	How To Make Friends
+Wed Apr  1 05:26:12 2015	175	Somaaa	Hayden	To Deadmau5, Mstrkrft, Bloody Beetroots, And Other Awesome People
+Wed Apr  1 05:30:52 2015	173	Deerhunter	Fountain Stairs	Halcyon Digest
+Wed Apr  1 05:33:24 2015	174	Cut Copy	Corner Of The Sky	Zonoscope
+Wed Apr  1 05:38:55 2015	183	Bibio	Take Off Your Shirt	Mind Bokeh
+Wed Apr  1 05:42:52 2015	179	Mynx	Out Of Sight, Out Of Mind	Out of Sight Out of Mind
+Wed Apr  1 05:46:14 2015	185	Telepathe	Chrome's On It	Dance Mother
+Wed Apr  1 05:50:13 2015	183	Magic Man	Daughter	Real Life Color
+Wed Apr  1 05:54:31 2015	187	Junior Senior	Dance, Chance, Romance (Album	The Wedding Collection
+Wed Apr  1 05:57:31 2015	185	Fujiya & Miyagi	Transparent Things	Transparent Things
+Wed Apr  1 06:00:12 2015	187	Fan Death	Soon	A Coin for the Well EP
+Wed Apr  1 06:04:13 2015	186	Crystal Castles	Vanished	Crystal Castles
+Wed Apr  1 06:08:10 2015	187	Chin Chin	Moments	The Flashing The Fancing
+Wed Apr  1 06:12:34 2015	189	Chromeo	100% (Treasure Fingers BLive Pemberton Remix)	Fancy Footwork
+Wed Apr  1 06:18:00 2015	195	Com Truise	Declination (Instrumental)	Hohokum Soundtrack
+Wed Apr  1 06:22:32 2015	195	CSS	Alala	Cansei De Ser Sexy
+Wed Apr  1 06:26:37 2015	188	Poolside	Next To You	Pacific Standard Time
+Wed Apr  1 06:30:34 2015	191	Neon Indian	Terminally Chill	Psychic Chasms
+Wed Apr  1 06:33:59 2015	194	Bachelorette	Her Rotating Head	My Electric Family
+Wed Apr  1 06:37:55 2015	196	Treasure Fingers	Cross The Dancefloor	Vibes, Volume 2
+Wed Apr  1 06:42:47 2015	198	Tough Alliance	Silly Crimes	New Waves
+Wed Apr  1 06:46:31 2015	198	U.S.E	Get That Feeling	L O V E W O R L D RFI Ref v.1 Master
+Wed Apr  1 06:51:21 2015	195	Justice	Ohio	Audo, Video, Disco
+Wed Apr  1 06:55:29 2015	193	Chvrches	Under The Tide	The Bones Of What You Believe
+Wed Apr  1 06:59:50 2015	197	Fol Chen	A Tourist Town	The False Alarms
+Wed Apr  1 07:03:14 2015	200	Chromatics	Mask	Night Drive
+Wed Apr  1 07:08:53 2015	193	Cagedbaby	Hello There (The Presets Remix)	Will See You Now
+Wed Apr  1 07:13:26 2015	201	Wallpaper	Evrytm We Do It	n/a
+Wed Apr  1 07:15:54 2015	200	Discovery	Osaka Loop Line	LP
+Wed Apr  1 07:19:47 2015	205	Cassettes Won't Listen	Large Radio	Small-time Machine
+Wed Apr  1 07:24:10 2015	205	Ursula 1000	Hey You	Fuzz EP
+Wed Apr  1 07:27:55 2015	202	Metronomy	Heartbreaker	Nights Out
+Wed Apr  1 07:31:54 2015	213	Young & Sick	Glass	Glass
+Wed Apr  1 07:35:31 2015	209	Flaming Lips	One More Robot/Sympathy 3000-21	Yoshimi Battles The Pink Robots
+Wed Apr  1 07:40:29 2015	209	Lykke Li	I'm Good, I'm Gone	Youth Novels
+Wed Apr  1 07:43:22 2015	208	Blow	Babay (Eat A Critter, Feel Its Wrath)	Paper Television
+Wed Apr  1 07:46:35 2015	207	Phoenix	(You Can't Blame It On) Anybod	Alphabetical
+Wed Apr  1 07:50:09 2015	212	La Roux	I'm Not Your Toy	La Roux
+Wed Apr  1 07:53:30 2015	215	Lemonade	Ice Water	Diver
+Wed Apr  1 07:57:53 2015	211	All Good Funk Alliance	Closer To The Edge	Jacks of All Trades
+Wed Apr  1 08:02:19 2015	216	Tad Wily	Go Ahead	Right Fit EP
+Wed Apr  1 08:07:46 2015	214	Tog	Maridalen	Feiring
+Wed Apr  1 08:13:33 2015	208	Naked & Famous	Frayed	Passive Me, Aggressive You
+Wed Apr  1 08:17:12 2015	209	Hot Chip	Ready For The Floor	Made in the Dark
+Wed Apr  1 08:21:00 2015	213	Charlotte Gainsbourg	Terrible Angels	Stage Whisper
+Wed Apr  1 08:24:46 2015	218	Fm Belfast	Gold	Brighter Days
+Wed Apr  1 08:28:02 2015	221	AlunaGeorge	Bad Idea	Body Music
+Wed Apr  1 08:31:11 2015	221	Junior Senior	Hello	Hey Hey My My Yo Yo
+Wed Apr  1 08:32:00 2015	220	Minus The Bear	(P.O.S. Redo)	n/a
+Wed Apr  1 08:35:47 2015	215	Pretty Good Dance Moves	Sample Your Body (Ft. Agenlina	Pretty Good Dance Moves
+Wed Apr  1 08:38:49 2015	209	Datarock	Catcher In The Rye	Catcher in the Rye EP
+Wed Apr  1 08:42:14 2015	209	Sick Of Sarah	Kick Back	2205
+Wed Apr  1 08:46:35 2015	208	Afrobeta	Jealousy	Under The Streets
+Wed Apr  1 08:50:37 2015	214	Amanda Blank	Make It Take It	I Love You [Vinyl]
+Wed Apr  1 08:52:43 2015	211	People Press Play	These Days	People Press Play
+Wed Apr  1 08:56:29 2015	206	Mirwais	Naive Song	Naive Song
+Wed Apr  1 09:00:54 2015	197	Yacht	I Walked Alone	Shangri-La
+Wed Apr  1 09:05:47 2015	195	Calvin Harris Feat. Izza Kizza	Worst Day	Ready For The Weekend
+Wed Apr  1 09:09:36 2015	196	Andy	Warm Bliss	The Other Side of the Mirror
+Wed Apr  1 09:13:46 2015	197	Cut Copy	Need You Now	Zonoscope
+Wed Apr  1 09:19:55 2015	204	Justice	Civilization	Audo, Video, Disco
+Wed Apr  1 09:23:57 2015	202	Metric	Youth Without Youth	Synthetica
+Wed Apr  1 09:28:15 2015	200	Atlas Sound	Neon Beanbag (Atlas Sound Southern Baptist Remix)	Chemical Chords
+Wed Apr  1 09:32:49 2015	196	Lo-fi-fnk	Change Channel	(...And The JFG?)
+Wed Apr  1 09:36:01 2015	195	Pond	Elegant Design	Beard Wives Denim
+Wed Apr  1 09:40:11 2015	191	Body Language	Holiday	Social Studies (Deluxe Edition)
+Wed Apr  1 09:43:52 2015	192	Ting Tings	Only Love	Super Critical
+Wed Apr  1 09:46:54 2015	192	I Break Horses	Winter Beats	Hearts
+Wed Apr  1 09:51:35 2015	196	Saint Pepsi	Fiona Coyne	Fiona Coyne/Fall Harder
+Wed Apr  1 09:55:30 2015	200	Rafter	Fruit	Animal Feelings
+Wed Apr  1 09:59:47 2015	202	Phauna	Always Here	Digital Bliss Vol 2
+Wed Apr  1 10:03:37 2015	198	Le Tigre	Deceptacon (DFA Remix)	Remixes
+Wed Apr  1 10:09:44 2015	207	Bang Bang Eche	4 To The Floor	Bang! Bang! Eche! EP
+Wed Apr  1 10:13:05 2015	197	Eliot Lipp	Sneakin' (Baby Prt 1)	Shark Wolf Rabbit Snake
+Wed Apr  1 10:16:04 2015	207	Processory	Nightfall (Aeroplane Remix)	n/a
+Wed Apr  1 10:21:59 2015	210	Kleerup	Thank You For Nothing	Kleerup
+Wed Apr  1 10:24:57 2015	209	Washed Out	You And I	Within And Without
+Wed Apr  1 10:29:59 2015	205	Chromeo	Somethingood	White Women
+Wed Apr  1 10:36:30 2015	210	Deadmau 5	1981 (Jerome Robins Nu-Disko Mix)	At Play
+Wed Apr  1 10:42:37 2015	207	Blackbird Blackbird	Feel It In My Bones	Tangerine Sky
+Wed Apr  1 10:46:31 2015	200	Fan Death	Cannibal	A Coin for the Well EP
+Wed Apr  1 10:50:47 2015	200	Ariane Moffatt	Too Late	MA
+Wed Apr  1 10:54:03 2015	201	Tog	Nar me vakne opp imara	Feiring
+Wed Apr  1 10:58:00 2015	197	Fm Belfast	Synthia	How To Make Friends
+Wed Apr  1 11:01:15 2015	198	Clintongore	Watch Out	clintongore
+Wed Apr  1 11:05:31 2015	197	Hundreds	Happy Virus (Ben Sturm Remix)	Promo Only UK Underground Beats April 2011
+Wed Apr  1 11:10:57 2015	196	Architecture In Helsinki	Escapee	Moment Bends
+Wed Apr  1 11:13:54 2015	197	Olympic Ayres	Control	Leisureplex
+Wed Apr  1 11:17:41 2015	202	Phantogram	Turn It Off	Eyelid Movies
+Wed Apr  1 11:21:36 2015	207	Metronomy	Everything Goes My Way	The English Riviera
+Wed Apr  1 11:24:48 2015	206	Phoenix	Napoleon Says	It's Never Been Like That
+Wed Apr  1 11:27:59 2015	203	Cars & Trains	And All Of Us, As Well. (Remix By Boy In Static)	rusty string deluxe
+Wed Apr  1 11:31:42 2015	200	Mstrkrft	So Deep (Feat. Jahmal Of The Carps)	Fist of God
+Wed Apr  1 11:35:23 2015	201	Of Montreal	Triphallus, To Punctuate	Skeletal Lamping
+Wed Apr  1 11:38:37 2015	197	Rush Midnight	Say I'm Someone	Rush Midnight
+Wed Apr  1 11:42:17 2015	194	Hey Willpower	Hundredaire	P.D.A.
+Wed Apr  1 11:45:46 2015	192	Cavedoll	Decoder	Stranded In Stereo Volume 10
+Wed Apr  1 11:49:00 2015	188	Datarock	True Stories	Red
+Wed Apr  1 11:51:50 2015	188	Faint	Get Seduced	Fasciinatiion
+Wed Apr  1 11:55:51 2015	188	Peter Bjorn & John	Let's Call It Off (Girl Talk Remix)	Writer's Block
+Wed Apr  1 11:59:12 2015	191	Mansions On The Moon	Somewhere Else Tonight	Mansions On The Moon
+Wed Apr  1 12:03:27 2015	186	Metric	Satellite Mind	Fantasies
+Wed Apr  1 12:06:56 2015	190	Amanda Blank Feat. Lykke Li	Leaving You Behind	I Love You
+Wed Apr  1 12:09:35 2015	191	Does It Offend You, Yeah	Weird Science	You Have No Idea What You're Getting Yourself Into
+Wed Apr  1 12:14:34 2015	183	Silver Swans	Karen	Forever
+Wed Apr  1 12:19:14 2015	178	Empire Of The Sun	Walking On A Dream	Walking On A Dream
+Wed Apr  1 12:22:15 2015	188	Yeah Yeah Yeahs	Heads Will Roll	It's Blitz!
+Wed Apr  1 12:25:49 2015	186	Daft Punk	Da Funk	Homework
+Wed Apr  1 12:31:30 2015	194	Pretty Good Dance Moves	The Color Blue	Pretty Good Dance Moves
+Wed Apr  1 12:36:23 2015	189	Pompeya	Slow	Tropical
+Wed Apr  1 12:41:43 2015	189	Freelance Whales	Kilojoules	Weathervanes
+Wed Apr  1 12:45:15 2015	193	Moving Units	Going For Adds	Dangerous Dreams
+Wed Apr  1 12:48:11 2015	192	Com Truise	Polyhurt	Fairlight
+Wed Apr  1 12:53:30 2015	189	Luxury Liners	Valley High	They're Flowers
+Wed Apr  1 12:56:28 2015	187	Devo	Step Up	Something For Everybody (Blue-Colored Vinyl w/Bonus CD)
+Wed Apr  1 12:59:32 2015	183	My Robot Friend	Failure	Soft-Core
+Wed Apr  1 13:03:12 2015	185	Phenomenal Handclap Band	Form And Control	Form And Control
+Wed Apr  1 13:07:29 2015	185	Bear In Heaven	Lovesick Teenagers (Twin Shadow Remix)	Beast Rest Forth Mouth: Remixed
+Wed Apr  1 13:12:36 2015	184	Neon Indian	Polish Girl	Era Extrana
+Wed Apr  1 13:16:39 2015	171	Ember FX	What Aren't We Going To Do	Lights & Action
+Wed Apr  1 13:21:13 2015	174	Woodhands	I Wasn't Made For Fighting	I Wasn't Made for Fighting
+Wed Apr  1 13:24:57 2015	179	Lcd Soundsystem	Big Ideas [Radio Edit]	Big Ideas [Vinyl]
+Wed Apr  1 13:29:04 2015	180	Cut Copy	Pharaohs & Pyramids	Zonoscope
+Wed Apr  1 13:34:31 2015	184	Stereolab	I Was A Sunny Rainphase	Fab Four Sutre
+Wed Apr  1 13:37:47 2015	180	Krikor & The Dead Hillbillies	Serpico's Wallet	Land Of The Truth
+Wed Apr  1 13:42:10 2015	184	Holy Ghost!	I Will Come Back (Classixx Aca	Static on the Wire Ep
+Wed Apr  1 13:48:34 2015	185	Miike Snow	Black & Blue	Miike Snow
+Wed Apr  1 13:52:12 2015	189	Passion Pit	Cuddle Fuddle	Chunk Of Change
+Wed Apr  1 13:56:35 2015	182	Olympic Ayres	We Can't Get Away	Leisureplex
+Wed Apr  1 14:01:46 2015	188	My First Earthquake	Teleprompt	Tremors
+Wed Apr  1 14:06:47 2015	179	Joey Casio	Debtors Prism	Debtors Prism
+Wed Apr  1 14:11:30 2015	175	Boys Noize	Arcade Robot	Oi Oi Oi
+Wed Apr  1 14:15:34 2015	175	The Preatures	Is This How You Feel (Classixx Remix)	Is This How You Feel? (Classixx Remix)
+Wed Apr  1 14:19:10 2015	178	Kraak & Smaak Feat. Sam Duckworth	Good for the City	Good for the City
+Wed Apr  1 14:23:44 2015	170	Chromeo	You Make It Rough	Business Casual
+Wed Apr  1 14:30:49 2015	177	Alaska In Winter	The Homeless And The Hummingbirds	Dance Party In The Balkans
+Wed Apr  1 14:33:37 2015	177	Sick Of Sarah	Overexposure	2205
+Wed Apr  1 14:37:11 2015	167	Capital Cities	Safe and Sound	In A Tidal Wave Of Mystery
+Wed Apr  1 14:40:29 2015	178	AlunaGeorge	You Know You Like It	Body Music
+Wed Apr  1 14:43:43 2015	170	Chromeo Feat. Toro Y Moi	Come Alive	White Women
+Wed Apr  1 14:47:37 2015	169	Arcade Lover	Fantasy Lines	Tapes (The Rapture)
+Wed Apr  1 14:50:36 2015	163	Ladyhawke	Manipulating Woman	Ladyhawke
+Wed Apr  1 14:53:58 2015	158	Phantogram	Bloody Palms	Eyelid Movies
+Wed Apr  1 14:57:31 2015	156	Hot Chip	Let Me Be Him	In Our Heads
+Wed Apr  1 15:04:52 2015	163	Awol One And Factor	Celebrate	Owl Hours
+Wed Apr  1 15:07:38 2015	162	Of Montreal	An Eluardian Instance [Radio Edit]	Skeletal Lamping
+Wed Apr  1 15:11:27 2015	164	Junior Senior	Shake Your Coconuts	d-d-don't don't stop the beat [Explicit]
+Wed Apr  1 15:13:53 2015	167	Daft Punk	Solar Sailer (Remixed By Pretty Lights)	TRON: Legacy Reconfigured
+Wed Apr  1 15:18:33 2015	163	Kleerup	On My Own Again	Kleerup
+Wed Apr  1 15:21:36 2015	162	Farah	Dancing Girls (Suite 304 Demo)	After Dark
+Wed Apr  1 15:26:59 2015	162	Mstrkrft	Click Click (Feat. E-40)	Fist of God
+Wed Apr  1 15:30:36 2015	153	Head Like A Kite	Daydream Vacation	There Is Loud Laughter Everywhere
+Wed Apr  1 15:34:32 2015	162	Lilofee	She Breathes Electric	DEMO from The Only Years
+Wed Apr  1 15:38:28 2015	161	Grimes	Vowels = Space And Time	Visions
+Wed Apr  1 15:42:47 2015	156	Tog	5 ar fra na	Feiring
+Wed Apr  1 15:47:45 2015	155	Ratatat	Party With Children	LP4
+Wed Apr  1 15:50:45 2015	153	Architecture In Helsinki	Yr Go To	Moment Bends
+Wed Apr  1 15:54:51 2015	153	Pretty Lights	Total Fascination	Making Up A Changing Mind
+Wed Apr  1 15:59:56 2015	145	Neon Indian	6669 (I Don't Know If You Know	Mind Ctrl: Psychic Chasms Possessed
+Wed Apr  1 16:03:10 2015	146	Discovery	Can You Discover?	LP
+Wed Apr  1 16:05:30 2015	145	Hexes & Ohs	Wildfire	Bedroom Madness
+Wed Apr  1 16:09:40 2015	137	We Are Standard	Don't Let The Children Play Around	n/a
+Wed Apr  1 16:14:31 2015	132	Panamah	Born Af Natten (Miaoux Miaoux Remix)	Sound of Copenhagen Vol. 11
+Wed Apr  1 16:20:00 2015	133	Afrobeta	Two Different Worlds	Under The Streets
+Wed Apr  1 16:23:29 2015	140	Kindness	Cyan	World, You Need A Change Of Mind
+Wed Apr  1 16:27:55 2015	140	Dirty Vegas	Electric Love	Electric Love
+Wed Apr  1 16:30:55 2015	138	Tobacco	Berries That Burn	Fucked Up Friends
+Wed Apr  1 16:32:59 2015	132	Royksopp	This Must Be It [Maxime Dangles Remix]	This Must Be It (Single)
+Wed Apr  1 16:40:52 2015	142	Anthem In	Cloudbusting	The Cloudbusting EP
+Wed Apr  1 16:45:08 2015	145	Jaga Jazzist	One-Armed Bandit (Sprutbass Mix)	One Armed Bandit
+Wed Apr  1 16:49:52 2015	135	Passion Pit	Love Is Greed	Gossamer
+Wed Apr  1 16:53:45 2015	135	Human Woman	Delusional	Human Woman
+Wed Apr  1 16:59:27 2015	136	Eliot Lipp	The Time Is Right	Shark Wolf Rabbit Snake
+Wed Apr  1 17:03:38 2015	131	Golden Silvers	Arrows Of Eros	True Romance
+Wed Apr  1 17:09:14 2015	129	Unknown Mortal Orchestra	Thought Ballune	Unknown Mortal Orchestra
+Wed Apr  1 17:12:52 2015	132	Blackbird Blackbird	Feel It In My Bones (Instrumental)	Tangerine Sky
+Wed Apr  1 17:16:41 2015	125	Mynx	Wolfgang Bang	Out of Sight Out of Mind
+Wed Apr  1 17:19:35 2015	123	Imperial Teen	No Matter What You Say	Feel The Sound
+Wed Apr  1 17:22:59 2015	127	Com Truise	Declination (feat. Joel Ford)	Wave 1
+Wed Apr  1 17:27:18 2015	128	Sbtrkt	Something Goes Right (Feat. Sa	SBTRKT
+Wed Apr  1 17:32:11 2015	124	Fritz Helder And The Phantoms	Lagerfeld Lady	Greatest Hits
+Wed Apr  1 17:36:03 2015	128	Metric	Gold Guns Girls	Fantasies
+Wed Apr  1 17:40:14 2015	129	Chairlift	Take It Out On Me	Something
+Wed Apr  1 17:44:00 2015	135	Justice	D.A.N.C.E.	Cross
+Wed Apr  1 17:47:53 2015	130	Broadcast	Pendulum	Haha Sound
+Wed Apr  1 17:52:11 2015	125	Blow	The Love That I Crave	Poor Aim: Love Songs
+Wed Apr  1 17:54:48 2015	120	CSS	Echo Of Love	La Liberacion
+Wed Apr  1 17:58:33 2015	116	Am & Shawn Lee	City Boy	Celestial Electric
+Wed Apr  1 18:01:10 2015	113	Toro Y Moi	Thanks Vision	Causers of This
+Wed Apr  1 18:05:17 2015	109	Top Less	Top Less Gay Love Tekno Party	Top Less
+Wed Apr  1 18:08:30 2015	112	Stereolab	Self Portrait With `Electric Brain`	Chemical Chords
+Wed Apr  1 18:11:36 2015	109	Lo-fi-fnk	Music Owns Our Body	(...And The JFG?)
+Wed Apr  1 18:15:31 2015	111	Holy Ghost!	I Will Come Back (Radio Edit)	I Will Come Back
+Wed Apr  1 18:19:35 2015	110	Au Revoir Simone	Only You Can Make You Happy	Still Night, Still Light
+Wed Apr  1 18:24:31 2015	114	Chromeo	I Can't Tell You Why	DJ Kicks The Exclusives
+Wed Apr  1 18:27:49 2015	114	Rene Lopez	I Flow	E.L.S.
+Wed Apr  1 18:30:57 2015	113	Xx	Basic Space	xx
+Wed Apr  1 18:34:10 2015	112	Ratatat	Neckbrace	LP 4
+Wed Apr  1 18:38:10 2015	116	Mux Mool	Enceladus	Skulltaste
+Wed Apr  1 18:42:47 2015	117	Crystal Castles	Celestica	Crystal Castles ( II )
+Wed Apr  1 18:46:37 2015	124	Cut Copy	Take Me Over (Flight Facilities Remix)	Take Me Over
+Wed Apr  1 18:53:13 2015	123	Calvin Harris	Ready For The Weekend	Ready For The Weekend
+Wed Apr  1 18:56:45 2015	121	(!!! Chk Chik Chick)	The Most Certain Sure	Strange Weather, Isn't It?
+Wed Apr  1 19:02:40 2015	119	Metronomy	The Bay	The English Riviera
+Wed Apr  1 19:07:24 2015	124	Poolside	Harvest Moon	Pacific Standard Time
+Wed Apr  1 19:13:24 2015	127	Cassius	Toop Toop (Oliver Koletzki Remix)	Toop Toop
+Wed Apr  1 19:19:32 2015	124	Css	Dynamite	Planta
+Wed Apr  1 19:22:12 2015	124	Butterfly Bones	Xoxo	Pretty Feelings
+Wed Apr  1 19:27:11 2015	124	Does It Offend You, Yeah	Pull Out My Insides	Don't Say We Didn't Warn You
+Wed Apr  1 19:31:16 2015	118	Phantogram	As Far As I Can See	Eyelid Movies
+Wed Apr  1 19:34:27 2015	117	Tog	Av hengslene	Feiring
+Wed Apr  1 19:37:12 2015	115	Daft Punk	Short Circuit	Discovery
+Wed Apr  1 19:40:12 2015	118	Coppe	Day By Day	Artificial Insemination
+Wed Apr  1 19:44:38 2015	113	Venue	Desireena	n/a
+Wed Apr  1 19:47:42 2015	110	Datarock	Fa-Fa-Fa	Datarock Datarock
+Wed Apr  1 19:52:47 2015	112	Blow	Pile Of Gold	Paper Television
+Wed Apr  1 19:54:50 2015	110	Knife	Marble House	Silent Shout
+Wed Apr  1 20:00:00 2015	108	Trust	Rescue, Mister	Joyland
+Wed Apr  1 20:04:24 2015	111	City Life	White Elephant	Gone Is The World
+Wed Apr  1 20:08:39 2015	115	Cassettes Won't Listen	Paper Float	Small-time Machine
+Wed Apr  1 20:12:47 2015	114	Fm Belfast	Holiday	Brighter Days
+Wed Apr  1 20:16:26 2015	112	Pretty Lights	My Only Hope	A Color Map of the Sun
+Wed Apr  1 20:21:12 2015	111	Phoenix	Trying To Be Cool	Bankrupt!
+Wed Apr  1 20:24:44 2015	112	Neon Indian	Ephemeral Artery	Psychic Chasms
+Wed Apr  1 20:27:29 2015	110	Natalie Portman's Shaved Head	Iceage Babeland	Glistening Pleasure
+Wed Apr  1 20:32:08 2015	109	Phenomenal Handclap Band	Give	Form And Control
+Wed Apr  1 20:36:27 2015	104	All Good Funk Alliance	In The Rain	Jacks of All Trades
+Wed Apr  1 20:40:37 2015	107	Hot Chip	Motion Sickness	In Our Heads
+Wed Apr  1 20:45:42 2015	113	AlunaGeorge	Kaleidoscope Love	Body Music
+Wed Apr  1 20:49:35 2015	114	Pash	Never Better (Glamour Shots Mix)	Grown Zone/Groan Zone
+Wed Apr  1 20:52:15 2015	110	Pajama Club	These Are Conditions	Pajama Club - Radio Promo
+Wed Apr  1 20:54:39 2015	109	Ting Tings	Wrong Club	Super Critical
+Wed Apr  1 20:58:51 2015	111	Bobby Birdman, Yacht	I Will Come Again (And Again Remix)	Our Friends In Hell - Remixes By YACHT
+Wed Apr  1 21:01:32 2015	108	Bird & The Bee	Rich Girl	Interpreting the Masters, Vol. 1: A Tribute to Daryl Hall & John Oates
+Wed Apr  1 21:04:12 2015	109	Madeon	The City	The City
+Wed Apr  1 21:07:54 2015	105	Naked & Famous	Punching In A Dream	Passive Me, Aggressive You
+Wed Apr  1 21:11:49 2015	107	James Yuill	No Surprise (The Operators Remix)	Turning Down Water for Air
+Wed Apr  1 21:17:32 2015	103	Afrobeta	Land Of Lost Lovers	Under The Streets
+Wed Apr  1 21:21:43 2015	101	Malbec	Unus Vita	The Answering Machine
+Wed Apr  1 21:25:56 2015	93	Slow Magic	Corvette Cassette	Triangle
+Wed Apr  1 21:29:21 2015	93	Sun Glitters	Yesterday's Weakness (Go Dugong Remix)	Cosmic Oceans
+Wed Apr  1 21:32:39 2015	93	Von Iva	Guise	Our Own Island
+Wed Apr  1 21:36:28 2015	91	Arling & Cameron	Games	Games EP
+Wed Apr  1 21:40:12 2015	88	Tensnake	Kill The Time feat Fiora	Glow
+Wed Apr  1 21:43:56 2015	88	Chromeo	Fall Back 2U	White Women
+Wed Apr  1 21:49:25 2015	87	Anavan	Take It Back	Cover Story
+Wed Apr  1 21:53:16 2015	86	Body Language	Well Absolutely	Grammar
+Wed Apr  1 21:56:55 2015	86	Am & Shawn Lee	Automatic	La Musique Numerique
+Wed Apr  1 22:00:08 2015	85	CANT	The Edge	Dreams Come True
+Wed Apr  1 22:03:40 2015	85	Ember FX	Fly	Lights & Action
+Wed Apr  1 22:08:27 2015	87	Islands	Devout	Vapours
+Wed Apr  1 22:10:48 2015	90	Houses	Soak It Up	All Night
+Wed Apr  1 22:14:37 2015	92	Olympic Ayres	Say My Name	Leisureplex
+Wed Apr  1 22:18:54 2015	95	Datarock	Amarillion	Red
+Wed Apr  1 22:23:08 2015	97	Rapture	Whoo! Alright-yeah...uh Huh	Pieces Of The People We Love
+Wed Apr  1 22:27:26 2015	96	Broadcast	Before We Begin	Haha Sound
+Wed Apr  1 22:30:31 2015	92	Rainbow Arabia	Holiday In Congo	Kabukimono
+Wed Apr  1 22:34:29 2015	96	Faint	Your Retro Career Melted	Danse Macabre
+Wed Apr  1 22:38:10 2015	97	Fm Belfast	I Can Feel Love	How To Make Friends
+Wed Apr  1 22:41:33 2015	98	jj	Voi Parlate, Io Gioco	jj ndeg 3
+Wed Apr  1 22:45:11 2015	98	Matias Aguayo	Rollerskate Sanfuentes & Alex Thunders Version	Rollerskate EP
+Wed Apr  1 22:50:47 2015	97	Passion Pit	Sleepyhead	Chunk of Change
+Wed Apr  1 22:53:24 2015	100	Greenskeepers	Love Lobotomy	Polo Club
+Wed Apr  1 22:56:11 2015	98	Kinky	Papel Volando	Barracuda
+Wed Apr  1 22:59:26 2015	99	Phenomenal Handclap Band	The Written Word	Form And Control
+Wed Apr  1 23:03:10 2015	103	Lunic	Moving On	Future Sex Drama
+Wed Apr  1 23:07:09 2015	103	Via Tania	Light Years	Moon Sweet Moon
+Wed Apr  1 23:10:24 2015	109	Ting Tings	Communication	Super Critical
+Wed Apr  1 23:13:50 2015	113	My First Earthquake	Clean Clean	Downstairs
+Wed Apr  1 23:16:34 2015	109	Live At Kalibou Beach	Checmate Miracl	brilliant eyes
+Wed Apr  1 23:19:51 2015	106	Lapalux	Guuurl	Nostalchic
+Wed Apr  1 23:23:29 2015	107	Young & Sick	Glass	Glass
+Wed Apr  1 23:26:41 2015	108	Death Cab For Cutie	You Are A Tourist (The 2 Bears Remix)	Keys And Codes Remix EP
+Wed Apr  1 23:32:29 2015	102	Big History	Wardrum	All At Once
+Wed Apr  1 23:37:08 2015	107	Blow	Bonjour Jeune Fille	Paper Television
+Wed Apr  1 23:39:52 2015	105	Fan Death	Reunited (Ghost Hunter Remix)	Fan Death Remixed
+Wed Apr  1 23:44:29 2015	106	(!!! Chk Chik Chick)	Wannagain Wannagain	Strange Weather, Isn't It?
+Wed Apr  1 23:48:26 2015	115	Grimes	Infinite Love Without Fulfillment	Visions
+Wed Apr  1 23:49:42 2015	113	MSTRKRFT	Heartbreaker (Featuring John Legend)	Fist of God
+Wed Apr  1 23:52:47 2015	106	Work It Work It	Out Of Jersey	Something Stirs
+Wed Apr  1 23:56:38 2015	105	Washed Out	Lately	Life of Leisure
+Wed Apr  1 23:58:48 2015	106	Cassettes Won't Listen	Perfect Day	EVINSPACEY
+Thu Apr  2 00:03:01 2015	104	Presets	Girl (You Chew My Mind Up)	Beams
+Thu Apr  2 00:06:04 2015	103	Variety Lab	Money (That's What I Want) [Feat. Mona Soyoc]	Team Up With Variety Lab
+Thu Apr  2 00:08:45 2015	104	Bird & The Bee	I Hate Camera	The Bird & The Bee
+Thu Apr  2 00:11:51 2015	108	Junior Senior	Good Girl, Bad Boy	d-d-don't don't stop the beat [Explicit]
+Thu Apr  2 00:14:27 2015	113	School Of Seven Bells	Connjur	Alpinisms
+Thu Apr  2 00:18:39 2015	114	Lykke Li	Complaint Department	Youth Novels
+Thu Apr  2 00:22:40 2015	121	Casiokids	Det Haster	Aabenbaringen Over Aaskammen
+Thu Apr  2 00:26:39 2015	124	Falty D L	She Sleeps Feat. Ed Macfarlane	n/a
+Thu Apr  2 00:32:17 2015	126	Rafter	Paper	Animal Feelings
+Thu Apr  2 00:35:33 2015	125	Friendly Fires	Paris	Friendly Fires
+Thu Apr  2 00:39:06 2015	128	Ssion	Credit In The Straight World	BENT
+Thu Apr  2 00:43:17 2015	132	J. Viewz	Come Back Down (Tiny Rocket Remix)	Work in Progress
+Thu Apr  2 00:47:50 2015	131	Kills	Cheap And Cheerful (Morsy Mix)	Don't Hate the 808
+Thu Apr  2 00:51:09 2015	134	Totally Enormous Extinct Dinosaurs	Trouble	Trouble
+Thu Apr  2 00:54:53 2015	129	World Of Science	Late Night Sunrise	Makeout Music By
+Thu Apr  2 01:00:16 2015	145	Am & Shawn Lee	Lonely Life (Dic Money Remix)	Promises Are Never Far From Lies Remix EP
+Thu Apr  2 01:05:26 2015	139	LCD Soundsystem	You Wanted A Hit	This Is Happening
+Thu Apr  2 01:13:50 2015	142	James Yuill	The Ghost	Turning Down Water For Air
+Thu Apr  2 01:17:44 2015	147	dBridge	So Lonely (Morgan Zarate Remix)	Hed Kandi: Winter Chill
+Thu Apr  2 01:21:28 2015	148	Au Revoir Simone	Sad Song	The Bird Of Music
+Thu Apr  2 01:25:20 2015	146	Brite Futures	Kissed Her Sister	Dark Past
+Thu Apr  2 01:28:52 2015	148	Midnight Juggernauts	Nine Lives	Dystopia
+Thu Apr  2 01:33:23 2015	148	Go! Team	Rolling Blackouts	Rolling Blackouts (Amazon MP3 Exclusive Version)
+Thu Apr  2 01:36:56 2015	151	Fol Chen	In Ruins (Radio Mix)	n/a
+Thu Apr  2 01:40:00 2015	155	Claire	Games	The Great Escape
+Thu Apr  2 01:43:53 2015	157	Mark Ronson	Stop Me (Dirty South Remix)	Pre-Release Singles Compilation [Hd200732]
+Thu Apr  2 01:52:14 2015	166	Datarock	Princess	Datarock
+Thu Apr  2 01:55:50 2015	172	Poni Hoax	Antibodies	Images Of Sigrid
+Thu Apr  2 02:00:22 2015	171	Soulwax	NY Lipps	Soulwax
+Thu Apr  2 02:05:57 2015	173	CSS	You Could Have It All	La Liberacion
+Thu Apr  2 02:09:50 2015	173	Chromatics	Running Up That Hill	Night Drive
+Thu Apr  2 02:15:10 2015	175	Stars	Backlines	The North
+Thu Apr  2 02:17:10 2015	174	Imperial Teen	Over His Head	Feel The Sound
+Thu Apr  2 02:21:27 2015	174	Klubgrun	Fresh Air	Flashlight EP
+Thu Apr  2 02:24:32 2015	168	Crystal Castles	Not In Love (Feat Robert Smith)	Not In Love (feat Robert Smith)
+Thu Apr  2 02:28:32 2015	165	Caribou	Bowls	Swim
+Thu Apr  2 02:34:46 2015	166	Miniature Tigers	Flower Door Option B	Mia Pharaoh
+Thu Apr  2 02:38:09 2015	164	Metric	Synthetica	Synthetica
+Thu Apr  2 02:41:58 2015	166	Tog	Milevis ifra deg	Feiring
+Thu Apr  2 02:46:33 2015	164	Hot Chip	How Do You Do	In Our Heads
+Thu Apr  2 02:51:31 2015	161	Abe Vigoda	Throwing Shade	Crush
+Thu Apr  2 02:54:48 2015	159	Annie	Don't Stop	Don't Stop (v.2)
+Thu Apr  2 02:58:47 2015	163	Mynx	Kissie Show	Out of Sight Out of Mind
+Thu Apr  2 03:01:50 2015	162	Classixx	Supernature	Hanging Gardens
+Thu Apr  2 03:05:45 2015	160	Stereo Image	Double Mirror	Stereo Image
+Thu Apr  2 03:08:06 2015	162	Fever Ray	Seven (The Twelves Remix)	Seven [Single]
+Thu Apr  2 03:12:49 2015	156	Body Language	You Can	Social Studies (Deluxe Edition)
+Thu Apr  2 03:16:33 2015	161	Space March	Stop The Press	Monumental
+Thu Apr  2 03:21:17 2015	163	Boy Crisis	Fountain Of Youth (Wallpaper. Rmx)	Wallpaper. Mixtape
+Thu Apr  2 03:25:48 2015	163	Chromeo	Over Your Shoulder	White Women
+Thu Apr  2 03:30:19 2015	167	Saint Pepsi	Fall Harder	Fiona Coyne/Fall Harder
+Thu Apr  2 03:35:12 2015	165	Death Cab For Cutie	Unobstructed Views (Unicorn Kid Remix)	Keys And Codes Remix EP
+Thu Apr  2 03:38:41 2015	175	Martin Solveig	The Night Out (Madeon Remix Extended)	The Night Out EP
+Thu Apr  2 03:43:12 2015	173	Faint	Mirror Error	Fasciinatiion
+Thu Apr  2 03:46:35 2015	168	Junior Senior	Take My Time (Album Version)	Hey Hey My My Yo Yo
+Thu Apr  2 03:50:22 2015	174	Amanda Blank	Big Heavy	I Love You
+Thu Apr  2 03:54:33 2015	169	U.S.E	We The People	L O V E W O R L D RFI Ref v.1 Master
+Thu Apr  2 03:59:12 2015	169	Woodhands	Straighten The Curtains	Heart Attack
+Thu Apr  2 04:03:40 2015	163	Octopus Project	Fuguefat	Hexadecagon
+Thu Apr  2 04:07:14 2015	164	Classixx	A Stranger Love (feat. Sarah Chernoff)	Hanging Gardens
+Thu Apr  2 04:11:17 2015	168	Postal Service	Such Great Heights (John Tejad	Give Up
+Thu Apr  2 04:16:49 2015	166	Tensnake	Love Sublime (feat. Nile Rodgers and Fiora)	Love Sublime [Single]
+Thu Apr  2 04:20:47 2015	162	Body Language	Work This City	Speaks
+Thu Apr  2 04:24:09 2015	161	Css	Into The Sun	Planta
+Thu Apr  2 04:29:03 2015	166	Sugar & Gold	Neighborhood	Sugar & Gold Creme
+Thu Apr  2 04:33:40 2015	174	Via Tania	Become Forest (Grafton Primary Remix) 320 Mp 3	n/a
+Thu Apr  2 04:39:29 2015	180	Maus Haus	Dead Keys Drop	Lark Marvels
+Thu Apr  2 04:43:33 2015	182	Crazy P	Open For Service	When We On
+Thu Apr  2 04:50:14 2015	193	Cut Copy	Alisa	Zonoscope
+Thu Apr  2 04:54:14 2015	190	Rush Midnight	Fix Me Up	Rush Midnight
+Thu Apr  2 04:57:30 2015	182	Chromeo	Hard To Say No	White Women
+Thu Apr  2 05:00:59 2015	182	Glass	1) Wanna Be Dancing (Radio Edit	Wanna Be Dancing
+Thu Apr  2 05:05:02 2015	182	Sebastian	Embody	Total
+Thu Apr  2 05:08:44 2015	178	Am & Shawn Lee	Dark Into Light	Celestial Electric
+Thu Apr  2 05:12:33 2015	171	Hot Chip	Dark and Stormy	Dark and Stormy
+Thu Apr  2 05:17:15 2015	167	Cale Parks	Running Family	To Swift Mars
+Thu Apr  2 05:21:43 2015	171	Underground Lovers	Au Pair	Weekend
+Thu Apr  2 05:26:28 2015	177	AlunaGeorge	Your Drums, Your Love	Body Music
+Thu Apr  2 05:29:48 2015	168	Lcd Soundsystem	Tribulations	LCD Soundsystem
+Thu Apr  2 05:34:41 2015	173	Tog	Luftslott	Feiring
+Thu Apr  2 05:37:57 2015	168	Lotus	Backlight Sunflare	Lotus
+Thu Apr  2 05:44:30 2015	175	Toy Soldiers	Radio	The Toy Soldiers EP
+Thu Apr  2 05:47:40 2015	177	Passion Pit	Constant Conversations	Gossamer
+Thu Apr  2 05:51:45 2015	179	Mstrkrft	1,000 Cigarettes (Feat. Freewa	n/a
+Thu Apr  2 05:54:53 2015	183	My First Earthquake	Cradle The Ladle	Tremors
+Thu Apr  2 05:57:30 2015	176	Olympic Ayres	Sunshine	Leisureplex
+Thu Apr  2 06:01:28 2015	183	Live At Kalibou Beach	Waterfall Action	brilliant eyes
+Thu Apr  2 06:04:14 2015	182	The Chain Gang of 1974	You	Daydream Forever
+Thu Apr  2 06:06:52 2015	183	MGMT	4th Dimensional Transtional	Oracular Spectacular
+Thu Apr  2 06:10:52 2015	182	Casiokids	London Zoo	Aabenbaringen Over Aaskammen
+Thu Apr  2 06:14:36 2015	183	Amazing Baby	Old Tricks In Hell	Rewild
+Thu Apr  2 06:19:30 2015	182	Au Revoir Simone	Trace A Line	Still Night, Still Light
+Thu Apr  2 06:23:10 2015	177	Brite Futures	Best Party Ever (So Far)	Dark Past
+Thu Apr  2 06:25:34 2015	188	Geographer	Original Sin	Animal Shapes
+Thu Apr  2 06:30:14 2015	190	Ting Tings	Failure	Super Critical
+Thu Apr  2 06:32:48 2015	197	Miike Snow	Billie Holiday	Miike Snow
+Thu Apr  2 06:36:46 2015	200	Rubin Steiner	Another Record Story	Weird Hits, Two Covers & A Love Song
+Thu Apr  2 06:40:33 2015	204	Multiplex	SuperModel SuperComputer	S/T
+Thu Apr  2 06:42:57 2015	207	Dirty Vegas	Changes	Electric Love (Instrumentals)
+Thu Apr  2 06:46:30 2015	203	Madeon	Icarus (Live Version)	The City
+Thu Apr  2 06:51:37 2015	208	Daft Punk	Oh Yeah	Homework
+Thu Apr  2 06:53:43 2015	206	Galimatias & Joppe	Last Night in Sydney	Departure
+Thu Apr  2 06:58:47 2015	208	Body Language	Just Because	Grammar
+Thu Apr  2 07:02:11 2015	204	Clovis	Mundo	Come Tomorrow
+Thu Apr  2 07:04:45 2015	211	Death Cab For Cutie	Underneath The Sycamore (Dillon Francis Remix)	Keys And Codes Remix EP
+Thu Apr  2 07:09:54 2015	210	Greenskeepers	Ny Lady	Polo Club
+Thu Apr  2 07:13:09 2015	201	Letting Up Despite Great Faults	Photograph Shakes	Letting Up Despite Great Faults
+Thu Apr  2 07:16:14 2015	189	Yacht	We Have All We've Ever Wanted	See Mystery Lights
+Thu Apr  2 07:19:59 2015	191	Nitemoves	Polypel	Themes
+Thu Apr  2 07:23:50 2015	193	Lemonade	Lifted	Pure Moods EP
+Thu Apr  2 07:27:55 2015	190	Pompeya	Wait	Tropical
+Thu Apr  2 07:33:34 2015	191	Neon Trees	Lessons In Love (All Day, All	Picture Show
+Thu Apr  2 07:37:23 2015	189	Terry Lynn	Stone	Kingstonlogic 2.0 (Dig)
+Thu Apr  2 07:40:50 2015	188	Hot Chip	Always Been Your Love	In Our Heads
+Thu Apr  2 07:45:44 2015	180	Chvrches	Gun	The Bones Of What You Believe
+Thu Apr  2 07:49:14 2015	183	We Are Enfant Terrible	Wild Child	Explicit Pictures
+Thu Apr  2 07:53:20 2015	181	Fur Trade	Pleasure Bound	Don't Get Heavy
+Thu Apr  2 07:57:36 2015	182	Go! Team	Apollo Throwdown	Rolling Blackouts
+Thu Apr  2 08:00:51 2015	180	M83	Graveyard Girl	Saturdays = Youth
+Thu Apr  2 08:05:31 2015	187	Digitalism	Zdarlight	Idealism
+Thu Apr  2 08:11:13 2015	186	Kisses	Bermuda	The Heart Of The Nightlife
+Thu Apr  2 08:15:19 2015	185	Ratatat	Mirando (Mmmatthias Remix)	LP3
+Thu Apr  2 08:18:50 2015	180	Starfucker	Mystery Cloud	Reptilians
+Thu Apr  2 08:23:01 2015	185	Heartsrevolution	KISS	Heartsrevolution LP
+Thu Apr  2 08:26:20 2015	196	Phenomenal Handclap Band	Winter Falls	Form And Control
+Thu Apr  2 08:29:03 2015	192	Chairlift	Amanaemonesia	Something
+Thu Apr  2 08:34:12 2015	189	Capital Cities	Chartreuse	In A Tidal Wave Of Mystery
+Thu Apr  2 08:37:47 2015	194	Small Black	Photojournalist	New Chain
+Thu Apr  2 08:41:13 2015	194	CSS	Music Is My Hot, Hot Sex (KILL THE NOISE Remix)	CANSEI DE SER SEXY [Vinyl]
+Thu Apr  2 08:44:56 2015	195	Royksopp	So Easy	Melody A.M.
+Thu Apr  2 08:49:20 2015	198	Au Revoir Simone	Hurricanes	verses of comfort, assurance & salvation
+Thu Apr  2 08:52:58 2015	189	Chromeo	Play The Fool	White Women
+Thu Apr  2 08:57:48 2015	192	We Have Band	Oh!	We Have Band: WHB
+Thu Apr  2 09:01:43 2015	187	Presets	Girl And The Sea	Beams
+Thu Apr  2 09:06:01 2015	187	Flaming Lips	Ego Tripping At The Gates Of Hell	Yoshimi Battles The Pink Robots
+Thu Apr  2 09:10:18 2015	185	Daedelus	La Nocturn (Eliot Lipp Remix)	Friends Of Friends (Remixed) (Compilation)
+Thu Apr  2 09:14:14 2015	183	Atole	Tonya's Song	Brainwaves EP
+Thu Apr  2 09:17:59 2015	177	Casiokids	Golden Years	Aabenbaringen Over Aaskammen
+Thu Apr  2 09:22:01 2015	180	Tic Tic Boom	The Floodgate	Reasons & Rhymes
+Thu Apr  2 09:25:00 2015	176	Lykke Li	Extended Version)	n/a
+Thu Apr  2 09:31:46 2015	185	Sick Of Sarah	Simple Parts	2205
+Thu Apr  2 09:35:03 2015	183	Sea And Cake	Cms Sequence	Car Alarm
+Thu Apr  2 09:36:19 2015	189	Black Ghosts	Any Way You Choose To Give It	Any Way You Choose To Give It
+Thu Apr  2 09:39:44 2015	188	Little Boots	Motorway	Nocturnes
+Thu Apr  2 09:44:25 2015	191	Rush Midnight	One You'll Outrun	Rush Midnight
+Thu Apr  2 09:47:38 2015	191	Vampire Weekend	Giving Up The Gun	Contra
+Thu Apr  2 09:52:20 2015	194	Passion Pit	I'll Be Alright	Gossamer
+Thu Apr  2 09:56:35 2015	186	Martin Circus	Disco Circus	Tapes (The Rapture)
+Thu Apr  2 09:59:14 2015	187	Fm Belfast	Non Believer	Brighter Days
+Thu Apr  2 10:01:24 2015	178	David Rubato	Circuit (Aeroplane Remix)	Circuit, Lap 2 (Single)
+Thu Apr  2 10:09:24 2015	191	Hatiras	I Don't Care (Hatiras Remix)	LA Riots Vol. 2
+Thu Apr  2 10:16:01 2015	188	Of Montreal	Death Is Not A Parallel Move	Skeletal Lamping
+Thu Apr  2 10:18:50 2015	190	Hey Willpower	Double Fantasy Ii	P.D.A.
+Thu Apr  2 10:22:44 2015	188	Dntel	(This Is) The Dream Of Evan And Chan (Superpitcher Kompakt Remi	This Is the Dream of Evan and Chan
+Thu Apr  2 10:29:57 2015	189	Miniature Tigers	Female Doctor	Mia Pharaoh
+Thu Apr  2 10:34:15 2015	189	Yacht	Make It Hot (Over Remix)	n/a
+Thu Apr  2 10:36:53 2015	196	Hot Chip	Making Tracks	Sanfrandisco E-Pee
+Thu Apr  2 10:42:34 2015	197	Hey Young Believer	10 9 8	Invisible by Day
+Thu Apr  2 10:47:09 2015	204	Sissy Wish	Dwts	Beauties Never Die
+Thu Apr  2 10:50:51 2015	211	Combo	Just Change (Loose Shus Remix	n/a
+Thu Apr  2 10:55:38 2015	204	Digitalism	Pogo (Shinichi Osawa Dub)	Kitsune - Boombox
+Thu Apr  2 11:01:47 2015	205	Kite In The Air	Filed Away	Kite in the Air
+Thu Apr  2 11:06:39 2015	205	French Horn Rebellion	Up All Night	The Infinite Music of French Horn Rebellion
+Thu Apr  2 11:09:39 2015	205	Big Pink	Jump Music	Future This
+Thu Apr  2 11:14:00 2015	204	Schiller	I Will Follow You	Breathless
+Thu Apr  2 11:18:37 2015	198	Olympic Ayres	We Can Learn	Leisureplex
+Thu Apr  2 11:22:35 2015	197	Rapture	Children	In The Grace Of Your Love
+Thu Apr  2 11:26:23 2015	194	Killers	Joy Ride	Day & Age
+Thu Apr  2 11:29:44 2015	195	Miike Snow	Cult Logic	Miike Snow
+Thu Apr  2 11:33:38 2015	199	TYTHE	Careless Woman	& Also With You
+Thu Apr  2 11:38:38 2015	209	Anderson	Catherine And The Unexpected Guest	It Runs In The Family
+Thu Apr  2 11:43:05 2015	210	Naked & Famous	Spank	Passive Me, Aggressive You
+Thu Apr  2 11:47:11 2015	202	James Yuill	Over The Hills	Turning Down Water For Air
+Thu Apr  2 11:50:47 2015	209	Chromeo	Sexy Socialite	White Women
+Thu Apr  2 11:56:29 2015	211	Children Of The Cpu	Slay Your Dragons	Back to BASIC
+Thu Apr  2 12:00:21 2015	211	Justice	D.A.N.C.E. (Blake Miller Is Ruthless Vs Sickboy Edit)	A Cross The Universe (CD/DVD)
+Thu Apr  2 12:05:01 2015	211	Starfucker	Julius	Reptilians
+Thu Apr  2 12:08:36 2015	205	(!!! Chk Chik Chick)	The Hammer	Strange Weather, Isn't It?
+Thu Apr  2 12:13:20 2015	203	Anavan	The Perfect Sound	Cover Story
+Thu Apr  2 12:15:47 2015	204	Plushgun	Love In Binary	Me.Me.
+Thu Apr  2 12:18:43 2015	207	Broadcast	Tower Of Our Tuning	The Noise Made by People
+Thu Apr  2 12:23:10 2015	209	Space March	Eye For An Eye (Featuring Electra-City)	Monumental
+Thu Apr  2 12:26:59 2015	211	Bibio	Take Off Your Shirt	Mind Bokeh
+Thu Apr  2 12:30:58 2015	216	Fol Chen	Cable Tv	Part I: John Shade, Your Fortune's Made
+Thu Apr  2 12:33:55 2015	226	Pop Etc	Keep It For Your Own	POP ETC
+Thu Apr  2 12:38:06 2015	213	Gold Panda	Vanilla Minus	Lucky Shiner
+Thu Apr  2 12:42:15 2015	213	Tog	5 ar fra na	Feiring
+Thu Apr  2 12:47:41 2015	216	Fur Trade	Kids These Days	Don't Get Heavy
+Thu Apr  2 12:51:00 2015	216	John Berge	More Or Less	n/a
+Thu Apr  2 12:54:46 2015	211	Santogold	L.E.S Artistes	Santogold
+Thu Apr  2 12:57:53 2015	212	Birds & Batteries	The Villain	Up To No Good EP
+Thu Apr  2 13:02:44 2015	209	Kinky	Marcha Atras (Viaje A La Semilla)	Barracuda
+Thu Apr  2 13:06:21 2015	207	Nite Haus	Shy Girl	Transform The Night
+Thu Apr  2 13:11:11 2015	214	Frankie Rose	Know Me	Interstellar
+Thu Apr  2 13:13:51 2015	209	Clubfeet	Last Words (Dimitri From Paris Remix)	Plant Music : Love Me
+Thu Apr  2 13:20:38 2015	209	Grimes	Visiting Statue	Visions
+Thu Apr  2 13:22:32 2015	205	Calvin Harris	Burns Night	Ready For The Weekend
+Thu Apr  2 13:24:40 2015	208	Octopus Project	Music Is Happiness	One Ten Hundred Thousand Million
+Thu Apr  2 13:28:11 2015	202	Architecture In Helsinki	Contact High	Moment Bends
+Thu Apr  2 13:31:43 2015	204	Au Revoir Simone	Organized Scenery	Still Night, Still Light
+Thu Apr  2 13:34:50 2015	208	Boats	R I Pbazookajoint	n/a
+Thu Apr  2 13:37:39 2015	198	Passion Pit	To Kingdom Come (Grum Remix)	Manners
+Thu Apr  2 13:43:42 2015	203	Young & Sick	Glass	Glass
+Thu Apr  2 13:46:47 2015	204	Vampire Weekend	Diplomat's Son	Contra
+Thu Apr  2 13:52:50 2015	198	CSS	Hangover (RAC Remix)	Hangover + Remixes
+Thu Apr  2 13:55:42 2015	201	Phenomenal Handclap Band	The Right One	Form And Control
+Thu Apr  2 14:01:28 2015	198	Lights	Everybody Break A Glass	Siberia
+Thu Apr  2 14:05:11 2015	191	Rapture	Wayuh (Simian Mobile Disco Remix)	n/a
+Thu Apr  2 14:10:59 2015	191	Am & Shawn Lee	Somebody Like You	Celestial Electric
+Thu Apr  2 14:14:47 2015	196	Xx	Islands	xx
+Thu Apr  2 14:17:28 2015	196	Kooks	Runaway	Junk Of The Heart
+Thu Apr  2 14:20:34 2015	193	Adanowsky	Get Up And Fight	ADA
+Thu Apr  2 14:23:29 2015	191	Pretty Lights	I Can See It In Your Face	Making Up a Changing Mind
+Thu Apr  2 14:30:21 2015	196	Ratatat	Mirando	LP3
+Thu Apr  2 14:33:59 2015	195	Belleruche	Clockwatching	270 Stories
+Thu Apr  2 14:38:32 2015	195	Ian Fays	The Dance Song	The Ian Fays
+Thu Apr  2 14:41:01 2015	193	Hot Chip	Jelly Babies	Dark and Stormy
+Thu Apr  2 14:46:33 2015	194	Handsome Furs	Evangeline	Face Control
+Thu Apr  2 14:49:51 2015	197	Kindness	Seod	World, You Need A Change Of Mind
+Thu Apr  2 14:56:20 2015	191	Neon Indian	Deadbeat Summer	Psychic Chasms
+Thu Apr  2 15:00:40 2015	180	Patafunk	New Sensation	SXSW 2010 Showcasing Artists
+Thu Apr  2 15:03:57 2015	180	Metronomy	Corinne	The English Riviera
+Thu Apr  2 15:06:53 2015	175	LCD Soundsystem	All My Friends	Sound Of Silver
+Thu Apr  2 15:14:36 2015	182	Royksopp	It's What I Want	Junior
+Thu Apr  2 15:17:20 2015	180	Groove Armada	Shameless (Featuring Bryan Ferry)	Black Light
+Thu Apr  2 15:22:19 2015	178	Miike Snow	A Horse Is Not A Home	Miike Snow

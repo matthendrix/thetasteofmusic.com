@@ -1,0 +1,1985 @@
+Thu Jan  1 00:01:04 2015	55	Lali Puna	Out There (Feat. Yukihiro Taka	Our Inventions
+Thu Jan  1 00:04:59 2015	54	Beacon	Drive	The Ways We Separate
+Thu Jan  1 00:08:08 2015	53	Awning	New York Smile	E.P. (1)
+Thu Jan  1 00:12:21 2015	54	Standish, Carlyon	Moves, Moves	Deleted Scenes
+Thu Jan  1 00:17:48 2015	54	Populous	Drop City	Queue For Love
+Thu Jan  1 00:22:30 2015	60	Electric President	Grand Machine No. 12	Morr Classics Pt.1
+Thu Jan  1 00:26:24 2015	60	Sea And Cake	Sound & Vision	One Bedroom
+Thu Jan  1 00:30:24 2015	58	Four Tet	Fuji Check	Everything Ecstatic
+Thu Jan  1 00:30:43 2015	58	Ulrich Schnauss & Jonas Munk	Chasing Rainbows	Epic
+Thu Jan  1 00:36:10 2015	56	Cemeteries	Summer Smoke	The Wilderness
+Thu Jan  1 00:42:26 2015	56	When The Clouds.	The Dawn And The Embrace	The Longed-For Season
+Thu Jan  1 00:46:18 2015	55	All Tiny Creatures	Glass Bubbles	Harbors
+Thu Jan  1 00:50:54 2015	55	Mmoths	Heart (Ft. Shelly In Athens)	Mmoths
+Thu Jan  1 00:55:30 2015	54	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Thu Jan  1 01:00:20 2015	53	Neon Indian	Terminally Chill	Psychic Chasms
+Thu Jan  1 01:03:34 2015	50	Underground Lovers	Dream To Me	Weekend
+Thu Jan  1 01:08:18 2015	50	Asgeir	King And Cross	In the Silence
+Thu Jan  1 01:11:45 2015	49	L'Altra	Say Wrong	Music Of A Sinking Occasion
+Thu Jan  1 01:16:49 2015	46	Fortune Howl	A Terrible Machine (Mister Lies Remix)	Earthbound [Remixed]
+Thu Jan  1 01:21:40 2015	47	Dan Black	Cocoon	((UN))
+Thu Jan  1 01:25:58 2015	47	Marconi Union	Buildings And People	Distance
+Thu Jan  1 01:30:51 2015	49	Lali Puna	Our Inventions	Our Inventions
+Thu Jan  1 01:35:06 2015	50	Hammock	Blankets Of Night	Kenotic
+Thu Jan  1 01:42:46 2015	50	Plushgun	All The Same	Me.Me.
+Thu Jan  1 01:47:49 2015	53	Toro Y Moi	Good Hold	Underneath The Pine
+Thu Jan  1 01:50:11 2015	55	Tycho	See	See Remix
+Thu Jan  1 01:54:54 2015	57	Xela	Softness Of Senses	Tangled Wool
+Thu Jan  1 01:59:39 2015	57	Valgeir Sigurysson	Kin	n/a
+Thu Jan  1 02:04:03 2015	55	Anders Parker	So Far Away	Skyscraper Crow
+Thu Jan  1 02:07:51 2015	52	Walton Hoax	All Recklessness Aside	All Recklessness Aside
+Thu Jan  1 02:13:23 2015	59	Tarwater	Dia	Music For Hairy Scary Monsters
+Thu Jan  1 02:15:22 2015	56	Melpo	Mene Hello Benjamin	Northern Living
+Thu Jan  1 02:19:48 2015	58	Lake Heartbeat	Build The Wall Up	Trust in Numbers
+Thu Jan  1 02:23:35 2015	62	Kyson	Ran Away	The Water's Way
+Thu Jan  1 02:26:13 2015	61	Oto Efekt	Vincent	Living Room (EP)
+Thu Jan  1 02:28:55 2015	61	Granufunk	Big City Lights	Granufunk
+Thu Jan  1 02:33:10 2015	62	Bebel Gilberto	All Around (Telefon Tel Aviv Remix)	Remixes Compiled
+Thu Jan  1 02:37:55 2015	57	Electric President	Robophobia	Sleep Well
+Thu Jan  1 02:41:53 2015	55	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Thu Jan  1 02:45:28 2015	57	Levek	With A Slow Burn	Look A little Closer
+Thu Jan  1 02:50:20 2015	52	Sohn	Bloodflows	Tremors
+Thu Jan  1 02:54:38 2015	54	Candlegravity	Junpei	Junpei
+Thu Jan  1 02:57:22 2015	54	Populous	Pawn Shop Close	Queue For Love
+Thu Jan  1 03:00:36 2015	56	Beacon	Into The Night	For Now
+Thu Jan  1 03:03:47 2015	56	B. Fleischmann	This Bar	I'm Not Ready For The Grave Yet
+Thu Jan  1 03:07:00 2015	53	Emancipator	Ares	safe in the steep cliffs
+Thu Jan  1 03:11:21 2015	56	Chairlift	Bruises	Does You Inspire You
+Thu Jan  1 03:15:21 2015	57	Clock Opera	Belongings	Ways to Forget
+Thu Jan  1 03:20:05 2015	63	Go Find	New Year	Stars on the Wall
+Thu Jan  1 03:23:14 2015	63	Bloom	More Angels	Beautiful Worlds
+Thu Jan  1 03:31:05 2015	75	Groundislava	Gravity Hoarding Ft. Weary	Groundislava
+Thu Jan  1 03:34:51 2015	76	Arovane	Good Bye Forever	Lilies
+Thu Jan  1 03:38:16 2015	71	Sigur Ros	Stormur	Kveikur
+Thu Jan  1 03:42:43 2015	70	Animat	A Promise Of Snow (Verbrilli Sound Windy Accumulations Mix)	A Promise of Snow EP
+Thu Jan  1 03:49:39 2015	71	Populous With Short Stories	Breathes The Best	Drawn In Basic
+Thu Jan  1 03:51:44 2015	71	Alucidnation	Spring	Aural Architecture
+Thu Jan  1 03:56:01 2015	68	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Thu Jan  1 04:02:49 2015	67	Four Tet	Turtle Turtle Up	Everything Ecstatic
+Thu Jan  1 04:05:14 2015	72	Poolside	Take Me Home	Pacific Standard Time
+Thu Jan  1 04:09:51 2015	75	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Thu Jan  1 04:14:55 2015	71	Album Leaf	Broken Arrow	INTO THE BLUE AGAIN
+Thu Jan  1 04:20:21 2015	76	Sun Glitters	Mouth	Mouth / Tight - EP
+Thu Jan  1 04:25:02 2015	75	Go Find	Adrenaline	Stars on the Wall
+Thu Jan  1 04:28:44 2015	74	Nuuro	Frame Me	All Clear
+Thu Jan  1 04:32:37 2015	76	Processory	Young Italians (Cfcf Remix)	n/a
+Thu Jan  1 04:38:21 2015	76	Tarwater	Lower Manhatten Pantoum	Spider Smile
+Thu Jan  1 04:44:33 2015	79	Riamiwo	Details Won't Detain	Ikude
+Thu Jan  1 04:48:12 2015	80	Beach House	Lazuli	Bloom
+Thu Jan  1 04:53:03 2015	79	Choir Of Young Believers	Have I Ever Truly Been Here	Rhine Gold
+Thu Jan  1 04:58:14 2015	81	Lali Puna	Nin-Com-Pop (Two Lone Swordsmen Remix)	I Thought I Was Over That
+Thu Jan  1 05:01:20 2015	81	Postal Service	Turn Around	Give Up
+Thu Jan  1 05:04:51 2015	79	Mmoths	Too Real	Diaries
+Thu Jan  1 05:08:00 2015	78	Matt Boyle	Icy	Maroon
+Thu Jan  1 05:11:43 2015	78	Arovane	A Secret	Tides
+Thu Jan  1 05:16:23 2015	74	Tokyo Morose	Here's The Man (Cantilever Remix)	Specific Ocean - Alternate Mixes
+Thu Jan  1 05:23:04 2015	75	Bibio	Saint Christopher	Mind Bokeh
+Thu Jan  1 05:29:16 2015	72	Qua	Devil Eyes	Painting Monsters On Clouds
+Thu Jan  1 05:33:18 2015	72	Xx	Fantasy	xx
+Thu Jan  1 05:35:36 2015	74	William Fitzsimmons	Took	Lions
+Thu Jan  1 05:39:51 2015	75	Park Avenue Music	How's Your 401k	For Your Home or Office
+Thu Jan  1 05:44:44 2015	74	Cutler	Maltese Cross	Everything Is Touching Everything Else
+Thu Jan  1 05:47:15 2015	72	Tycho	The Disconnect	Past Is Prologue
+Thu Jan  1 05:53:15 2015	75	Letting Up Despite Great Faults	In Steps	Letting Up Despite Great Faults
+Thu Jan  1 05:56:52 2015	74	Candlegravity	With Many Tears	Junpei
+Thu Jan  1 06:01:45 2015	75	Lemonade	Neptune	Diver
+Thu Jan  1 06:05:29 2015	80	Butcher The Bar	Get Away	Sleep At Your Own Speed
+Thu Jan  1 06:08:30 2015	74	Headlights	School Boys (Cale Parks Remix)	Remixes
+Thu Jan  1 06:12:07 2015	75	Orcas	Capillaries	Yearling
+Thu Jan  1 06:17:36 2015	77	Go Find	Japan	Brand New Love
+Thu Jan  1 06:22:05 2015	77	Four Tet	No More Mosquitoes	Pause
+Thu Jan  1 06:25:36 2015	79	Sohn	Ransom Notes	Tremors
+Thu Jan  1 06:29:37 2015	79	Populous	Cluster	Blue Skied An' Clear
+Thu Jan  1 06:33:48 2015	78	Manual	Summer Haze	Blue Skied An' Clear
+Thu Jan  1 06:38:45 2015	81	All India Radio	Under Moon	A Low High
+Thu Jan  1 06:41:30 2015	83	Age Of Rockets	The End Of Faith	Hannah
+Thu Jan  1 06:45:46 2015	77	Sigur Ros	Yfirbord	Kveikur
+Thu Jan  1 06:50:08 2015	79	Oto Efekt	01 In This Hole (Poni Mix)	Living Room (EP)
+Thu Jan  1 06:53:35 2015	75	Blue Hawaii	Flammarion	Untogether
+Thu Jan  1 06:57:15 2015	76	Year Of	There's Something About You	Slow Days
+Thu Jan  1 07:01:40 2015	76	Figurine	Connections	Monika Force
+Thu Jan  1 07:05:45 2015	80	Young & Sick	Continuum	Continuum
+Thu Jan  1 07:09:04 2015	79	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Thu Jan  1 07:12:37 2015	81	Koushik	Ifoundu	Out My Window
+Thu Jan  1 07:15:26 2015	83	Lali Puna	Future Tense	Our Inventions
+Thu Jan  1 07:19:00 2015	85	Aerosol	Let The Seasons Drift	Airborne
+Thu Jan  1 07:25:17 2015	81	Tycho	See (Beacon Remix)	See Remix
+Thu Jan  1 07:28:59 2015	85	Miike Snow	Faker	Miike Snow
+Thu Jan  1 07:31:35 2015	83	Masha Qrella	No Matter	Unsolved Remained
+Thu Jan  1 07:36:30 2015	83	Pulseprogramming	Blooms Eventually	Tulsa for One Second
+Thu Jan  1 07:41:32 2015	85	Khonnor	Dusty	Handwriting
+Thu Jan  1 07:45:09 2015	85	Fenster	Gravediggers	Bones
+Thu Jan  1 07:48:00 2015	85	Letters Letters	We'll Make Our Home	Letters Letters
+Thu Jan  1 07:50:40 2015	83	Plaid	Missing	Scintilli
+Thu Jan  1 07:54:18 2015	83	Glass Animals	Black Mambo (Zodiac Remix)	Black Mambo / Exxus
+Thu Jan  1 07:57:56 2015	83	Body Language	I'm A Mess	Grammar EP
+Thu Jan  1 08:00:55 2015	81	Ent	No Tone (Near The Parenthesis Remix)	Welcome Stranger
+Thu Jan  1 08:06:14 2015	82	American Dollar / Arms And	Diario 16	n/a
+Thu Jan  1 08:09:31 2015	83	Go Find	Adrenaline	Stars on the Wall
+Thu Jan  1 08:13:52 2015	86	Data Romance	Something To Me	Other
+Thu Jan  1 08:18:18 2015	93	Album Leaf	Micro Melodies (Live)	Red Tour EP
+Thu Jan  1 08:23:30 2015	97	Indigolab	Colours (Blackout)	Outlander
+Thu Jan  1 08:29:50 2015	91	Ulrich Schnauss & Mark Peters	The Child Or The Pigeon	Underrated Silence
+Thu Jan  1 08:33:23 2015	92	Grasscut	Meltwater	1 Inch / 1/2 Mile
+Thu Jan  1 08:37:52 2015	94	Styrofoam	Altogether	Blue Skied An' Clear
+Thu Jan  1 08:41:43 2015	97	Herrmann & Kleine	Leaving You Behind (Without Knowing Where To Go)	Blue Skied An' Clear
+Thu Jan  1 08:48:07 2015	98	Merkin Dream	Swell	The Merkin Dream
+Thu Jan  1 08:54:21 2015	93	Couch	Einhangen Und Positiver	Figur 5
+Thu Jan  1 08:58:21 2015	93	Telefon Tel Aviv	The Birds	Immolate Yourself
+Thu Jan  1 09:04:19 2015	97	Goddamn Electric Bill	Witching Hour	Swallowed by the Machines
+Thu Jan  1 09:08:59 2015	93	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Thu Jan  1 09:13:45 2015	97	Nuuro	I Believe You So Much It Hurts	Little Darla Has A Treat For You, V.24
+Thu Jan  1 09:18:21 2015	96	Electric President	Ether	Sleep Well
+Thu Jan  1 09:23:30 2015	103	One Am Radio	A Brittle Filament	This Too Will Pass
+Thu Jan  1 09:24:57 2015	102	Lali Puna	Small Things	Faking The Books
+Thu Jan  1 09:28:33 2015	96	Washed Out	You And I	Within And Without
+Thu Jan  1 09:33:31 2015	93	Mister Lies	Lupine	Mowgli
+Thu Jan  1 09:38:06 2015	91	Chvrches	Tether	The Bones Of What You Believe
+Thu Jan  1 09:42:36 2015	95	Dollboy	One Liner	A Beard Of Bees
+Thu Jan  1 09:47:32 2015	95	Po	Zen One	The Sound Of Summer Silence
+Thu Jan  1 09:51:46 2015	94	Coppe	Zojoji	8
+Thu Jan  1 09:55:01 2015	90	Future 3	Stuff	Blue Skied An' Clear
+Thu Jan  1 09:58:21 2015	92	Sigur Ros	Isjaki	Kveikur
+Thu Jan  1 10:03:10 2015	91	Headlights	Market Girl (The Album Leaf Remix)	Remixes
+Thu Jan  1 10:06:37 2015	91	Raveonettes	Curse The Night	Observator
+Thu Jan  1 10:09:44 2015	90	One Second Bridge	Everywhere	One Second Bridge
+Thu Jan  1 10:12:41 2015	84	Letting Up Despite Great Faults	So Fast You	Letting Up Despite Great Faults
+Thu Jan  1 10:16:19 2015	81	Beacon	Bring You Back	The Ways We Separate
+Thu Jan  1 10:20:28 2015	85	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Thu Jan  1 10:22:40 2015	83	Hundred Waters	Thistle	Hundred Waters
+Thu Jan  1 10:27:09 2015	82	Populous With Short Stories	Heaven Knows	Drawn In Basic
+Thu Jan  1 10:31:23 2015	80	Tycho	L	Awake
+Thu Jan  1 10:35:44 2015	81	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Thu Jan  1 10:39:04 2015	78	Neon Indian	Halogen (I Could Be A Shadow)	Era Extrana
+Thu Jan  1 10:43:28 2015	79	Granufunk	Jimmy Brown	Granufunk
+Thu Jan  1 10:47:31 2015	79	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Thu Jan  1 10:51:32 2015	76	People Press Play	These Days	People Press Play
+Thu Jan  1 10:55:22 2015	77	Valgeir Sigurysson	Evolution Of Water	n/a
+Thu Jan  1 10:59:46 2015	73	Christian Kleine	Quentin	Beyond Repair
+Thu Jan  1 11:04:54 2015	72	Lali Puna	Alienation	Faking The Books
+Thu Jan  1 11:08:47 2015	69	Contriva	Centipede	Separate Chambers
+Thu Jan  1 11:16:49 2015	72	Borko	Sushi Stakeout	Celebrating Life
+Thu Jan  1 11:21:25 2015	73	Douglas Dare	If I Knew I We're Alive	n/a
+Thu Jan  1 11:25:31 2015	72	Costa Music	Sounds Like A Sigh	Lighter Subjects
+Thu Jan  1 11:30:09 2015	72	Ex Confusion	Two Things	With Love
+Thu Jan  1 11:32:20 2015	71	Shins	Red Rabbits	Wincing The Night Away
+Thu Jan  1 11:36:27 2015	67	L'Altra	Motorme	Music Of A Sinking Occasion
+Thu Jan  1 11:41:00 2015	70	Fat Jon & Styrofoam	Generic Genes	The Same Channel
+Thu Jan  1 11:45:40 2015	71	Skipping Girl Vinegar	You Can	Keep Calm, Carry The Monkey
+Thu Jan  1 11:48:58 2015	71	Tycho	Plains	Awake
+Thu Jan  1 11:51:18 2015	68	Sombear	Easy Thief	Love You In The Dark
+Thu Jan  1 11:55:08 2015	69	Four Tet	Sun Drums And Soil	Everything Ecstatic
+Thu Jan  1 12:01:17 2015	73	Marconi Union	Inter	Distance
+Thu Jan  1 12:06:28 2015	69	Underground Lovers	In Silhouette	Weekend
+Thu Jan  1 12:10:29 2015	69	Mux Mool	Wolf Tone Symphony (Paul White Remix)	Horizon Line
+Thu Jan  1 12:13:37 2015	67	Barbara Morgenstern & Robert Lippok	Sommer	Tesri
+Thu Jan  1 12:17:17 2015	68	Go Find	Blisters	Miami
+Thu Jan  1 12:20:30 2015	63	Orcas	Half Light	Yearling
+Thu Jan  1 12:25:19 2015	66	When The Clouds.	The Place Where The Path Leads	The Longed-For Season
+Thu Jan  1 12:30:07 2015	63	John Vanderslice	Central Booking	Emerald City
+Thu Jan  1 12:35:01 2015	66	Blue Hawaii	Daisy	Untogether
+Thu Jan  1 12:39:32 2015	72	Lali Puna	People I Know	Faking The Books
+Thu Jan  1 12:42:28 2015	68	Carta	Santander	An Index Of Birds
+Thu Jan  1 12:46:11 2015	72	Postal Service	Be Still My Heart	Give Up
+Thu Jan  1 12:49:08 2015	70	Tarwater	Sweet Home Under White Clouds	Spider Smile
+Thu Jan  1 12:54:44 2015	72	Gold Panda	Enoshima	Half Of Where You Live
+Thu Jan  1 12:57:50 2015	70	Dalot	Haiku 23	HAIKUS 23
+Thu Jan  1 12:59:45 2015	72	Ms. John Soda	By Twos	No P. Or D.
+Thu Jan  1 13:05:24 2015	73	Naked & Famous	The Sun	Passive Me, Aggressive You
+Thu Jan  1 13:09:18 2015	68	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Thu Jan  1 13:13:08 2015	67	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Thu Jan  1 13:17:50 2015	71	Blue Foundation	Flame (Featuring Sara Savery)	In My Mind I Am Free
+Thu Jan  1 13:23:00 2015	66	Inspired Flight	Eight Words	We All Want To Fly
+Thu Jan  1 13:28:33 2015	70	Peter Broderick & Machinefabri	Rain	n/a
+Thu Jan  1 13:33:56 2015	68	Tog	Gronland 1	Feiring
+Thu Jan  1 13:39:08 2015	68	Makestapes	Shore Break	Texas (Exponential Records SXSW Label Sampler)
+Thu Jan  1 13:41:27 2015	65	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Thu Jan  1 13:45:33 2015	63	Go Find	Summer Boys	Brand New Love
+Thu Jan  1 13:49:30 2015	67	Album Leaf	Wherever I Go	INTO THE BLUE AGAIN
+Thu Jan  1 13:53:58 2015	67	Teamforest	Home	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Thu Jan  1 13:59:17 2015	70	Falty DL	She Sleeps (Gang Gang Dance Remix)	n/a
+Thu Jan  1 14:03:51 2015	69	Am & Shawn Lee	Down The Line	Celestial Electric
+Thu Jan  1 14:07:08 2015	76	Postal Service	Clark Gable	Give Up
+Thu Jan  1 14:11:55 2015	77	Letting Up Despite Great Faults	Photograph Shakes	Letting Up Despite Great Faults
+Thu Jan  1 14:14:59 2015	75	Tycho	A Circular Reeduction	Past Is Prologue
+Thu Jan  1 14:20:08 2015	77	Chvrches	Zvvl	Recover
+Thu Jan  1 14:23:21 2015	80	Asonat	There Was A Pattern	Love In Times of Repetition
+Thu Jan  1 14:23:49 2015	80	Acrylics	The Catacombs	Lives and Treasure
+Thu Jan  1 14:28:14 2015	81	Bibio	Haikuesque (The Gentleman Lose	n/a
+Thu Jan  1 14:31:43 2015	83	Contriva	Shadow	Monika Force
+Thu Jan  1 14:34:48 2015	82	Melorman	From Now On	Waves
+Thu Jan  1 14:40:19 2015	80	Glass Animals	Black Mambo	Black Mambo / Exxus
+Thu Jan  1 14:44:08 2015	81	Boreals	Invierno Fractal	Antipodas
+Thu Jan  1 14:47:56 2015	76	High Highs	White Water	OPEN SEASON DELUXE
+Thu Jan  1 14:51:32 2015	73	M83	Kelly	M83
+Thu Jan  1 14:55:42 2015	73	Rumpistol	G.T.	Mere Rum
+Thu Jan  1 15:00:20 2015	68	International Peoples Gang	Stop	Action Painting
+Thu Jan  1 15:06:33 2015	62	This Will Destroy You	Grandfather Clock	Young Mountain
+Thu Jan  1 15:09:08 2015	62	Other People's Children	Suicide Common	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Thu Jan  1 15:14:17 2015	66	Sea And Cake	Afternoon Speaker	Oui
+Thu Jan  1 15:18:33 2015	66	Album Leaf	Over The Pond	In a Safe Place
+Thu Jan  1 15:23:00 2015	64	Year Of	Mantra	Slow Days
+Thu Jan  1 15:26:38 2015	62	Tarwater	90 Days	The Needle Was Travelling
+Thu Jan  1 15:30:08 2015	64	Styrofoam	Misguided	Nothing's Lost
+Thu Jan  1 15:34:05 2015	59	Static	Three Nicotine Cigarettes	Flavour Has No Name
+Thu Jan  1 15:39:01 2015	62	Flaming Lips	It's Summertime	Yoshimi Battles The Pink Robots
+Thu Jan  1 15:43:07 2015	59	Tycho	Spectre	Spectre Single
+Thu Jan  1 15:46:52 2015	59	Eight And A Half	The Turn Around	Eight And A Half
+Thu Jan  1 15:51:07 2015	60	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Thu Jan  1 15:54:51 2015	62	Miike Snow	Silvia (Album Version)	Miike Snow
+Thu Jan  1 16:01:09 2015	67	Fenster	The Hunter	Bones
+Thu Jan  1 16:04:44 2015	60	Christian Kleine	Kritzel	Beyond Repair
+Thu Jan  1 16:08:58 2015	62	Asonat	Where The Heart Lives	Love In Times of Repetition
+Thu Jan  1 16:12:59 2015	66	Emancipator	All Through The Night	safe in the steep cliffs
+Thu Jan  1 16:17:06 2015	65	Monoceros	How Was The Earth? [Mother]	I Feel Apocalyptic Today
+Thu Jan  1 16:23:17 2015	65	Processory	Take Me To Your Leader	Change is Gradual
+Thu Jan  1 16:28:56 2015	63	Ms. John Soda	A Million Times	Notes and the Like
+Thu Jan  1 16:33:05 2015	61	Lali Puna	Faking The Books	Faking The Books
+Thu Jan  1 16:36:59 2015	61	Douglas Dare	Swim	Whelm
+Thu Jan  1 16:41:22 2015	62	Herrmann & Kleine	Hello, This One Is For You	Putting The Morr Back In Morrissey
+Thu Jan  1 16:46:18 2015	65	Ulfur	Black Shore	White Mountain
+Thu Jan  1 16:49:36 2015	62	B. Fleischmann	From To	The Humbucking Coil
+Thu Jan  1 16:54:54 2015	62	Letters Letters	Everyone's Afraid Of Fear	Letters Letters
+Thu Jan  1 17:00:34 2015	59	Khonnor	Kill 2	Handwriting
+Thu Jan  1 17:03:31 2015	62	Tycho	Coastal Brake (Manual Remix)	Coastal Brake
+Thu Jan  1 17:09:16 2015	64	Go Find	Dictionary	Stars On The Wall
+Thu Jan  1 17:13:16 2015	64	Mum	Asleep On A Train	Yesterday Was Dramatic, Today Is OK
+Thu Jan  1 17:20:36 2015	64	Milosh	Falling Away	Meme
+Thu Jan  1 17:24:19 2015	64	Sohn	Bloodflows	Tremors
+Thu Jan  1 17:28:37 2015	65	Crystal Fighters	You & I (Kodak To Graph Remix)	You & I (Remixes)
+Thu Jan  1 17:32:09 2015	65	People Press Play	That Walk	People Press Play
+Thu Jan  1 17:35:16 2015	67	Album Leaf	Another Day	Lifetime or More
+Thu Jan  1 17:39:17 2015	62	Anois	Set The Pace	Tracery On A Frosted Window EP
+Thu Jan  1 17:42:31 2015	62	Bibio	Dwrcan	Ambivalence Avenue
+Thu Jan  1 17:47:35 2015	61	Fortune Howl	Interzone Export (Bwoy De Bhajan Remix)	Earthbound [Remixed]
+Thu Jan  1 17:50:39 2015	58	Beacon	Studio Audience	The Ways We Separate
+Thu Jan  1 17:54:09 2015	57	Kiln	Ore Corymb [Bursting Rainbow C	Twinewheel [Lost-Sides and Dusty-Gems 1994-2005]
+Thu Jan  1 17:59:16 2015	59	Butcher The Bar	Opening Night	Sleep At Your Own Speed
+Thu Jan  1 18:02:17 2015	57	Electric President	Adrift In Space, Or Whatever	Sleep Well
+Thu Jan  1 18:03:25 2015	57	Four Tet	Chia	Rounds
+Thu Jan  1 18:03:51 2015	57	Nils Frahm	Familiar	Felt
+Thu Jan  1 18:07:01 2015	58	Album Leaf	Into The Sea	Into the Blue Again
+Thu Jan  1 18:11:16 2015	57	Ms. John Soda	Line By Line	Notes and the like
+Thu Jan  1 18:16:50 2015	62	Asonat	Last Song (Almost)	Love In Times of Repetition
+Thu Jan  1 18:19:06 2015	61	Washed Out	Paracosm	Paracosm
+Thu Jan  1 18:25:16 2015	59	Figurine	So Futuristic	Monika Force
+Thu Jan  1 18:27:23 2015	56	All India Radio	Purple Sky	The Silent Surf
+Thu Jan  1 18:30:08 2015	55	Freelance Whales	Broken Horse	Weathervanes [Vinyl]
+Thu Jan  1 18:34:37 2015	56	Park Avenue Music	The Modern Guide	For Your Home or Office
+Thu Jan  1 18:40:31 2015	59	Apparat	Goodbye	The Devil's Walk
+Thu Jan  1 18:44:17 2015	57	Lali Puna	I've Been Over The Rainbow	Silver Light
+Thu Jan  1 18:47:41 2015	57	Go Find	Ice Cold Ice	Stars on the Wall
+Thu Jan  1 18:52:54 2015	59	Choir Of Young Believers	Sedated	Rhine Gold
+Thu Jan  1 18:58:47 2015	58	Receiver	Hide	Length of Arms
+Thu Jan  1 19:01:36 2015	56	Toro Y Moi	Studies	Anything In Return
+Thu Jan  1 19:05:35 2015	59	L'Altra	Sleepless Night	Different Days
+Thu Jan  1 19:10:51 2015	57	Guitar	Love Is Slow	Honeysky
+Thu Jan  1 19:17:55 2015	58	Teen Daze	Alaska	Glacier
+Thu Jan  1 19:22:17 2015	56	Barbara Morgenstern	Dntel Mi	n/a
+Thu Jan  1 19:26:44 2015	53	Boy In Static	Candy Cigarette	Candy Cigarette
+Thu Jan  1 19:31:37 2015	54	Coppe	I Lick My Brain In Silence	8
+Thu Jan  1 19:36:08 2015	53	Glass Animals	Exxus	Black Mambo / Exxus
+Thu Jan  1 19:39:51 2015	54	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Thu Jan  1 19:43:27 2015	53	Soley	About Your Funeral	We Sink
+Thu Jan  1 19:49:33 2015	54	Ms. John Soda	Number One	n/a
+Thu Jan  1 19:54:26 2015	52	Asonat	Part Of Your Plan	Love In Times of Repetition
+Thu Jan  1 19:59:59 2015	51	People Press Play	Stop	People Press Play
+Thu Jan  1 20:04:58 2015	55	Orcas	Capillaries	Yearling
+Thu Jan  1 20:10:31 2015	54	Lali Puna	Grin & Bear	Faking The Books
+Thu Jan  1 20:15:07 2015	57	Go Find	We Promised Together	Brand New Love
+Thu Jan  1 20:18:27 2015	59	Via Tania	Wonder Stranger	Moon Sweet Moon
+Thu Jan  1 20:21:22 2015	58	Ulrich Schnauss & Jonas Munk	Sirocco	Epic
+Thu Jan  1 20:28:57 2015	55	Marconi Union	Broken Colours	Different Colours
+Thu Jan  1 20:34:19 2015	53	Year Of	Stephen Hawking	Slow Days
+Thu Jan  1 20:38:06 2015	54	Naked & Famous	No Way	Passive Me, Aggressive You
+Thu Jan  1 20:43:17 2015	51	Ernest Gonzales	Untitled Love Song	Been Meaning To Tell You
+Thu Jan  1 20:46:08 2015	54	Borko	Spoonstabberinn	Celebrating Life
+Thu Jan  1 20:50:04 2015	52	I Am Robot And Proud	The Risk	Uphill City
+Thu Jan  1 20:53:33 2015	54	All India Radio	Air	A Low High
+Thu Jan  1 20:56:15 2015	55	Benni Hemm Hemm	Allt Sem Thad Fer	Murta St. Calunga
+Thu Jan  1 21:01:49 2015	56	Blue Hawaii	Sierra Lift	Untogether
+Thu Jan  1 21:05:27 2015	54	Xela	You Are In The Stars	Tangled Wool
+Thu Jan  1 21:10:13 2015	58	Sohn	Ransom Notes	Tremors
+Thu Jan  1 21:14:16 2015	59	Plastik Joy	No-Date Night	3:03
+Thu Jan  1 21:17:50 2015	57	High Highs	Flowers Bloom	OPEN SEASON DELUXE
+Thu Jan  1 21:20:43 2015	58	Alucidnation	Spring	Aural Architecture
+Thu Jan  1 21:25:06 2015	57	Dustin.odell	I Always Come Back Wiser	last thursday died last week
+Thu Jan  1 21:27:15 2015	55	Architecture In Helsinki	B4 3d	Moment Bends
+Thu Jan  1 21:31:15 2015	54	Sin Fang (Morr Music)	Look At The Light	M plus Six
+Thu Jan  1 21:34:35 2015	56	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Thu Jan  1 21:41:22 2015	57	Asgeir	King And Cross	In the Silence
+Thu Jan  1 21:44:48 2015	56	Four Tet	Plastic People	There Is Love In You
+Thu Jan  1 21:50:45 2015	54	Limp	Silent Running	Blue Skied An' Clear
+Thu Jan  1 21:55:06 2015	55	Washed Out	All Over Now	Paracosm
+Thu Jan  1 21:58:44 2015	56	Mum	Asleep On A Train	Yesterday Was Dramatic, Today Is OK
+Thu Jan  1 22:06:09 2015	53	Flaming Lips	Approaching Pavonis Mons By Ba	Yoshimi Battles the Pink Robots (Deluxe Edition CD + DVD)
+Thu Jan  1 22:09:05 2015	57	Erlend Oye	Ghost Trains	Northern Living
+Thu Jan  1 22:13:17 2015	54	Miike Snow	Black Tin Box	Happy to You
+Thu Jan  1 22:18:45 2015	56	Novo	More And More	The Open EP
+Thu Jan  1 22:23:37 2015	57	Christian Kleine	Guitar Interrupt	Beyond Repair
+Thu Jan  1 22:27:47 2015	57	Album Leaf	Window	In a Safe Place
+Thu Jan  1 22:33:46 2015	55	Ms. John Soda	Hands	Notes And The Like
+Thu Jan  1 22:37:53 2015	55	Age Of Rockets	Fearsome Though We Are	Hannah
+Thu Jan  1 22:40:45 2015	56	Lali Puna	The Daily Match	I Thought I Was Over That
+Thu Jan  1 22:44:33 2015	57	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Thu Jan  1 22:48:32 2015	60	Benni Hemm Hemm	Beygja Og Beygja	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Thu Jan  1 22:51:24 2015	58	Jonsi	Around Us	Go
+Thu Jan  1 22:54:57 2015	60	Merkin Dream	Explorer	The Merkin Dream
+Thu Jan  1 22:59:34 2015	58	Teen Daze	Ice On The Windowsill	Glacier
+Thu Jan  1 23:03:44 2015	60	Riamiwo	Incidentel	n/a
+Thu Jan  1 23:06:58 2015	57	Antenne	Long To Kiss	3
+Thu Jan  1 23:13:06 2015	54	Blue Hawaii	Reaction Ii	Untogether
+Thu Jan  1 23:16:38 2015	53	Go Find	Everything Is Low	Stars on the Wall
+Thu Jan  1 23:22:04 2015	55	Xela	Through Crimson Clouds	Tangled Wool
+Thu Jan  1 23:27:23 2015	49	Butcher The Bar	Bike	Sleep At Your Own Speed
+Thu Jan  1 23:29:58 2015	47	Metric	Clone	Synthetica
+Thu Jan  1 23:34:59 2015	49	Four Tet	Smile Around The Face	Everything Ecstatic
+Thu Jan  1 23:39:23 2015	53	Isan	Roadrunner	plans drawn in pencil
+Thu Jan  1 23:42:51 2015	50	Khonnor	Phone Calls From You	Handwriting
+Thu Jan  1 23:46:35 2015	51	Apparat	Candil De La Calle	The Devil's Walk
+Thu Jan  1 23:50:40 2015	48	Arovane	Instant Gods Out Of The Box	Lilies
+Thu Jan  1 23:55:06 2015	49	Washed Out	Don't Give Up	Paracosm
+Thu Jan  1 23:58:54 2015	49	Receiver	Intervals	Length of Arms
+Fri Jan  2 00:02:51 2015	47	Dave Razor	It's Your Own Fault (Flow Form)	Transiscut period 6
+Fri Jan  2 00:05:40 2015	48	Tree Bosier	Music Without A Name	Bubikopf Girl - EP
+Fri Jan  2 00:07:53 2015	49	Douglas Dare	If I Knew I We're Alive	n/a
+Fri Jan  2 00:11:56 2015	49	Arovane	Silicad	Occer
+Fri Jan  2 00:16:04 2015	50	Guitar	Moonlight Makes Me Transparent	Honeysky
+Fri Jan  2 00:22:59 2015	52	Boy In Static	Wartime Bachelor	Candy Cigarette
+Fri Jan  2 00:25:59 2015	52	Go Find	25 Years	Stars on the Wall
+Fri Jan  2 00:29:50 2015	52	Unni Lovlid	Myrketid (Polar Night)	n/a
+Fri Jan  2 00:33:57 2015	53	Nuuro	Edison Melodies	In Transit EP
+Fri Jan  2 00:35:55 2015	54	Styrofoam	Safe And Broken	Nothing's Lost
+Fri Jan  2 00:39:28 2015	47	Lali Puna	Alienation	Faking The Books
+Fri Jan  2 00:43:25 2015	50	Blue Foundation	Lost (Featuring Sara Savery)	In My Mind I Am Free
+Fri Jan  2 00:48:20 2015	45	Miike Snow	Burial	Miike Snow
+Fri Jan  2 00:52:38 2015	46	Faunts	Memories Of Places We've Never Been (Domer Does Disco Remix)	Remixed
+Fri Jan  2 00:57:19 2015	55	Dead Leaf Echo	Child	Thought & Language
+Fri Jan  2 01:01:07 2015	58	Boom Bip	Do As I Do	Zig Zaj
+Fri Jan  2 01:06:05 2015	53	Hammock	Breathturn	Chasing After Shadows...Living with the Ghosts
+Fri Jan  2 01:11:28 2015	58	Four Tet	My Angel Rocks Back And Forth	Rounds
+Fri Jan  2 01:16:35 2015	57	Millenia Nova	Dont Mess With Texas	Narcotic Wide Screen Vista
+Fri Jan  2 01:19:14 2015	53	Milosh	Awful Game	iii
+Fri Jan  2 01:23:34 2015	54	Ulrich Schnauss & Mark Peters	Forgotten	Underrated Silence
+Fri Jan  2 01:27:22 2015	55	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Fri Jan  2 01:30:52 2015	55	Marc Hellner	Envoi	Asleep On The Wing
+Fri Jan  2 01:35:17 2015	57	Merkin Dream	Long Walks On The Beach	The Merkin Dream
+Fri Jan  2 01:39:34 2015	56	Ulrich Schnauss	On My Own (Robin Guthrie Versi	Essential Electronica: Soul Sauce Sauce
+Fri Jan  2 01:45:26 2015	59	Komeit	Same, Same	Blue Skied An' Clear
+Fri Jan  2 01:49:28 2015	58	Moi Caprice	Thieves Like Us	You Can't Say No Forever
+Fri Jan  2 01:55:29 2015	57	Album Leaf	The Light	Lifetime or More
+Fri Jan  2 01:59:17 2015	58	Aqob	All Moving Over The Earth (A Kinder Bot Remix)	Love is Always On
+Fri Jan  2 02:02:14 2015	55	Lali Puna	Nin-Com-Pop (Two Lone Swordsmen Remix)	I Thought I Was Over That
+Fri Jan  2 02:05:51 2015	55	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Fri Jan  2 02:10:57 2015	54	Washed Out	Weightless	Paracosm
+Fri Jan  2 02:15:30 2015	56	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Fri Jan  2 02:19:21 2015	56	Malka Spigel	Lost In Sound	Every Day Is Like The First Day
+Fri Jan  2 02:24:22 2015	57	Styrofoam	Make It Mine	Nothing's Lost
+Fri Jan  2 02:32:48 2015	65	Electric Penguins	Lonnie	Goodbye From The Electric Penguins
+Fri Jan  2 02:37:23 2015	65	One Am Radio	A Brittle Filament (Album)	This Too Will Pass
+Fri Jan  2 02:38:57 2015	67	Melorman	From Now On	Waves
+Fri Jan  2 02:44:23 2015	66	Arovane	Passage To Nagoya	Lilies
+Fri Jan  2 02:46:52 2015	67	Static	Ghost Boy (Starring Ronald Lippok)	Flavour Has No Name
+Fri Jan  2 02:51:17 2015	64	Laura Gibson & Ethan Rose	Glocken	Bridge Carols
+Fri Jan  2 02:54:43 2015	64	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Fri Jan  2 02:59:17 2015	61	Lykke Li	Let It Fall	Youth Novels
+Fri Jan  2 03:01:50 2015	66	Costa Music	Feathers	Lighter Subjects
+Fri Jan  2 03:06:16 2015	70	Mmoths	No One	Diaries
+Fri Jan  2 03:10:12 2015	71	Phaseone	It's Not Forever	Phaseone/Parisian (Single)
+Fri Jan  2 03:14:19 2015	75	Plastik Joy	Sleepy Quest For Coffee	3:03
+Fri Jan  2 03:18:32 2015	73	Synkro	Don't Want	Acceptance EP
+Fri Jan  2 03:22:38 2015	77	Guitar	House Full Of Time	Blue Skied An' Clear
+Fri Jan  2 03:27:11 2015	77	Peter Broderick & Machinefabri	Rain	n/a
+Fri Jan  2 03:32:28 2015	76	Near The Parenthesis	Diffused	Music For The Forest Concourse
+Fri Jan  2 03:38:32 2015	70	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Fri Jan  2 03:43:03 2015	66	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Fri Jan  2 03:45:13 2015	69	Ms. John Soda	Unsleeping	No P. Or D.
+Fri Jan  2 03:49:13 2015	70	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Fri Jan  2 03:53:21 2015	69	High Highs	Phone Call	OPEN SEASON DELUXE
+Fri Jan  2 03:57:48 2015	73	Go Find	Ice Bear	Music For Hairy Scary Monsters
+Fri Jan  2 04:00:39 2015	70	B. Fleischmann	Status Rmx	Putting The Morr Back In Morrissey
+Fri Jan  2 04:04:53 2015	71	Beacon	Pulse	For Now
+Fri Jan  2 04:08:25 2015	72	Chvrches	Tether	The Bones Of What You Believe
+Fri Jan  2 04:13:02 2015	73	Electric Penguins	Soft Landing	Goodbye From The Electric Penguins
+Fri Jan  2 04:16:46 2015	75	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Fri Jan  2 04:20:33 2015	76	Tycho	See (Beacon Remix)	See Remix
+Fri Jan  2 04:24:22 2015	75	When The Clouds.	The Dawn And The Embrace	The Longed-For Season
+Fri Jan  2 04:28:08 2015	75	Au4	An Ocean's Measure Of Sorrow	ON: Audio
+Fri Jan  2 04:34:06 2015	72	L'Altra	A Day Between	Different Days
+Fri Jan  2 04:37:18 2015	72	Year Of	Calling Sky	Slow Days
+Fri Jan  2 04:51:41 2015	74	James & Evander	Stapler Stapler Stapler.Com	n/a
+Fri Jan  2 04:54:33 2015	73	Four Tet	I've Got Viking In Me	My Angel Rocks Back And Forth
+Fri Jan  2 04:56:42 2015	71	One Am Radio	The Harvest	This Too Will Pass
+Fri Jan  2 04:58:52 2015	70	Album Leaf	Blank Pages	A Chorus of Storytellers
+Fri Jan  2 05:03:11 2015	69	All India Radio	A Low High	A Low High
+Fri Jan  2 05:06:46 2015	67	Neon Indian	Fallout	Era Extrana
+Fri Jan  2 05:10:20 2015	73	Po	Floating Against The Stream	The Sound Of Summer Silence
+Fri Jan  2 05:14:30 2015	69	Tape	Now	perpetual dubbing
+Fri Jan  2 05:16:58 2015	71	Milosh	Remember The Good Things	iii
+Fri Jan  2 05:22:31 2015	74	Marconi Union	Through Glass	Distance
+Fri Jan  2 05:28:15 2015	76	Quebec Antique	The Sounds	Abbey Tapes
+Fri Jan  2 05:32:40 2015	77	Jon Hopkins	Small Memory (Tuung Remix)	Seven Gulps Of Air
+Fri Jan  2 05:37:24 2015	78	Ghostworker	Autark	Erased Tapes Collection I
+Fri Jan  2 05:41:08 2015	77	Asonat	What Have We Done (Silence Is Golden)	Love In Times of Repetition
+Fri Jan  2 05:46:08 2015	81	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Fri Jan  2 05:49:51 2015	77	Orcas	Half Light	Yearling
+Fri Jan  2 05:54:33 2015	78	Gold Panda	An Iceburg Hurled Northward Throygh Clouds	DJ Kicks The Exclusives
+Fri Jan  2 06:00:22 2015	79	Ulrich Schnauss	Gone Forever (Robin Guthrie Ve	Strangely Isolated Place
+Fri Jan  2 06:05:24 2015	82	When The Clouds.	November Song	The Longed-For Season
+Fri Jan  2 06:09:37 2015	79	Hundred Waters	Thistle	Hundred Waters
+Fri Jan  2 06:14:08 2015	77	Beacon	Overseer	The Ways We Separate
+Fri Jan  2 06:17:31 2015	75	L'Altra	Little Chair	Music Of A Sinking Occasion
+Fri Jan  2 06:23:16 2015	74	Postal Service	We Will Become Silhouettes	Give Up
+Fri Jan  2 06:28:09 2015	78	My Robot Friend	Misfits Fight Song (Featuring Outputmessage)	Soft-Core
+Fri Jan  2 06:30:30 2015	70	Bloom	Mary	Beautiful Worlds
+Fri Jan  2 06:36:42 2015	72	Philippe Petit & Friends	Strings Of Consciousness (Herve Vincenti & Philippe Petit)	Reciprocess: +/Vs.
+Fri Jan  2 06:41:32 2015	72	Telefon Tel Aviv	I Made A Tree On The Wold	Immolate Yourself
+Fri Jan  2 06:45:39 2015	71	Four Tet	As Serious As Your Life	Rounds
+Fri Jan  2 06:50:21 2015	69	Architecture In Helsinki	City Calm Down	Fingers Crossed
+Fri Jan  2 06:52:47 2015	66	Midlake	The Old And The Young	Antiphon
+Fri Jan  2 06:58:20 2015	75	Bonobo	First Fires Feat. Grey Reverend	The North Borders
+Fri Jan  2 07:02:56 2015	71	Asonat	Expectations	Love In Times of Repetition
+Fri Jan  2 07:06:08 2015	74	Lali Puna	People I Know	Faking The Books
+Fri Jan  2 07:09:00 2015	77	Stripmall Architecture	Sing Along, My Children	Feathersongs for Factory Girls (disc 1)
+Fri Jan  2 07:13:17 2015	76	Tycho	Montana	Awake
+Fri Jan  2 07:18:23 2015	74	Letting Up Despite Great Faults	Pause	Letting Up Despite Great Faults
+Fri Jan  2 07:21:40 2015	75	Electric President	Lullaby	Sleep Well
+Fri Jan  2 07:26:54 2015	76	Remote Viewer	Snow It Falls On	Here I Go Again On My Own
+Fri Jan  2 07:29:46 2015	75	Zephyrs	Stand Round Hold Hands (Ulrich	A Year to the Day
+Fri Jan  2 07:36:19 2015	71	Ms. John Soda	Elusive (Rmx)	Drop=scene
+Fri Jan  2 07:44:53 2015	75	Dimitri Paile	Aed	n/a
+Fri Jan  2 07:47:17 2015	76	M83	Highway Of Endless Dreams	Saturdays = Youth
+Fri Jan  2 07:51:35 2015	77	L'Altra	Morning Disaster	Different Days
+Fri Jan  2 07:56:55 2015	78	Coppe	You Don't Know What Love Is	Artificial Insemination
+Fri Jan  2 08:00:09 2015	71	Aqob	Ladywhite	Love is Always On
+Fri Jan  2 08:05:18 2015	73	Xela	All Water But The Books Were D	n/a
+Fri Jan  2 08:09:20 2015	76	Barbara Morgenstern & Robert Lippok	White Wise Rabbit	Tesri
+Fri Jan  2 08:12:53 2015	75	Big Toe	Cycling Shoes	(Limited release 7")
+Fri Jan  2 08:15:30 2015	80	Douglas Dare	Swim	Whelm
+Fri Jan  2 08:19:53 2015	80	Dead Leaf Echo	Gesture	Thought & Language
+Fri Jan  2 08:25:35 2015	76	Dan Deacon	Prettyboy	America
+Fri Jan  2 08:30:51 2015	85	Notwist, The	Trashing Days	Neon Golden
+Fri Jan  2 08:34:13 2015	90	Young & Sick	Continuum	Continuum
+Fri Jan  2 08:37:26 2015	90	Milosh	Wrapped Round My Ways	iii
+Fri Jan  2 08:42:32 2015	91	Coconut Records	West Coast	Nighttiming
+Fri Jan  2 08:45:47 2015	86	Go Find	What I Want	Over the Edge vs What I Want
+Fri Jan  2 08:49:40 2015	91	Freelance Whales	The Great Estates	Weathervanes [Vinyl]
+Fri Jan  2 08:53:42 2015	91	Album Leaf	Malmo	Seal Beach
+Fri Jan  2 08:58:45 2015	93	Cobra Killer	L.A. Shaker	Monika Force
+Fri Jan  2 09:02:20 2015	84	Guitar	Heretogether	Honeysky
+Fri Jan  2 09:07:56 2015	88	Populous With Short Stories	The Holy See	Drawn In Basic
+Fri Jan  2 09:10:54 2015	86	M83	Run Into Flowers	Dead Cities, Red Seas & Lost Ghosts
+Fri Jan  2 09:14:55 2015	88	Beach House	Other People	Bloom
+Fri Jan  2 09:19:03 2015	86	Beacon	Feeling's Gone (Extended Version)	The Ways We Separate
+Fri Jan  2 09:23:51 2015	86	Sin Fang	Walk With You	Half Dreams
+Fri Jan  2 09:27:50 2015	93	Year Of	I Love You	Slow Days
+Fri Jan  2 09:32:07 2015	90	Lali Puna	Nin-Com-Pop (2ls Mix)	A Number Of Small Things
+Fri Jan  2 09:35:19 2015	92	Electric Penguins	Supergirl	Goodbye From The Electric Penguins
+Fri Jan  2 09:38:35 2015	90	Contriva	I Can Wait	Morr Classics Pt.2
+Fri Jan  2 09:42:48 2015	96	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Fri Jan  2 09:46:25 2015	99	Skuli Sverrisson	Binding Garden	Seria
+Fri Jan  2 09:51:23 2015	88	When The Clouds.	Rise On	The Longed-For Season
+Fri Jan  2 09:55:57 2015	96	Deerhunter	Agoraphobia	Microcastle
+Fri Jan  2 09:59:18 2015	99	Animal Collective	On A Highway	Fall Be Kind
+Fri Jan  2 10:03:50 2015	97	Asonat	On The Other Side	Love In Times of Repetition
+Fri Jan  2 10:08:19 2015	100	Emiliana Torrini	Speed Of Dark	Tookah
+Fri Jan  2 10:13:25 2015	102	L'Altra	Better Than Bleeding	Different Days
+Fri Jan  2 10:17:59 2015	103	Toro Y Moi	Rose Quartz	Anything In Return
+Fri Jan  2 10:22:20 2015	105	Teen Daze	New Life	The Inner Mansions
+Fri Jan  2 10:25:57 2015	103	Four Tet	Clouding	Everything Ecstatic
+Fri Jan  2 10:27:31 2015	103	Sigur Ros	Hrafntinna	Kveikur
+Fri Jan  2 10:33:32 2015	104	Album Leaf	Streamside	In a Safe Place
+Fri Jan  2 10:37:06 2015	110	Schwana Bees	Pipe Line	Baso
+Fri Jan  2 10:41:13 2015	108	Cobra Killer	Like A Tim Mix	Monika Force (Compilation)
+Fri Jan  2 10:43:55 2015	107	Lali Puna	Grin & Bear	Faking The Books
+Fri Jan  2 10:48:34 2015	105	Ulfur	Heaven In A Wildflower	White Mountain
+Fri Jan  2 10:54:43 2015	98	High Highs	Milan (Slow Magic Remix)	OPEN SEASON DELUXE
+Fri Jan  2 10:58:07 2015	99	Mmoths	For Her (Feat. Young & Sick)	Diaries
+Fri Jan  2 11:01:19 2015	95	One Am Radio	We Are Also What We've Lost	The Hum of the Electric Air!
+Fri Jan  2 11:04:48 2015	99	One Second Bridge	1000 Lights	S/T
+Fri Jan  2 11:06:30 2015	93	Beacon	Studio Audience (Radio Edit)	The Ways We Separate
+Fri Jan  2 11:09:57 2015	91	Telefon Tel Aviv Feat. Lindsay Anderson	Street Spirit (Fade Out)	Exit Music
+Fri Jan  2 11:17:23 2015	88	James Yuill	Left Handed Girl	Turning Down Water For Air
+Fri Jan  2 11:20:20 2015	90	Helios	Woods And Gives Away	Ayres
+Fri Jan  2 11:25:44 2015	92	Tythe	Summerbelly	& Also With You
+Fri Jan  2 11:28:54 2015	90	Robin Guthrie	Conquering The Romantic	Continental
+Fri Jan  2 11:31:32 2015	91	Lemonade	Eye Drops	Diver
+Fri Jan  2 11:35:00 2015	90	Christian Kleine	By The Lake	Beyond Repair
+Fri Jan  2 11:41:42 2015	90	Cinematic Orchestra	Time & Space	Cinematic Orchestra - Ma Fleur
+Fri Jan  2 11:49:40 2015	92	Postal Service	Nothing Better	Give Up
+Fri Jan  2 11:53:25 2015	91	Dead Leaf Echo	Heavensent	Thought & Language
+Fri Jan  2 11:57:44 2015	87	Khonnor	Daylight And Delight	Handwriting
+Fri Jan  2 12:00:39 2015	89	Voice Changer	Voice Changer (Aspen Mix)	Left Arm Friend
+Fri Jan  2 12:06:54 2015	87	Matt Boyle	Second Thoughts At Sea Level	Maroon
+Fri Jan  2 12:10:56 2015	89	Milosh	You Fill Me	Meme
+Fri Jan  2 12:15:41 2015	87	Four Tet	Circling	There Is Love In You
+Fri Jan  2 12:21:00 2015	90	Olafur Arnalds	Gleypa Okkur	...and they have escaped the weight of darkness
+Fri Jan  2 12:26:26 2015	91	Douglas Dare	If I Knew I We're Alive	n/a
+Fri Jan  2 12:30:31 2015	93	13 & God	Beat On Us	Own Your Ghost
+Fri Jan  2 12:35:31 2015	94	Plastik Joy	Hands	3:03
+Fri Jan  2 12:39:37 2015	93	Lapalux	Without You Feat. Kerry Latham	Nostalchic
+Fri Jan  2 12:44:40 2015	94	Sally Shapiro	Time To Let Go	Northern Living
+Fri Jan  2 12:49:47 2015	93	Masha Qrella	Unsolved Remained	Unsolved Remained
+Fri Jan  2 12:55:08 2015	89	Xx	Vcr	XX (Bonus Track Version) (mp3)
+Fri Jan  2 12:57:52 2015	90	Washed Out	Soft	Within And Without
+Fri Jan  2 13:02:43 2015	92	Go Find	The Message	Brand New Love
+Fri Jan  2 13:05:38 2015	88	Dntel	Umbrella	Life Is Full Of Possibilities
+Fri Jan  2 13:10:23 2015	93	Costa Music	Canary Landscape	Lighter Subjects
+Fri Jan  2 13:14:21 2015	87	Beacon	Feeling's Gone	For Now
+Fri Jan  2 13:17:27 2015	89	Sigur Ros	Kveikur	Kveikur
+Fri Jan  2 13:23:06 2015	89	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Fri Jan  2 13:29:46 2015	83	Electric President	Grand Machine No. 12	Morr Classics Pt.1
+Fri Jan  2 13:33:41 2015	81	Near The Parenthesis	Within An Orbit	Music For The Forest Concourse
+Fri Jan  2 13:38:54 2015	81	Lali Puna	The Daily Match	I Thought I Was Over That
+Fri Jan  2 13:42:35 2015	81	Sohn	Bloodflows	Tremors
+Fri Jan  2 13:46:57 2015	80	Antenne	All Of Us	3
+Fri Jan  2 13:52:45 2015	73	Drop The Fear	Edge Of The Universe	Drop the Fear
+Fri Jan  2 13:56:46 2015	74	Olafur Arnalds	Haegt, Kemur Ljosid	...and they have escaped the weight of darkness
+Fri Jan  2 14:01:05 2015	77	Quebec Antique	Montreal	Abbey Tapes
+Fri Jan  2 14:06:30 2015	76	Toro Y Moi	Day One	Anything In Return
+Fri Jan  2 14:10:42 2015	72	Sombear	La	Love You In The Dark
+Fri Jan  2 14:13:57 2015	70	One Second Bridge	The Ghost	One Second Bridge
+Fri Jan  2 14:17:52 2015	74	Tortoise	The Suspension Bridge At Iguazuyy Falls	n/a
+Fri Jan  2 14:23:24 2015	73	Levek	Canterbury Bell	Look A little Closer
+Fri Jan  2 14:25:42 2015	74	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Fri Jan  2 14:29:00 2015	70	Arovane	The Storm	Tides
+Fri Jan  2 14:36:08 2015	70	Analog I/O	The Mercenary	Boat Club
+Fri Jan  2 14:39:28 2015	70	Beacon	Split In Two	The Ways We Separate
+Fri Jan  2 14:44:28 2015	76	Lava	Humanwave	PDX Pop Now! 2013
+Fri Jan  2 14:47:53 2015	73	Bibio	All The Flowers (Lone Remix)	The Apple And The Tooth
+Fri Jan  2 14:52:08 2015	70	L'Altra	Bring On Happiness	Different Days
+Fri Jan  2 14:54:28 2015	70	Liftoff	Nothing Is Something	Sunday Morning Airplay
+Fri Jan  2 14:57:58 2015	69	Sigur Ros	Stormur	Kveikur
+Fri Jan  2 15:02:22 2015	70	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Fri Jan  2 15:06:21 2015	67	Contriva	No One Below	Separate Chambers
+Fri Jan  2 15:10:22 2015	66	Lali Puna	Grin & Bear (To Rococo Rot Rmx	I Thought I Was Over That
+Fri Jan  2 15:15:08 2015	67	Daedelus	Tidal Waves Uprising	Righteous Fists Of Harmony
+Fri Jan  2 15:16:28 2015	66	Electric President	Monsters	Sleep Well
+Fri Jan  2 15:20:59 2015	66	Olafur Arnalds	Tunglid	...and they have escaped the weight of darkness
+Fri Jan  2 15:24:59 2015	63	Beach House	The Hours	Bloom
+Fri Jan  2 15:29:07 2015	63	Pascal Pinon	New Beginning	S/T
+Fri Jan  2 15:30:54 2015	60	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Fri Jan  2 15:34:53 2015	60	Album Leaf	Twenty Two Fourteen	In A Safe Place
+Fri Jan  2 15:40:26 2015	64	Tycho	New Mix	n/a
+Fri Jan  2 15:46:17 2015	65	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Fri Jan  2 15:48:27 2015	64	Candlegravity	Wanting Someone	Junpei
+Fri Jan  2 15:52:27 2015	69	Kyson	Shadows Cross	The Water's Way
+Fri Jan  2 15:56:28 2015	67	Soundspell	The Truth Remains A Question Mark	An Ode To The Umbrella
+Fri Jan  2 15:57:54 2015	70	Via Tania	Our Wild Flight	Moon Sweet Moon
+Fri Jan  2 16:01:31 2015	69	Asonat	Love In Times Of Repetition	Love In Times of Repetition
+Fri Jan  2 16:06:26 2015	72	Sigur Ros	Brennisteinn	Kveikur
+Fri Jan  2 16:13:39 2015	77	Tree Bosier	Hometown	Bubikopf Girl - EP
+Fri Jan  2 16:17:17 2015	76	Tobias Lilja	Love Song	Delirium Portraits
+Fri Jan  2 16:23:55 2015	73	Bloom	Arjuna June Bug	Beautiful Worlds
+Fri Jan  2 16:29:54 2015	73	Dntel	Fear Of Corners	Life Is Full Of Possibilities
+Fri Jan  2 16:34:39 2015	74	Melorman	From Now On	Waves
+Fri Jan  2 16:40:18 2015	73	Elephant And Castle	Adjoining Souls	Transitions
+Fri Jan  2 16:42:46 2015	72	L'Altra	There Is No	Different Days
+Fri Jan  2 16:46:27 2015	69	King Creosote & Jon Hopkins	Bubble	Diamond Mine
+Fri Jan  2 16:51:25 2015	67	Lali Puna	Nin-Com-Pop (Two Lone Swordsmen Remix)	I Thought I Was Over That
+Fri Jan  2 16:54:27 2015	66	Peter Broderick & Machinefabri	Rain	n/a
+Fri Jan  2 16:59:47 2015	64	Four Tet	A Joy	Everything Ecstatic
+Fri Jan  2 17:02:50 2015	66	Naked & Famous	Young Blood	Passive Me, Aggressive You
+Fri Jan  2 17:06:51 2015	64	Dive Index	Into Powder	Mid/Air
+Fri Jan  2 17:11:43 2015	61	American Dollar	Somnambulance	The American Dollar
+Fri Jan  2 17:15:56 2015	62	Robin Guthrie	Pale	Continental
+Fri Jan  2 17:21:50 2015	61	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Fri Jan  2 17:25:29 2015	60	Beacon	It Won't Be Long	For Now
+Fri Jan  2 17:28:50 2015	62	Contriva	Before	Separate Chambers
+Fri Jan  2 17:32:44 2015	62	Nuuro	Common Dragons	In Transit EP
+Fri Jan  2 17:36:32 2015	61	Biggi	Please Back Off	ID
+Fri Jan  2 17:40:22 2015	63	Errors	Antipode	Come Down With Me
+Fri Jan  2 17:44:14 2015	62	Tortoise	Ten-Day Interval	TNT
+Fri Jan  2 17:48:41 2015	58	Album Leaf	Moss Mountain Town	In a Safe Place
+Fri Jan  2 17:52:06 2015	54	Tog	Gronland 1	Feiring
+Fri Jan  2 17:57:16 2015	54	L'Altra	Say Wrong	Music Of A Sinking Occasion
+Fri Jan  2 18:02:32 2015	52	Populous	The Dixie Saga	Queue for Love
+Fri Jan  2 18:06:14 2015	54	Clock Opera	Let Go The Lifeboats	Belongings
+Fri Jan  2 18:08:58 2015	55	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Fri Jan  2 18:13:38 2015	50	Borko	Summer Logic	Celebrating Life
+Fri Jan  2 18:18:38 2015	51	Electric President	I'm Not The Lonely Son (I'm The Ghost)	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Fri Jan  2 18:21:49 2015	51	Damon Aaron	All I Need	Ballast
+Fri Jan  2 18:25:36 2015	54	Tied & Tickled Trio	Tamaghis	Aelita
+Fri Jan  2 18:33:06 2015	54	Orcas	Capillaries	Yearling
+Fri Jan  2 18:38:37 2015	55	Blue Sky Black Death	To The Ends Of The Earth	Noir
+Fri Jan  2 18:42:21 2015	56	Levek	With A Slow Burn	Look A little Closer
+Fri Jan  2 18:47:05 2015	56	Asonat	Forgotten	Love In Times of Repetition
+Fri Jan  2 18:51:09 2015	53	Dntel	Suddenly Is Sooner Than You Think	Life Is Full Of Possibilities
+Fri Jan  2 18:56:43 2015	54	Chvrches	Tether	The Bones Of What You Believe
+Fri Jan  2 19:01:18 2015	54	All India Radio	Ghost Song	The Silent Surf
+Fri Jan  2 19:05:17 2015	52	Go Find	The Lobby	Brand New Love
+Fri Jan  2 19:08:57 2015	54	B. Fleischmann	Static Grate	The Humbucking Coil
+Fri Jan  2 19:13:14 2015	53	Komeit	T.Raumschmiere Mix	n/a
+Fri Jan  2 19:19:05 2015	53	Ulrich Schnauss & Jonas Munk	Johnny (Sentimental Fool)	Epic
+Fri Jan  2 19:24:10 2015	53	Chairlift	Deer Hunt	Does You Inspire You
+Fri Jan  2 19:28:35 2015	52	Sohn	Ransom Notes	Tremors
+Fri Jan  2 19:32:31 2015	52	Groundislava	One For Her	Groundislava
+Fri Jan  2 19:37:05 2015	54	Khonnor	A Little Secret	Handwriting
+Fri Jan  2 19:40:51 2015	52	Contriva	Concrete Sleepers	Separate Chambers
+Fri Jan  2 19:44:32 2015	51	Slowdive	Blue Skied An' Clear	Catch The Breeze
+Fri Jan  2 19:51:15 2015	55	Notwist, The	Consequence	Neon Golden
+Fri Jan  2 19:56:08 2015	56	Aether	Milla Ann	Artifacts
+Fri Jan  2 19:57:50 2015	55	Architecture In Helsinki	Where You've Been Hiding	Fingers Crossed
+Fri Jan  2 20:00:33 2015	56	James And Evander	Bigger Than Me	Awkward Turtle EP
+Fri Jan  2 20:04:19 2015	59	Toro Y Moi	High Living	Anything In Return
+Fri Jan  2 20:08:33 2015	58	Asgeir	King And Cross	In the Silence
+Fri Jan  2 20:12:00 2015	58	L'Altra	So Surprise	Different Days
+Fri Jan  2 20:16:18 2015	56	Merkin Dream	Softly	The Merkin Dream
+Fri Jan  2 20:21:07 2015	58	Kings Of Convenience	The Weight Of My Words (Four Tet Remix)	Versus
+Fri Jan  2 20:25:42 2015	57	Standish, Carlyon	Moves, Moves	Deleted Scenes
+Fri Jan  2 20:31:16 2015	59	Album Leaf	Within Dreams	A Chorus of Storytellers
+Fri Jan  2 20:35:54 2015	60	Ulrich Schnauss & Mark Peters	Yesterday Didn't Exist	Underrated Silence
+Fri Jan  2 20:40:38 2015	61	Fog	Song About A Wedding	10th Avenue Freakout
+Fri Jan  2 20:44:45 2015	59	Silver Swans	Diary Land	Forever
+Fri Jan  2 20:50:27 2015	59	Awning	Mistaken Tendency	Two Against Me
+Fri Jan  2 20:53:27 2015	58	Lali Puna	Small Things	Faking The Books
+Fri Jan  2 20:56:58 2015	57	Beacon	Drive	The Ways We Separate
+Fri Jan  2 21:00:09 2015	54	Sea And Cake	Le Baron	One Bedroom
+Fri Jan  2 21:04:07 2015	54	Arovane	Windy Wish Trees	Lilies
+Fri Jan  2 21:07:18 2015	55	Chairlift	Wrong Opinion	Something
+Fri Jan  2 21:12:19 2015	53	Helios	Halving The Compass	Eingya
+Fri Jan  2 21:16:24 2015	51	Mike Milosh	Time Steals The Day	You Make Me Feel
+Fri Jan  2 21:19:55 2015	54	Aerosol	Softly Slipping	Airborne
+Fri Jan  2 21:25:28 2015	52	Park Avenue Music	How's Your 401k	For Your Home or Office
+Fri Jan  2 21:30:21 2015	49	Costa Music	Somewhere Listening	Lighter Subjects
+Fri Jan  2 21:35:15 2015	46	Alias	Prelude To A Death Watch	Resurgam
+Fri Jan  2 21:38:51 2015	45	Peter Broderick	And It's Alright (Nils Frahm Rmx)	Erased Tapes Collection II
+Fri Jan  2 21:43:21 2015	43	Fortune Howl	A Terrible Machine (Mister Lies Remix)	Earthbound [Remixed]
+Fri Jan  2 21:48:16 2015	43	Pulseprogramming	Blooms Eventually (Hood Remix)	Tulsa for One Second
+Fri Jan  2 21:52:38 2015	48	Four Tet	Everything Is Alright	Pause
+Fri Jan  2 21:55:05 2015	48	Tycho	See	See Remix
+Fri Jan  2 22:00:20 2015	54	James And Evander	Mosswood And Webster	Awkward Turtle EP
+Fri Jan  2 22:04:01 2015	52	Alucidnation	Spring	Aural Architecture
+Fri Jan  2 22:08:20 2015	54	Douglas Dare	Swim	Whelm
+Fri Jan  2 22:12:49 2015	55	Processory	The Books I Never Read	Change is Gradual
+Fri Jan  2 22:16:37 2015	51	Styrofoam	Beequeen	Nothing's Lost
+Fri Jan  2 22:21:06 2015	53	Younger Brother	Safety In Numbers	Vaccine
+Fri Jan  2 22:26:29 2015	51	Plastik Joy	Twenty-Ninth Of April	3:03
+Fri Jan  2 22:32:00 2015	52	Mmoths	Too Real	Diaries
+Fri Jan  2 22:35:09 2015	54	Hammock	The Air Between Us	Kenotic
+Fri Jan  2 22:38:44 2015	54	Cutler	Maltese Cross	Everything Is Touching Everything Else
+Fri Jan  2 22:41:16 2015	55	Coppe	Monologue	8
+Fri Jan  2 22:43:25 2015	57	William Fitzsimmons	Took	Lions
+Fri Jan  2 22:47:40 2015	54	Album Leaf	Always For You	Into the Blue Again
+Fri Jan  2 22:52:39 2015	54	B. Fleischmann	Gain	The Humbucking Coil
+Fri Jan  2 22:57:20 2015	52	Go Find	Your Heart	Brand New Love
+Fri Jan  2 23:01:06 2015	50	Death Cab For Cutie	Home Is A Fire (Ulrich Schnauss Remix)	Keys And Codes Remix EP
+Fri Jan  2 23:05:09 2015	53	It's A Musical	Dinosaur	The Music Makes Me Sick
+Fri Jan  2 23:08:23 2015	55	Guitar	I Swim Alone	Honeysky
+Fri Jan  2 23:16:03 2015	53	B. Fleischmann & Ms. John Soda	Here She Comes	Blue Skied An' Clear
+Fri Jan  2 23:20:08 2015	53	Bibio	Abrasion	Ambivalence Avenue
+Fri Jan  2 23:22:39 2015	52	Freelance Whales	We Could Be Friends	Weathervanes
+Fri Jan  2 23:26:52 2015	53	Robin Guthrie	Monument	Continental
+Fri Jan  2 23:30:30 2015	55	Cemeteries	Leland	The Wilderness
+Fri Jan  2 23:34:20 2015	52	Beacon	Between The Waves	The Ways We Separate
+Fri Jan  2 23:37:39 2015	54	Sin Fang	It's Not There	Half Dreams
+Fri Jan  2 23:42:20 2015	58	Chvrches	Zvvl	Recover
+Fri Jan  2 23:45:16 2015	57	Toro Y Moi	Freak Love	Causers Of This
+Fri Jan  2 23:47:45 2015	61	Pooma	If May Starts Tomorrow	Persuader
+Fri Jan  2 23:52:30 2015	63	Hics	Tangle	Tangle EP
+Fri Jan  2 23:56:26 2015	60	Processory	Take Me To Your Leader	Change is Gradual
+Sat Jan  3 00:02:18 2015	57	Welder	Purple & Orange	Vines & Streams
+Sat Jan  3 00:09:33 2015	60	Sea And Cake	Hotel Tell	One Bedroom
+Sat Jan  3 00:13:28 2015	62	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Sat Jan  3 00:17:01 2015	58	Christopher Willits	Colors Shifting	Surf Boundaries
+Sat Jan  3 00:21:55 2015	57	Chairlift	Turning	Something
+Sat Jan  3 00:24:51 2015	56	Arovane	Cry Osaka Cry	Lilies
+Sat Jan  3 00:29:55 2015	58	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Sat Jan  3 00:34:40 2015	64	Mmoths	All These Things (Feat. Holly Miranda)	Diaries
+Sat Jan  3 00:39:05 2015	63	Lali Puna	Grin & Bear	Faking The Books
+Sat Jan  3 00:43:45 2015	62	Metronomy	Love Underlined	The English Riviera
+Sat Jan  3 00:49:07 2015	66	Go Find	Beautiful Night	Stars on the wall
+Sat Jan  3 00:50:56 2015	68	B. Fleischmann	Take A Day Off	Blue Skied An' Clear
+Sat Jan  3 00:56:56 2015	63	Four Tet	All The Chimers	My Angel Rocks Back And Forth
+Sat Jan  3 00:59:36 2015	66	Album Leaf	Thule	In a Safe Place
+Sat Jan  3 01:03:47 2015	64	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Sat Jan  3 01:08:54 2015	67	Dollboy	Helicopter-Microbes	n/a
+Sat Jan  3 01:14:46 2015	69	Blue Hawaii	Flammarion	Untogether
+Sat Jan  3 01:18:26 2015	70	Houses	The Beauty Surrounds (Radio Edit)	n/a
+Sat Jan  3 01:22:19 2015	70	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Sat Jan  3 01:26:11 2015	71	Candlegravity	Junpei	Junpei
+Sat Jan  3 01:28:55 2015	72	Echodrone	Cold Snap	Bon Voyage
+Sat Jan  3 01:34:03 2015	71	City Light	Rewind Replay Repeat	Memory Guide
+Sat Jan  3 01:37:33 2015	70	Helios	For Years And Years	Eingya
+Sat Jan  3 01:42:50 2015	69	Hundred Waters	Thistle	Hundred Waters
+Sat Jan  3 01:47:21 2015	65	Douglas Dare	If I Knew I We're Alive	n/a
+Sat Jan  3 01:51:26 2015	70	American Dollar	Everyone Gets Shot	The American Dollar
+Sat Jan  3 01:58:57 2015	67	Borko	Continental Love	Celebrating Life
+Sat Jan  3 02:04:16 2015	65	Young & Sick	Continuum	Continuum
+Sat Jan  3 02:08:06 2015	70	L'Altra	The Last	History Is Bunk Part 1
+Sat Jan  3 02:11:40 2015	70	Anois	And You Are Okay	Tracery On A Frosted Window EP
+Sat Jan  3 02:16:24 2015	74	Slicker	Next Time	Immediate Action
+Sat Jan  3 02:20:50 2015	72	Beacon	Headlights	The Ways We Separate
+Sat Jan  3 02:23:46 2015	73	High Highs	White Water	OPEN SEASON DELUXE
+Sat Jan  3 02:27:05 2015	79	Barbara Morgenstern & Robert Lippok	Sommer	Tesri
+Sat Jan  3 02:30:40 2015	75	Processory	Nightfall	Change is Gradual
+Sat Jan  3 02:35:15 2015	71	Tycho	L	Awake
+Sat Jan  3 02:39:00 2015	74	Black Mold	Pristine Boobles	Snow Blindness is Crystal Antz
+Sat Jan  3 02:41:40 2015	71	Am & Shawn Lee	In The Aftermath	La Musique Numerique
+Sat Jan  3 02:45:39 2015	69	Mmoths	If Only	Mmoths
+Sat Jan  3 02:49:39 2015	70	Populous	Sundae Pitch	Queue For Love
+Sat Jan  3 02:51:53 2015	72	Go Find	Perfume V	Music For Hairy Scary Monsters
+Sat Jan  3 02:54:25 2015	73	Alias	Resurgam	Resurgam
+Sat Jan  3 02:57:30 2015	77	Lali Puna	The Daily Match	I Thought I Was Over That
+Sat Jan  3 03:01:17 2015	76	Teen Daze	Discipleship	The Inner Mansions
+Sat Jan  3 03:07:57 2015	82	Ex Confusion	Two Things	With Love
+Sat Jan  3 03:10:00 2015	83	B. Fleischmann	Phones And Machines	The Humbucking Coil
+Sat Jan  3 03:15:00 2015	84	Tarwater	Roderick Usher	Spider Smile
+Sat Jan  3 03:18:01 2015	84	Ylid	My Corridors	saccade
+Sat Jan  3 03:24:51 2015	81	Sohn	Bloodflows	Tremors
+Sat Jan  3 03:29:09 2015	80	Contriva	Say Cheese	Separate Chambers
+Sat Jan  3 03:32:37 2015	82	Coppe	Just Want 2 B Me	Fi-Lamenté
+Sat Jan  3 03:36:45 2015	77	Michaela Meliyn	Brautlied	n/a
+Sat Jan  3 03:40:59 2015	78	Logh	The Smoke Will Lead You Home	Northern Living
+Sat Jan  3 03:45:06 2015	73	Merkin Dream	Nothing To Be Gained Here	Cottage
+Sat Jan  3 03:49:13 2015	74	Buoys	Solar	Grillo Parlante
+Sat Jan  3 03:52:39 2015	76	Costa Music	Lack Of Lights	Lighter Subjects
+Sat Jan  3 03:56:44 2015	77	Album Leaf	Until The Last	A Chorus of Storytellers
+Sat Jan  3 04:00:53 2015	74	Four Tet	Spirit Fingers	Rounds
+Sat Jan  3 04:04:03 2015	72	Receiver	Strength In Numbers	Length of Arms
+Sat Jan  3 04:08:08 2015	68	Lali Puna	Nin-Com-Pop (T.Leboeg Mix (Com	I Thought I Was Over That
+Sat Jan  3 04:11:54 2015	70	M83	America	Dead Cities, Red Seas & Lost Ghosts
+Sat Jan  3 04:15:02 2015	71	Tycho	See (Beacon Remix)	See Remix
+Sat Jan  3 04:18:48 2015	75	Mmoths	Heart (Ft. Shelly In Athens)	Mmoths
+Sat Jan  3 04:23:27 2015	75	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Sat Jan  3 04:27:27 2015	70	Orcas	Half Light	Yearling
+Sat Jan  3 04:32:12 2015	70	Tarwater	Wold Of Things To Touch	Spider Smile
+Sat Jan  3 04:35:19 2015	71	One Second Bridge	Ventana	One Second Bridge
+Sat Jan  3 04:37:19 2015	72	Electric President	We Will Walk Through Walls	Sleep Well
+Sat Jan  3 04:41:32 2015	71	Inu	Atlas	Not For Anyone
+Sat Jan  3 04:45:58 2015	75	Eight And A Half	The Turn Around	Eight And A Half
+Sat Jan  3 04:49:54 2015	73	Tape	Pityful	perpetual dubbing
+Sat Jan  3 04:54:22 2015	77	People Press Play	Hanging On	People Press Play
+Sat Jan  3 04:57:18 2015	78	Qua	Stranger Comforts Have Slipped By (Pt. 1 & Pt. 2)	Painting Monsters On Clouds
+Sat Jan  3 05:07:23 2015	74	Aerosol	Midnight Ride Down The Mental Freeway	Airborne
+Sat Jan  3 05:15:17 2015	72	Candlegravity	With Many Tears	Junpei
+Sat Jan  3 05:20:06 2015	70	Field	Mobilia	From Here We Go Sublime
+Sat Jan  3 05:26:16 2015	74	Po	The Sound Of Summer Silence	The Sound Of Summer Silence
+Sat Jan  3 05:31:34 2015	69	Go Find	New Year	Stars on the Wall
+Sat Jan  3 05:34:43 2015	73	Toro Y Moi	Grown Up Calls	Anything In Return
+Sat Jan  3 05:37:48 2015	74	Big Toe	Direct Sales	(Limited release 7")
+Sat Jan  3 05:40:59 2015	71	Populous	Bunco	Queue For Love
+Sat Jan  3 05:43:35 2015	72	Ms. John Soda	Plenty Of	Notes and the like
+Sat Jan  3 05:47:21 2015	71	Milosh	Couldn't Sleep	Meme
+Sat Jan  3 05:51:23 2015	70	Dive Index	Come Tell Me	Mid/Air
+Sat Jan  3 05:56:40 2015	74	Kiln	Ero	Twinewheel [Lost-Sides and Dusty-Gems 1994-2005]
+Sat Jan  3 06:00:32 2015	71	Album Leaf	The Outer Banks	In a Safe Place
+Sat Jan  3 06:04:40 2015	73	Choir Of Young Believers	Sedated	Rhine Gold
+Sat Jan  3 06:10:38 2015	74	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Sat Jan  3 06:14:05 2015	75	One Am Radio	Where I'm Headed	This Too Will Pass
+Sat Jan  3 06:19:55 2015	77	Inspired Flight	Pull, Push, Let Go (Feat. Elig	We All Want To Fly
+Sat Jan  3 06:23:50 2015	82	M83	Skin Of The Night	Saturdays = Youth
+Sat Jan  3 06:29:55 2015	80	Hawks Do Not Share	One With The Freaks	To Be Loved
+Sat Jan  3 06:32:57 2015	80	Marconi Union	Under Wires And Searchlights	Under Wires And Searchlights
+Sat Jan  3 06:42:27 2015	80	Bibio	Haikuesque (The Gentleman Lose	n/a
+Sat Jan  3 06:45:53 2015	85	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Sat Jan  3 06:50:39 2015	81	Populous With Short Stories	Younger	Drawn In Basic
+Sat Jan  3 06:52:05 2015	79	Marc Hellner	Asleep On The Wing	Asleep On The Wing
+Sat Jan  3 06:56:24 2015	77	Rumpistol	Sdr Fasanvej Kl. Ca. 22 00	Rumpistol
+Sat Jan  3 06:59:56 2015	76	Sigur Ros	Yfirbord	Kveikur
+Sat Jan  3 07:04:05 2015	75	Chvrches	Tether	The Bones Of What You Believe
+Sat Jan  3 07:08:32 2015	76	Antlers	No Widows	Burst Apart (Amazon MP3 Exclusive Version) [Explicit]
+Sat Jan  3 07:13:37 2015	81	D Numbers	Xylem Up	Lightparade
+Sat Jan  3 07:18:26 2015	83	Populous	Bon Bon Pour Les Rappers	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sat Jan  3 07:20:52 2015	80	Go Find	Adrenaline	Stars on the Wall
+Sat Jan  3 07:25:17 2015	75	Bobby & Blumm	Like A Frog	Everybody Loves
+Sat Jan  3 07:27:43 2015	73	Ulrich Schnauss & Mark Peters	The Child Or The Pigeon	Underrated Silence
+Sat Jan  3 07:31:09 2015	75	Aerosol	Dreams Flow Wide	Airborne
+Sat Jan  3 07:34:26 2015	78	Younger Brother	Shine	Vaccine
+Sat Jan  3 07:39:01 2015	76	Architecture In Helsinki	Scissor Paper Rock	Fingers Crossed
+Sat Jan  3 07:41:15 2015	76	One Second Bridge	Take Me To The Moon	One Second Bridge
+Sat Jan  3 07:45:08 2015	74	Ulrich Schnauss	Wherever You Are	Blue Skied An' Clear
+Sat Jan  3 07:51:18 2015	81	Styrofoam	Couches In Alleys	Nothing's Lost
+Sat Jan  3 07:55:57 2015	77	Beacon	See Through You	No Body EP
+Sat Jan  3 07:59:43 2015	73	Tied & Tickled Trio	Aelita 3	Aelita
+Sat Jan  3 08:02:36 2015	72	Bibio	Saint Christopher	Mind Bokeh
+Sat Jan  3 08:08:56 2015	77	Moby	Pale Horses (Empyrean Dub)	Wait For Me
+Sat Jan  3 08:13:08 2015	77	Portishead	Hunter	Third
+Sat Jan  3 08:16:55 2015	78	Four Tet	Harmony One	Pause
+Sat Jan  3 08:18:37 2015	80	Solvent	When The Sun Hits	Blue Skied An' Clear
+Sat Jan  3 08:22:28 2015	78	Fortune Howl	Interzone Export (Bwoy De Bhajan Remix)	Earthbound [Remixed]
+Sat Jan  3 08:25:44 2015	77	Why	Eskimo Snow	Eskimo Snow
+Sat Jan  3 08:27:50 2015	81	Goddamn Electric Bill	Lookin Up At Down	Swallowed by the Machines
+Sat Jan  3 08:32:20 2015	78	Glass Animals	Black Mambo (Zodiac Remix)	Black Mambo / Exxus
+Sat Jan  3 08:35:57 2015	80	One Am Radio	Heat Lightning	The Hum of the Electric Air!
+Sat Jan  3 08:37:17 2015	80	Tycho	Send And Receive (Chachi Jones	Sunrise Projector
+Sat Jan  3 08:42:53 2015	84	Antlers	French Exit	Burst Apart (Amazon MP3 Exclusive Version) [Explicit]
+Sat Jan  3 08:46:53 2015	82	Blue Hawaii	Daisy	Untogether
+Sat Jan  3 08:51:25 2015	84	Album Leaf	See In You	Into the Blue Again
+Sat Jan  3 08:55:43 2015	83	Helios	Dragonfly Across An Ancient Sky	Eingya
+Sat Jan  3 09:01:09 2015	83	Silver Swans	Actual Pain	Forever
+Sat Jan  3 09:05:21 2015	86	Octopus Project	The Adjustor	One Ten Hundred Thousand Million
+Sat Jan  3 09:08:17 2015	88	Receiver	Amazing Thing	Length of Arms
+Sat Jan  3 09:13:18 2015	91	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Sat Jan  3 09:17:24 2015	94	Go Find	Japan	Brand New Love
+Sat Jan  3 09:21:58 2015	96	People Press Play	Studio	People Press Play
+Sat Jan  3 09:25:17 2015	93	Populous	My Winter Vacation	Queue For Love
+Sat Jan  3 09:29:30 2015	92	Yppah	Shutter Speed	They Know What Ghost Know
+Sat Jan  3 09:33:08 2015	94	Lali Puna	The Daily Match (Compilation E	I Thought I Was Over That: Rare, Remixed and B-Sides
+Sat Jan  3 09:36:48 2015	93	Four Tet	You We're There With Me	Everything Ecstatic Part II
+Sat Jan  3 09:42:20 2015	103	Naked & Famous	The Sun	Passive Me, Aggressive You
+Sat Jan  3 09:46:08 2015	96	Cars & Trains	Sometimes Falter, Sometimes Sway (This Is Where Little Song Sta	n/a
+Sat Jan  3 09:49:42 2015	103	He Can Jog	Suite Part Four	MiddleMarch [Audiobulb 2008]
+Sat Jan  3 09:54:54 2015	97	Teen Daze	Alaska	Glacier
+Sat Jan  3 09:59:20 2015	99	Pulseprogramming	Bless The Drastic Space	Tulsa for One Second
+Sat Jan  3 10:06:48 2015	102	Asgeir	King And Cross	In the Silence
+Sat Jan  3 10:10:16 2015	103	Tog	Gronland 1	Feiring
+Sat Jan  3 10:15:26 2015	102	Choir Of Young Believers	Have I Ever Truly Been Here	Rhine Gold
+Sat Jan  3 10:20:36 2015	105	B. Fleischmann	Tomorrow	I'm Not Ready For The Grave Yet
+Sat Jan  3 10:24:58 2015	103	Orcas	Capillaries	Yearling
+Sat Jan  3 10:30:29 2015	102	Xela	Smiles And Bridges	Tangled Wool
+Sat Jan  3 10:35:08 2015	103	Alucidnation	Spring	Aural Architecture
+Sat Jan  3 10:39:22 2015	98	Melorman	From Now On	Waves
+Sat Jan  3 10:44:50 2015	100	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Sat Jan  3 10:48:34 2015	104	Underground Lovers	Dream To Me	Weekend
+Sat Jan  3 10:53:12 2015	99	Album Leaf	One Minute	Seal Beach
+Sat Jan  3 10:57:34 2015	96	Alias	Place Of No More Questions	Resurgam
+Sat Jan  3 11:00:21 2015	97	Lali Puna	People I Know	Faking The Books
+Sat Jan  3 11:03:12 2015	96	Crystal Fighters	You & I (Kodak To Graph Remix)	You & I (Remixes)
+Sat Jan  3 11:06:48 2015	93	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Sat Jan  3 11:09:03 2015	93	Go Find	Dictionary	Stars On The Wall
+Sat Jan  3 11:13:12 2015	95	Allegra Gellar	Even The Color Green Will Leave	Cassette
+Sat Jan  3 11:16:19 2015	97	Beacon	Anthem	The Ways We Separate
+Sat Jan  3 11:19:22 2015	101	Goddamn Electric Bill	Climbing Spiral Stairs	The Only Power To Please EP V.2
+Sat Jan  3 11:22:54 2015	101	Yppah	Playing With Fireworks	They Know What Ghost Know
+Sat Jan  3 11:27:01 2015	99	Antenne	Days Into Nights	3
+Sat Jan  3 11:33:38 2015	95	Cemeteries	What Did You See	The Wilderness
+Sat Jan  3 11:37:50 2015	99	Isan	My Last Journey (Weather Baloon)	Blue Skied An' Clear
+Sat Jan  3 11:43:25 2015	97	Bobby & Blumm	Breakwater	Everybody Loves
+Sat Jan  3 11:47:23 2015	95	Laura Gibson & Ethan Rose	Boreas Borealis	Bridge Carols
+Sat Jan  3 11:52:29 2015	101	When The Clouds.	Flooding River	The Longed-For Season
+Sat Jan  3 11:55:47 2015	98	Ms. John Soda	A Nod On Hold	Notes and the Like
+Sat Jan  3 11:58:27 2015	96	Contriva	Number Me	Separate Chambers
+Sat Jan  3 12:01:37 2015	106	Nuuro	Waiting	All Clear
+Sat Jan  3 12:04:39 2015	104	Styrofoam	Your Eyes Only	Nothing's Lost
+Sat Jan  3 12:07:57 2015	96	John Vanderslice	Tablespoon Of Codeine	Emerald City
+Sat Jan  3 12:13:18 2015	92	Repose	Currents	After The Equinox
+Sat Jan  3 12:16:20 2015	91	Coppe	Why Is The What	9+10=10th. Anniversary : Coppe' {9}
+Sat Jan  3 12:23:25 2015	90	George & Caplin	He Really Got Through.	He Really Got Through To Advertising
+Sat Jan  3 12:26:46 2015	95	Underground Lovers	In Silhouette	Weekend
+Sat Jan  3 12:30:48 2015	92	Four Tet	Sleep, Eat Food, Have Visions	Everything Ecstatic
+Sat Jan  3 12:38:34 2015	86	Lali Puna	Alienation	Faking The Books
+Sat Jan  3 12:42:22 2015	85	L'Altra	Motorme	Music Of A Sinking Occasion
+Sat Jan  3 12:46:54 2015	88	Silver Swans	Secrets	Forever
+Sat Jan  3 12:49:37 2015	87	Washed Out	Great Escape	Paracosm
+Sat Jan  3 12:54:36 2015	85	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Sat Jan  3 12:58:20 2015	87	Peter Broderick & Machinefabri	Rain	n/a
+Sat Jan  3 13:03:34 2015	84	Go Find	We Promised Together	Brand New Love
+Sat Jan  3 13:06:55 2015	88	William Fitzsimmons	Psychasthenia	Gold In The Shadow
+Sat Jan  3 13:11:00 2015	90	Dirk Geiger	Einsam (Feat. Erode)	Elf Morgen
+Sat Jan  3 13:17:53 2015	87	Lanterns On The Lake	Lungs Quicken	SXSW 2011 Showcasing Artists
+Sat Jan  3 13:23:18 2015	90	Album Leaf	On Your Way	In a Safe Place
+Sat Jan  3 13:27:24 2015	85	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Sat Jan  3 13:34:06 2015	86	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Sat Jan  3 13:38:46 2015	84	Milosh	My Life	Meme
+Sat Jan  3 13:42:41 2015	82	Beacon	Bring You Back	The Ways We Separate
+Sat Jan  3 13:46:49 2015	82	Letters Letters	Up To Our Waist	Letters Letters
+Sat Jan  3 13:49:19 2015	83	Plum	Fairies	Whispering Chamber
+Sat Jan  3 13:52:07 2015	84	Orcas	I Saw My Echo	Orcas
+Sat Jan  3 13:56:34 2015	85	Teen Daze	Garden 1	The Inner Mansions
+Sat Jan  3 13:59:25 2015	84	Bobby & Blumm	The Letter	Everybody Loves ...
+Sat Jan  3 14:02:04 2015	82	Populous	Clap Like Breeze	Queue For Love
+Sat Jan  3 14:05:15 2015	77	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Sat Jan  3 14:08:54 2015	80	Architecture In Helsinki	Like A Call	Fingers Crossed
+Sat Jan  3 14:11:51 2015	83	Data Romance	Something To Me	Other
+Sat Jan  3 14:16:22 2015	86	When The Clouds.	The Place Where The Path Leads	The Longed-For Season
+Sat Jan  3 14:21:15 2015	88	Morning Benders	Cold War (Star Slinger Remix)	Japan Echo EP (Ri Ben eko)
+Sat Jan  3 14:26:35 2015	88	Asonat	Cycle Starts Over	Love In Times of Repetition
+Sat Jan  3 14:32:36 2015	86	Deer Tracks	W.	The Archer Trilogy Pt. 3
+Sat Jan  3 14:37:07 2015	88	Four Tet	Parks	Pause
+Sat Jan  3 14:42:54 2015	86	Go Find	Ice Cold Ice	Stars on the Wall
+Sat Jan  3 14:48:08 2015	88	Lali Puna	Nin-Com-Pop (T.Leboeg Mix)	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sat Jan  3 14:52:27 2015	90	Dalot	Haiku 23	HAIKUS 23
+Sat Jan  3 14:54:18 2015	89	Beacon	Studio Audience	The Ways We Separate
+Sat Jan  3 14:57:43 2015	86	Lemonade	Neptune	Diver
+Sat Jan  3 15:01:29 2015	83	Glass Animals	Black Mambo	Black Mambo / Exxus
+Sat Jan  3 15:05:17 2015	87	Soley	Theater Island	We Sink
+Sat Jan  3 15:09:05 2015	84	F.S.Blumm	Flosse	Summer Kling
+Sat Jan  3 15:11:55 2015	86	Biggi	Perfect Sunday	ID
+Sat Jan  3 15:15:07 2015	82	Plushgun	All The Same	Me.Me.
+Sat Jan  3 15:19:36 2015	83	Helios	Sons Of Light And Darkness	Eingya
+Sat Jan  3 15:23:38 2015	85	Douglas Dare	Swim	Whelm
+Sat Jan  3 15:28:04 2015	84	Sigur Ros	Isjaki	Kveikur
+Sat Jan  3 15:32:51 2015	87	Echodrone	Winter Station	The Sun Rose In A Different Place
+Sat Jan  3 15:38:19 2015	85	Dive Index	Second Guessing	Mid/Air
+Sat Jan  3 15:43:06 2015	85	Christian Kleine	Beyond Repair	Beyond Repair
+Sat Jan  3 15:51:19 2015	84	Doves	Satellites	The Last Broadcast
+Sat Jan  3 15:58:17 2015	81	Sohn	Ransom Notes	Tremors
+Sat Jan  3 16:02:10 2015	82	Hotels	Near The Desert, Near The City	Where Hearts Go Broke
+Sat Jan  3 16:06:25 2015	79	Miike Snow	Sans Soleil	Miike Snow
+Sat Jan  3 16:10:47 2015	76	Midlake	The Old And The Young	Antiphon
+Sat Jan  3 16:16:09 2015	72	Lali Puna	Micronomic (Boom Bip Remix (Co	I Thought I Was Over That
+Sat Jan  3 16:20:31 2015	75	Deerhunter	Earthquake	Halcyon Digest
+Sat Jan  3 16:25:28 2015	74	Grasscut	The Door In The Wall (Album Version)	The Door In The Wall
+Sat Jan  3 16:29:56 2015	75	Glass Animals	Exxus	Black Mambo / Exxus
+Sat Jan  3 16:33:42 2015	72	Icarus	Keet'98 (Oxy Mix Aka Ivan Pavlov, Co H)	Emanuele Casale: Chamber Music
+Sat Jan  3 16:38:51 2015	71	Flowchart	Fast Forward Rmx	Putting The Morr Back In Morrissey
+Sat Jan  3 16:45:37 2015	66	Ultre	Dead Words	The Nest And The Skull
+Sat Jan  3 16:48:45 2015	68	Metronomy	Loving Arm	The English Riviera
+Sat Jan  3 16:52:08 2015	68	Yamamoto	Nunu	Columpio EP
+Sat Jan  3 16:55:15 2015	69	Mmoths	No One	Diaries
+Sat Jan  3 16:59:10 2015	66	Douglas Dare	If I Knew I We're Alive	n/a
+Sat Jan  3 17:03:11 2015	62	Tycho	See (Beacon Remix)	See Remix
+Sat Jan  3 17:06:55 2015	62	Go Find	Summer Boys	Brand New Love
+Sat Jan  3 17:10:53 2015	61	Xx	Heart Skipped A Beat	xx
+Sat Jan  3 17:14:44 2015	61	Komeit	Parade	Monika Force
+Sat Jan  3 17:17:21 2015	62	F.S. Blumm	Wandel	Zweite Meer
+Sat Jan  3 17:20:22 2015	64	Younger Brother	Spinning Into Place	Vaccine
+Sat Jan  3 17:26:43 2015	66	Four Tet	Leila Came Round And We Watched A Video	Pause
+Sat Jan  3 17:28:18 2015	66	Monoceros	Als Nuvols	A glorious afternoon
+Sat Jan  3 17:32:18 2015	62	William Fitzsimmons	Funeral Dress	Until When We Are Ghosts
+Sat Jan  3 17:36:07 2015	63	Young & Sick	Continuum	Continuum
+Sat Jan  3 17:39:16 2015	64	Lali Puna	The Daily Match	I Thought I Was Over That
+Sat Jan  3 17:42:58 2015	63	Washed Out	Paracosm	Paracosm
+Sat Jan  3 17:49:14 2015	67	Gold Panda	Enoshima	Half Of Where You Live
+Sat Jan  3 17:52:18 2015	67	Eleventhfloorrecords	Out Into The Sun	Eleventhfloorrecords
+Sat Jan  3 17:57:21 2015	64	Notwist, The	Neon Golden	Neon Golden
+Sat Jan  3 18:03:17 2015	61	High Highs	Flowers Bloom	OPEN SEASON DELUXE
+Sat Jan  3 18:06:05 2015	64	Asonat	What Have We Done (Silence Is Golden)	Love In Times of Repetition
+Sat Jan  3 18:11:07 2015	64	Lali Puna	Move On	Silver Light
+Sat Jan  3 18:14:43 2015	65	Dan Deacon	Prettyboy	America
+Sat Jan  3 18:20:07 2015	68	Quebec Antique	365	Abbey Tapes
+Sat Jan  3 18:24:16 2015	68	B. Fleischmann	Aldebaran Waltz	The Humbucking Coil
+Sat Jan  3 18:29:53 2015	68	Hundred Waters	Thistle	Hundred Waters
+Sat Jan  3 18:34:16 2015	58	Valgeir Sigurysson	Baby Architect	n/a
+Sat Jan  3 18:39:17 2015	54	When The Clouds.	The Dawn And The Embrace	The Longed-For Season
+Sat Jan  3 18:43:14 2015	54	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Sat Jan  3 18:47:15 2015	52	Xx	Basic Space	xx
+Sat Jan  3 18:50:19 2015	52	Album Leaf	Writings On The Wall	Into the Blue Again
+Sat Jan  3 18:54:20 2015	49	Aqob	Ladywhite	Love is Always On
+Sat Jan  3 18:59:30 2015	49	Daedelus	La Nocturn	Friends of Friends Volume 1
+Sat Jan  3 19:03:18 2015	51	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Sat Jan  3 19:07:53 2015	48	Orcas	Until Then	Orcas
+Sat Jan  3 19:12:05 2015	48	Tied & Tickled Trio	You Said Tomorrow Yesterday	Aelita
+Sat Jan  3 19:20:19 2015	48	Kramies	Antiquarian Days	The European
+Sat Jan  3 19:24:27 2015	46	Hawks Do Not Share	You Only Like The Beginnings Of Things	To Be Loved
+Sat Jan  3 19:28:37 2015	46	Grimes	Skin	Visions
+Sat Jan  3 19:34:40 2015	45	Robert Lippok	Rearrange	Monika Force
+Sat Jan  3 19:38:42 2015	41	Kiln	Hong	Sunbox
+Sat Jan  3 19:46:44 2015	46	Arovane	Occer	Occer
+Sat Jan  3 19:52:58 2015	41	Monoceros	6EQUJ5	I feel apocalyptic today
+Sat Jan  3 19:58:13 2015	40	Boreals	Invierno Fractal	Antipodas
+Sat Jan  3 20:02:08 2015	41	Emma Louise	Boy	Boy - Single
+Sat Jan  3 20:06:28 2015	40	When The Clouds.	Rise On	The Longed-For Season
+Sat Jan  3 20:11:14 2015	38	Ms. John Soda	Elusive	No P. Or D.
+Sat Jan  3 20:15:49 2015	40	Near The Parenthesis	Settle In	Music For The Forest Concourse
+Sat Jan  3 20:20:43 2015	39	B. Fleischmann	Broken Monitors	The Humbucking Coil
+Sat Jan  3 20:26:52 2015	37	Mgmt	The Handshake	Oracular Spectacular
+Sat Jan  3 20:30:20 2015	35	Starfucker	Mona Vegas	Reptilians
+Sat Jan  3 20:33:48 2015	36	Butcher The Bar	New Nest	Sleep At Your Own Speed
+Sat Jan  3 20:37:06 2015	35	Populous With Short Stories	Porcelain	Drawn In Basic
+Sat Jan  3 20:40:06 2015	34	Populous	Blood Red Bird	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sat Jan  3 20:43:57 2015	35	L'Altra	Different Days	Different Days
+Sat Jan  3 20:47:15 2015	34	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Sat Jan  3 20:52:25 2015	39	Soley	Kill The Clown	We Sink
+Sat Jan  3 20:56:00 2015	40	Lykke Li	Dance, Dance, Dance	Youth Novels
+Sat Jan  3 20:59:37 2015	40	Via Tania	Light Years	Moon Sweet Moon
+Sat Jan  3 21:02:59 2015	38	Midnight Juggernauts	Dystopia	Dystopia
+Sat Jan  3 21:05:47 2015	38	Bibio	Looking Through The Facets Of	Fi
+Sat Jan  3 21:08:15 2015	41	Laura Gibson & Ethan Rose	Sun	Bridge Carols
+Sat Jan  3 21:11:06 2015	39	Tree Bosier	Music Without A Name	Bubikopf Girl - EP
+Sat Jan  3 21:13:17 2015	42	Aerosol	Transition	Airborne
+Sat Jan  3 21:18:40 2015	39	E Vax	Glacier	Putting The Morr Back In Morrissey
+Sat Jan  3 21:24:58 2015	37	Tarwater	Jackie	The Needle Was Travelling
+Sat Jan  3 21:28:33 2015	38	Go Find	New Year	Stars on the Wall
+Sat Jan  3 21:31:37 2015	39	Big Search	Distant Shore	n/a
+Sat Jan  3 21:35:16 2015	39	Toro Y Moi	Studies	Anything In Return
+Sat Jan  3 21:39:15 2015	39	American Dollar	Peterson	The American Dollar
+Sat Jan  3 21:42:21 2015	39	Washed Out	Don't Give Up	Paracosm
+Sat Jan  3 21:46:06 2015	39	Mike Milosh	You Make Me Feel	You Make Me Feel
+Sat Jan  3 21:50:27 2015	40	Asonat	I See Her Face	Love In Times of Repetition
+Sat Jan  3 21:53:53 2015	45	Halou	Hollywood Ending (Feat. Zoe Keating)	Halou
+Sat Jan  3 21:56:47 2015	43	Lali Puna	Grin & Bear	Faking The Books
+Sat Jan  3 22:01:22 2015	42	Blue Hawaii	Sierra Lift	Untogether
+Sat Jan  3 22:04:55 2015	41	Alias	I Heart Drum Machines	Resurgam
+Sat Jan  3 22:09:18 2015	43	Contriva	Unhelpful	Separate Chambers
+Sat Jan  3 22:12:58 2015	43	Beach House	Irene	Bloom
+Sat Jan  3 22:19:34 2015	43	Headlights	Everybody Needs A Fence To Lean On (Via Satellite Remix)	Remixes
+Sat Jan  3 22:22:30 2015	43	Xela	So No Goodbyes	Tangled Wool
+Sat Jan  3 22:27:16 2015	40	Schwana Bees	Carte Dor	Baso
+Sat Jan  3 22:32:03 2015	41	Invisible	Wings (Floating Points Promo Remix)	Wings
+Sat Jan  3 22:39:15 2015	40	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Sat Jan  3 22:43:17 2015	44	Teen Daze	Ice On The Windowsill	Glacier
+Sat Jan  3 22:47:26 2015	42	Tied & Tickled Trio	A Rocket Debris Cloud Drifts	Aelita
+Sat Jan  3 22:55:07 2015	40	Isan	Celia's Dream	Blue Skied An' Clear
+Sat Jan  3 22:59:39 2015	39	Johnny Cash	I Heard That Lonesome Whistle Blow (Apparat Remix)	Johnny Cash Remixed
+Sat Jan  3 23:03:40 2015	40	Yamamoto	Starflyer	Columpio EP
+Sat Jan  3 23:06:51 2015	41	Grasscut	Old Machines	1 Inch / 1/2 Mile
+Sat Jan  3 23:12:18 2015	39	Skipping Girl Vinegar	You Can	Keep Calm, Carry The Monkey
+Sat Jan  3 23:15:23 2015	40	Ulfur	Black Shore	White Mountain
+Sat Jan  3 23:18:40 2015	40	Manuela Krause & Pole	Mein Freund Der Baum	Monika Force
+Sat Jan  3 23:23:21 2015	42	Passion Pit	Take A Walk	Gossamer
+Sat Jan  3 23:27:31 2015	41	Sin Fang (Morr Music)	Look At The Light	M plus Six
+Sat Jan  3 23:30:53 2015	42	Go Find	Over The Edge	Over the Edge vs What I Want
+Sat Jan  3 23:35:07 2015	46	Masha Qrella	My Day	Unsolved Remained
+Sat Jan  3 23:39:54 2015	42	Errors	Sorry About The Mess	Come Down With Me
+Sat Jan  3 23:42:51 2015	40	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Sat Jan  3 23:46:36 2015	39	Inu	Far From Safe	Not For Anyone
+Sat Jan  3 23:52:46 2015	43	Toro Y Moi	Minors	Causers Of This
+Sat Jan  3 23:55:35 2015	43	Marconi Union	Broken Colours	Different Colours
+Sun Jan  4 00:00:55 2015	44	Monoceros	How Was The Earth (Mother)	I feel apocalyptic today
+Sun Jan  4 00:07:08 2015	44	Park Avenue Music	The Modern Guide	For Your Home or Office
+Sun Jan  4 00:12:56 2015	44	Barbara Morgenstern & Robert Lippok	Gammelpop	Tesri
+Sun Jan  4 00:16:04 2015	40	Hammock	Breathturn	Chasing After Shadows...Living with the Ghosts
+Sun Jan  4 00:21:25 2015	40	Washed Out	Weightless	Paracosm
+Sun Jan  4 00:26:16 2015	45	Human Woman	Dddi	Human Woman
+Sun Jan  4 00:33:42 2015	46	Blue Hawaii	Reaction Ii	Untogether
+Sun Jan  4 00:37:15 2015	49	Asgeir	King And Cross	In the Silence
+Sun Jan  4 00:40:40 2015	51	Emiliana Torrini	Sunnyroad (Atom's Future Folk Mix)	Sunnyroad
+Sun Jan  4 00:43:53 2015	50	Seven Saturdays	Good Morning, I Love You	Seven Saturdays
+Sun Jan  4 00:49:04 2015	48	Longview	Can't Explain (Ulrich Schnauss	Mercury
+Sun Jan  4 00:54:43 2015	49	Dead Leaf Echo	Child	Thought & Language
+Sun Jan  4 00:58:43 2015	50	Ms. John Soda	Misco	No P. Or D.
+Sun Jan  4 01:02:55 2015	53	Beacon	No Body	No Body EP
+Sun Jan  4 01:07:05 2015	52	Christian Kleine	Crystal	Beyond Repair
+Sun Jan  4 01:11:54 2015	49	Chairlift	Earwig Town	Does You Inspire You
+Sun Jan  4 01:14:50 2015	43	Awning	Mistaken Tendency	Two Against Me
+Sun Jan  4 01:17:53 2015	39	Doves	Last Broadcast	The Last Broadcast
+Sun Jan  4 01:21:09 2015	38	American Dollar	Twelve Days Awake	The American Dollar
+Sun Jan  4 01:25:52 2015	39	Go Find	We Don't Wanna	Stars on the Wall
+Sun Jan  4 01:28:21 2015	41	Neon Indian	Era Extrana	Era Extrana
+Sun Jan  4 01:31:28 2015	39	M83	Too Late	Saturdays = Youth
+Sun Jan  4 01:36:06 2015	43	Notwist, The	Pilot	Neon Golden
+Sun Jan  4 01:40:15 2015	45	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Sun Jan  4 01:43:51 2015	51	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Sun Jan  4 01:46:43 2015	49	Grasscut	The Door In The Wall (Bibio Remix)	The Door In The Wall
+Sun Jan  4 01:50:55 2015	53	James & Evander	Dro	This Isn't the Beginning of Anything
+Sun Jan  4 01:55:29 2015	52	Project Serendipity	The Waiting Game	Linear Lullabies
+Sun Jan  4 01:56:43 2015	55	Styrofoam	Anything	Nothing's Lost
+Sun Jan  4 02:00:25 2015	57	Plastik Joy	Problem With Humans	3:03
+Sun Jan  4 02:05:37 2015	58	Populous	Hip-Hop Cocotte	Queue For Love
+Sun Jan  4 02:10:44 2015	59	Lali Puna	Past Machine	I Thought I Was Over That
+Sun Jan  4 02:16:00 2015	64	Fenster	Fisherman	Bones
+Sun Jan  4 02:19:01 2015	69	B. Fleischmann	First Times	The Humbucking Coil
+Sun Jan  4 02:23:44 2015	68	Allegra Gellar	Rock Idle	Cassette
+Sun Jan  4 02:27:27 2015	64	Toro Y Moi	You Hid	Causers Of This
+Sun Jan  4 02:30:35 2015	67	I Am Robot And Proud	Train Station Lullaby	Uphill City
+Sun Jan  4 02:33:26 2015	63	Four Tet	And Then Patterns	Everything Ecstatic
+Sun Jan  4 02:38:24 2015	64	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Sun Jan  4 02:44:55 2015	65	Sohn	Bloodflows	Tremors
+Sun Jan  4 02:49:05 2015	61	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Sun Jan  4 02:53:04 2015	61	Naked & Famous	No Way	Passive Me, Aggressive You
+Sun Jan  4 02:58:12 2015	62	Ulfur	Heaven In A Wildflower	White Mountain
+Sun Jan  4 03:04:16 2015	62	Go Find	25 Years	Stars on the Wall
+Sun Jan  4 03:08:08 2015	62	Arovane	Bitstream Amx	Putting The Morr Back In Morrissey
+Sun Jan  4 03:12:00 2015	65	Inspired Flight	Peace Of Mind Through Hardest	n/a
+Sun Jan  4 03:16:30 2015	64	Manual	Blue Skied An' Clear	Blue Skied An' Clear
+Sun Jan  4 03:21:45 2015	64	Styrofoam	Ticket Out Of Town	Nothing's Lost
+Sun Jan  4 03:25:21 2015	68	Ulrich Schnauss & Jonas Munk	Coming Up For Air	Epic
+Sun Jan  4 03:29:47 2015	67	Pulseprogramming	Suck Or Run (Schneider Tm Remi	Tulsa for One Second Remix Project
+Sun Jan  4 03:35:17 2015	66	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Sun Jan  4 03:38:40 2015	69	Lali Puna	Small Things	Faking The Books
+Sun Jan  4 03:42:25 2015	70	Nuuro	All Clear	All Clear
+Sun Jan  4 03:48:59 2015	68	Repose	Rain Theory	After The Equinox
+Sun Jan  4 03:52:31 2015	74	Dive Index	Between Sky And Sea	Mid/Air
+Sun Jan  4 03:57:02 2015	75	Tycho	Spectre	Spectre Single
+Sun Jan  4 04:00:47 2015	69	Album Leaf	Red-Eye	Into the Blue Again
+Sun Jan  4 04:07:07 2015	73	Tog	Gronland 1	Feiring
+Sun Jan  4 04:12:19 2015	72	All India Radio	Clouds	The Silent Surf
+Sun Jan  4 04:16:03 2015	80	Seekae	Dome	+DOME (MASTER)
+Sun Jan  4 04:20:31 2015	79	Ulrich Schnauss & Mark Peters	Forgotten	Underrated Silence
+Sun Jan  4 04:24:21 2015	79	Sohn	Ransom Notes	Tremors
+Sun Jan  4 04:28:23 2015	74	Lykke Li	Time Flies	Youth Novels
+Sun Jan  4 04:31:34 2015	81	Doves	The Sulphur Man	The Last Broadcast
+Sun Jan  4 04:36:02 2015	82	Qua	Secret Space	Painting Monsters On Clouds
+Sun Jan  4 04:42:26 2015	81	Notwist, The	Pick Up The Phone	Neon Golden
+Sun Jan  4 04:46:07 2015	83	One Am Radio	Our Fall Apart	This Too Will Pass
+Sun Jan  4 04:50:08 2015	80	Elisa Luu	The Garden	Chromatic Sigh
+Sun Jan  4 04:54:45 2015	79	Four Tet	She Moves She	Rounds
+Sun Jan  4 04:59:17 2015	77	Helios	Vargtimme	Eingya
+Sun Jan  4 05:02:54 2015	76	Butcher The Bar	Rounds	Sleep At Your Own Speed
+Sun Jan  4 05:05:48 2015	78	Lali Puna	Alienation	Faking The Books
+Sun Jan  4 05:09:41 2015	79	Starfucker	The White Of Noon	Reptilians
+Sun Jan  4 05:13:51 2015	74	Beacon	Studio Audience (Radio Edit)	The Ways We Separate
+Sun Jan  4 05:17:19 2015	74	Yppah	Gumball Machine Weekend	They Know What Ghost Know
+Sun Jan  4 05:21:17 2015	77	Cutler	Maltese Cross	Everything Is Touching Everything Else
+Sun Jan  4 05:23:42 2015	75	Coppe	You Universe	8
+Sun Jan  4 05:27:37 2015	71	Near The Parenthesis	Inertia (Stay Right Here)	Music For The Forest Concourse
+Sun Jan  4 05:33:18 2015	71	Costa Music	The Long Passing	Lighter Subjects
+Sun Jan  4 05:37:24 2015	74	Douglas Dare	If I Knew I We're Alive	n/a
+Sun Jan  4 05:41:31 2015	75	Candlegravity	Wanting Someone	Junpei
+Sun Jan  4 05:45:27 2015	68	F.S. Blumm	Wass	Zweite Meer
+Sun Jan  4 05:47:42 2015	69	Bloom	Light In The Dark	Beautiful Worlds
+Sun Jan  4 05:55:16 2015	65	Skuli Sverrisson	One Night Of Swords	Seria
+Sun Jan  4 05:58:31 2015	66	William Fitzsimmons	Fade And Then Return	Gold In The Shadow
+Sun Jan  4 06:02:53 2015	67	Lykke Li	Everybody But Me	Youth Novels
+Sun Jan  4 06:06:05 2015	68	Axiotronic	Robot Placism	Of Latitude And Longitude
+Sun Jan  4 06:10:33 2015	72	High Highs	Phone Call	OPEN SEASON DELUXE
+Sun Jan  4 06:14:57 2015	74	Synkro	Don't Want	Acceptance EP
+Sun Jan  4 06:18:26 2015	75	Arovane	Theme	Tides
+Sun Jan  4 06:21:46 2015	75	Miike Snow	God Help This Divorce	Happy to You
+Sun Jan  4 06:26:11 2015	76	Melorman	From Now On	Waves
+Sun Jan  4 06:31:38 2015	78	Album Leaf	Wishful Thinking	INTO THE BLUE AGAIN
+Sun Jan  4 06:36:59 2015	81	Helios	Coast Off	Eingya
+Sun Jan  4 06:41:38 2015	87	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Sun Jan  4 06:46:18 2015	88	Analog I/O	Rough Loops	Boat Club
+Sun Jan  4 06:51:38 2015	85	Shins	Sleeping Lessons	Wincing The Night Away
+Sun Jan  4 06:55:32 2015	86	Beacon	Into The Night	For Now
+Sun Jan  4 06:58:59 2015	86	Cemeteries	Summer Smoke	The Wilderness
+Sun Jan  4 07:05:15 2015	82	Tycho	Plains	Awake
+Sun Jan  4 07:07:38 2015	85	Deerhunter	Agoraphobia	Microcastle
+Sun Jan  4 07:10:54 2015	82	Allegra Gellar	You Only Like The Beginnings Of Things	Allegra Gellar - The Secret Plans of Men
+Sun Jan  4 07:15:08 2015	84	Koushik	Nothing's The Same	Out My Window
+Sun Jan  4 07:18:06 2015	84	Danger Mouse & Daniele Luppi	Morning Fog	Rome
+Sun Jan  4 07:19:58 2015	82	Orcas	Half Light	Yearling
+Sun Jan  4 07:24:38 2015	79	Lali Puna	Don't Think	Putting The Morr Back In Morrissey
+Sun Jan  4 07:28:53 2015	78	Young & Sick	Continuum	Continuum
+Sun Jan  4 07:32:09 2015	78	M83	Graveyard Girl	Saturdays = Youth
+Sun Jan  4 07:36:47 2015	89	Arovane	Epilogue	Tides
+Sun Jan  4 07:39:18 2015	90	Dead Leaf Echo	Gesture	Thought & Language
+Sun Jan  4 07:44:58 2015	81	Isan	No. 3 (Lent Et Grave)	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sun Jan  4 07:46:58 2015	80	L'Altra	Lips Move On Top Of Quiet	Domino 2001
+Sun Jan  4 07:52:33 2015	79	Toro Y Moi	Rose Quartz	Anything In Return
+Sun Jan  4 07:56:45 2015	85	Hundred Waters	Thistle	Hundred Waters
+Sun Jan  4 08:01:18 2015	86	Plaid	Founded	Scintilli
+Sun Jan  4 08:04:18 2015	81	Album Leaf	Shine	Into the Blue Again
+Sun Jan  4 08:09:38 2015	89	Anois	#3	n/a
+Sun Jan  4 08:14:19 2015	90	Groundislava	Final Impasse	Groundislava
+Sun Jan  4 08:17:51 2015	92	Beacon	Headlights	The Ways We Separate
+Sun Jan  4 08:20:36 2015	92	Chvrches	Tether	The Bones Of What You Believe
+Sun Jan  4 08:25:09 2015	93	Khonnor	The Stoned Night	Handwriting
+Sun Jan  4 08:28:27 2015	91	Alucidnation	Spring	Aural Architecture
+Sun Jan  4 08:32:46 2015	92	Mum	On The Old Mountain Radio	Please Smile My Noise Bleed
+Sun Jan  4 08:37:55 2015	92	Orcas	Capillaries	Yearling
+Sun Jan  4 08:43:23 2015	87	Emancipator	Ares	safe in the steep cliffs
+Sun Jan  4 08:47:47 2015	84	Letting Up Despite Great Faults	Folding Under Stories Told	Letting Up Despite Great Faults
+Sun Jan  4 08:50:55 2015	83	Bloom	Romeo Is Bleeding	Beautiful Worlds
+Sun Jan  4 08:58:51 2015	86	Ulrich Schnauss & Jonas Munk	Sirocco	Epic
+Sun Jan  4 09:06:28 2015	87	Isan	No. 2 (Lent Et Triste)	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sun Jan  4 09:08:21 2015	86	Douglas Dare	Swim	Whelm
+Sun Jan  4 09:12:42 2015	90	Masha Qrella	Hypersomnia	Monika Force
+Sun Jan  4 09:14:50 2015	87	Zwicker	Ping Pong Muses (Feat. Valentino Tomasi)	Songs Of Lucid Dreamers
+Sun Jan  4 09:19:26 2015	88	Teen Daze	Divided Loyalties	The Inner Mansions
+Sun Jan  4 09:23:38 2015	92	L'Altra	Little Chair	Music Of A Sinking Occasion
+Sun Jan  4 09:29:21 2015	89	Park Avenue Music	Tufts	By Hearts+Horses
+Sun Jan  4 09:33:09 2015	83	Peter Broderick & Machinefabri	Rain	n/a
+Sun Jan  4 09:38:26 2015	87	Album Leaf	Micro Melodies (Live)	Red Tour EP
+Sun Jan  4 09:43:41 2015	89	Barbara Morgenstern & Robert Lippok	White Wise Rabbit	Tesri
+Sun Jan  4 09:47:07 2015	87	Ariel Pink's Haunted Graffiti	Can't Hear My Eyes	Grandes Exitos - Greatest Hits
+Sun Jan  4 09:50:22 2015	87	Lali Puna	Everything Is Always	Our Inventions
+Sun Jan  4 09:54:19 2015	94	Matt Boyle	Icy	Maroon
+Sun Jan  4 09:58:07 2015	93	Tycho	See (Beacon Remix)	See Remix
+Sun Jan  4 10:01:59 2015	97	Poolside	Take Me Home	Pacific Standard Time
+Sun Jan  4 10:06:54 2015	93	Mike Milosh	The Sky Is Grey	You Make Me Feel
+Sun Jan  4 10:12:30 2015	92	Milosh	Another Day	iii
+Sun Jan  4 10:16:19 2015	94	Beacon	Split In Two	The Ways We Separate
+Sun Jan  4 10:21:22 2015	97	Tree Bosier	Hometown	Bubikopf Girl - EP
+Sun Jan  4 10:24:56 2015	96	Radical Face	The Strangest Things	Ghost
+Sun Jan  4 10:29:16 2015	102	Dntel	Fireworks	Life Is Full Of Possibilities
+Sun Jan  4 10:35:44 2015	92	Longview	Will You Wait Here (Ulrich Schnauss Remix)	Subversions
+Sun Jan  4 10:41:29 2015	92	Arovane	Eleventh!	Tides
+Sun Jan  4 10:45:54 2015	96	Cut Copy	We Fight For Diamonds	In Ghost Colours
+Sun Jan  4 10:46:47 2015	96	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Sun Jan  4 10:51:26 2015	98	Winterlight	Swept	Hope Dies Last
+Sun Jan  4 10:56:43 2015	94	Fenster	The Hunter	Bones
+Sun Jan  4 11:00:22 2015	95	Virculum	Apartment 15	cactus island 023 brittle behavior
+Sun Jan  4 11:02:59 2015	95	Sigur Ros	Brennisteinn	Kveikur
+Sun Jan  4 11:10:06 2015	96	Po	Summer Morning	The Sound Of Summer Silence
+Sun Jan  4 11:13:57 2015	102	Lykke Li	Hanging High	Youth Novels
+Sun Jan  4 11:17:44 2015	101	Oslo Deadtrash Project Vs Nim	Marina (Wish)	Drug tourist medikit ep
+Sun Jan  4 11:21:57 2015	100	Valgeir Sigurysson	Kin	n/a
+Sun Jan  4 11:26:45 2015	98	Allegra Gellar	This Place Is Death	Allegra Gellar - The Secret Plans of Men
+Sun Jan  4 11:31:18 2015	89	Kreidler	Circles	Domino 2001
+Sun Jan  4 11:35:31 2015	91	Beacon	Exhale	No Body EP
+Sun Jan  4 11:39:37 2015	87	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Sun Jan  4 11:43:23 2015	94	Four Tet	Glue Of The World	Pause
+Sun Jan  4 11:48:21 2015	97	Styrofoam	To Simply Lie Here And Breathe	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sun Jan  4 11:52:42 2015	97	Standish, Carlyon	Moves, Moves	Deleted Scenes
+Sun Jan  4 11:58:15 2015	97	Populous With Short Stories	Bear Arms	Drawn In Basic
+Sun Jan  4 12:00:10 2015	98	Big Pink	Future This	Future This
+Sun Jan  4 12:03:39 2015	97	Apricot Rail	A Public Space	Apricot Rail
+Sun Jan  4 12:09:00 2015	96	All India Radio	The Bomb (Featuring Steve Kilbey)	The Silent Surf
+Sun Jan  4 12:11:36 2015	95	Apparat	Song Of Los	The Devil's Walk
+Sun Jan  4 12:15:53 2015	100	Groundislava	New Flesh	Groundislava
+Sun Jan  4 12:20:18 2015	99	F.S.Blumm	Sicht	Summer Kling
+Sun Jan  4 12:24:06 2015	102	Ulrich Schnauss & Mark Peters	Rosen I'm Asphalt	Underrated Silence
+Sun Jan  4 12:28:54 2015	95	One Am Radio	I Think This Is My Exit	The Hum of the Electric Air!
+Sun Jan  4 12:33:12 2015	95	Chica And The Folder	I'll Come Running	Monika Force
+Sun Jan  4 12:36:22 2015	97	Processory	Take Me To Your Leader	Change is Gradual
+Sun Jan  4 12:42:06 2015	95	Tycho	Montana	Awake
+Sun Jan  4 12:47:13 2015	86	Christian Kleine	Bitter Things	Putting The Morr Back In Morrissey
+Sun Jan  4 12:51:32 2015	86	Victor Bermon	The Lonely Tired Dance	History Is Bunk Part 1
+Sun Jan  4 12:55:17 2015	85	Ms. John Soda	Scan The Ways	Notes and the like
+Sun Jan  4 12:58:29 2015	81	Beacon	Safety's Off	For Now
+Sun Jan  4 13:01:06 2015	80	Treefight For Sunlight	Facing The Sun	Treefight For Sunlight
+Sun Jan  4 13:04:43 2015	81	Helios	First Dream Called Ocean	Eingya
+Sun Jan  4 13:08:20 2015	88	Yppah	Never Mess With Sunday	Eighty One
+Sun Jan  4 13:12:47 2015	87	Sun Glitters	Mouth	Mouth / Tight - EP
+Sun Jan  4 13:16:54 2015	85	Letters Letters	Between The Seams	Letters Letters
+Sun Jan  4 13:20:28 2015	83	Emiliana Torrini	Speed Of Dark	Tookah
+Sun Jan  4 13:25:40 2015	86	Cinematic Orchestra	Music Box	Cinematic Orchestra - Ma Fleur
+Sun Jan  4 13:30:25 2015	88	Inu	Not For Anyone	Not For Anyone
+Sun Jan  4 13:34:20 2015	90	American Dollar	Glow	The American Dollar
+Sun Jan  4 13:40:27 2015	90	Dntel	(This Is) The Dream Of Evan And Chan (Safety Scissors Spilled M	Life Is Full of Possibilities
+Sun Jan  4 13:44:28 2015	89	Christopher Willits	Colors Shifting	Surf Boundaries
+Sun Jan  4 13:49:27 2015	86	Soley	Bad Dream	We Sink
+Sun Jan  4 13:51:32 2015	89	Lapalux	Without You Feat. Kerry Latham	Nostalchic
+Sun Jan  4 13:56:33 2015	90	Electric President	Grand Machine No. 12	Morr Classics Pt.1
+Sun Jan  4 14:00:38 2015	90	Isan	Ship	plans drawn in pencil
+Sun Jan  4 14:04:24 2015	90	All India Radio	Black Satin	A Low High
+Sun Jan  4 14:07:55 2015	91	Bibio	Haikuesque (The Gentleman Lose	n/a
+Sun Jan  4 14:11:21 2015	87	Neon Indian	Heart Release	Era Extrana
+Sun Jan  4 14:12:55 2015	87	Marc Hellner	Mine Is Made Of	Marriages
+Sun Jan  4 14:17:58 2015	87	Ulrich Schnauss & Jonas Munk	Chasing Rainbows	Epic
+Sun Jan  4 14:23:17 2015	87	Go Find	The Lobby	Brand New Love
+Sun Jan  4 14:26:52 2015	87	J. Viewz	Come Back Down (Naked Edit)	Work in Progress
+Sun Jan  4 14:31:08 2015	86	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Sun Jan  4 14:35:17 2015	85	Mum	Marmalade Fires	Northern Living
+Sun Jan  4 14:40:07 2015	87	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Sun Jan  4 14:43:44 2015	88	Lemonade	Eye Drops	Diver
+Sun Jan  4 14:47:10 2015	90	Asgeir	King And Cross	In the Silence
+Sun Jan  4 14:50:34 2015	88	L'Altra	Colding Fields	POPvolume
+Sun Jan  4 14:56:41 2015	79	Mmoths	For Her (Feat. Young & Sick)	Diaries
+Sun Jan  4 14:59:56 2015	80	Populous	Breathes The Best	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sun Jan  4 15:01:50 2015	80	William Fitzsimmons	Let You Break (Featuring Julia Stone)	Gold In The Shadow
+Sun Jan  4 15:04:58 2015	80	Toro Y Moi	Day One	Anything In Return
+Sun Jan  4 15:09:16 2015	77	Tarwater	Tv Blood	The Needle Was Travelling
+Sun Jan  4 15:12:58 2015	79	Masha Qrella	I Can't Tell	Unsolved Remained
+Sun Jan  4 15:17:18 2015	80	Isan	No. 1 (Lent Et Douloureux)	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Sun Jan  4 15:19:45 2015	79	Butcher The Bar	You Know Everything	Sleep At Your Own Speed
+Sun Jan  4 15:22:17 2015	79	Tv On The Radio	Will Do [Switch Remix]	Nine Types Of Light [Deluxe]
+Sun Jan  4 15:27:24 2015	76	Sigur Ros	Kveikur	Kveikur
+Sun Jan  4 15:33:08 2015	71	Contriva	Good To Know	Separate Chambers
+Sun Jan  4 15:37:06 2015	67	One Am Radio	The Echoing Airports	This Too Will Pass
+Sun Jan  4 15:40:27 2015	71	Helios	Paper Tiger	Eingya
+Sun Jan  4 15:44:58 2015	71	Dive Index	Water In Our Hands	Mid/Air
+Sun Jan  4 15:49:07 2015	74	Couch	Blinde Zeichen	Figur 5
+Sun Jan  4 15:53:49 2015	73	Tythe	Summerbelly	& Also With You
+Sun Jan  4 15:56:58 2015	72	Mr. Silla	The Final Round (Cover)	The Final Round
+Sun Jan  4 16:01:17 2015	72	Juliette Commagere	Wait Until Spring	Queens Die Proudly
+Sun Jan  4 16:05:22 2015	75	Doves	M62 Song	The Last Broadcast
+Sun Jan  4 16:08:30 2015	76	Four Tet	Hands	Rounds
+Sun Jan  4 16:13:36 2015	72	High Highs	Milan (Slow Magic Remix)	OPEN SEASON DELUXE
+Sun Jan  4 16:16:53 2015	71	Lali Puna	Nin-Com-Pop (Two Lone Swordsmen Remix)	I Thought I Was Over That
+Sun Jan  4 16:19:57 2015	72	William Fitzsimmons	Tied To Me	Gold In The Shadow
+Sun Jan  4 16:24:15 2015	69	People Press Play	Before Me	People Press Play
+Sun Jan  4 16:27:59 2015	66	Neon Indian	Halogen (I Could Be A Shadow)	Era Extrana
+Sun Jan  4 16:32:18 2015	71	Ms. John Soda	Technicolor	No P. Or D.
+Sun Jan  4 16:36:36 2015	75	Ulrich Schnauss & Mark Peters	Yesterday Didn't Exist	Underrated Silence
+Sun Jan  4 16:41:15 2015	80	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Sun Jan  4 16:48:03 2015	75	Toro Y Moi	High Living	Anything In Return
+Sun Jan  4 16:52:17 2015	75	Beacon	Overseer	The Ways We Separate
+Sun Jan  4 16:55:29 2015	74	Arovane	Tokyo Ghost Stories	Lilies
+Sun Jan  4 17:00:26 2015	75	Styrofoam	Fade Out Your Eyes	Blue Skied An' Clear
+Sun Jan  4 17:05:48 2015	71	Processory	Young Italians (Cfcf Remix)	n/a
+Sun Jan  4 17:11:22 2015	82	Plastik Joy	Reykjavik [Fhe 276]	n/a
+Sun Jan  4 17:15:32 2015	81	Seven Saturdays	Secret Things	Seven Saturdays
+Sun Jan  4 17:19:07 2015	79	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Sun Jan  4 17:22:31 2015	78	Xela	Softness Of Sense	Tangled Wool
+Sun Jan  4 17:26:50 2015	78	Year Of	Bees Be	Slow Days
+Sun Jan  4 17:29:48 2015	77	Album Leaf	Brennivin	Seal Beach
+Sun Jan  4 17:34:21 2015	76	Mister Lies	Lupine	Mowgli
+Sun Jan  4 17:38:57 2015	75	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Sun Jan  4 17:42:57 2015	72	Candlegravity	With Many Tears	Junpei
+Sun Jan  4 17:47:50 2015	71	Dead Leaf Echo	Heavensent	Thought & Language
+Sun Jan  4 17:52:16 2015	69	Lali Puna	Together In Electric Dreams (C	I Thought I Was Over That
+Sun Jan  4 17:56:31 2015	68	Sigur Ros	Hrafntinna	Kveikur
+Sun Jan  4 18:02:32 2015	63	Radical Face	Let The River In	Ghost
+Sun Jan  4 18:07:29 2015	64	Sin Fang	Young Boys (Jonsi Remix)	Young Boys (Jonsi Remix)
+Sun Jan  4 18:11:44 2015	60	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Sun Jan  4 18:15:29 2015	66	Tycho	L	Awake
+Sun Jan  4 18:19:50 2015	66	City Light	Rewind Replay Repeat	Memory Guide
+Sun Jan  4 18:23:22 2015	68	Populous With Short Stories	Faithful	Drawn In Basic
+Sun Jan  4 18:25:42 2015	67	Lali Puna	Nin-Com-Pop (2ls Mix (Compilat	I Thought I Was Over That
+Sun Jan  4 18:28:42 2015	64	Notwist, The	This Room	Neon Golden
+Sun Jan  4 18:33:26 2015	69	Douglas Dare	If I Knew I We're Alive	n/a
+Sun Jan  4 18:37:35 2015	67	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Sun Jan  4 18:42:41 2015	63	Bibio	All The Flowers (Lone Remix)	The Apple And The Tooth
+Sun Jan  4 18:46:57 2015	62	William Fitzsimmons	Please Don't Go	Goodnight
+Sun Jan  4 18:53:17 2015	63	Freelance Whales	Hannah	Weathervanes
+Sun Jan  4 18:56:45 2015	63	Fenster	Gravediggers	Bones
+Sun Jan  4 18:59:41 2015	67	Anders Parker	Easy	Skyscraper Crow
+Sun Jan  4 19:05:30 2015	67	Borko	Hondo & Borko	Celebrating Life
+Sun Jan  4 19:12:05 2015	65	Erland	Mhmm Wm	n/a
+Sun Jan  4 19:15:36 2015	68	Sigur Ros	Stormur	Kveikur
+Sun Jan  4 19:20:00 2015	66	Populous	Canoe Canoa	Queue For Love
+Sun Jan  4 19:22:52 2015	67	Low	Belarus	Drums And Guns
+Sun Jan  4 19:26:00 2015	67	Bloom	The Muse	Beautiful Worlds
+Sun Jan  4 19:33:23 2015	66	Soley	And Leave	We Sink
+Sun Jan  4 19:36:48 2015	63	Beach House	Lazuli	Bloom
+Sun Jan  4 19:41:47 2015	61	Album Leaf	Eastern Glow	In a Safe Place
+Sun Jan  4 19:47:24 2015	63	Go Find	What I Want (Styrofoam's Perfect Remix)	Over the Edge vs What I Want
+Sun Jan  4 19:49:59 2015	66	Blue Hawaii	Flammarion	Untogether
+Sun Jan  4 19:53:32 2015	65	Halou	Seabright (Feat. Robin Guthrie)	Halou
+Sun Jan  4 19:56:43 2015	62	Washed Out	Get Up	Life of Leisure
+Sun Jan  4 19:59:41 2015	62	American Analog Set	The Green Green Grass (Telefon Tel Aviv Remix)	Set Free
+Sun Jan  4 20:02:41 2015	60	American Dollar	War On Christmas	The American Dollar
+Sun Jan  4 20:06:20 2015	65	Lali Puna	The Daily Match	I Thought I Was Over That
+Sun Jan  4 20:10:07 2015	63	Park Avenue Music	Saltwater	By Hearts+Horses
+Sun Jan  4 20:13:25 2015	63	Kyte	Boundaries	Erased Tapes Collection I
+Sun Jan  4 20:17:14 2015	66	Apricot Rail	Rain Falls On Your Nose, It's	Apricot Rail
+Sun Jan  4 20:20:30 2015	67	Ulrich Schnauss	Look At The Sky (Rob Mcvey Ver	Quicksand Memory
+Sun Jan  4 20:25:54 2015	70	Nuuro	The Walls	All Clear
+Sun Jan  4 20:29:43 2015	71	Lykke Li	Little Bit	Tankfarm Future Sounds 30
+Sun Jan  4 20:33:54 2015	70	F.S.Blumm	Land Ab	Summer Kling
+Sun Jan  4 20:37:52 2015	70	Monoceros	The Rain Song	I feel apocalyptic today
+Sun Jan  4 20:42:56 2015	70	Beacon	Feeling's Gone (Extended Version)	The Ways We Separate
+Sun Jan  4 20:47:45 2015	65	Marconi Union	These European Cities	Distance
+Sun Jan  4 20:54:20 2015	67	Kiln	Autumnalae [Leaf-pile Divers]	Twinewheel [Lost-Sides and Dusty-Gems 1994-2005]
+Sun Jan  4 20:58:07 2015	65	Arovane	Deauville	Tides
+Sun Jan  4 21:03:44 2015	65	Toro Y Moi	Blessa	Causers Of This
+Sun Jan  4 21:06:26 2015	60	Xela	Quiet Night	Tangled Wool
+Sun Jan  4 21:11:00 2015	58	M83	Until The Night Is Over	Ultra.Chilled 05.1
+Sun Jan  4 21:17:04 2015	63	Plaid	Missing	Scintilli
+Sun Jan  4 21:20:46 2015	64	Orcas	Half Light	Yearling
+Sun Jan  4 21:25:28 2015	66	Slicker	Knock Me Down Girl (Telefon Tel Aviv Remix)	Remixes Compiled
+Sun Jan  4 21:31:50 2015	65	Walton Hoax	All Recklessness Aside (Galimatias Remix)	All Recklessness Aside
+Sun Jan  4 21:36:08 2015	64	Inspired Flight	Wishy Washy	We All Want To Fly
+Sun Jan  4 21:39:26 2015	62	Young & Sick	Continuum	Continuum
+Sun Jan  4 21:42:34 2015	60	L'Altra	Say Wrong	Music Of A Sinking Occasion
+Sun Jan  4 21:47:46 2015	56	It's A Musical	Ball Of Joy	The Music Makes Me Sick
+Sun Jan  4 21:51:23 2015	57	Populous	The Breakfast Drama	Queue For Love
+Sun Jan  4 21:52:54 2015	58	Album Leaf	There Is A Wind	A Chorus of Storytellers
+Sun Jan  4 21:58:31 2015	57	Four Tet	Slow Jam	Rounds
+Sun Jan  4 22:03:36 2015	53	Tog	Gronland 1	Feiring
+Sun Jan  4 22:08:50 2015	51	Sohn	Bloodflows	Tremors
+Sun Jan  4 22:13:06 2015	48	Go Find	The Message	Brand New Love
+Sun Jan  4 22:16:04 2015	50	Field	Sun & Ice	From Here We Go Sublime
+Sun Jan  4 22:22:30 2015	53	Tycho	See (Beacon Remix)	See Remix
+Sun Jan  4 22:26:17 2015	53	Douglas Dare	Swim	Whelm
+Sun Jan  4 22:30:40 2015	56	Fortune Howl	A Terrible Machine (Mister Lies Remix)	Earthbound [Remixed]
+Sun Jan  4 22:35:37 2015	58	Melorman	From Now On	Waves
+Sun Jan  4 22:41:04 2015	55	Chvrches	Zvvl	Recover
+Sun Jan  4 22:44:14 2015	56	Couch	Zwei Streifen I'm Blau	Figur 5
+Sun Jan  4 22:48:34 2015	56	Barbara Morgenstern & Robert Lippok	Ein Knoten Aus Schwarz	Tesri
+Sun Jan  4 22:51:04 2015	60	Helios	Emancipation	Eingya
+Sun Jan  4 22:53:28 2015	60	Houses	The Beauty Surrounds (Radio Edit)	n/a
+Sun Jan  4 22:57:22 2015	58	Lali Puna	People I Know	Faking The Books
+Sun Jan  4 23:00:18 2015	60	Milosh	Gentle Samui	iii
+Sun Jan  4 23:05:04 2015	63	Dntel	Why I'm So Unhappy	Life Is Full Of Possibilities
+Sun Jan  4 23:11:42 2015	63	Mmoths	Heart (Ft. Shelly In Athens)	Mmoths
+Sun Jan  4 23:16:17 2015	67	Toro Y Moi	How I Know	Underneath The Pine
+Sun Jan  4 23:20:13 2015	65	William Fitzsimmons	Took	Lions
+Sun Jan  4 23:24:26 2015	67	Hundred Waters	Thistle	Hundred Waters
+Sun Jan  4 23:28:56 2015	70	Icebreaker	Manual	Blue Skied An' Clear
+Sun Jan  4 23:33:55 2015	67	King Creosote & Jon Hopkins	Bubble	Diamond Mine
+Sun Jan  4 23:38:52 2015	69	All India Radio	Lightship	A Low High
+Sun Jan  4 23:41:22 2015	65	Repose	Nuances	After The Equinox
+Sun Jan  4 23:44:42 2015	65	Combustion	Elephant	Elephant EP
+Sun Jan  4 23:52:01 2015	65	Ms. John Soda	Go Check	No P. Or D.
+Sun Jan  4 23:56:10 2015	70	Four Tet	You Could Ruin My Day	Pause
+Mon Jan  5 00:03:15 2015	73	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Mon Jan  5 00:07:07 2015	74	Inu	The Bailing	Monster EP
+Mon Jan  5 00:11:45 2015	76	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Mon Jan  5 00:16:24 2015	76	Notwist, The	One With The Freaks	Neon Golden
+Mon Jan  5 00:19:55 2015	77	Ms. John Soda	Hiding, Fading	No P. Or D.
+Mon Jan  5 00:24:40 2015	77	Guitar	Moonlight Makes Me Transparent	Honeysky
+Mon Jan  5 00:31:36 2015	71	Lali Puna	Alienation	Faking The Books
+Mon Jan  5 00:35:29 2015	73	Sohn	Ransom Notes	Tremors
+Mon Jan  5 00:39:29 2015	72	Couch	Grosse Verzagerung	Figur 5
+Mon Jan  5 00:43:00 2015	77	Valgeir Sigurysson	Evolution Of Water	n/a
+Mon Jan  5 00:47:21 2015	77	Butcher The Bar	Gumble	Sleep At Your Own Speed
+Mon Jan  5 00:51:20 2015	79	Oto Efekt	See	Living Room (EP)
+Mon Jan  5 00:54:10 2015	79	Tycho	Send And Receive	Past Is Prologue
+Mon Jan  5 00:58:42 2015	79	Ulrich Schnauss & Mark Peters	The Child Or The Pigeon	Underrated Silence
+Mon Jan  5 01:02:14 2015	74	Choir Of Young Believers	Sedated	Rhine Gold
+Mon Jan  5 01:08:00 2015	81	Underground Lovers	Dream To Me	Weekend
+Mon Jan  5 01:12:38 2015	81	One Second Bridge	Keep On Falling	One Second Bridge
+Mon Jan  5 01:17:34 2015	81	Wechsel Garland	New Years Day Remix	n/a
+Mon Jan  5 01:22:11 2015	80	Helios	The Toy Garden	Eingya
+Mon Jan  5 01:26:42 2015	81	Masha Qrella	Tobi Higgs Mix	Monika Force (Compilation)
+Mon Jan  5 01:30:52 2015	81	Oslo Deadtrash Project Vs Nim	The One, Room Mix (Lumen)	Drug tourist medikit ep
+Mon Jan  5 01:35:15 2015	80	Ultre	Favourite Mammal	The Nest And The Skull
+Mon Jan  5 01:38:22 2015	82	Am & Shawn Lee	In The Aftermath	La Musique Numerique
+Mon Jan  5 01:42:37 2015	80	Alucidnation	Spring	Aural Architecture
+Mon Jan  5 01:46:58 2015	82	Chica And The Folder	Dinky Mix	Monika Force (Compilation)
+Mon Jan  5 01:51:01 2015	78	Go Find	Your Heart	Brand New Love
+Mon Jan  5 01:54:22 2015	76	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Mon Jan  5 01:59:09 2015	78	Styrofoam	Front To Back	Nothing's Lost
+Mon Jan  5 02:03:52 2015	82	Neon Indian	Suns Irrupt	Era Extrana
+Mon Jan  5 02:09:12 2015	81	Chairlift	Ceiling Wax	Does You Inspire You
+Mon Jan  5 02:12:42 2015	82	Postal Service	Such Great Heights	Give Up
+Mon Jan  5 02:16:47 2015	87	Beacon	Drive	The Ways We Separate
+Mon Jan  5 02:20:02 2015	84	Aqob	All Moving Over The Earth (A Kinder Bot Remix)	Love is Always On
+Mon Jan  5 02:23:05 2015	84	Aloa Input	Someday Morning	Anysome
+Mon Jan  5 02:26:48 2015	85	Ross Hammond	Avoidance	Lo-Fi Solo Things
+Mon Jan  5 02:31:12 2015	85	Ms. John Soda	If Someone Would Know	While Talking
+Mon Jan  5 02:38:23 2015	82	Borko	Doo Doo Doo	Celebrating Life
+Mon Jan  5 02:43:43 2015	83	Lali Puna	Safe Tomorrow	Silver Light
+Mon Jan  5 02:48:10 2015	84	William Fitzsimmons	Afterall	Goodnight
+Mon Jan  5 02:55:52 2015	90	Metric	Collect Call	Fantasies
+Mon Jan  5 03:00:30 2015	90	Barbara Morgenstern & Robert Lippok	Sommer	Tesri
+Mon Jan  5 03:04:05 2015	91	All India Radio	Little Emu	A Low High
+Mon Jan  5 03:08:47 2015	90	Arovane	Ten Hours	Lilies
+Mon Jan  5 03:11:29 2015	92	Dntel	Last Songs	Life Is Full Of Possibilities
+Mon Jan  5 03:16:10 2015	91	Mmoths	Too Real	Diaries
+Mon Jan  5 03:19:11 2015	98	Ulrich Schnauss & Jonas Munk	Johnny (Sentimental Fool)	Epic
+Mon Jan  5 03:24:17 2015	96	Sigur Ros	Yfirbord	Kveikur
+Mon Jan  5 03:28:36 2015	95	Glass Animals	Black Mambo (Zodiac Remix)	Black Mambo / Exxus
+Mon Jan  5 03:32:08 2015	92	Notwist, The	Scoop	Neon Golden
+Mon Jan  5 03:35:28 2015	96	People Press Play	Frail	People Press Play
+Mon Jan  5 03:39:28 2015	90	Four Tet	And They Look Broken Hearted	Rounds
+Mon Jan  5 03:44:16 2015	90	Butcher The Bar	Leave This Town	Sleep At Your Own Speed
+Mon Jan  5 03:47:10 2015	89	Ultre	Museum Of Air	The Nest And The Skull
+Mon Jan  5 03:50:18 2015	91	I Am Robot And Proud	The Melt	Uphill City
+Mon Jan  5 03:54:19 2015	91	Peter Broderick & Machinefabri	Rain	n/a
+Mon Jan  5 03:59:40 2015	92	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Mon Jan  5 04:02:41 2015	89	Bloom	Born	Beautiful Worlds
+Mon Jan  5 04:08:12 2015	89	Album Leaf	We Are	A Chorus of Storytellers
+Mon Jan  5 04:12:21 2015	90	Four Tet	Hilarious Movie Of The 90's	Pause
+Mon Jan  5 04:15:53 2015	93	Levek	With A Slow Burn	Look A little Closer
+Mon Jan  5 04:20:33 2015	94	Sea And Cake	Sound & Vision	One Bedroom
+Mon Jan  5 04:24:24 2015	94	Lali Puna	Small Things	Faking The Books
+Mon Jan  5 04:27:43 2015	94	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Mon Jan  5 04:31:29 2015	90	Populous With Short Stories	Royale Gold	Drawn In Basic
+Mon Jan  5 04:33:23 2015	92	Valgeir Sigurysson	Winter Sleep	n/a
+Mon Jan  5 04:37:51 2015	87	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Mon Jan  5 04:44:25 2015	86	L'Altra	Soft Collapse	Bring On Happiness
+Mon Jan  5 04:49:03 2015	91	Faunts	Of Nature (Brightest Feathers Remix)	Remixed
+Mon Jan  5 04:55:49 2015	94	American Chamber Music	Epilogue- Lullaby	Untitled
+Mon Jan  5 04:58:17 2015	93	Orcas	Capillaries	Yearling
+Mon Jan  5 05:03:47 2015	88	Arovane	Lilies	Lilies
+Mon Jan  5 05:08:45 2015	87	Midnight Juggernauts	Aurora	Dystopia
+Mon Jan  5 05:14:22 2015	83	Couch	Alles Sagt Ja	Figur 5
+Mon Jan  5 05:17:52 2015	83	Blue Foundation	Flame (Featuring Sara Savery)	In My Mind I Am Free
+Mon Jan  5 05:23:24 2015	84	Blue Hawaii	Daisy	Untogether
+Mon Jan  5 05:27:38 2015	88	Masha Qrella	C.Bones	Unsolved Remained
+Mon Jan  5 05:31:56 2015	88	International Peoples Gang	Easy	Up
+Mon Jan  5 05:35:50 2015	86	Plushgun	All The Same	Me.Me.
+Mon Jan  5 05:40:22 2015	84	Park Avenue Music	How's Your 401k	For Your Home or Office
+Mon Jan  5 05:45:08 2015	82	Go Find	Adrenaline	Stars on the Wall
+Mon Jan  5 05:49:30 2015	80	Dntel	(This Is) The Dream Of Evan And Chan (Barbara Morgenstern Remix	This Is the Dream of Evan and Chan
+Mon Jan  5 05:53:23 2015	83	Mum	The Ballad Of The Broken Birdi	Yesterday Was Dramatic Today Is OK
+Mon Jan  5 05:58:47 2015	95	Riamiwo	Crossed Fingers	n/a
+Mon Jan  5 06:02:26 2015	87	Borko	Shoobaba	Celebrating Life
+Mon Jan  5 06:06:48 2015	86	Plastik Joy	Medispiace	3:03
+Mon Jan  5 06:13:24 2015	89	Four Tet	Untangle	Pause
+Mon Jan  5 06:17:48 2015	92	Naked & Famous	Young Blood	Passive Me, Aggressive You
+Mon Jan  5 06:21:53 2015	93	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Mon Jan  5 06:25:54 2015	94	Monoceros	How Was The Earth? [Mother]	I Feel Apocalyptic Today
+Mon Jan  5 06:32:08 2015	99	Body Language	I'm A Mess	Grammar EP
+Mon Jan  5 06:34:59 2015	96	Nils Frahm	Familiar	Felt
+Mon Jan  5 06:38:18 2015	95	I Am Robot And Proud	Uphill City	Uphill City
+Mon Jan  5 06:42:23 2015	101	Apricot Rail	Trout Fishing In Australia	Apricot Rail
+Mon Jan  5 06:46:41 2015	101	Peter Vanek	Pillow Dive	Polaroids EP
+Mon Jan  5 06:50:44 2015	104	Blue Hawaii	Reaction Ii	Untogether
+Mon Jan  5 06:54:07 2015	109	People Press Play	Girl	People Press Play
+Mon Jan  5 06:57:49 2015	112	Allegra Gellar	A Younger Man's Game	Allegra Gellar - The Secret Plans of Men
+Mon Jan  5 07:02:33 2015	111	Lali Puna	Nin-Com-Pop (Two Lone Swordsmen Remix)	I Thought I Was Over That
+Mon Jan  5 07:05:36 2015	110	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Mon Jan  5 07:07:57 2015	109	Chvrches	Tether	The Bones Of What You Believe
+Mon Jan  5 07:12:23 2015	109	Marc Hellner	Both Of Use	Marriages
+Mon Jan  5 07:16:47 2015	114	Falty DL	She Sleeps (Gang Gang Dance Remix)	n/a
+Mon Jan  5 07:21:18 2015	114	Fortune Howl	Interzone Export (Bwoy De Bhajan Remix)	Earthbound [Remixed]
+Mon Jan  5 07:24:28 2015	111	Tycho	See	See Remix
+Mon Jan  5 07:29:34 2015	117	Can't	Believe (Radio Edit)	n/a
+Mon Jan  5 07:33:06 2015	118	Choir Of Young Believers	Have I Ever Truly Been Here	Rhine Gold
+Mon Jan  5 07:38:21 2015	116	Guitar	Love Is Slow	Honeysky
+Mon Jan  5 07:45:26 2015	108	Four Tet	High Fives	Everything Ecstatic
+Mon Jan  5 07:50:27 2015	109	Goddamn Electric Bill	Everyone's Turning Back	The Only Power To Please EP V.2
+Mon Jan  5 07:53:57 2015	114	Postal Service	The District Sleeps Alone Tonight	Give Up
+Mon Jan  5 07:58:30 2015	114	Lisa Papineau	Diamonds And Pearls (Chachi Jones Remix)	Night Moves (Remixes)
+Mon Jan  5 08:04:02 2015	111	Yamamoto	Columpio	Columpio EP
+Mon Jan  5 08:06:45 2015	111	Go Find	25 Years	Stars on the Wall
+Mon Jan  5 08:10:39 2015	113	Seavault	The Mercy Seat	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Mon Jan  5 08:14:54 2015	114	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Mon Jan  5 08:20:08 2015	110	Douglas Dare	If I Knew I We're Alive	n/a
+Mon Jan  5 08:24:09 2015	110	Ernest Gonzales	Upon The 49th Day	Texas (Exponential Records SXSW Label Sampler)
+Mon Jan  5 08:27:58 2015	114	Midlake	The Old And The Young	Antiphon
+Mon Jan  5 08:33:27 2015	110	Butcher The Bar	The Boy You Miss The Most	Sleep At Your Own Speed
+Mon Jan  5 08:36:50 2015	109	Raveonettes	Curse The Night	Observator
+Mon Jan  5 08:40:09 2015	113	Masha Qrella	Guided By The Stripes	Unsolved Remained
+Mon Jan  5 08:42:07 2015	112	L'Altra	Mail Bomb	Different Days
+Mon Jan  5 08:46:44 2015	110	Park Avenue Music	Norway Kitty	By Hearts+Horses
+Mon Jan  5 08:50:49 2015	113	Helios	Bless This Morning Year	Eingya
+Mon Jan  5 08:56:34 2015	114	Lali Puna	The Daily Match	I Thought I Was Over That
+Mon Jan  5 09:00:21 2015	115	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Mon Jan  5 09:04:20 2015	120	All India Radio	Night	The Silent Surf
+Mon Jan  5 09:07:31 2015	116	Aarktica	Onward Remix By Yellow 6	In Sea
+Mon Jan  5 09:11:37 2015	120	Unni Lovlid	Myrketid (Polar Night)	n/a
+Mon Jan  5 09:15:41 2015	116	Beacon	Anthem	The Ways We Separate
+Mon Jan  5 09:18:44 2015	114	Shigeto	Sky Of The Revolution	Full Circle
+Mon Jan  5 09:23:46 2015	118	Crystal Fighters	You & I (Kodak To Graph Remix)	You & I (Remixes)
+Mon Jan  5 09:27:25 2015	119	Mmoths	If Only	Mmoths
+Mon Jan  5 09:31:18 2015	124	Candlegravity	Junpei	Junpei
+Mon Jan  5 09:34:10 2015	122	Letters Letters	Dealer Dealer	Letters Letters
+Mon Jan  5 09:38:09 2015	119	One Am Radio	Mercury	This Too Will Pass
+Mon Jan  5 09:41:45 2015	119	Go Find	Dictionary	Stars On The Wall
+Mon Jan  5 09:45:41 2015	120	One Second Bridge	Fifth Season	One Second Bridge
+Mon Jan  5 09:49:37 2015	119	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Mon Jan  5 09:52:56 2015	122	Isan	Look And Yes	plans drawn in pencil
+Mon Jan  5 09:55:41 2015	121	Lemonade	Neptune	Diver
+Mon Jan  5 09:59:24 2015	124	Khonnor	Megans Present	Handwriting
+Mon Jan  5 10:02:45 2015	115	Lali Puna	Grin & Bear	Faking The Books
+Mon Jan  5 10:07:18 2015	121	Tarwater	Stone	The Needle Was Travelling
+Mon Jan  5 10:11:02 2015	122	Silver Swans	Mother Of Pearl	Forever
+Mon Jan  5 10:14:21 2015	122	Album Leaf	Falling From The Sun	A Chorus of Storytellers
+Mon Jan  5 10:19:17 2015	122	Glasser	T	Ring
+Mon Jan  5 10:24:30 2015	116	Four Tet	My Angel Rocks Back And Forth (Album Version)	My Angel Rocks Back And Forth
+Mon Jan  5 10:29:38 2015	117	Dan Deacon	Prettyboy	America
+Mon Jan  5 10:34:53 2015	112	Melorman	From Now On	Waves
+Mon Jan  5 10:40:30 2015	120	Blue Foundation	Lost (Featuring Sara Savery)	In My Mind I Am Free
+Mon Jan  5 10:45:27 2015	120	Borko	Dingdong Kingdom	Celebrating Life
+Mon Jan  5 10:49:57 2015	118	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Mon Jan  5 10:53:44 2015	118	Dan Black	Cocoon	((UN))
+Mon Jan  5 10:57:58 2015	119	Bobby & Blumm	Not At Home	Everybody Loves
+Mon Jan  5 11:01:39 2015	111	Tycho	See (Beacon Remix)	See Remix
+Mon Jan  5 11:05:27 2015	114	Contriva	Mo Mix	Monika Force (Compilation)
+Mon Jan  5 11:08:48 2015	112	Underground Lovers	In Silhouette	Weekend
+Mon Jan  5 11:12:50 2015	107	Dalot	Haiku 23	HAIKUS 23
+Mon Jan  5 11:14:48 2015	110	Asgeir	King And Cross	In the Silence
+Mon Jan  5 11:18:23 2015	108	Beacon	Between The Waves	The Ways We Separate
+Mon Jan  5 11:21:38 2015	109	Slow Moe	A Wave Of White Light ('wave Of White Light Aesthetic' By Aspen	n/a
+Mon Jan  5 11:26:37 2015	110	British Expeditionary Force	A Long Way From Home (Rival Consoles Rmx)	Erased Tapes Collection I - At The End Of All Music Happiness Will Be Erased
+Mon Jan  5 11:29:23 2015	110	Deerhunter	Helicopter	Halcyon Digest
+Mon Jan  5 11:34:12 2015	111	Blue Hawaii	Sierra Lift	Untogether
+Mon Jan  5 11:37:45 2015	112	Apparat	Goodbye	The Devil's Walk
+Mon Jan  5 11:41:33 2015	106	Metric	Clone	Synthetica
+Mon Jan  5 11:46:40 2015	107	Via Tania	Wonder Stranger	Moon Sweet Moon
+Mon Jan  5 11:49:33 2015	112	One Am Radio	Gravity	The Hum of the Electric Air!
+Mon Jan  5 11:52:48 2015	110	Arovane	Neel	Minth / Neel
+Mon Jan  5 11:57:06 2015	109	Florida	The Girl On The Escalator	Monika Force
+Mon Jan  5 12:00:57 2015	109	Zwicker	Sleepwalking (Feat. Jamie Lloyd)	Songs Of Lucid Dreamers
+Mon Jan  5 12:05:28 2015	109	Four Tet	Icar	n/a
+Mon Jan  5 12:12:43 2015	95	Merkin Dream	Printing Imprenta	The Merkin Dream
+Mon Jan  5 12:16:21 2015	95	It's A Musical	Take Off Your T-Shirt	The Music Makes Me Sick
+Mon Jan  5 12:19:45 2015	96	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Mon Jan  5 12:24:24 2015	96	Sigur Ros	Isjaki	Kveikur
+Mon Jan  5 12:29:15 2015	90	High Highs	White Water	OPEN SEASON DELUXE
+Mon Jan  5 12:32:49 2015	89	Washed Out	Don't Give Up	Paracosm
+Mon Jan  5 12:36:32 2015	91	Aiodine	004-Ep 00	n/a
+Mon Jan  5 12:39:47 2015	89	Processory	Nightfall	Change is Gradual
+Mon Jan  5 12:43:47 2015	86	Letters Letters	Favourite Hands	Letters Letters
+Mon Jan  5 12:47:02 2015	90	Fog	Holy Holy Holy	10th Avenue Freakout
+Mon Jan  5 12:51:46 2015	89	13 & God	It's Own Sun	Own Your Ghost
+Mon Jan  5 12:54:19 2015	87	Biggi	sofdu med ljosid a	ID
+Mon Jan  5 12:58:21 2015	86	Isan	Birds Over Barges	Meet Next Life
+Mon Jan  5 13:04:40 2015	83	People Press Play	Everything	People Press Play
+Mon Jan  5 13:08:40 2015	85	Populous	Pawn Shop Close	Queue For Love
+Mon Jan  5 13:11:39 2015	93	Awning	Home	E.P. (1)
+Mon Jan  5 13:15:08 2015	92	Nuuro	Oh One	All Clear
+Mon Jan  5 13:18:49 2015	95	Mum	Machine Gun	Blue Skied An' Clear
+Mon Jan  5 13:22:34 2015	94	Naked & Famous	The Sun	Passive Me, Aggressive You
+Mon Jan  5 13:26:20 2015	94	Ex Confusion	Two Things	With Love
+Mon Jan  5 13:28:24 2015	95	Tree Bosier	Music Without A Name	Bubikopf Girl - EP
+Mon Jan  5 13:30:43 2015	89	Emancipator	All Through The Night	safe in the steep cliffs
+Mon Jan  5 13:34:53 2015	89	Four Tet	Unicorn	Beautiful Rewind
+Mon Jan  5 13:38:17 2015	90	Xx	Islands	xx
+Mon Jan  5 13:40:49 2015	88	Apparat	Komponent (Telefon Tel Aviv Remix)	Remixes Compiled
+Mon Jan  5 13:44:49 2015	87	Walton Hoax & Galimatias	All Recklessness Aside (Galima	n/a
+Mon Jan  5 13:49:04 2015	88	Granufunk	Big City Lights	Granufunk
+Mon Jan  5 13:53:16 2015	82	Liftoff	Off Yer Feet	Sunday Morning Airplay
+Mon Jan  5 13:58:07 2015	87	Lali Puna	Out There (Feat. Yukihiro Taka	Our Inventions
+Mon Jan  5 14:02:04 2015	84	Album Leaf	Christiansands	Seal Beach EP (Spain Only)
+Mon Jan  5 14:06:06 2015	87	Cfcf	Exercise 5 (September)	Exercises
+Mon Jan  5 14:10:23 2015	88	Hundred Waters	Thistle	Hundred Waters
+Mon Jan  5 14:14:49 2015	88	When The Clouds.	Rise On	The Longed-For Season
+Mon Jan  5 14:19:32 2015	80	John Yoko	Papa Was A Rodeo	Papa Was a Rodeo EP
+Mon Jan  5 14:23:35 2015	80	Ulfur	Black Shore	White Mountain
+Mon Jan  5 14:26:48 2015	84	Washed Out	Feel It All Around	Life of Leisure
+Mon Jan  5 14:29:47 2015	80	Nuuro	Flying On A Spaceship	All Clear
+Mon Jan  5 14:33:34 2015	82	Tog	Gronland 1	Feiring
+Mon Jan  5 14:38:47 2015	78	Bibio	Saint Christopher	Mind Bokeh
+Mon Jan  5 14:44:59 2015	84	Arovane	Minth	Minth / Neel
+Mon Jan  5 14:50:21 2015	82	Young & Sick	Continuum	Continuum
+Mon Jan  5 14:53:37 2015	83	Dntel	Anywhere Anyone	Life Is Full Of Possibilities
+Mon Jan  5 14:58:09 2015	79	Malka Spigel	Lost In Sound	Every Day Is Like The First Day
+Mon Jan  5 15:03:25 2015	84	Pretty Lights	Understand Me Now	Making Up A Changing Mind
+Mon Jan  5 15:08:47 2015	88	Couch	Manchmal Immer Wieder	Figur 5
+Mon Jan  5 15:13:57 2015	85	Go Find	Ice Cold Ice	Stars on the Wall
+Mon Jan  5 15:19:15 2015	86	Christian Kleine	Today's Mark	Beyond Repair
+Mon Jan  5 15:25:16 2015	83	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Mon Jan  5 15:29:06 2015	82	Toro Y Moi	Imprint After	Causers Of This
+Mon Jan  5 15:32:17 2015	89	Mike Milosh	Your Taste	You Make Me Feel
+Mon Jan  5 15:35:30 2015	84	Eight And A Half	The Turn Around	Eight And A Half
+Mon Jan  5 15:39:40 2015	86	Aqob	Ladywhite	Love is Always On
+Mon Jan  5 15:44:52 2015	81	Lali Puna	Rest Your Head	Our Inventions
+Mon Jan  5 15:47:51 2015	85	Yamamoto	Bedtime Story	Columpio EP
+Mon Jan  5 15:50:40 2015	84	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Mon Jan  5 15:55:29 2015	85	Oto Efekt	Vincent	Living Room (EP)
+Mon Jan  5 15:57:56 2015	84	Xx	Stars	xx
+Mon Jan  5 16:01:56 2015	81	Alucidnation	Spring	Aural Architecture
+Mon Jan  5 16:06:19 2015	82	Anders Parker	So Far Away	Skyscraper Crow
+Mon Jan  5 16:10:06 2015	83	Teamforest	I Cannot Care As Much As I Like To	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Mon Jan  5 16:13:31 2015	81	Am & Shawn Lee	Winter Sun	Celestial Electric
+Mon Jan  5 16:17:04 2015	79	Arovane	Tides	Tides
+Mon Jan  5 16:22:15 2015	78	Album Leaf	Almost There	A Chorus of Storytellers
+Mon Jan  5 16:26:50 2015	75	Four Tet	Tangle	Pause
+Mon Jan  5 16:30:21 2015	68	Contriva	Bluebottle	Separate Chambers
+Mon Jan  5 16:34:17 2015	69	Phaseone	It's Not Forever	Phaseone/Parisian (Single)
+Mon Jan  5 16:38:22 2015	66	Field Mouse	How Do You Know	n/a
+Mon Jan  5 16:41:56 2015	65	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Mon Jan  5 16:45:32 2015	64	Biggi	Don't Break The Silence	ID
+Mon Jan  5 16:49:16 2015	64	Slowdive	Sing	Catch The Breeze
+Mon Jan  5 16:53:42 2015	64	Awning	Mistaken Tendency	Two Against Me
+Mon Jan  5 16:56:38 2015	70	Marc Hellner	Nonsense & Happiness	Marriages
+Mon Jan  5 17:01:01 2015	66	Novo	More And More	The Open EP
+Mon Jan  5 17:05:49 2015	67	Mmoths	No One	Diaries
+Mon Jan  5 17:09:45 2015	65	Beacon	Bring You Back	The Ways We Separate
+Mon Jan  5 17:13:51 2015	68	Sts9	Re Stereo	Ad Explorata
+Mon Jan  5 17:20:44 2015	67	Teen Daze	Alaska	Glacier
+Mon Jan  5 17:25:06 2015	64	L'Altra	It Follows Me Around	Different Days
+Mon Jan  5 17:29:22 2015	65	Sohn	Ransom Notes	Tremors
+Mon Jan  5 17:33:17 2015	66	Electric President	Robophobia	Sleep Well
+Mon Jan  5 17:37:52 2015	67	Peter Broderick & Machinefabri	Rain	n/a
+Mon Jan  5 17:43:16 2015	68	High Highs	Flowers Bloom	OPEN SEASON DELUXE
+Mon Jan  5 17:46:06 2015	69	Four Tet	First Thing/chia (The Space Be	My Angel Rocks Back and Forth
+Mon Jan  5 17:51:22 2015	67	Toro Y Moi	Grown Up Calls	Anything In Return
+Mon Jan  5 17:54:27 2015	68	Lali Puna	Alienation	Faking The Books
+Mon Jan  5 17:58:25 2015	71	Masha Qrella	Feels Like	Unsolved Remained
+Mon Jan  5 18:01:42 2015	68	Orcas	Half Light	Yearling
+Mon Jan  5 18:06:25 2015	68	Quebec Antique	Escape	Abbey Tapes
+Mon Jan  5 18:10:46 2015	63	Miike Snow	Black Tin Box	Happy to You
+Mon Jan  5 18:16:18 2015	68	One Am Radio	The Landmine	The Hum of the Electric Air!
+Mon Jan  5 18:19:23 2015	63	Cornelius	Cue	"Gum" EP
+Mon Jan  5 18:24:10 2015	64	L'Altra	Motorme	Music Of A Sinking Occasion
+Mon Jan  5 18:28:48 2015	69	Arovane	Good Bye Forever	Lilies
+Mon Jan  5 18:32:16 2015	67	Go Find	Summer Boys	Brand New Love
+Mon Jan  5 18:36:10 2015	69	Age Of Rockets	The End Of Faith	Hannah
+Mon Jan  5 18:40:27 2015	67	Groundislava	Panorama Ft. Weary	Groundislava
+Mon Jan  5 18:43:39 2015	65	Ent	No Tone (Near The Parenthesis Remix)	Welcome Stranger
+Mon Jan  5 18:48:44 2015	66	When The Clouds.	The Place Where The Path Leads	The Longed-For Season
+Mon Jan  5 18:53:46 2015	65	Ms. John Soda	Solid Ground	Blue Skied An' Clear
+Mon Jan  5 18:57:06 2015	64	Postal Service	We Will Become Silouettes (The Shins Version)	Such Great Heights
+Mon Jan  5 19:00:04 2015	65	George & Caplin	Bluff Lake Forgotten	He Really Got Through To Advertising
+Mon Jan  5 19:05:20 2015	65	Asonat	What Have We Done (Silence Is Golden)	Love In Times of Repetition
+Mon Jan  5 19:10:17 2015	62	Lali Puna	That Day	Our Inventions
+Mon Jan  5 19:13:51 2015	61	Tycho	Plains	Awake
+Mon Jan  5 19:16:05 2015	60	Four Tet	Unspoken	Rounds
+Mon Jan  5 19:25:07 2015	62	Sohn	Bloodflows	Tremors
+Mon Jan  5 19:29:22 2015	62	Body Language	At A Glance	Speaks
+Mon Jan  5 19:33:17 2015	61	Chromatics	Mask	Night Drive
+Mon Jan  5 19:38:44 2015	61	Beach House	The Hours	Bloom
+Mon Jan  5 19:42:46 2015	60	Aerosol	Airborne	Airborne
+Mon Jan  5 19:48:11 2015	61	Rena Jones	Returning To The Source	Echoes
+Mon Jan  5 19:53:17 2015	61	Douglas Dare	Swim	Whelm
+Mon Jan  5 19:57:40 2015	65	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Mon Jan  5 20:01:47 2015	66	Go Find	Ice Cold Ice	Stars on the Wall
+Mon Jan  5 20:06:58 2015	65	Ulfur	Heaven In A Wildflower	White Mountain
+Mon Jan  5 20:13:16 2015	64	Christian Kleine	Carez	Beyond Repair
+Mon Jan  5 20:17:55 2015	62	Mister Lies	Hounded	Mowgli
+Mon Jan  5 20:21:36 2015	64	Data Romance	Something To Me	Other
+Mon Jan  5 20:26:06 2015	61	Xela	Softness Of Senses	Tangled Wool
+Mon Jan  5 20:30:28 2015	64	Zwicker	Submarine Kabelgau (Feat. James Teipdek)	Songs Of Lucid Dreamers
+Mon Jan  5 20:35:15 2015	59	Telefon Tel Aviv	Your Mouth	Immolate Yourself
+Mon Jan  5 20:39:16 2015	59	All India Radio	White Satin	A Low High
+Mon Jan  5 20:42:05 2015	60	Processory	The Books I Never Read	Change is Gradual
+Mon Jan  5 20:45:56 2015	59	Merkin Dream	Reds	Cottage
+Mon Jan  5 20:50:17 2015	64	Arovane	Pink Lilies	Lilies
+Mon Jan  5 20:54:19 2015	59	Marconi Union	Buildings And People	Distance
+Mon Jan  5 20:59:04 2015	61	Ms. John Soda	Sometimes Stop, Sometimes Go	Notes and the like
+Mon Jan  5 21:04:39 2015	64	Owl Service & Alison O'Donnell	Scarlet Threads & Silver Needles	The Fabric Of Folk
+Mon Jan  5 21:06:39 2015	66	Awning	New York Smile	E.P. (1)
+Mon Jan  5 21:10:58 2015	65	Lali Puna	40 Days	I Thought I Was Over That
+Mon Jan  5 21:14:41 2015	68	Douglas Dare	If I Knew I We're Alive	n/a
+Mon Jan  5 21:18:47 2015	72	Washed Out	Paracosm	Paracosm
+Mon Jan  5 21:25:00 2015	66	Bobby & Blumm	In Future Present	Everybody Loves ...
+Mon Jan  5 21:27:55 2015	68	Plastik Joy	True Norwegian Black Metal	3:03
+Mon Jan  5 21:31:25 2015	69	Goddamn Electric Bill	Country Jam	The Only Power To Please EP V.2
+Mon Jan  5 21:35:32 2015	72	People Press Play	Always Wrong	People Press Play
+Mon Jan  5 21:39:22 2015	72	Dead Leaf Echo	Gesture	Thought & Language
+Mon Jan  5 21:45:00 2015	77	Contriva	Shadow	Monika Force
+Mon Jan  5 21:48:09 2015	74	Guitar	Heretogether	Honeysky
+Mon Jan  5 21:53:42 2015	72	Go Find	We Promised Together	Brand New Love
+Mon Jan  5 21:57:04 2015	71	Mmoths	All These Things (Feat. Holly Miranda)	Diaries
+Mon Jan  5 22:01:31 2015	69	Komeit	When The Sun Hits	Blue Skied An' Clear
+Mon Jan  5 22:04:16 2015	69	Masha Qrella	Sister, Welcome	Unsolved Remained
+Mon Jan  5 22:07:17 2015	70	Year Of	Sleep	Slow Days
+Mon Jan  5 22:12:25 2015	70	Beacon	Pulse	For Now
+Mon Jan  5 22:16:18 2015	64	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Mon Jan  5 22:21:24 2015	63	Detektivbyran	Neonland	Building A Better Robot - vol.1
+Mon Jan  5 22:24:27 2015	67	Sin Fang	Walk With You	Half Dreams
+Mon Jan  5 22:28:26 2015	69	L'Altra	Little Chair	Music Of A Sinking Occasion
+Mon Jan  5 22:34:08 2015	67	Toro Y Moi	Good Hold	Underneath The Pine
+Mon Jan  5 22:36:38 2015	67	Chvrches	Tether	The Bones Of What You Believe
+Mon Jan  5 22:41:05 2015	67	Boreals	Invierno Fractal	Antipodas
+Mon Jan  5 22:44:53 2015	70	Barbara Morgenstern	Eine Verabredung	Monika Force
+Mon Jan  5 22:48:56 2015	70	Elephant And Castle	Adjoining Souls	Transitions
+Mon Jan  5 22:51:30 2015	72	Lali Puna	I've Been Over The Rainbow	Silver Light
+Mon Jan  5 22:54:54 2015	73	Populous With Short Stories	Breathes The Best	Drawn In Basic
+Mon Jan  5 22:56:51 2015	72	Xela	Drawing Pictures Of Girls	Tangled Wool
+Mon Jan  5 23:01:30 2015	73	Barbara Morgenstern & Robert Lippok	White Wise Rabbit	Tesri
+Mon Jan  5 23:04:55 2015	71	Tied & Tickled Trio	Aelita 1	Aelita
+Mon Jan  5 23:07:52 2015	70	Lisa Papineau	Out To You (Chachi Jones Remix)	Night Moves (Remixes)
+Mon Jan  5 23:15:18 2015	70	Glass Animals	Black Mambo	Black Mambo / Exxus
+Mon Jan  5 23:19:01 2015	71	Styrofoam	Misguided	Nothing's Lost
+Mon Jan  5 23:22:58 2015	70	Melpo	Mene Hello Benjamin	Northern Living
+Mon Jan  5 23:27:29 2015	68	Miike Snow	Burial	Miike Snow
+Mon Jan  5 23:31:43 2015	68	Gold Panda	Enoshima	Half Of Where You Live
+Mon Jan  5 23:34:47 2015	65	Tycho	See (Beacon Remix)	See Remix
+Mon Jan  5 23:38:33 2015	68	Masha Qrella	Everything Shows	Unsolved Remained
+Mon Jan  5 23:42:20 2015	67	Manual	Summer Haze	Blue Skied An' Clear
+Mon Jan  5 23:47:15 2015	69	Aerosol	Pyschedelic Coffee Buzz	Airborne
+Mon Jan  5 23:51:29 2015	70	Nuuro	Frame Me	All Clear
+Mon Jan  5 23:55:15 2015	69	Go Find	New Year	Stars on the Wall
+Mon Jan  5 23:58:20 2015	68	Beacon	Feeling's Gone	For Now
+Tue Jan  6 00:01:28 2015	70	When The Clouds.	The Dawn And The Embrace	The Longed-For Season
+Tue Jan  6 00:05:21 2015	67	Indigolab	Colours (Blackout)	Outlander
+Tue Jan  6 00:11:42 2015	66	Melorman	From Now On	Waves
+Tue Jan  6 00:17:16 2015	66	Skipping Girl Vinegar	You Can	Keep Calm, Carry The Monkey
+Tue Jan  6 00:20:29 2015	64	Lemonade	Eye Drops	Diver
+Tue Jan  6 00:23:54 2015	66	Lali Puna	The Daily Match	I Thought I Was Over That
+Tue Jan  6 00:27:37 2015	67	Ernest Gonzales	Untitled Love Song	Been Meaning To Tell You
+Tue Jan  6 00:30:37 2015	69	Promise And The Monster	Night Out	Northern Living
+Tue Jan  6 00:34:36 2015	70	Anois	Throw Out The Light	Tracery On A Frosted Window EP
+Tue Jan  6 00:38:35 2015	69	Khonnor	Dusty	Handwriting
+Tue Jan  6 00:42:20 2015	68	I Am Robot And Proud	Something To Write Home About	Uphill City
+Tue Jan  6 00:45:24 2015	71	Groundislava	Gravity Hoarding Ft. Weary	Groundislava
+Tue Jan  6 00:49:36 2015	72	Clock Opera	Belongings	Ways to Forget
+Tue Jan  6 00:54:22 2015	72	Dntel	Life Is Full Of Possibilities	Life Is Full Of Possibilities
+Tue Jan  6 01:00:27 2015	70	B. Fleischmann	I Am Not Ready For The Grave Yet	I'm Not Ready For The Grave Yet
+Tue Jan  6 01:05:23 2015	71	Ulrich Schnauss & Mark Peters	Forgotten	Underrated Silence
+Tue Jan  6 01:09:22 2015	68	Laura Gibson & Ethan Rose	Glocken	Bridge Carols
+Tue Jan  6 01:12:40 2015	68	Elisa Luu	Chromatic Sigh	Chromatic Sigh
+Tue Jan  6 01:16:56 2015	65	Washed Out	Weightless	Paracosm
+Tue Jan  6 01:21:48 2015	63	Beacon	Studio Audience	The Ways We Separate
+Tue Jan  6 01:25:13 2015	63	Go Find	Japan	Brand New Love
+Tue Jan  6 01:29:43 2015	60	Matthew Dear	Slowdance	Black City
+Tue Jan  6 01:34:03 2015	64	Solvent	Discontinued Parts (Instrumental Mix)	Blue Skied An' Clear
+Tue Jan  6 01:37:59 2015	67	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Tue Jan  6 01:42:39 2015	64	Beach House	Other People	Bloom
+Tue Jan  6 01:46:52 2015	62	Tokyo Morose	Here's The Man (Cantilever Remix)	Specific Ocean - Alternate Mixes
+Tue Jan  6 01:53:48 2015	64	Hammock	Blankets Of Night	Kenotic
+Tue Jan  6 02:01:16 2015	73	Plushgun	14 Candles	Plushgun
+Tue Jan  6 02:05:08 2015	74	Styrofoam	Altogether	Blue Skied An' Clear
+Tue Jan  6 02:09:08 2015	78	Marconi Union	Broken Colours	Different Colours
+Tue Jan  6 02:14:40 2015	80	Grasscut	Meltwater	1 Inch / 1/2 Mile
+Tue Jan  6 02:18:58 2015	82	Neon Indian	Fallout	Era Extrana
+Tue Jan  6 02:22:58 2015	82	Telefon Tel Aviv	The Birds	Immolate Yourself
+Tue Jan  6 02:28:29 2015	78	Bloom	More Angels	Beautiful Worlds
+Tue Jan  6 02:36:06 2015	75	Four Tet	Twenty Three	Pause
+Tue Jan  6 02:39:31 2015	74	Static	Disquiet (Starring Christof Kurzmann)	Flavour Has No Name
+Tue Jan  6 02:43:18 2015	71	Tic Tic Boom	180 Degrees	Reasons & Rhymes
+Tue Jan  6 02:46:28 2015	74	Lali Puna	People I Know	Faking The Books
+Tue Jan  6 02:49:30 2015	73	Asonat	There Was A Pattern	Love In Times of Repetition
+Tue Jan  6 02:50:00 2015	73	Moi Caprice	Thieves Like Us	You Can't Say No Forever
+Tue Jan  6 02:55:59 2015	73	Sin Fang (Morr Music)	Look At The Light	M plus Six
+Tue Jan  6 02:59:20 2015	73	Will Samson	Colliding With Oceans	Colliding with Oceans (Benoit Pioulard Remix)
+Tue Jan  6 03:02:53 2015	78	Merkin Dream	Swell	The Merkin Dream
+Tue Jan  6 03:09:16 2015	77	Buoys	New	Grillo Parlante
+Tue Jan  6 03:12:48 2015	80	Toro Y Moi	Studies	Anything In Return
+Tue Jan  6 03:16:49 2015	79	Qua	Devil Eyes	Painting Monsters On Clouds
+Tue Jan  6 03:20:40 2015	83	Go Find	Adrenaline	Stars on the Wall
+Tue Jan  6 03:25:26 2015	85	Park Avenue Music	The Modern Guide	For Your Home or Office
+Tue Jan  6 03:30:54 2015	77	Carta	Santander	An Index Of Birds
+Tue Jan  6 03:34:44 2015	80	Teen Daze	Ice On The Windowsill	Glacier
+Tue Jan  6 03:38:51 2015	79	Arovane	A Secret	Tides
+Tue Jan  6 03:43:18 2015	81	Steve Kilbey & Martin Kennedy	I Wouldn't Know	You Are Everything
+Tue Jan  6 03:47:15 2015	85	When The Clouds.	November Song	The Longed-For Season
+Tue Jan  6 03:51:28 2015	85	Asgeir	King And Cross	In the Silence
+Tue Jan  6 03:55:03 2015	85	Jon Hopkins	Small Memory (Tuung Remix)	Seven Gulps Of Air
+Tue Jan  6 03:59:51 2015	83	Headlights	Market Girl (The Album Leaf Remix)	Remixes
+Tue Jan  6 04:03:14 2015	86	Starfucker	Reptilians	Reptilians
+Tue Jan  6 04:05:47 2015	92	Sombear	Easy Thief	Love You In The Dark
+Tue Jan  6 04:09:46 2015	90	Album Leaf	Wherever I Go	INTO THE BLUE AGAIN
+Tue Jan  6 04:14:04 2015	89	Lali Puna	Our Inventions	Our Inventions
+Tue Jan  6 04:18:23 2015	92	Glass Animals	Exxus	Black Mambo / Exxus
+Tue Jan  6 04:22:14 2015	94	Go Find	25 Years	Stars on the Wall
+Tue Jan  6 04:26:05 2015	91	Populous	Maqam Saba	Queue For Love
+Tue Jan  6 04:30:22 2015	93	Lake Heartbeat	Build The Wall Up	Trust in Numbers
+Tue Jan  6 04:34:12 2015	92	All Tiny Creatures	Glass Bubbles	Harbors
+Tue Jan  6 04:38:54 2015	94	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Tue Jan  6 04:42:30 2015	91	Arovane	Delc R	Putting The Morr Back In Morrissey
+Tue Jan  6 04:46:50 2015	88	American Dollar / Arms And	Diario 16	n/a
+Tue Jan  6 04:50:04 2015	84	Christian Kleine	Quentin	Beyond Repair
+Tue Jan  6 04:55:06 2015	85	Herrmann & Kleine	Leaving You Behind (Without Knowing Where To Go)	Blue Skied An' Clear
+Tue Jan  6 05:01:40 2015	91	Dead Leaf Echo	Child	Thought & Language
+Tue Jan  6 05:05:33 2015	87	Butcher The Bar	Get Away	Sleep At Your Own Speed
+Tue Jan  6 05:08:34 2015	88	Year Of	There's Something About You	Slow Days
+Tue Jan  6 05:13:00 2015	91	Teen Daze	New Life	The Inner Mansions
+Tue Jan  6 05:16:42 2015	92	Steve Kilbey & Martin Kennedy	Lorelei	You Are Everything
+Tue Jan  6 05:20:33 2015	95	Neon Indian	Mind, Drips	Psychic Chasms
+Tue Jan  6 05:23:40 2015	96	Mum	Asleep On A Train	Yesterday Was Dramatic, Today Is OK
+Tue Jan  6 05:30:50 2015	98	Postal Service	Such Great Heights (Iron And Wine Version)	Give Up
+Tue Jan  6 05:34:54 2015	94	One Second Bridge	Everywhere	One Second Bridge
+Tue Jan  6 05:37:52 2015	94	Masha Qrella	No Matter	Unsolved Remained
+Tue Jan  6 05:42:42 2015	95	Roisin Murphy	Leaving The City	Ruby Blue
+Tue Jan  6 05:47:19 2015	93	Doves	Friday's Dust	The Last Broadcast
+Tue Jan  6 05:50:35 2015	95	Beacon	It Won't Be Long	For Now
+Tue Jan  6 05:53:50 2015	94	Go Find	Over The Edge (Late Night Remi	Over the Edge vs What I Want
+Tue Jan  6 05:57:36 2015	95	Hundred Waters	Thistle	Hundred Waters
+Tue Jan  6 06:02:06 2015	93	B. Fleischmann	This Bar	I'm Not Ready For The Grave Yet
+Tue Jan  6 06:05:18 2015	96	Orcas	Capillaries	Yearling
+Tue Jan  6 06:10:49 2015	102	Album Leaf	Stand Still	A Chorus of Storytellers
+Tue Jan  6 06:15:25 2015	105	Populous With Short Stories	Test Your Dreams	Drawn In Basic
+Tue Jan  6 06:16:49 2015	107	Dollboy	One Liner	A Beard Of Bees
+Tue Jan  6 06:21:39 2015	107	Slowdive	Shine	Catch The Breeze
+Tue Jan  6 06:26:44 2015	106	Young & Sick	Continuum	Continuum
+Tue Jan  6 06:29:59 2015	104	Levek	Canterbury Bell	Look A little Closer
+Tue Jan  6 06:32:20 2015	101	High Highs	Phone Call	OPEN SEASON DELUXE
+Tue Jan  6 06:36:49 2015	101	One Am Radio	A Brittle Filament (Album)	This Too Will Pass
+Tue Jan  6 06:38:30 2015	104	Postal Service	Turn Around	Give Up
+Tue Jan  6 06:42:10 2015	105	Matt Boyle	Second Thoughts At Sea Level	Maroon
+Tue Jan  6 06:49:20 2015	101	Dntel	(This Is) The Dream Of Evan And Chan (Original Version)	(This Is) The Dream Of Evan And Chan
+Tue Jan  6 06:54:49 2015	97	Freelance Whales	Ghosting	Weathervanes [Vinyl]
+Tue Jan  6 06:59:07 2015	102	Deerhunter	Agoraphobia	Microcastle
+Tue Jan  6 07:02:28 2015	108	Bebel Gilberto	All Around (Telefon Tel Aviv Remix)	Remixes Compiled
+Tue Jan  6 07:06:51 2015	109	Neon Indian	Terminally Chill	Psychic Chasms
+Tue Jan  6 07:10:11 2015	110	Lali Puna	Small Things	Faking The Books
+Tue Jan  6 07:13:38 2015	113	Alucidnation	Spring	Aural Architecture
+Tue Jan  6 07:18:00 2015	114	Four Tet	Turtle Turtle Up	Everything Ecstatic
+Tue Jan  6 07:20:10 2015	117	Album Leaf	Over The Pond	In a Safe Place
+Tue Jan  6 07:24:37 2015	115	Tied & Tickled Trio	Chlebnikov	Aelita
+Tue Jan  6 07:28:44 2015	118	Xx	Fantasy	xx
+Tue Jan  6 07:31:18 2015	116	Letting Up Despite Great Faults	So Fast You	Letting Up Despite Great Faults
+Tue Jan  6 07:34:49 2015	116	Washed Out	New Theory	Life of Leisure
+Tue Jan  6 07:37:33 2015	115	Walton Hoax	All Recklessness Aside	All Recklessness Aside
+Tue Jan  6 07:42:46 2015	114	Ulrich Schnauss & Jonas Munk	Sirocco	Epic
+Tue Jan  6 07:50:30 2015	114	Heterotic	Triumph (Ft. Vezelay)	Weird Drift
+Tue Jan  6 07:57:06 2015	118	Couch	Einhangen Und Positiver	Figur 5
+Tue Jan  6 08:01:00 2015	118	Hammock	Breathturn	Chasing After Shadows...Living with the Ghosts
+Tue Jan  6 08:06:31 2015	110	Bistro Boy	Frozen Thoughts (Feat. Gisli Magna)	Made in Iceland 7
+Tue Jan  6 08:11:19 2015	111	Tycho	The Disconnect	Past Is Prologue
+Tue Jan  6 08:17:18 2015	113	Lowgold	Golden Ratio	Just Backward Of Square
+Tue Jan  6 08:19:18 2015	114	Chairlift	Bruises	Does You Inspire You
+Tue Jan  6 08:23:17 2015	111	Populous	Drop City	Queue For Love
+Tue Jan  6 08:27:53 2015	116	Teamforest	Home	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Tue Jan  6 08:33:19 2015	112	Po	Zen One	The Sound Of Summer Silence
+Tue Jan  6 08:37:27 2015	114	Mux Mool	Wolf Tone Symphony (Paul White Remix)	Horizon Line
+Tue Jan  6 08:40:33 2015	114	Electric President	Ether	Sleep Well
+Tue Jan  6 08:45:35 2015	116	Goddamn Electric Bill	Witching Hour	Swallowed by the Machines
+Tue Jan  6 08:50:25 2015	119	Granufunk	Jimmy Brown	Granufunk
+Tue Jan  6 08:54:24 2015	118	Helios	Woods And Gives Away	Ayres
+Tue Jan  6 08:59:46 2015	119	Album Leaf	Micro Melodies (Live)	Red Tour EP
+Tue Jan  6 09:05:06 2015	122	Via Tania	Our Wild Flight	Moon Sweet Moon
+Tue Jan  6 09:08:45 2015	116	Candlegravity	Wanting Someone	Junpei
+Tue Jan  6 09:12:43 2015	114	Tog	Gronland 1	Feiring
+Tue Jan  6 09:17:51 2015	116	John Vanderslice	Central Booking	Emerald City
+Tue Jan  6 09:22:50 2015	114	One Am Radio	A Brittle Filament	This Too Will Pass
+Tue Jan  6 09:24:33 2015	117	Shigeto	Tell A Tale	No Better Time Than Now
+Tue Jan  6 09:28:38 2015	112	Contriva	I Can Wait	Morr Classics Pt.2
+Tue Jan  6 09:32:52 2015	116	Ms. John Soda	By Twos	No P. Or D.
+Tue Jan  6 09:38:30 2015	121	M83	Kelly	M83
+Tue Jan  6 09:42:52 2015	121	Douglas Dare	If I Knew I We're Alive	n/a
+Tue Jan  6 09:46:55 2015	119	Four Tet	No More Mosquitoes	Pause
+Tue Jan  6 09:50:24 2015	119	Washed Out	You And I	Within And Without
+Tue Jan  6 09:55:20 2015	121	Lali Puna	It's Not The Worst I've Looked	I Thought I Was Over That
+Tue Jan  6 09:59:25 2015	125	Naked & Famous	No Way	Passive Me, Aggressive You
+Tue Jan  6 10:04:36 2015	119	Milosh	Awful Game	iii
+Tue Jan  6 10:08:56 2015	122	Sin Fang	Look At The Light (Sin Fang Rework)	Young Boys (Jonsi Remix)
+Tue Jan  6 10:12:43 2015	122	Flaming Lips	It's Summertime	Yoshimi Battles The Pink Robots
+Tue Jan  6 10:16:53 2015	118	All India Radio	Deep Blue Sky (2014 Remix)	Fall Remixes
+Tue Jan  6 10:19:07 2015	122	Blackbird Blackbird	Grow Old With Me (Don't Let Go)	Tangerine Sky (with Radio Edits)
+Tue Jan  6 10:22:26 2015	120	Album Leaf	Broken Arrow	INTO THE BLUE AGAIN
+Tue Jan  6 10:27:45 2015	118	Nuuro	I Believe You So Much It Hurts	Little Darla Has A Treat For You, V.24
+Tue Jan  6 10:32:22 2015	118	Animat	A Promise Of Snow (Verbrilli Sound Windy Accumulations Mix)	A Promise of Snow EP
+Tue Jan  6 10:39:21 2015	120	Fat Jon & Styrofoam	Generic Genes	The Same Channel
+Tue Jan  6 10:43:55 2015	122	Sohn	Bloodflows	Tremors
+Tue Jan  6 10:48:10 2015	120	Echodrone	Cold Snap	Bon Voyage
+Tue Jan  6 10:53:18 2015	121	Toro Y Moi	Rose Quartz	Anything In Return
+Tue Jan  6 10:57:29 2015	120	Letters Letters	Everyone's Afraid Of Fear	Letters Letters
+Tue Jan  6 11:03:06 2015	114	Beacon	Headlights	The Ways We Separate
+Tue Jan  6 11:05:48 2015	113	High Highs	Milan (Slow Magic Remix)	OPEN SEASON DELUXE
+Tue Jan  6 11:09:19 2015	112	Tycho	A Circular Reeduction	Past Is Prologue
+Tue Jan  6 11:14:24 2015	111	Makestapes	Shore Break	Texas (Exponential Records SXSW Label Sampler)
+Tue Jan  6 11:16:47 2015	110	Lali Puna	Grin & Bear	Faking The Books
+Tue Jan  6 11:21:26 2015	115	Fenech-Soler	The Cult Of Romance [Alan Braxe Remix]	Stop And Stare
+Tue Jan  6 11:26:35 2015	114	Ms. John Soda	Outlined View	Notes and the like
+Tue Jan  6 11:30:51 2015	117	Mmoths	Too Real	Diaries
+Tue Jan  6 11:34:00 2015	113	Sigur Ros	Hrafntinna	Kveikur
+Tue Jan  6 11:40:00 2015	115	Oto Efekt	01 In This Hole (Poni Mix)	Living Room (EP)
+Tue Jan  6 11:43:40 2015	119	Blackbird Blackbird	Keep It Up	Boracay Planet EP
+Tue Jan  6 11:47:41 2015	119	Shins	Red Rabbits	Wincing The Night Away
+Tue Jan  6 11:52:11 2015	119	Four Tet	Fuji Check	Everything Ecstatic
+Tue Jan  6 11:52:22 2015	119	Dntel	Pillowcase	Life Is Full Of Possibilities
+Tue Jan  6 11:55:51 2015	119	Douglas Dare	Swim	Whelm
+Tue Jan  6 12:00:21 2015	113	People Press Play	That Walk	People Press Play
+Tue Jan  6 12:03:21 2015	113	Marconi Union	Inter	Distance
+Tue Jan  6 12:08:34 2015	114	International Peoples Gang	Stop	Action Painting
+Tue Jan  6 12:14:54 2015	109	Future 3	Stuff	Blue Skied An' Clear
+Tue Jan  6 12:18:15 2015	109	Synkro	Don't Want	Acceptance EP
+Tue Jan  6 12:21:41 2015	108	Toro Y Moi	Day One	Anything In Return
+Tue Jan  6 12:25:58 2015	109	Costa Music	Sounds Like A Sigh	Lighter Subjects
+Tue Jan  6 12:30:39 2015	110	Bibio	Haikuesque (The Gentleman Lose	n/a
+Tue Jan  6 12:34:10 2015	108	Borko	Spoonstabberinn	Celebrating Life
+Tue Jan  6 12:37:59 2015	110	Beacon	Split In Two	The Ways We Separate
+Tue Jan  6 12:42:51 2015	108	Peter Broderick & Machinefabri	Rain	n/a
+Tue Jan  6 12:48:22 2015	111	Sohn	Ransom Notes	Tremors
+Tue Jan  6 12:52:13 2015	101	Tythe	Summerbelly	& Also With You
+Tue Jan  6 12:55:16 2015	100	Tycho	Coastal Brake (Manual Remix)	Coastal Brake
+Tue Jan  6 13:01:09 2015	99	Dirk Geiger	Einsam (Feat. Erode)	Elf Morgen
+Tue Jan  6 13:08:09 2015	99	Lali Puna	Remember	Our Inventions
+Tue Jan  6 13:11:36 2015	96	Letting Up Despite Great Faults	Photograph Shakes	Letting Up Despite Great Faults
+Tue Jan  6 13:14:36 2015	97	Contriva	Centipede	Separate Chambers
+Tue Jan  6 13:22:41 2015	95	Electric President	Adrift In Space, Or Whatever	Sleep Well
+Tue Jan  6 13:23:47 2015	91	Aerosol	Let The Seasons Drift	Airborne
+Tue Jan  6 13:30:09 2015	94	Melorman	From Now On	Waves
+Tue Jan  6 13:35:35 2015	98	Cutler	Maltese Cross	Everything Is Touching Everything Else
+Tue Jan  6 13:38:08 2015	101	Kyson	Ran Away	The Water's Way
+Tue Jan  6 13:40:46 2015	102	Dntel	(This Is) The Dream Of Evan And Chan Your Hill	(This Is) The Dream Of Evan And Chan
+Tue Jan  6 13:46:05 2015	95	Asonat	Part Of Your Plan	Love In Times of Repetition
+Tue Jan  6 13:51:32 2015	100	Sigur Ros	Brennisteinn	Kveikur
+Tue Jan  6 13:58:40 2015	101	Douglas Dare	Nile (Throwing Snow Remix)	Caroline
+Tue Jan  6 14:03:22 2015	100	Arovane	Passage To Nagoya	Lilies
+Tue Jan  6 14:05:17 2015	99	Lapalux	Without You Feat. Kerry Latham	Nostalchic
+Tue Jan  6 14:10:08 2015	101	Glasser	Home	Ring
+Tue Jan  6 14:14:22 2015	106	Year Of	Calling Sky	Slow Days
+Tue Jan  6 14:28:21 2015	103	Tycho	See	See Remix
+Tue Jan  6 14:33:26 2015	103	Sin Fang	It's Not There	Half Dreams
+Tue Jan  6 14:38:00 2015	103	Heterotic	Rain (Ft. Vezelay)	Weird Drift
+Tue Jan  6 14:41:51 2015	104	This Will Destroy You	Grandfather Clock	Young Mountain
+Tue Jan  6 14:44:27 2015	104	Mmoths	For Her (Feat. Young & Sick)	Diaries
+Tue Jan  6 14:47:40 2015	100	Beacon	Studio Audience (Radio Edit)	The Ways We Separate
+Tue Jan  6 14:51:06 2015	96	Figurine	Connections	Monika Force
+Tue Jan  6 14:55:20 2015	98	Four Tet	First Thing	Rounds
+Tue Jan  6 14:56:23 2015	99	Album Leaf	The Light	Lifetime or More
+Tue Jan  6 15:00:04 2015	95	Lali Puna	The Daily Match	I Thought I Was Over That
+Tue Jan  6 15:03:45 2015	97	Standish, Carlyon	Moves, Moves	Deleted Scenes
+Tue Jan  6 15:09:16 2015	93	Ulrich Schnauss & Mark Peters	Yesterday Didn't Exist	Underrated Silence
+Tue Jan  6 15:14:05 2015	92	Mum	Asleep On A Train	Yesterday Was Dramatic, Today Is OK
+Tue Jan  6 15:21:19 2015	93	Notwist, The	Solitaire	Neon Golden
+Tue Jan  6 15:24:47 2015	92	Bibio	Dwrcan	Ambivalence Avenue
+Tue Jan  6 15:29:50 2015	96	Ms. John Soda	Number One	n/a
+Tue Jan  6 15:34:40 2015	94	Sea And Cake	Afternoon Speaker	Oui
+Tue Jan  6 15:38:51 2015	96	William Fitzsimmons	Took	Lions
+Tue Jan  6 15:42:59 2015	96	Masha Qrella	Unsolved Remained	Unsolved Remained
+Tue Jan  6 15:48:22 2015	92	Bloom	Mary	Beautiful Worlds
+Tue Jan  6 15:54:27 2015	86	Death Cab For Cutie	Home Is A Fire (Ulrich Schnauss Remix)	Keys And Codes Remix EP
+Tue Jan  6 15:58:33 2015	83	Populous With Short Stories	Heaven Knows	Drawn In Basic
+Tue Jan  6 16:02:52 2015	82	Asonat	Where The Heart Lives	Love In Times of Repetition
+Tue Jan  6 16:06:51 2015	84	Xela	You Are In The Stars	Tangled Wool
+Tue Jan  6 16:11:38 2015	83	Chvrches	Tether	The Bones Of What You Believe
+Tue Jan  6 16:16:07 2015	85	Populous	Cluster	Blue Skied An' Clear
+Tue Jan  6 16:20:26 2015	90	Am & Shawn Lee	Down The Line	Celestial Electric
+Tue Jan  6 16:23:39 2015	89	Benni Hemm Hemm	Allt Sem Thad Fer	Murta St. Calunga
+Tue Jan  6 16:29:17 2015	85	Christian Kleine	Kritzel	Beyond Repair
+Tue Jan  6 16:33:32 2015	86	Dollboy	Helicopter-Microbes	n/a
+Tue Jan  6 16:39:23 2015	82	Static	Three Nicotine Cigarettes	Flavour Has No Name
+Tue Jan  6 16:44:26 2015	84	Blue Hawaii	Flammarion	Untogether
+Tue Jan  6 16:47:56 2015	82	Four Tet	Plastic People	There Is Love In You
+Tue Jan  6 16:53:57 2015	81	Coppe	Shabondama	8
+Tue Jan  6 16:56:53 2015	78	Tree Bosier	Hometown	Bubikopf Girl - EP
+Tue Jan  6 17:00:35 2015	78	Douglas Dare	Swim (Rival Consoles Remix)	Caroline
+Tue Jan  6 17:04:19 2015	80	Lali Puna	Alienation	Faking The Books
+Tue Jan  6 17:08:07 2015	82	Dimitri Paile	Aed	n/a
+Tue Jan  6 17:10:19 2015	82	Other People's Children	Suicide Common	A Number Of Small Things - A Collection Of Morr Music Singles From 2001 - 2007
+Tue Jan  6 17:15:31 2015	82	Processory	Take Me To Your Leader	Change is Gradual
+Tue Jan  6 17:21:17 2015	80	Toro Y Moi	High Living	Anything In Return
+Tue Jan  6 17:25:29 2015	79	Dead Leaf Echo	Heavensent	Thought & Language
+Tue Jan  6 17:29:50 2015	78	People Press Play	These Days	People Press Play
+Tue Jan  6 17:33:35 2015	76	Orcas	I Saw My Echo	Orcas
+Tue Jan  6 17:38:04 2015	78	Electric President	Grand Machine No. 12	Morr Classics Pt.1
+Tue Jan  6 17:42:15 2015	81	Tycho	See (Beacon Remix)	See Remix
+Tue Jan  6 17:45:47 2015	81	Album Leaf	Another Day	Lifetime or More
+Tue Jan  6 17:49:45 2015	81	Guitar	I Swim Alone	Honeysky
+Tue Jan  6 17:57:25 2015	77	One Am Radio	The Harvest	This Too Will Pass
+Tue Jan  6 17:59:47 2015	77	Sigur Ros	Kveikur	Kveikur
+Tue Jan  6 18:05:29 2015	72	Boy In Static	Candy Cigarette	Candy Cigarette
+Tue Jan  6 18:10:17 2015	69	People Press Play	Stop	People Press Play
+Tue Jan  6 18:15:18 2015	73	Receiver	Intervals	Length of Arms
+Tue Jan  6 18:19:18 2015	73	Washed Out	All Over Now	Paracosm
+Tue Jan  6 18:22:55 2015	70	Barbara Morgenstern & Robert Lippok	Sommer	Tesri
+Tue Jan  6 18:26:32 2015	69	Orcas	Half Light	Yearling
+Tue Jan  6 18:31:17 2015	73	L'Altra	Morning Disaster	Different Days
+Tue Jan  6 18:36:32 2015	70	Go Find	Everything Is Low	Stars on the Wall
+Tue Jan  6 18:42:07 2015	69	Hundred Waters	Thistle	Hundred Waters
+Tue Jan  6 18:46:25 2015	72	Rumpistol	G.T.	Mere Rum
+Tue Jan  6 18:50:58 2015	70	Teen Daze	Discipleship	The Inner Mansions
+Tue Jan  6 18:57:49 2015	72	When The Clouds.	Flooding River	The Longed-For Season
+Tue Jan  6 19:01:10 2015	69	Ulrich Schnauss & Jonas Munk	Johnny (Sentimental Fool)	Epic
+Tue Jan  6 19:06:09 2015	70	All India Radio	Under Moon	A Low High
+Tue Jan  6 19:08:57 2015	70	Album Leaf	Blank Pages	A Chorus of Storytellers
+Tue Jan  6 19:13:08 2015	71	Candlegravity	With Many Tears	Junpei
+Tue Jan  6 19:18:02 2015	71	Lali Puna	Hostile To Me	Silver Light
+Tue Jan  6 19:20:21 2015	68	Marconi Union	Under Wires And Searchlights	Under Wires And Searchlights
+Tue Jan  6 19:29:41 2015	72	Butcher The Bar	Bike	Sleep At Your Own Speed
+Tue Jan  6 19:32:22 2015	70	Glass Animals	Black Mambo (Zodiac Remix)	Black Mambo / Exxus
+Tue Jan  6 19:35:48 2015	70	Welder	Purple & Orange	Vines & Streams
+Tue Jan  6 19:43:07 2015	68	Koushik	Ifoundu	Out My Window
+Tue Jan  6 19:46:09 2015	69	Freelance Whales	Broken Horse	Weathervanes [Vinyl]
+Tue Jan  6 19:50:34 2015	65	Age Of Rockets	Fearsome Though We Are	Hannah
+Tue Jan  6 19:53:27 2015	65	Letters Letters	We'll Make Our Home	Letters Letters
+Tue Jan  6 19:56:05 2015	64	Milosh	This Way	Meme
+Tue Jan  6 19:59:37 2015	62	Postal Service	Recycled Air	Give Up
+Tue Jan  6 20:04:01 2015	62	Miike Snow	Faker	Miike Snow
+Tue 

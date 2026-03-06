@@ -1,0 +1,582 @@
+Wed Apr  1 00:02:31 2015	0	Joni Mitchell	The Hissing Of Summer Lawns	The Hissing of the Summer Lawns
+Wed Apr  1 00:05:25 2015	0	Dire Straits	Communique	Communique
+Wed Apr  1 00:10:46 2015	0	Far Cry	The One And Lonely	The More Things Change...
+Wed Apr  1 00:14:28 2015	0	America	Ventura Highway	The Complete Greatest Hits
+Wed Apr  1 00:17:36 2015	0	Bread	The Guitar Man	Anthology
+Wed Apr  1 00:21:14 2015	0	Andrew Gold	Genevieve	All This And Heaven Too
+Wed Apr  1 00:25:56 2015	0	Boz Scaggs	Hard Times	Down Two Then Left
+Wed Apr  1 00:30:18 2015	0	Elton John	Holiday Inn	Madman Across The Water
+Wed Apr  1 00:34:29 2015	0	Climax Blues Band	Sky High	Stamp Album
+Wed Apr  1 00:39:12 2015	0	Vapour Trails	True Love	Vapour Trails
+Wed Apr  1 00:42:42 2015	0	Iain Matthews	Stealin' Home	Stealin' Home
+Wed Apr  1 00:45:58 2015	0	Crosby, Stills & Nash	Just A Song Before I Go	CSN
+Wed Apr  1 00:47:58 2015	0	Harry Nilsson	Coconut (Remastered)	Nilsson Schmilsson
+Wed Apr  1 00:51:47 2015	0	Walter Egan	Waitin'	Fundamental Roll / Not Shy
+Wed Apr  1 00:55:16 2015	0	Mark-Almond	The City	Golden Age Of Underground Radio Vol
+Wed Apr  1 01:05:28 2015	0	Karla Bonoff	Someone To Lay Down Beside Me	Karla Bonoff
+Wed Apr  1 01:09:29 2015	0	John Stewart	Gold	Bombs Away Dream Babies
+Wed Apr  1 01:13:38 2015	0	James Taylor	Music	Gorilla
+Wed Apr  1 01:17:13 2015	0	The Eagles	After The Thrill Is Gone	One Of These Nights
+Wed Apr  1 01:20:56 2015	0	Poco	Win Or Lose	Indian Summer
+Wed Apr  1 01:25:30 2015	0	Carole King	Been To Canaan	Rhymes & Reasons
+Wed Apr  1 01:29:13 2015	0	Toto	Georgy Porgy	Toto
+Wed Apr  1 01:33:11 2015	0	Crawler	Stone Cold Sober	Heard It On The Radio - Vol 2
+Wed Apr  1 01:38:30 2015	0	Chris Rea	Because Of You	Whatever Happened To Benny Santini?
+Wed Apr  1 01:42:10 2015	0	Sneaker	In Time	Sneaker
+Wed Apr  1 01:46:41 2015	0	Cat Stevens	Oh Very Young	Buddha & The Chocolate Box
+Wed Apr  1 01:49:07 2015	0	Ozark Mountain Daredevils	Jackie Blue	Time Warp: The Very Best Of
+Wed Apr  1 01:53:12 2015	0	Chicago	Call On Me	Greatest Hits Vol 1
+Wed Apr  1 01:57:04 2015	0	Electric Light Orchestra	Strange Magic	Greatest Hits
+Wed Apr  1 02:01:02 2015	0	Daryl Hall And John Oates	Wait For Me (Remastered)	The Very Best of Daryl Hall / John Oates
+Wed Apr  1 02:04:59 2015	0	Rick Nelson	Nightime Lady	Garden Party
+Wed Apr  1 02:08:00 2015	0	Jim Croce	Time In A Bottle	Greatest Hits Collection 70s
+Wed Apr  1 02:10:23 2015	0	Carly Simon	In A Small Moment	Boys In The Trees
+Wed Apr  1 02:13:20 2015	0	Robbie Robertson	Sonny Got Caught In The Moonlight	Robbie Robertson
+Wed Apr  1 02:17:06 2015	0	Heart	Dog & Butterfly	Dog & Butterfly
+Wed Apr  1 02:21:52 2015	0	Linda Ronstadt	Tracks Of My Tears	Prisoner In Disguise
+Wed Apr  1 02:24:57 2015	0	Firefall	Mexico	Firefall
+Wed Apr  1 02:28:55 2015	0	Ned Doheny	When Love Hangs In The Balance	Hard Candy
+Wed Apr  1 02:34:02 2015	0	Steely Dan	Doctor Wu	Citizen Steely Dan 1972 - 1980
+Wed Apr  1 02:37:42 2015	0	The Doobie Brothers	For Someone Special	Takin' It To The Streets
+Wed Apr  1 02:42:25 2015	0	Ambrosia	I Wanna Know	Somewhere I've Never Travelled
+Wed Apr  1 02:48:24 2015	0	Dave Mason	Seasons	Let It Flow
+Wed Apr  1 02:52:56 2015	0	Fleetwood Mac	Warm Ways	Fleetwood Mac
+Wed Apr  1 02:56:47 2015	0	Al Stewart	The Palace Of Versailles	Time Passages
+Wed Apr  1 03:01:40 2015	0	Camel	One Of These Days I'll Get An Early Night	Rain Dances
+Wed Apr  1 03:07:41 2015	0	Robert Palmer	Back In My Arms	Pressure Drop
+Wed Apr  1 03:10:46 2015	0	Terence Boylan	Tell Me	Suzy
+Wed Apr  1 03:14:37 2015	0	Michael Franks	Jardin Botanico	Tiger In The Rain
+Wed Apr  1 03:17:48 2015	0	Supertramp	Hide In Your Shell	Crime Of The Century
+Wed Apr  1 03:24:40 2015	0	Little River Band	Take Me Home	n/a
+Wed Apr  1 03:29:36 2015	0	Todd Rundgren	Cold Morning Light	Something/Anything
+Wed Apr  1 03:33:05 2015	0	Pages	Fearless	Pages
+Wed Apr  1 03:36:58 2015	0	Traffic	Hidden Treasure	The Low Spark Of High Heeled Boys
+Wed Apr  1 03:41:00 2015	0	Dire Straits	News	Communique
+Wed Apr  1 03:45:16 2015	0	Far Cry	It's Not As Simple As That	The More Things Change...
+Wed Apr  1 03:48:36 2015	0	America	Cornwall Blank	Homecoming
+Wed Apr  1 03:52:33 2015	0	Joni Mitchell	California	Blue
+Wed Apr  1 03:56:14 2015	0	Steve Miller Band	The Window (2006 Digital Remaster)	Fly Like An Eagle - 30th Anniversary
+Wed Apr  1 04:00:16 2015	0	The Doobie Brothers	Toulouse Street	Toulouse Street
+Wed Apr  1 04:03:31 2015	0	Ambrosia	Biggest Part Of Me	Anthology
+Wed Apr  1 04:08:42 2015	0	Ned Doheny	Get It Up For Love	Hard Candy
+Wed Apr  1 04:13:00 2015	0	Fleetwood Mac	Crystal	Fleetwood Mac
+Wed Apr  1 04:17:41 2015	0	Terence Boylan	Sundown Of Fools	Terence Boylan
+Wed Apr  1 04:20:25 2015	0	Steely Dan	Home At Last	Aja
+Wed Apr  1 04:25:42 2015	0	Dave Mason	Takin' The Time To Find	Let It Flow
+Wed Apr  1 04:29:58 2015	0	America	Tin Man	The Complete Greatest Hits
+Wed Apr  1 04:33:33 2015	0	Andrew Gold	You're Free	All This And Heaven Too
+Wed Apr  1 04:37:28 2015	0	Al Stewart	Lord Grenville	Year Of The Cat
+Wed Apr  1 04:42:00 2015	0	Firefall	Sweet And Sour	Elan
+Wed Apr  1 04:45:32 2015	0	Little River Band	Days On The Road [Version 2]	n/a
+Wed Apr  1 04:50:19 2015	0	Supertramp	Just Another Nervous Wreck	Breakfast In America
+Wed Apr  1 04:54:16 2015	0	Styx	Man In The Wilderness	The Grand Illusion
+Wed Apr  1 04:59:47 2015	0	Walter Egan	Hot Summer Nights	Fundamental Roll / Not Shy
+Wed Apr  1 05:03:41 2015	0	Joni Mitchell	In France They Kiss On Main Street	The Hissing of the Summer Lawns
+Wed Apr  1 05:06:53 2015	0	Far Cry	Ocean Eyes	The More Things Change...
+Wed Apr  1 05:09:53 2015	0	Poco	Heart Of The Night	Legend
+Wed Apr  1 05:14:49 2015	0	Pages	Come On Home	Pages
+Wed Apr  1 05:18:01 2015	0	Toto	Mama	n/a
+Wed Apr  1 05:23:18 2015	0	Iain Matthews	Gimme An Inch Girl	Stealin' Home
+Wed Apr  1 05:27:13 2015	0	Michael Franks	In The Eye Of The Storm	Sleeping Gypsy
+Wed Apr  1 05:32:56 2015	0	Crosby, Stills & Nash	Fair Game	CSN
+Wed Apr  1 05:36:30 2015	0	Dire Straits	Water Of Love	Dire Straits
+Wed Apr  1 05:41:35 2015	0	Todd Rundgren	Hello It's Me	Something/Anything?
+Wed Apr  1 05:45:44 2015	0	John Stewart	Midnight Wind	Bombs Away Dream Babies
+Wed Apr  1 05:50:18 2015	0	Bread	Baby I'm-A Want You	Anthology
+Wed Apr  1 05:52:16 2015	0	Vapour Trails	Strange Conversations	Vapour Trails
+Wed Apr  1 05:55:40 2015	0	Sneaker	Don't Let Me In	Sneaker
+Wed Apr  1 05:59:47 2015	0	Wings	Wino Junko	Wings At The Speed Of Sound
+Wed Apr  1 06:05:00 2015	0	Linda Ronstadt	If He's Ever Near	Hasten Down The Wind
+Wed Apr  1 06:08:16 2015	0	Laura Nyro	Stormy Love	Smile (Bonus Track Version)
+Wed Apr  1 06:12:22 2015	0	Paul McCartney	Bluebird	Band On The Run
+Wed Apr  1 06:15:35 2015	0	J.D. Souther	Midnight Prowl	Black Rose
+Wed Apr  1 06:20:43 2015	0	Karla Bonoff	Isn't It Always Love (Album Version)	Karla Bonoff
+Wed Apr  1 06:23:35 2015	0	Chicago	Mama Mama	Chicago X
+Wed Apr  1 06:26:47 2015	0	Robert Palmer	Riverboat	Pressure Drop
+Wed Apr  1 06:30:38 2015	0	Elton John	I've Seen The Saucers	Caribou
+Wed Apr  1 06:34:57 2015	0	Carole King	It's Too Late	Tapestry
+Wed Apr  1 06:38:50 2015	0	Kenny Rankin	Silver Morning	Silver Morning
+Wed Apr  1 06:42:48 2015	0	Electric Light Orchestra	Telephone Line	Greatest Hits
+Wed Apr  1 06:47:14 2015	0	Harry Nilsson	Driving Along (Remastered)	Nilsson Schmilsson
+Wed Apr  1 06:48:54 2015	0	Ozark Mountain Daredevils	Giving It All To The Wind	Time Warp: The Very Best Of
+Wed Apr  1 06:52:52 2015	0	Joe Walsh	Wolf	The Smoker You Drink, The Player You Get
+Wed Apr  1 06:56:01 2015	0	James Taylor	Blossom	Sweet Baby James
+Wed Apr  1 06:58:16 2015	0	The Eagles	The Last Resort	Eagles : The Very Best Of (2CD)
+Wed Apr  1 07:05:22 2015	0	Climax Blues Band	Couldn't Get It Right	Billboard Top Hits (1977)
+Wed Apr  1 07:08:24 2015	0	Boz Scaggs	A Clue	Down Two Then Left
+Wed Apr  1 07:12:01 2015	0	Chris Rea	Standing In Your Doorway	Whatever Happened To Benny Santini?
+Wed Apr  1 07:15:45 2015	0	Cat Stevens	King Of Trees	Buddha & The Chocolate Box
+Wed Apr  1 07:20:39 2015	0	Wendy Waldman	Cold Back On Me	Gypsy Symphony
+Wed Apr  1 07:25:15 2015	0	Crawler	Without You Baby	Crawler
+Wed Apr  1 07:28:39 2015	0	Carly Simon	It Keeps You Runnin' (LP Version)	Another Passenger
+Wed Apr  1 07:32:33 2015	0	The Ozark Mountain Daredevils	Jackie Blue	Time Warp: The Very Best Of
+Wed Apr  1 07:35:45 2015	0	The Doobie Brothers	Losin' End	Takin' It To The Streets
+Wed Apr  1 07:39:35 2015	0	Ambrosia	Life Beyond L.A.	Anthology
+Wed Apr  1 07:44:00 2015	0	Ned Doheny	Take Me Faraway	Ned Doheny
+Wed Apr  1 07:48:50 2015	0	Fleetwood Mac	Emerald Eyes	Mystery To Me
+Wed Apr  1 07:52:17 2015	0	Terence Boylan	Going Home	Suzy
+Wed Apr  1 07:55:38 2015	0	Steely Dan	Peg	Aja
+Wed Apr  1 07:59:32 2015	0	Dave Mason	Maybe	It's Like You Never Left
+Wed Apr  1 08:02:51 2015	0	Steve Miller Band	The Window (2006 Digital Remaster)	Fly Like An Eagle - 30th Anniversary
+Wed Apr  1 08:07:15 2015	0	The Doobie Brothers	Toulouse Street	Toulouse Street
+Wed Apr  1 08:10:18 2015	0	Ambrosia	Biggest Part Of Me	Anthology
+Wed Apr  1 08:15:36 2015	0	Ned Doheny	Get It Up For Love	Hard Candy
+Wed Apr  1 08:19:53 2015	0	Fleetwood Mac	Crystal	Fleetwood Mac
+Wed Apr  1 08:24:35 2015	0	Terence Boylan	Sundown Of Fools	Terence Boylan
+Wed Apr  1 08:27:10 2015	0	Steely Dan	Home At Last	Aja
+Wed Apr  1 08:32:30 2015	0	Dave Mason	Takin' The Time To Find	Let It Flow
+Wed Apr  1 08:36:51 2015	0	America	Tin Man	The Complete Greatest Hits
+Wed Apr  1 08:40:25 2015	0	Andrew Gold	You're Free	All This And Heaven Too
+Wed Apr  1 08:44:18 2015	0	Al Stewart	Lord Grenville	Year Of The Cat
+Wed Apr  1 08:48:51 2015	0	Firefall	Sweet And Sour	Elan
+Wed Apr  1 08:52:10 2015	0	Little River Band	Days On The Road [Version 2]	n/a
+Wed Apr  1 08:56:56 2015	0	Supertramp	Just Another Nervous Wreck	Breakfast In America
+Wed Apr  1 09:01:15 2015	0	Styx	Man In The Wilderness	The Grand Illusion
+Wed Apr  1 09:06:38 2015	0	Walter Egan	Hot Summer Nights	Fundamental Roll / Not Shy
+Wed Apr  1 09:10:41 2015	0	Joni Mitchell	In France They Kiss On Main Street	The Hissing of the Summer Lawns
+Wed Apr  1 09:13:37 2015	0	Far Cry	Ocean Eyes	The More Things Change...
+Wed Apr  1 09:16:43 2015	0	Poco	Heart Of The Night	Legend
+Wed Apr  1 09:21:36 2015	0	Pages	Come On Home	Pages
+Wed Apr  1 09:24:52 2015	0	Toto	Mama	n/a
+Wed Apr  1 09:30:16 2015	0	Iain Matthews	Gimme An Inch Girl	Stealin' Home
+Wed Apr  1 09:34:19 2015	0	Michael Franks	In The Eye Of The Storm	Sleeping Gypsy
+Wed Apr  1 09:39:47 2015	0	Crosby, Stills & Nash	Fair Game	CSN
+Wed Apr  1 09:43:07 2015	0	Dire Straits	Water Of Love	Dire Straits
+Wed Apr  1 09:48:24 2015	0	Todd Rundgren	Hello It's Me	Something/Anything?
+Wed Apr  1 09:52:37 2015	0	John Stewart	Midnight Wind	Bombs Away Dream Babies
+Wed Apr  1 09:56:56 2015	0	Bread	Baby I'm-A Want You	Anthology
+Wed Apr  1 09:59:19 2015	0	Vapour Trails	Strange Conversations	Vapour Trails
+Wed Apr  1 10:02:41 2015	0	Al Stewart	Flying Sorcery	Year Of The Cat
+Wed Apr  1 10:06:46 2015	0	Steely Dan	FM	A Decade Of Steely Dan
+Wed Apr  1 10:11:19 2015	0	Ned Doheny	To Prove My Love	Prone
+Wed Apr  1 10:16:14 2015	0	Ambrosia	Heart To Heart	Life Beyond L.A.
+Wed Apr  1 10:18:45 2015	0	Fleetwood Mac	I Don't Want To Know	Rumours
+Wed Apr  1 10:21:51 2015	0	The Doobie Brothers	Another Park, Another Sunday	What Were Once Vices Are Now Habits
+Wed Apr  1 10:26:26 2015	0	Little River Band	It's A Long Way There (2010 Digital Remaster)	Little River Band (2010 Remaster)
+Wed Apr  1 10:34:38 2015	0	America	You Can Do Magic	The Complete Greatest Hits
+Wed Apr  1 10:38:18 2015	0	Robert Palmer	Give Me An Inch	Pressure Drop
+Wed Apr  1 10:41:36 2015	0	Supertramp	Breakfast In America	Breakfast In America
+Wed Apr  1 10:43:59 2015	0	Dire Straits	Single Handed Sailor	Communique
+Wed Apr  1 10:48:41 2015	0	Firefall	Headed For A Fall	n/a
+Wed Apr  1 10:52:42 2015	0	Joni Mitchell	Song For Sharon	Hejira
+Wed Apr  1 11:00:48 2015	0	Toto	You Are The Flower	Toto
+Wed Apr  1 11:04:47 2015	0	Terence Boylan	Shame	Terence Boylan
+Wed Apr  1 11:09:15 2015	0	Andrew Gold	Never Let Her Slip Away	All This And Heaven Too
+Wed Apr  1 11:12:21 2015	0	Wings	Love In Song	Venus And Mars (1993 Digital Remaster)
+Wed Apr  1 11:15:43 2015	0	J.D. Souther	Black Rose	Black Rose
+Wed Apr  1 11:19:18 2015	0	Karla Bonoff	If He's Ever Near (Album Version)	Karla Bonoff
+Wed Apr  1 11:22:16 2015	0	Iain Matthews	Let There Be Blues	Stealin' Home
+Wed Apr  1 11:26:15 2015	0	Boz Scaggs	Still Falling for You	Down Two Then Left
+Wed Apr  1 11:29:51 2015	0	James Taylor	Walking Man	Walking Man
+Wed Apr  1 11:33:10 2015	0	Michael Franks	Chain Reaction	Sleeping Gypsy
+Wed Apr  1 11:38:16 2015	0	Elton John	Indian Sunset	Madman Across The Water
+Wed Apr  1 11:44:41 2015	0	Walter Egan	Unloved	Fundamental Roll / Not Shy
+Wed Apr  1 11:47:58 2015	0	Crosby, Stills & Nash	Wooden Ships	Crosby, Stills & Nash
+Wed Apr  1 11:53:13 2015	0	Sneaker	Jaymes	Sneaker
+Wed Apr  1 11:56:49 2015	0	Pages	Only A Dreamer	Pages
+Wed Apr  1 12:01:13 2015	0	Poco	Me And You	Indian Summer
+Wed Apr  1 12:03:52 2015	0	Ozark Mountain Daredevils	Spaceship Orion	Time Warp: The Very Best Of
+Wed Apr  1 12:06:57 2015	0	Todd Rundgren	Marlene	Something/Anything
+Wed Apr  1 12:10:43 2015	0	Linda Ronstadt	Silver Blue	Prisoner In Disguise
+Wed Apr  1 12:13:34 2015	0	Chris Rea	Fool (If You Think It's Over)	Whatever Happened To Benny Santini?
+Wed Apr  1 12:17:55 2015	0	Dave Mason	Let It Go, Let It Flow	Let It Flow
+Wed Apr  1 12:21:22 2015	0	Bread	It Don't Matter To Me	Anthology
+Wed Apr  1 12:23:49 2015	0	John Stewart	(Odin) Spirit Of The Water	Bombs Away Dream Babies
+Wed Apr  1 12:28:22 2015	0	Far Cry	Because It's There	The More Things Change...
+Wed Apr  1 12:32:34 2015	0	David Essex	Rock On	Super Hits Of The '70s Vol. 12
+Wed Apr  1 12:35:44 2015	0	Electric Light Orchestra	Can't Get It Out of My Head	Greatest Hits
+Wed Apr  1 12:39:57 2015	0	The Eagles	One Of These Nights	Eagles : The Very Best Of (2CD)
+Wed Apr  1 12:44:25 2015	0	Gerry Rafferty	Baker Street	Decades - The Story Of The 60's/70's/80's - - 70's
+Wed Apr  1 12:48:38 2015	0	Steve Miller Band	Wild Mountain Honey (2003 Digital Remaster)	Fly Like An Eagle - 30th Anniversary
+Wed Apr  1 12:53:12 2015	0	Chicago	Just You 'N' Me	Chicago VI [Bonus Tracks]
+Wed Apr  1 12:56:43 2015	0	Climax Blues Band	Sky High	Stamp Album
+Wed Apr  1 13:01:36 2015	0	Ambrosia	Holdin' On To Yesterday	Ambrosia
+Wed Apr  1 13:05:45 2015	0	The Doobie Brothers	Flying Cloud	What Were Once Vices Are Now Habits
+Wed Apr  1 13:07:46 2015	0	Terence Boylan	Don't Hang Up Those Dancing Shoes	Terence Boylan
+Wed Apr  1 13:11:10 2015	0	Fleetwood Mac	Never Going Back Again	Rumours
+Wed Apr  1 13:13:15 2015	0	Ned Doheny	Trust Me	Ned Doheny
+Wed Apr  1 13:16:53 2015	0	Steely Dan	Pearl Of The Quater	Countdown To Ecstasy
+Wed Apr  1 13:20:39 2015	0	America	A Horse With No Name	Here & Now
+Wed Apr  1 13:24:41 2015	0	Andrew Gold	Always For You	All This And Heaven Too
+Wed Apr  1 13:29:08 2015	0	Robert Palmer	From A Whisper To A Scream	Sneakin' Sally Through The Alley
+Wed Apr  1 13:32:35 2015	0	Al Stewart	Running Man	The Best Of Al Stewart
+Wed Apr  1 13:36:45 2015	0	Supertramp	Goodbye Stranger	Breakfast In America
+Wed Apr  1 13:42:18 2015	0	Vapour Trails	Do The Bossa Nova	Vapour Trails
+Wed Apr  1 13:45:18 2015	0	Joni Mitchell	Furry Sings The Blues	Hejira
+Wed Apr  1 13:50:00 2015	0	Firefall	Love Isn't All	n/a
+Wed Apr  1 13:53:59 2015	0	Crosby, Stills & Nash	Guinnevere	Crosby, Stills & Nash
+Wed Apr  1 13:58:37 2015	0	Walter Egan	Won't You Say You Will	Fundamental Roll / Not Shy
+Wed Apr  1 14:02:30 2015	0	Little River Band	Home On Monday (2010 Digital Remaster)	Diamantina Cocktail (2010 Remaster)
+Wed Apr  1 14:06:11 2015	0	Far Cry	The One And Lonely	The More Things Change...
+Wed Apr  1 14:09:43 2015	0	Toto	Girl Goodbye	Toto
+Wed Apr  1 14:15:48 2015	0	Bread	Make It With You	Anthology
+Wed Apr  1 14:18:55 2015	0	Michael Franks	Tiger In The Rain	Tiger In The Rain
+Wed Apr  1 14:23:17 2015	0	Boz Scaggs	Hard Times	Down Two Then Left
+Wed Apr  1 14:27:34 2015	0	Sneaker	In Time	Sneaker
+Wed Apr  1 14:31:44 2015	0	Karla Bonoff	Someone To Lay Down Beside Me	Karla Bonoff
+Wed Apr  1 14:35:47 2015	0	Dire Straits	In The Gallery	Dire Straits
+Wed Apr  1 14:41:49 2015	0	Steve Miller Band	Sacrifice	Book Of Dreams
+Wed Apr  1 14:47:10 2015	0	Harry Nilsson	Coconut (Remastered)	Nilsson Schmilsson
+Wed Apr  1 14:50:49 2015	0	J.D. Souther	If You Have Crying Eyes	Black Rose
+Wed Apr  1 14:55:47 2015	0	Dave Mason	Seasons	Let It Flow
+Wed Apr  1 15:00:18 2015	0	Camel	Skylines	Rain Dances
+Wed Apr  1 15:04:32 2015	0	Poco	Crazy Love	Legend
+Wed Apr  1 15:07:13 2015	0	Pages	Who's Right, Who's Wrong	Future Street
+Wed Apr  1 15:11:28 2015	0	Bob Welch	Sentimental Lady	70s Music Explosion: Magic
+Wed Apr  1 15:14:02 2015	0	John Stewart	Gold	Bombs Away Dream Babies
+Wed Apr  1 15:18:17 2015	0	Chris Rea	Because Of You	Whatever Happened To Benny Santini?
+Wed Apr  1 15:21:55 2015	0	Iain Matthews	Slip Away	Stealin' Home
+Wed Apr  1 15:25:53 2015	0	Todd Rundgren	It Wouldn't Have Made Any Difference	Something/Anything
+Wed Apr  1 15:29:28 2015	0	Jim Croce	Time In A Bottle	Greatest Hits Collection 70s
+Wed Apr  1 15:31:50 2015	0	Mark-Almond	The City	Golden Age Of Underground Radio Vol
+Wed Apr  1 15:42:16 2015	0	Crawler	Every Little Bit Hurts	Roots - Chapter 1 A Pre-History Of Crawler
+Wed Apr  1 15:46:33 2015	0	Traffic	Hidden Treasure	The Low Spark Of High Heeled Boys
+Wed Apr  1 15:50:37 2015	0	Wings	Letting Go	Venus And Mars (1993 Digital Remaster)
+Wed Apr  1 15:54:51 2015	0	Chicago	Call On Me	Greatest Hits Vol 1
+Wed Apr  1 15:58:45 2015	0	Elton John	Holiday Inn	Madman Across The Water
+Wed Apr  1 16:02:42 2015	0	Robbie Robertson	Somewhere Down The Crazy River	Robbie Robertson
+Wed Apr  1 16:07:27 2015	0	Heart	Dog & Butterfly	Dog & Butterfly
+Wed Apr  1 16:12:23 2015	0	Linda Ronstadt	The Tattler	Hasten Down The Wind
+Wed Apr  1 16:15:57 2015	0	Carly Simon	Tranquillo (Melt My Heart)	Boys In The Trees
+Wed Apr  1 16:19:45 2015	0	James Taylor	How Sweet It Is [To Be Loved By You]	Gorilla
+Wed Apr  1 16:23:16 2015	0	Carole King	Believe In Humanity	Fantasy
+Wed Apr  1 16:26:33 2015	0	Daryl Hall And John Oates	Wait For Me (Remastered)	The Very Best of Daryl Hall / John Oates
+Wed Apr  1 16:30:18 2015	0	Electric Light Orchestra	Strange Magic	Greatest Hits
+Wed Apr  1 16:34:15 2015	0	Ozark Mountain Daredevils	Jackie Blue	Time Warp: The Very Best Of
+Wed Apr  1 16:38:15 2015	0	The Eagles	King Of Hollywood	The Long Run
+Wed Apr  1 16:44:30 2015	0	Rick Nelson	Nightime Lady	Garden Party
+Wed Apr  1 16:47:25 2015	0	Ambrosia	Nice, Nice, Very Nice	Anthology
+Wed Apr  1 16:53:13 2015	0	The Doobie Brothers	Rio	Takin' It To The Streets
+Wed Apr  1 16:56:55 2015	0	Terence Boylan	College Life	Suzy
+Wed Apr  1 17:01:11 2015	0	Fleetwood Mac	Hypnotized	Mystery To Me
+Wed Apr  1 17:05:46 2015	0	Climax Blues Band	Sky High	Stamp Album
+Wed Apr  1 17:10:45 2015	0	Ambrosia	Holdin' On To Yesterday	Ambrosia
+Wed Apr  1 17:14:50 2015	0	The Doobie Brothers	Flying Cloud	What Were Once Vices Are Now Habits
+Wed Apr  1 17:16:42 2015	0	Terence Boylan	Don't Hang Up Those Dancing Shoes	Terence Boylan
+Wed Apr  1 17:20:18 2015	0	Fleetwood Mac	Never Going Back Again	Rumours
+Wed Apr  1 17:22:24 2015	0	Ned Doheny	Trust Me	Ned Doheny
+Wed Apr  1 17:25:56 2015	0	Steely Dan	Pearl Of The Quater	Countdown To Ecstasy
+Wed Apr  1 17:29:42 2015	0	America	A Horse With No Name	Here & Now
+Wed Apr  1 17:33:38 2015	0	Andrew Gold	Always For You	All This And Heaven Too
+Wed Apr  1 17:38:00 2015	0	Robert Palmer	From A Whisper To A Scream	Sneakin' Sally Through The Alley
+Wed Apr  1 17:41:28 2015	0	Al Stewart	Running Man	The Best Of Al Stewart
+Wed Apr  1 17:45:41 2015	0	Supertramp	Goodbye Stranger	Breakfast In America
+Wed Apr  1 17:51:21 2015	0	Vapour Trails	Do The Bossa Nova	Vapour Trails
+Wed Apr  1 17:54:15 2015	0	Joni Mitchell	Furry Sings The Blues	Hejira
+Wed Apr  1 17:59:14 2015	0	Firefall	Love Isn't All	n/a
+Wed Apr  1 18:03:14 2015	0	Ambrosia	Not As You Were	Life Beyond L.A.
+Wed Apr  1 18:06:52 2015	0	Ned Doheny	Fineline	Ned Doheny
+Wed Apr  1 18:11:38 2015	0	Fleetwood Mac	Just Crazy Love	Mystery To Me
+Wed Apr  1 18:14:46 2015	0	Steely Dan	Gaucho	Gaucho
+Wed Apr  1 18:20:16 2015	0	Supertramp	Take The Long Way Home	Breakfast In America
+Wed Apr  1 18:24:43 2015	0	Little River Band	Raelene, Raelene (2010 Digital Remaster)	Diamantina Cocktail (2010 Remaster)
+Wed Apr  1 18:29:00 2015	0	Al Stewart	Song On The Radio	The Best Of Al Stewart
+Wed Apr  1 18:35:12 2015	0	The Doobie Brothers	Dependin' On You	Minute By Minute
+Wed Apr  1 18:38:46 2015	0	Terence Boylan	Hey Papa	Terence Boylan
+Wed Apr  1 18:42:31 2015	0	Iain Matthews	Stealin' Home	Stealin' Home
+Wed Apr  1 18:45:47 2015	0	America	Today's The Day	The Complete Greatest Hits
+Wed Apr  1 18:48:48 2015	0	Vapour Trails	Slow Dancing	Vapour Trails
+Wed Apr  1 18:51:59 2015	0	Joni Mitchell	Edith And The Kingpin	The Hissing of the Summer Lawns
+Wed Apr  1 18:55:36 2015	0	Todd Rundgren	I Saw The Light	Something/Anything
+Wed Apr  1 18:58:30 2015	0	Crosby, Stills & Nash	Long Time Gone	Crosby, Stills & Nash
+Wed Apr  1 19:02:41 2015	0	J.D. Souther	Baby Come Home	Black Rose
+Wed Apr  1 19:06:18 2015	0	Robert Palmer	Spanish Moon	Some People Can Do What They Like
+Wed Apr  1 19:11:57 2015	0	Karla Bonoff	Baby Don't Go (Album Version)	Restless Nights
+Wed Apr  1 19:15:16 2015	0	Far Cry	Suddenly Strings	The More Things Change...
+Wed Apr  1 19:19:20 2015	0	John Stewart	Nightman	Bombs Away Dream Babies
+Wed Apr  1 19:22:47 2015	0	Poco	Downfall	Indian Summer
+Wed Apr  1 19:27:15 2015	0	Linda Ronstadt	If He's Ever Near	Hasten Down The Wind
+Wed Apr  1 19:30:17 2015	0	Chris Rea	Standing In Your Doorway	Whatever Happened To Benny Santini?
+Wed Apr  1 19:33:57 2015	0	Andrew Gold	Sometime When A Man's On His Own	Andrew Gold
+Wed Apr  1 19:36:38 2015	0	Toto	Hold The Line	Toto
+Wed Apr  1 19:40:31 2015	0	Bread	The Guitar Man	Anthology
+Wed Apr  1 19:44:14 2015	0	Elton John	I've Seen The Saucers	Caribou
+Wed Apr  1 19:48:40 2015	0	Dave Mason	Side Tracked	It's Like You Never Left
+Wed Apr  1 19:52:01 2015	0	The Ozark Mountain Daredevils	Jackie Blue	Time Warp: The Very Best Of
+Wed Apr  1 19:55:25 2015	0	Paul McCartney	Bluebird	Band On The Run
+Wed Apr  1 19:58:39 2015	0	Walter Egan	Waitin'	Fundamental Roll / Not Shy
+Wed Apr  1 20:02:16 2015	0	Michael Franks	I Really Hope It's You	Sleeping Gypsy
+Wed Apr  1 20:07:14 2015	0	Crawler	Without You Baby	Crawler
+Wed Apr  1 20:10:33 2015	0	James Taylor	I Was A Fool To Care	Gorilla
+Wed Apr  1 20:13:33 2015	0	Pages	Fearless	Pages
+Wed Apr  1 20:17:31 2015	0	Chicago	Mama Mama	Chicago X
+Wed Apr  1 20:20:44 2015	0	Wings	Wino Junko	Wings At The Speed Of Sound
+Wed Apr  1 20:25:57 2015	0	Steve Miller Band	The Window (2006 Digital Remaster)	Fly Like An Eagle - 30th Anniversary
+Wed Apr  1 20:30:14 2015	0	Ozark Mountain Daredevils	Giving It All To The Wind	Time Warp: The Very Best Of
+Wed Apr  1 20:34:07 2015	0	Dire Straits	News	Communique
+Wed Apr  1 20:38:24 2015	0	Joe Walsh	Wolf	The Smoker You Drink, The Player You Get
+Wed Apr  1 20:41:30 2015	0	Harry Nilsson	Driving Along (Remastered)	Nilsson Schmilsson
+Wed Apr  1 20:43:22 2015	0	Sneaker	Don't Let Me In	Sneaker
+Wed Apr  1 20:47:26 2015	0	Climax Blues Band	Couldn't Get It Right	Billboard Top Hits (1977)
+Wed Apr  1 20:50:31 2015	0	Cat Stevens	Ghost Town	Buddha & The Chocolate Box
+Wed Apr  1 20:53:14 2015	0	Electric Light Orchestra	Telephone Line	Greatest Hits
+Wed Apr  1 20:57:30 2015	0	Laura Nyro	Stormy Love	Smile (Bonus Track Version)
+Wed Apr  1 21:01:48 2015	0	Carly Simon	You Belong To Me	Boys In The Trees
+Wed Apr  1 21:05:34 2015	0	Kenny Rankin	Silver Morning	Silver Morning
+Wed Apr  1 21:09:38 2015	0	Wendy Waldman	Cold Back On Me	Gypsy Symphony
+Wed Apr  1 21:14:10 2015	0	The Eagles	Hotel California	Hell Freezes Over
+Wed Apr  1 21:20:30 2015	0	Boz Scaggs	A Clue	Down Two Then Left
+Wed Apr  1 21:24:19 2015	0	Camel	One Of These Days I'll Get An Early Night	Rain Dances
+Wed Apr  1 21:29:55 2015	0	Carole King	You Light Up My Life (Album Version)	Fantasy
+Wed Apr  1 21:33:13 2015	0	Firefall	Dolphin's Lullaby	n/a
+Wed Apr  1 21:37:28 2015	0	Ambrosia	Time Waits For No One	Anthology
+Wed Apr  1 21:42:16 2015	0	Ned Doheny	The Devil In You	Prone
+Wed Apr  1 21:46:16 2015	0	Fleetwood Mac	You Make Loving Fun	Rumours
+Wed Apr  1 21:49:35 2015	0	Steely Dan	Babylon Sisters	Gaucho
+Wed Apr  1 21:55:21 2015	0	Styx	Man In The Wilderness	The Grand Illusion
+Wed Apr  1 22:00:49 2015	0	Supertramp	Bloody Well Right	Crime Of The Century
+Wed Apr  1 22:05:13 2015	0	Little River Band	Days On The Road (2010 Digital Remaster)	After Hours (2010 Remaster)
+Wed Apr  1 22:10:30 2015	0	Al Stewart	Time Passages	The Best Of Al Stewart
+Wed Apr  1 22:16:55 2015	0	The Doobie Brothers	The Captain And Me	The Captain And Me
+Wed Apr  1 22:21:27 2015	0	Terence Boylan	The War Was Over	Terence Boylan
+Wed Apr  1 22:25:42 2015	0	Iain Matthews	Gimme An Inch Girl	Stealin' Home
+Wed Apr  1 22:29:44 2015	0	Vapour Trails	Night People	Vapour Trails
+Wed Apr  1 22:33:15 2015	0	Joni Mitchell	Sweet Bird	The Hissing of the Summer Lawns
+Wed Apr  1 22:36:51 2015	0	America	Head And Heart	Homecoming
+Wed Apr  1 22:40:39 2015	0	Crosby, Stills & Nash	Fair Game	CSN
+Wed Apr  1 22:43:59 2015	0	J.D. Souther	Midnight Prowl	Black Rose
+Wed Apr  1 22:48:49 2015	0	Todd Rundgren	Hello It's Me	Something/Anything?
+Wed Apr  1 22:53:12 2015	0	Robert Palmer	Keep In Touch	Some People Can Do What They Like
+Wed Apr  1 22:55:58 2015	0	Far Cry	It's Not As Simple As That	The More Things Change...
+Wed Apr  1 22:59:27 2015	0	Rick Nelson	Garden Party	Garden Party
+Wed Apr  1 23:02:58 2015	0	The Doobie Brothers	Clear As The Driven Snow	The Captain And Me
+Wed Apr  1 23:08:13 2015	0	Firefall	Livin' Ain't Livin'	Firefall
+Wed Apr  1 23:11:47 2015	0	Fleetwood Mac	Rhiannon	Fleetwood Mac
+Wed Apr  1 23:15:40 2015	0	Supertramp	The Logical Song	Breakfast In America
+Wed Apr  1 23:19:37 2015	0	Ned Doheny	Postcards From Hollywood	Ned Doheny
+Wed Apr  1 23:24:44 2015	0	Ambrosia	Time Waits For No One	Anthology
+Wed Apr  1 23:29:34 2015	0	Terence Boylan	Did She Finally Get To You	Suzy
+Wed Apr  1 23:33:26 2015	0	Al Stewart	A Man For All Seasons	Time Passages
+Wed Apr  1 23:39:13 2015	0	Joni Mitchell	Coyote	Hejira
+Wed Apr  1 23:43:45 2015	0	Little River Band	Fall From Paradise (2010 Digital Remaster)	Sleeper Catcher (2010 Remaster)
+Wed Apr  1 23:47:33 2015	0	Steely Dan	Only A Fool Would Say That	Can't Buy A Thrill
+Wed Apr  1 23:50:15 2015	0	Michael Franks	The Lady Wants To Know	Sleeping Gypsy
+Wed Apr  1 23:54:46 2015	0	Dire Straits	Follow Me Home	Communique
+Wed Apr  1 23:59:47 2015	0	Toto	Takin' It Back	Toto
+Thu Apr  2 00:03:22 2015	0	America	Tin Man	The Complete Greatest Hits
+Thu Apr  2 00:06:48 2015	0	Vapour Trails	True Love	Vapour Trails
+Thu Apr  2 00:10:16 2015	0	Poco	Indian Summer (Album Version)	Indian Summer
+Thu Apr  2 00:14:54 2015	0	Pages	You Need A Hero	Pages
+Thu Apr  2 00:18:31 2015	0	Walter Egan	Unloved	Fundamental Roll / Not Shy
+Thu Apr  2 00:21:37 2015	0	Todd Rundgren	Marlene	Something/Anything
+Thu Apr  2 00:25:25 2015	0	Dave Mason	Let It Go, Let It Flow	Let It Flow
+Thu Apr  2 00:28:23 2015	0	Robert Palmer	One Last Look	Some People Can Do What They Like
+Thu Apr  2 00:32:42 2015	0	Crosby, Stills & Nash	Wooden Ships	Crosby, Stills & Nash
+Thu Apr  2 00:38:16 2015	0	Far Cry	Because It's There	The More Things Change...
+Thu Apr  2 00:41:59 2015	0	Karla Bonoff	If He's Ever Near (Album Version)	Karla Bonoff
+Thu Apr  2 00:45:13 2015	0	Sneaker	Jaymes	Sneaker
+Thu Apr  2 00:48:41 2015	0	John Stewart	(Odin) Spirit Of The Water	Bombs Away Dream Babies
+Thu Apr  2 00:53:12 2015	0	Chicago	Just You 'N' Me	Chicago VI [Bonus Tracks]
+Thu Apr  2 00:56:48 2015	0	Andrew Gold	Genevieve	All This And Heaven Too
+Thu Apr  2 01:01:37 2015	0	Carole King	It's Too Late	Tapestry
+Thu Apr  2 01:05:28 2015	0	Chris Rea	Fool (If You Think It's Over)	Whatever Happened To Benny Santini?
+Thu Apr  2 01:09:48 2015	0	James Taylor	Fire And Rain	Sweet Baby James
+Thu Apr  2 01:13:00 2015	0	Bread	Baby I'm-A Want You	Anthology
+Thu Apr  2 01:15:15 2015	0	Crawler	Stone Cold Sober	Heard It On The Radio - Vol 2
+Thu Apr  2 01:20:42 2015	0	Boz Scaggs	Still Falling for You	Down Two Then Left
+Thu Apr  2 01:24:23 2015	0	Elton John	Tiny Dancer	Madman Across The Water
+Thu Apr  2 01:30:31 2015	0	Electric Light Orchestra	Can't Get It Out of My Head	Greatest Hits
+Thu Apr  2 01:34:58 2015	0	Steve Miller Band	Wild Mountain Honey (2003 Digital Remaster)	Fly Like An Eagle - 30th Anniversary
+Thu Apr  2 01:39:46 2015	0	David Essex	Rock On	Super Hits Of The '70s Vol. 12
+Thu Apr  2 01:42:55 2015	0	Wings	Love In Song	Venus And Mars (1993 Digital Remaster)
+Thu Apr  2 01:46:04 2015	0	Iain Matthews	Let There Be Blues	Stealin' Home
+Thu Apr  2 01:49:56 2015	0	Ozark Mountain Daredevils	Spaceship Orion	Time Warp: The Very Best Of
+Thu Apr  2 01:52:53 2015	0	Linda Ronstadt	Hey Mister, That's Me Up On The Jukebox	Prisoner In Disguise
+Thu Apr  2 01:56:43 2015	0	J.D. Souther	Black Rose	Black Rose
+Thu Apr  2 02:00:39 2015	0	Cat Stevens	Sad Lisa	Tea For The Tillerman (Remastered)
+Thu Apr  2 02:04:08 2015	0	Gerry Rafferty	Baker Street	Decades - The Story Of The 60's/70's/80's - - 70's
+Thu Apr  2 02:08:01 2015	0	Carly Simon	In A Small Moment	Boys In The Trees
+Thu Apr  2 02:11:25 2015	0	The Eagles	In The City	Eagles : The Very Best Of (2CD)
+Thu Apr  2 02:14:50 2015	0	Robbie Robertson	Sonny Got Caught In The Moonlight	Robbie Robertson
+Thu Apr  2 02:18:07 2015	0	The Doobie Brothers	Open Your Eyes	Minute By Minute
+Thu Apr  2 02:21:42 2015	0	Firefall	So Long	n/a
+Thu Apr  2 02:26:28 2015	0	Fleetwood Mac	Angel	Tusk
+Thu Apr  2 02:31:32 2015	0	Supertramp	If Everyone Was Listening	Crime Of The Century
+Thu Apr  2 02:34:56 2015	0	Ned Doheny	Sing To Me	Hard Candy
+Thu Apr  2 02:38:36 2015	0	Ambrosia	And.Somewhere I've Never Travelled	Anthology
+Thu Apr  2 02:43:18 2015	0	Terence Boylan	Shame	Terence Boylan
+Thu Apr  2 02:47:48 2015	0	Al Stewart	Timeless Skies	Time Passages
+Thu Apr  2 02:51:10 2015	0	Joni Mitchell	Song For Sharon	Hejira
+Thu Apr  2 02:59:33 2015	0	Little River Band	Light Of Day (2010 Digital Remaster)	Sleeper Catcher (2010 Remaster)
+Thu Apr  2 03:07:26 2015	0	Steely Dan	Pretzel Logic	Citizen Steely Dan 1972 - 1980
+Thu Apr  2 03:11:33 2015	0	Bob Welch	Sentimental Lady	70s Music Explosion: Magic
+Thu Apr  2 03:14:17 2015	0	Harry Nilsson	Coconut (Remastered)	Nilsson Schmilsson
+Thu Apr  2 03:17:56 2015	0	Toto	99	n/a
+Thu Apr  2 03:23:02 2015	0	Dire Straits	Single Handed Sailor	Communique
+Thu Apr  2 03:27:28 2015	0	America	Saturn Nights	Homecoming
+Thu Apr  2 03:30:53 2015	0	Michael Franks	In The Eye Of The Storm	Sleeping Gypsy
+Thu Apr  2 03:36:33 2015	0	Vapour Trails	Strange Conversations	Vapour Trails
+Thu Apr  2 03:39:50 2015	0	Camel	Skylines	Rain Dances
+Thu Apr  2 03:44:16 2015	0	Poco	Win Or Lose	Indian Summer
+Thu Apr  2 03:48:39 2015	0	Dave Mason	Mystic Traveler	Let It Flow
+Thu Apr  2 03:53:16 2015	0	Todd Rundgren	Cold Morning Light	Something/Anything
+Thu Apr  2 03:56:53 2015	0	Robert Palmer	Riverboat	Pressure Drop
+Thu Apr  2 04:00:20 2015	0	Ned Doheny	Think Like A Lover	Prone
+Thu Apr  2 04:04:53 2015	0	Fleetwood Mac	I'm So Afraid	Fleetwood Mac
+Thu Apr  2 04:08:50 2015	0	Steely Dan	Fire In The Hole	Can't Buy A Thrill
+Thu Apr  2 04:12:20 2015	0	Ambrosia	Nice, Nice, Very Nice	Anthology
+Thu Apr  2 04:17:48 2015	0	Firefall	Strange Way	Elan
+Thu Apr  2 04:22:33 2015	0	The Doobie Brothers	Minute By Minute	Minute By Minute
+Thu Apr  2 04:25:37 2015	0	Al Stewart	Life In Dark Water	Time Passages
+Thu Apr  2 04:31:20 2015	0	Supertramp	Hide In Your Shell	Crime Of The Century
+Thu Apr  2 04:37:55 2015	0	Terence Boylan	Where Are You Hiding	Terence Boylan
+Thu Apr  2 04:41:49 2015	0	Joni Mitchell	Shades Of Scarlett Conquering	The Hissing of the Summer Lawns
+Thu Apr  2 04:46:41 2015	0	Todd Rundgren	It Wouldn't Have Made Any Difference	Something/Anything
+Thu Apr  2 04:50:19 2015	0	Little River Band	The Night Owls (2010 Digital Remaster)	Time Exposure (2010 Remaster)
+Thu Apr  2 04:55:32 2015	0	Traffic	Hidden Treasure	The Low Spark Of High Heeled Boys
+Thu Apr  2 04:59:32 2015	0	Elton John	Pinky	Caribou
+Thu Apr  2 05:03:21 2015	0	America	Daisy Jane	The Complete Greatest Hits
+Thu Apr  2 05:06:19 2015	0	Andrew Gold	Resting In Your Arms	Andrew Gold
+Thu Apr  2 05:09:24 2015	0	Crosby, Stills & Nash	Shadow Captain	CSN
+Thu Apr  2 05:13:50 2015	0	Sneaker	In Time	Sneaker
+Thu Apr  2 05:18:16 2015	0	Walter Egan	Only the Lucky	Fundamental Roll / Not Shy
+Thu Apr  2 05:21:17 2015	0	Linda Ronstadt	Tracks Of My Tears	Prisoner In Disguise
+Thu Apr  2 05:24:32 2015	0	Karla Bonoff	Someone To Lay Down Beside Me (Album Version)	Karla Bonoff
+Thu Apr  2 05:28:06 2015	0	Michael Franks	Tiger In The Rain	Tiger In The Rain
+Thu Apr  2 05:32:15 2015	0	Dire Straits	Communique	Communique
+Thu Apr  2 05:37:50 2015	0	Toto	Georgy Porgy	Toto
+Thu Apr  2 05:41:50 2015	0	Dave Mason	If You've Got Love	It's Like You Never Left
+Thu Apr  2 05:45:18 2015	0	John Stewart	Gold	Bombs Away Dream Babies
+Thu Apr  2 05:49:14 2015	0	Bread	Sweet Surrender	Anthology
+Thu Apr  2 05:51:45 2015	0	Pages	Only A Dreamer	Pages
+Thu Apr  2 05:56:19 2015	0	Crawler	Every Little Bit Hurts	Roots - Chapter 1 A Pre-History Of Crawler
+Thu Apr  2 06:00:39 2015	0	Chicago	Call On Me	Greatest Hits Vol 1
+Thu Apr  2 06:04:40 2015	0	Jim Croce	Time In A Bottle	Greatest Hits Collection 70s
+Thu Apr  2 06:06:52 2015	0	Vapour Trails	Falling	Vapour Trails
+Thu Apr  2 06:09:37 2015	0	Far Cry	Ocean Eyes	The More Things Change...
+Thu Apr  2 06:12:36 2015	0	Climax Blues Band	Sky High	Stamp Album
+Thu Apr  2 06:17:31 2015	0	Iain Matthews	Slip Away	Stealin' Home
+Thu Apr  2 06:21:17 2015	0	Heart	Dog & Butterfly	Dog & Butterfly
+Thu Apr  2 06:26:17 2015	0	Boz Scaggs	Hard Times	Down Two Then Left
+Thu Apr  2 06:30:36 2015	0	J.D. Souther	If You Have Crying Eyes	Black Rose
+Thu Apr  2 06:35:35 2015	0	Chris Rea	Because Of You	Whatever Happened To Benny Santini?
+Thu Apr  2 06:39:11 2015	0	Poco	Me And You	Indian Summer
+Thu Apr  2 06:41:52 2015	0	Electric Light Orchestra	Strange Magic	Greatest Hits
+Thu Apr  2 06:45:54 2015	0	Wings	Letting Go	Venus And Mars (1993 Digital Remaster)
+Thu Apr  2 06:50:19 2015	0	Mark-Almond	The City	Golden Age Of Underground Radio Vol
+Thu Apr  2 07:00:22 2015	0	Carole King	So Far Away	Tapestry
+Thu Apr  2 07:03:57 2015	0	Robbie Robertson	Somewhere Down The Crazy River	Robbie Robertson
+Thu Apr  2 07:08:42 2015	0	Steve Miller Band	Sacrifice	Book Of Dreams
+Thu Apr  2 07:13:48 2015	0	The Eagles	Take It To The Limit	One Of These Nights
+Thu Apr  2 07:18:15 2015	0	Cat Stevens	Life	Izitso
+Thu Apr  2 07:22:59 2015	0	Ozark Mountain Daredevils	Jackie Blue	Time Warp: The Very Best Of
+Thu Apr  2 07:26:55 2015	0	Daryl Hall And John Oates	Wait For Me (Remastered)	The Very Best of Daryl Hall / John Oates
+Thu Apr  2 07:30:54 2015	0	James Taylor	Blossom	Sweet Baby James
+Thu Apr  2 07:32:58 2015	0	Carly Simon	Tranquillo (Melt My Heart)	Boys In The Trees
+Thu Apr  2 07:36:52 2015	0	Rick Nelson	Nightime Lady	Garden Party
+Thu Apr  2 07:39:56 2015	0	Robert Palmer	Get Outside	Sneakin' Sally Through The Alley
+Thu Apr  2 07:44:18 2015	0	Ned Doheny	I Can Dream	Ned Doheny
+Thu Apr  2 07:47:47 2015	0	Fleetwood Mac	Crystal	Fleetwood Mac
+Thu Apr  2 07:52:37 2015	0	Ambrosia	You're The Only Woman	Anthology
+Thu Apr  2 07:56:32 2015	0	Firefall	Goodbye, I Love You	n/a
+Thu Apr  2 08:00:53 2015	0	Robert Palmer	Riverboat	Pressure Drop
+Thu Apr  2 08:04:27 2015	0	Ned Doheny	Think Like A Lover	Prone
+Thu Apr  2 08:08:52 2015	0	Fleetwood Mac	I'm So Afraid	Fleetwood Mac
+Thu Apr  2 08:13:14 2015	0	Steely Dan	Fire In The Hole	Can't Buy A Thrill
+Thu Apr  2 08:15:59 2015	0	Ambrosia	Nice, Nice, Very Nice	Anthology
+Thu Apr  2 08:21:46 2015	0	Firefall	Strange Way	Elan
+Thu Apr  2 08:26:21 2015	0	The Doobie Brothers	Minute By Minute	Minute By Minute
+Thu Apr  2 08:29:33 2015	0	Al Stewart	Life In Dark Water	Time Passages
+Thu Apr  2 08:35:31 2015	0	Supertramp	Hide In Your Shell	Crime Of The Century
+Thu Apr  2 08:42:15 2015	0	Terence Boylan	Where Are You Hiding	Terence Boylan
+Thu Apr  2 08:45:48 2015	0	Joni Mitchell	Shades Of Scarlett Conquering	The Hissing of the Summer Lawns
+Thu Apr  2 08:50:41 2015	0	Todd Rundgren	It Wouldn't Have Made Any Difference	Something/Anything
+Thu Apr  2 08:54:20 2015	0	Little River Band	The Night Owls (2010 Digital Remaster)	Time Exposure (2010 Remaster)
+Thu Apr  2 08:59:25 2015	0	Traffic	Hidden Treasure	The Low Spark Of High Heeled Boys
+Thu Apr  2 09:03:41 2015	0	Elton John	Pinky	Caribou
+Thu Apr  2 09:07:14 2015	0	America	Daisy Jane	The Complete Greatest Hits
+Thu Apr  2 09:10:27 2015	0	Andrew Gold	Resting In Your Arms	Andrew Gold
+Thu Apr  2 09:13:33 2015	0	Crosby, Stills & Nash	Shadow Captain	CSN
+Thu Apr  2 09:18:12 2015	0	Sneaker	In Time	Sneaker
+Thu Apr  2 09:22:35 2015	0	Walter Egan	Only the Lucky	Fundamental Roll / Not Shy
+Thu Apr  2 09:25:19 2015	0	Linda Ronstadt	Tracks Of My Tears	Prisoner In Disguise
+Thu Apr  2 09:28:18 2015	0	Karla Bonoff	Someone To Lay Down Beside Me (Album Version)	Karla Bonoff
+Thu Apr  2 09:32:07 2015	0	Michael Franks	Tiger In The Rain	Tiger In The Rain
+Thu Apr  2 09:36:27 2015	0	Dire Straits	Communique	Communique
+Thu Apr  2 09:41:42 2015	0	Toto	Georgy Porgy	Toto
+Thu Apr  2 09:45:55 2015	0	Dave Mason	If You've Got Love	It's Like You Never Left
+Thu Apr  2 09:49:03 2015	0	John Stewart	Gold	Bombs Away Dream Babies
+Thu Apr  2 09:53:33 2015	0	Bread	Sweet Surrender	Anthology
+Thu Apr  2 09:55:45 2015	0	Pages	Only A Dreamer	Pages
+Thu Apr  2 10:00:00 2015	0	Crawler	Every Little Bit Hurts	Roots - Chapter 1 A Pre-History Of Crawler
+Thu Apr  2 10:04:52 2015	0	Firefall	It Doesn't Matter	Firefall
+Thu Apr  2 10:07:55 2015	0	Ambrosia	Dancin' By Myself	Life Beyond L.A.
+Thu Apr  2 10:12:25 2015	0	Fleetwood Mac	Sisters Of The Moon	Tusk
+Thu Apr  2 10:17:20 2015	0	Supertramp	Oh Darling	Breakfast In America
+Thu Apr  2 10:20:46 2015	0	Ned Doheny	A Love Of Your Own	Hard Candy
+Thu Apr  2 10:24:10 2015	0	Al Stewart	On The Border	Year Of The Cat
+Thu Apr  2 10:27:21 2015	0	The Doobie Brothers	Black Water	Best Of The Doobie Brothers Live [ENHANCED CD]
+Thu Apr  2 10:31:10 2015	0	Joni Mitchell	California	Blue
+Thu Apr  2 10:34:44 2015	0	Karla Bonoff	Baby Don't Go (Album Version)	Restless Nights
+Thu Apr  2 10:37:55 2015	0	Steely Dan	Rikki Don't Lose That Number	Pretzel Logic
+Thu Apr  2 10:42:19 2015	0	John Stewart	Midnight Wind	Bombs Away Dream Babies
+Thu Apr  2 10:46:38 2015	0	Little River Band	Days On The Road [Version 2]	n/a
+Thu Apr  2 10:51:17 2015	0	Terence Boylan	Ice And Snow	Suzy
+Thu Apr  2 10:54:31 2015	0	Dave Mason	Takin' The Time To Find	Let It Flow
+Thu Apr  2 10:58:57 2015	0	Robert Palmer	From A Whisper To A Scream	Sneakin' Sally Through The Alley
+Thu Apr  2 11:02:33 2015	0	Toto	Mama	n/a
+Thu Apr  2 11:07:37 2015	0	Linda Ronstadt	If He's Ever Near	Hasten Down The Wind
+Thu Apr  2 11:10:34 2015	0	Michael Franks	Chain Reaction	Sleeping Gypsy
+Thu Apr  2 11:15:34 2015	0	Dire Straits	In The Gallery	Dire Straits
+Thu Apr  2 11:21:37 2015	0	Walter Egan	Won't You Say You Will	Fundamental Roll / Not Shy
+Thu Apr  2 11:25:35 2015	0	Todd Rundgren	I Saw The Light	Something/Anything
+Thu Apr  2 11:28:22 2015	0	Far Cry	The One And Lonely	The More Things Change...
+Thu Apr  2 11:31:56 2015	0	America	Ventura Highway	The Complete Greatest Hits
+Thu Apr  2 11:35:18 2015	0	Bread	It Don't Matter To Me	Anthology
+Thu Apr  2 11:37:48 2015	0	Andrew Gold	Always For You	All This And Heaven Too
+Thu Apr  2 11:42:20 2015	0	J.D. Souther	Baby Come Home	Black Rose
+Thu Apr  2 11:45:57 2015	0	Harry Nilsson	Driving Along (Remastered)	Nilsson Schmilsson
+Thu Apr  2 11:47:49 2015	0	Electric Light Orchestra	Telephone Line	Greatest Hits
+Thu Apr  2 11:52:00 2015	0	Vapour Trails	Night People	Vapour Trails
+Thu Apr  2 11:55:38 2015	0	Crosby, Stills & Nash	Dark Star	CSN
+Thu Apr  2 12:00:27 2015	0	Elton John	Harmony	Goodbye Yellow Brick Road
+Thu Apr  2 12:02:51 2015	0	Steve Miller Band	The Window (2006 Digital Remaster)	Fly Like An Eagle - 30th Anniversary
+Thu Apr  2 12:07:01 2015	0	Poco	Heart Of The Night	Legend
+Thu Apr  2 12:11:47 2015	0	Ozark Mountain Daredevils	Giving It All To The Wind	Time Warp: The Very Best Of
+Thu Apr  2 12:15:48 2015	0	Laura Nyro	Stormy Love	Smile (Bonus Track Version)
+Thu Apr  2 12:20:20 2015	0	Iain Matthews	Gimme An Inch Girl	Stealin' Home
+Thu Apr  2 12:24:12 2015	0	Chicago	Mama Mama	Chicago X
+Thu Apr  2 12:27:37 2015	0	The Ozark Mountain Daredevils	Jackie Blue	Time Warp: The Very Best Of
+Thu Apr  2 12:30:59 2015	0	Boz Scaggs	A Clue	Down Two Then Left
+Thu Apr  2 12:34:34 2015	0	Paul McCartney	Bluebird	Band On The Run
+Thu Apr  2 12:37:53 2015	0	Wings	Wino Junko	Wings At The Speed Of Sound
+Thu Apr  2 12:43:24 2015	0	Camel	One Of These Days I'll Get An Early Night	Rain Dances
+Thu Apr  2 12:48:50 2015	0	Sneaker	Jaymes	Sneaker
+Thu Apr  2 12:52:18 2015	0	Chris Rea	Standing In Your Doorway	Whatever Happened To Benny Santini?
+Thu Apr  2 12:56:03 2015	0	Styx	Man In The Wilderness	The Grand Illusion
+Thu Apr  2 13:01:36 2015	0	Ambrosia	Somewhere I've Never Travelled	Somewhere I've Never Travelled
+Thu Apr  2 13:05:38 2015	0	Fleetwood Mac	Over My Head	Fleetwood Mac
+Thu Apr  2 13:08:57 2015	0	The Doobie Brothers	Daughters Of The Sea	What Were Once Vices Are Now Habits
+Thu Apr  2 13:13:04 2015	0	Steely Dan	F.M.	Citizen Steely Dan: 1972-1980
+Thu Apr  2 13:17:56 2015	0	Ned Doheny	Funky Love	Prone
+Thu Apr  2 13:21:33 2015	0	Al Stewart	Delia's Gone	The Best Of Al Stewart
+Thu Apr  2 13:24:20 2015	0	Iain Matthews	Stealin' Home	Stealin' Home
+Thu Apr  2 13:27:36 2015	0	Andrew Gold	Never Let Her Slip Away	All This And Heaven Too
+Thu Apr  2 13:30:52 2015	0	Walter Egan	Hot Summer Nights	Fundamental Roll / Not Shy
+Thu Apr  2 13:34:38 2015	0	Firefall	Sweet And Sour	Elan
+Thu Apr  2 13:38:19 2015	0	America	Cornwall Blank	Homecoming
+Thu Apr  2 13:42:19 2015	0	Supertramp	Crime Of The Century	Crime Of The Century
+Thu Apr  2 13:47:31 2015	0	Karla Bonoff	Isn't It Always Love (Album Version)	Karla Bonoff
+Thu Apr  2 13:50:21 2015	0	Terence Boylan	Roll Your Own	Suzy
+Thu Apr  2 13:52:58 2015	0	Toto	Girl Goodbye	Toto
+Thu Apr  2 13:59:01 2015	0	Dave Mason	Maybe	It's Like You Never Left
+Thu Apr  2 14:02:51 2015	0	Joni Mitchell	The Hissing Of Summer Lawns	The Hissing of the Summer Lawns
+Thu Apr  2 14:05:42 2015	0	J.D. Souther	Black Rose	Black Rose
+Thu Apr  2 14:09:25 2015	0	Dire Straits	Water Of Love	Dire Straits
+Thu Apr  2 14:14:38 2015	0	Little River Band	Take Me Home	n/a
+Thu Apr  2 14:19:46 2015	0	Crosby, Stills & Nash	Guinnevere	Crosby, Stills & Nash
+Thu Apr  2 14:24:23 2015	0	Poco	Crazy Love	Legend
+Thu Apr  2 14:26:52 2015	0	Joe Walsh	Wolf	The Smoker You Drink, The Player You Get
+Thu Apr  2 14:30:01 2015	0	Robert Palmer	Spanish Moon	Some People Can Do What They Like
+Thu Apr  2 14:35:48 2015	0	Crawler	Stone Cold Sober	Heard It On The Radio - Vol 2
+Thu Apr  2 14:41:05 2015	0	Vapour Trails	Do The Bossa Nova	Vapour Trails
+Thu Apr  2 14:44:20 2015	0	Michael Franks	Jardin Botanico	Tiger In The Rain
+Thu Apr  2 14:47:29 2015	0	Pages	Who's Right, Who's Wrong	Future Street
+Thu Apr  2 14:51:34 2015	0	John Stewart	Nightman	Bombs Away Dream Babies
+Thu Apr  2 14:54:52 2015	0	Elton John	Indian Sunset	Madman Across The Water
+Thu Apr  2 15:01:32 2015	0	Electric Light Orchestra	Can't Get It Out of My Head	Greatest Hits
+Thu Apr  2 15:05:46 2015	0	Climax Blues Band	Couldn't Get It Right	Billboard Top Hits (1977)
+Thu Apr  2 15:08:58 2015	0	Gerry Rafferty	Baker Street	Decades - The Story Of The 60's/70's/80's - - 70's
+Thu Apr  2 15:12:55 2015	0	Sneaker	Don't Let Me In	Sneaker
+Thu Apr  2 15:16:54 2015	0	Harry Nilsson	Coconut (Remastered)	Nilsson Schmilsson
+Thu Apr  2 15:20:30 2015	0	Ozark Mountain Daredevils	Spaceship Orion	Time Warp: The Very Best Of

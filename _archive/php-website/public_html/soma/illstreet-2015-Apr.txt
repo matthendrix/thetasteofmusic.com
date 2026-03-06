@@ -1,0 +1,866 @@
+Wed Apr  1 00:01:34 2015	111	Mongo Santamaria	Mambo De Cuco	!Sabroso!
+Wed Apr  1 00:05:21 2015	107	Klaus Wunderlich	Canari-cha-cha	Uraltedelschnulzensynthesizergags
+Wed Apr  1 00:07:52 2015	103	Brian Fahey	At The Sign Of The Swinging Cymbal	The Sound Gallery Volume 2
+Wed Apr  1 00:10:05 2015	104	Mr. Ho's Orchestrotica	The Boulevard Of Broken Dreams	The Unforgettable Sounds Of Esquivel
+Wed Apr  1 00:13:37 2015	107	Armando Trovajoli	Vivere Felici	Easy Tempo Vol. 8 - Cinematica!!
+Wed Apr  1 00:16:52 2015	105	Ferrante & Teicher	Amor	Hot Latin Nights
+Wed Apr  1 00:20:31 2015	104	Astrud Gilberto & Walter Wanderley	Here's That Rainy Day	A Certain Smile A Certain Sadness
+Wed Apr  1 00:23:21 2015	103	Arthur Lyman	Moon Over A Ruined Castle	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 00:26:26 2015	103	Manfred Minnich	Shopping Centre	Music For T.V. Dinners-The 60's
+Wed Apr  1 00:28:45 2015	104	Yma Sumac	Gopher	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 00:30:57 2015	105	Billy May & His Orchestra	Patricia	Ultra-Lounge, Volume 11: Organs in Orbit (Compilation)
+Wed Apr  1 00:33:07 2015	108	Francisco Ulloa	Pancho Mambo	For Films- Selected Tracks For Moving Pictures:Edit 10 (Black)
+Wed Apr  1 00:36:10 2015	109	Ray Conniff And His Orchestra And Chorus	Caravan	Easy Rhythms For Your Cocktail Hour
+Wed Apr  1 00:38:27 2015	113	Tito Rodriguez	The Magnificent Seven	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 00:40:25 2015	113	11 Acorn Lane	Mr Mambo (Instrumental Melody)	Everybody's Here
+Wed Apr  1 00:43:07 2015	111	Simon Park Orchestra	Up To Date	The Sound Gallery Volume 2
+Wed Apr  1 00:44:55 2015	113	Antonio Carlos Jobim	Remember	Tide
+Wed Apr  1 00:48:53 2015	118	Dave Barbour	Mambo Jambo (Que Rico El Mambo)	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 00:51:54 2015	115	Maurice Montez	Star Fall	The Groovy Organ Goes Romantic
+Wed Apr  1 00:54:00 2015	110	Dimitri From Paris	Sacre Francais	Sacrebleu
+Wed Apr  1 00:58:50 2015	111	Don Costa	Never On Sunday	All-Time Great Instrumental Hits - Vol. 1
+Wed Apr  1 01:01:37 2015	116	Stanley Black	No Other Love	Intimate Percussion
+Wed Apr  1 01:04:07 2015	119	Bob Crewe Generation	Let's Hang On	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 01:06:59 2015	120	Bob Thompson, His Choir & Orchestra	Diga Diga Doo	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 01:09:46 2015	120	Alan Hawkshaw	Blue Note	Mo'Hawk - The Essential Vibes & Grooves 1967+1975
+Wed Apr  1 01:13:51 2015	121	Jean Jacques Perrey & Dana Countryman	The Typewriter	The Happy Electropop Music Machine
+Wed Apr  1 01:15:40 2015	123	Francis Lai	Marseillaise Generique	The Sound Gallery Volume 2
+Wed Apr  1 01:17:35 2015	123	Hugo Montenegro	The Wiggely Pig Walk	More Music From The Man From U.N.C.L.E.
+Wed Apr  1 01:19:45 2015	122	Esquivel	All Of Me	Exploring New Sounds In Stereo/Strings Aflame
+Wed Apr  1 01:21:52 2015	120	Henri Rene & His Orchestra	Chinatown, My Chinatown	Riot in Rhythm
+Wed Apr  1 01:24:54 2015	117	Billy May & Les Baxter	Cherry Pink And Apple Blossom White	Ultra-Lounge, Volume 17: Bongo Land (Compilation)
+Wed Apr  1 01:30:05 2015	118	David Carroll And His Orchestra	Cha-Cha Panecas	Let's Dance Again
+Wed Apr  1 01:33:18 2015	121	Walter Wanderly	O Menino Decse O Morro	Samba Swing
+Wed Apr  1 01:36:35 2015	123	Enoch Light	Swamp Fire	Easy Rhythms For Your Cocktail Hour
+Wed Apr  1 01:38:57 2015	125	Nancy Wilson	Wave	Ultra-Lounge: Tiki Sampler
+Wed Apr  1 01:41:24 2015	127	Russ Case	The Sailor's Dance (Dance Of T	n/a
+Wed Apr  1 01:44:15 2015	126	Zofka	Une Derniere Fois	Bikini
+Wed Apr  1 01:50:11 2015	121	Maya Casabianca	Zou Bisou Bisou	Les Chansons de ma jeunesse
+Wed Apr  1 01:52:37 2015	123	Otto Sieben	Curley Shirley	Music For TV Dinners
+Wed Apr  1 01:55:34 2015	123	Henry Mancini	Bijou	Martinis With Mancini
+Wed Apr  1 01:58:39 2015	127	Martin Denny	My Little Grass Shack In Keala	The Best Of Martin Denny's Exotica
+Wed Apr  1 02:00:48 2015	129	Terry Snider	Oye Negra	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 02:03:18 2015	129	Les Baxter, His Chorus And Orchestra	Simba	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 02:05:49 2015	128	Ethel Smith	Tico Tico	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 02:07:52 2015	126	Andre Popp	La Polka Du Colonel	Delerium in HI-Fi
+Wed Apr  1 02:10:15 2015	127	Ferrante & Teicher	Dos Amigos	Hot Latin Nights
+Wed Apr  1 02:13:13 2015	120	Tony Hatch	Chick	Tony Hatch: Look For A Star 1959-62
+Wed Apr  1 02:15:23 2015	121	Arthur Lyman	Jungle Jalopy	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Wed Apr  1 02:18:01 2015	125	Mongo Santamaria	Pachanga Pa Ti	!Sabroso!
+Wed Apr  1 02:20:24 2015	128	Dick Schory's Percussion And B	Runnin' Wild	n/a
+Wed Apr  1 02:22:51 2015	123	Peter Thomas	Monster	Futuremuzik
+Wed Apr  1 02:25:13 2015	126	Ennio Morricone	Meglio Stasera (Vocals Miranda Martino) (1964)	Easy Tempo: End Titles
+Wed Apr  1 02:27:13 2015	124	Blue Rhythm Festival	Piero Piccioni	Beat Vol. 2 - Lounge At Cinevox
+Wed Apr  1 02:32:21 2015	120	Walter Wanderley	Que Sabe Voce De Mim	Ultra-Lounge, Volume 14: Bossa Novaville
+Wed Apr  1 02:34:35 2015	120	Renegade Soundwave	Positive Id (Remix Bertrand)	The Genius of Bertrand Burgalat
+Wed Apr  1 02:38:54 2015	120	Don Tiki	Primitiva	Skinny Dip With Don Tiki
+Wed Apr  1 02:42:00 2015	123	Les Baxter	Shooting Star, Jungalero	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 02:47:24 2015	124	Denny Mclain	Watch What Happens	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 02:49:10 2015	127	Ernie Freeman Group	Fever, Comin' Home Baby	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 02:54:59 2015	122	Perez Prado	Zelda's Theme	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 02:56:57 2015	124	Syd Dale	Disc A Go Go	Music For T.V. Dinners-The 60's
+Wed Apr  1 02:59:36 2015	125	Dean Elliott & His Big Band	Lonesome Road	Ultra-Lounge, Vol. 3: Space Capades
+Wed Apr  1 03:01:53 2015	131	Antonio Carlos Jobim	Tide	Tide
+Wed Apr  1 03:05:44 2015	128	Dave Pell	Like Young	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 03:08:40 2015	126	Out-Islanders	Ebb Tide	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 03:10:43 2015	127	Jerry Murad's Harmonicats	Diane	Greatest Hits / Cherry Pink & Apple Blossom White
+Wed Apr  1 03:12:04 2015	125	Milt Buckner	The Beast	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 03:14:34 2015	125	Esquivel	Dark Eyes	Other Worlds, Other Sounds + Four Corners Of The World
+Wed Apr  1 03:16:59 2015	126	Bob Crewe Generation	Music To Watch Girls By	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 03:19:53 2015	126	Stanley Black	Theme From 'A Summer Place'	Intimate Percussion
+Wed Apr  1 03:22:31 2015	124	John Buzon Trio	Mambo Rock	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 03:24:59 2015	128	Astrud Gilberto & Walter Wanderley	So Nice (Summer Samba)	A Certain Smile A Certain Sadness
+Wed Apr  1 03:27:15 2015	128	Enoch Light	My Heart Belongs To Daddy	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 03:29:56 2015	125	Henri Rene & His Orchestra	Roller Coaster	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 03:32:42 2015	127	Walter Wanderly	Song Of The Jet	Rain Forest
+Wed Apr  1 03:35:09 2015	131	David Carroll And His Orchestra	Soft Shoe Song	Let's Dance Again
+Wed Apr  1 03:37:28 2015	136	Alan Hawkshaw	Dave Allen At Large	Mo'Hawk - The Essential Vibes & Grooves 1967+1975
+Wed Apr  1 03:39:09 2015	133	Terry Snyder	Guys And Dolls	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 03:40:58 2015	137	New Classic Singers	Call Me	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 03:43:27 2015	136	Hugo Montenegro	Perfidia	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 03:45:43 2015	129	Ray Martin	Lullaby Of The Leaves	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 03:47:52 2015	132	Henry Mancini	Mambo Parisienne	Martinis With Mancini
+Wed Apr  1 03:50:29 2015	133	11 Acorn Lane	Mr Mambo (Instrumental)	Everybody's Here
+Wed Apr  1 03:53:22 2015	135	Terry Snider	Deep Night, Softly As In A Morning Sunrise	Ultra-Lounge Vol. 17: Bongo Land
+Wed Apr  1 03:58:53 2015	132	Mel Torme	Sunshine Superman	Ultra-Lounge - On The Rocks, part one
+Wed Apr  1 04:01:45 2015	126	Leroy Holmes	Mah-Na, Mah Na	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 04:04:06 2015	129	Ferrante & Teicher	Anna	Hot Latin Nights
+Wed Apr  1 04:06:53 2015	132	Maurice Montez	Lover's Serenade	The Groovy Organ Goes Romantic
+Wed Apr  1 04:09:28 2015	132	Martin Denny	Coronation	The Best Of Martin Denny's Exotica
+Wed Apr  1 04:12:28 2015	130	Klaus Wunderlich	Heinzelmynnchens Wachtparade	n/a
+Wed Apr  1 04:15:27 2015	122	King Curtis	Melancholy Serenade	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 04:17:28 2015	117	Arthur Lyman	Voodoo Dreams	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 04:20:20 2015	116	Scottmen	The Good Word	The Sound Gallery Volume 2
+Wed Apr  1 04:22:57 2015	119	Vickers Mike	On The Brink	The Sound Gallery Volume 2
+Wed Apr  1 04:25:23 2015	120	Tito Rodriguez	Theme From The Apartment	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 04:27:38 2015	119	Alvino Rey	Night Train	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 04:31:26 2015	117	Jack Costanzo	Caravan	Mr. Bongo
+Wed Apr  1 04:34:29 2015	118	Los Brasilios Featuring Alberto On The Marimbas & The Juan Mora	Carol's Theme	n/a
+Wed Apr  1 04:36:53 2015	119	Les Baxter	Atlantis	Ultra-Lounge, Volume 01: Mondo Exotica
+Wed Apr  1 04:39:06 2015	123	Liberace	Boogie Woogie	I'll Be Seeing You - Four Original Albums On Two Cds
+Wed Apr  1 04:41:32 2015	119	Agents & Frank Pourcel	Casino Royale	Ultra-Lounge: Tiki Sampler (Compilation)
+Wed Apr  1 04:46:49 2015	123	Syd Dale	Beauty Parade	Music For T.V. Dinners-The 60's
+Wed Apr  1 04:48:45 2015	124	Terry Snyder And Earl Palmer	Binga Banga Bongo, Percolator	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 04:53:26 2015	126	Ethel Smith	Just One Of Those Things	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 04:55:28 2015	125	Bernie Green	Ping Pong	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 04:58:29 2015	123	Sondi Sodasi	Love Dance	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Wed Apr  1 05:00:43 2015	127	Andre Popp	Jalousie	Delerium in HI-Fi
+Wed Apr  1 05:04:50 2015	129	Esquivel	Cachito	Music From A Sparkling Planet
+Wed Apr  1 05:07:20 2015	129	Duke Ellington	Absinthe	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 05:09:44 2015	127	Luis Oliveira And His Bandodalua Boys	Chihuahua	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 05:12:07 2015	128	Ortica	Paolini	n/a
+Wed Apr  1 05:13:52 2015	130	Stanley Black	On The Street Where You Live	Intimate Percussion
+Wed Apr  1 05:16:52 2015	125	Enoch Light	's Wonderful	Provocative Percussion Bachelor Pad Music
+Wed Apr  1 05:19:24 2015	127	Joey Altruda & The Cocktail Cr	Apt. 8c	n/a
+Wed Apr  1 05:23:02 2015	128	Walter Wanderly	The Great Love	Rain Forest
+Wed Apr  1 05:26:05 2015	129	Keith Mansfield	Young Scene	KPM 1000 Series: Flamboyant Themes (Volume 1)
+Wed Apr  1 05:27:25 2015	126	John Buzon Trio	I'll Wind	Inferno!
+Wed Apr  1 05:29:28 2015	125	Esquivel	Flower Girl Of Bordeaux	Music From A Sparkling Planet
+Wed Apr  1 05:31:33 2015	125	Enoch Light	Mood Indigo	Provocative Percussion Bachelor Pad Music
+Wed Apr  1 05:34:22 2015	124	Arthur Lyman	Sim Sim	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 05:36:41 2015	125	Walter Wanderly	Cheganca (The Great Arrival)	Samba Swing
+Wed Apr  1 05:39:25 2015	126	Henry Mancini	Lightly Latin	Martinis With Mancini
+Wed Apr  1 05:42:33 2015	127	Ferrante & Teicher	Chopstick Cha Cha	Blast Off!
+Wed Apr  1 05:45:15 2015	124	Ethel Smith	April In Portugal	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 05:47:39 2015	121	John Buzon Trio	I Can't Believe That You're In Love With Me	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 05:49:57 2015	121	Sir Julian	Caravan	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 05:53:34 2015	119	Martin Denny	Harlem Nocturne	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 05:56:08 2015	121	Maurice Montez	Stella By Starlight	The Groovy Organ Goes Romantic
+Wed Apr  1 05:59:07 2015	124	Que Cosa	Borrachacha	Viejo Amor
+Wed Apr  1 06:02:00 2015	128	Andre Popp	La Cumparsita	Delerium in HI-Fi
+Wed Apr  1 06:04:40 2015	127	Sonny Lester, His Orchestra & Chorus	Salome's Veil	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 06:07:04 2015	126	Jack Costanzo	Twang	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 06:09:39 2015	124	Gerhard Narholz	Speaking Guitar	Music For TV Dinners
+Wed Apr  1 06:11:43 2015	123	Bob Crewe Generation	A Felicidade [Theme From Black Orpheus]	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 06:14:17 2015	123	Gillian Hills	Le Paradis Pour Toi	Twistin'The Rock Vol 9
+Wed Apr  1 06:16:21 2015	124	Tony Hatch	Two-Some	n/a
+Wed Apr  1 06:18:22 2015	126	Les Baxter	Voodoo Dreams-Voodoo	Ultra-Lounge, Volume 01: Mondo Exotica
+Wed Apr  1 06:23:44 2015	128	Stanley Black	Mack The Knife	Intimate Percussion
+Wed Apr  1 06:26:14 2015	129	Hugo Montenegro	Theme For Three	All-Time Greatest Movie Themes & Schemes
+Wed Apr  1 06:28:06 2015	129	Dimitri From Paris	Monsieur Dimitri Joue Du Stylophone	Sacrebleu
+Wed Apr  1 06:29:04 2015	126	Alan Hawkshaw & Keith Mansfield	Piccadilly Night Ride	KPM 1000 Series: Soul Organ Showcase
+Wed Apr  1 06:30:30 2015	127	Henri Rene & His Orchestra	Hansel And Pretzel	Riot in Rhythm
+Wed Apr  1 06:33:49 2015	130	Guitars Unlimited Plus 7, The	Crazy Rhythm	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 06:35:54 2015	132	Jonah Jones Quartet	Blue Danube Rock	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 06:37:43 2015	131	Alan Hawkshaw	Holiday Commercial	Music For T.V. Dinners-The 60's
+Wed Apr  1 06:38:58 2015	133	Redtenbacher's Funkestra	The Return Of The Manbag	Redtenbacher's Hausmusik
+Wed Apr  1 06:43:51 2015	132	Three Suns	The Donkey Serenade	Second Volume 1949-1953
+Wed Apr  1 06:46:29 2015	134	David Carroll And His Orchestra	Bouncing Ball	Let's Dance Again
+Wed Apr  1 06:48:38 2015	132	Markko Polo Adventurers	Scheherazade	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 06:51:16 2015	133	Mr. Ho's Orchestrotica	Night And Day	The Unforgettable Sounds Of Esquivel
+Wed Apr  1 06:53:49 2015	131	Syd Dale	Mexican Ding Dong	Music For T.V. Dinners-The 60's
+Wed Apr  1 06:56:15 2015	133	Zofka	Bikini Lounge	Bikini
+Wed Apr  1 06:59:57 2015	134	Denny Mc Lain	The Girl From Ipenema [Meditation]	n/a
+Wed Apr  1 07:03:09 2015	135	Mel Henke	The Lively Ones	La Dolce Henke
+Wed Apr  1 07:05:46 2015	135	Cy Coleman	Pussy Cat	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 07:08:11 2015	137	Bob Thompson, His Chorus And O	Ain't We Got Fun	n/a
+Wed Apr  1 07:10:45 2015	140	Billy May	Leroy Holmes	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 07:16:04 2015	140	Esquivel	Speak Low	Other Worlds, Other Sounds + Four Corners Of The World
+Wed Apr  1 07:18:49 2015	146	Enoch Light	Orchids In The Moonlight	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 07:21:29 2015	142	Arthur Lyman	Leis Of Jazz	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 07:23:33 2015	143	Jackie Davis	Glow Worm Cha-Cha-Cha	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 07:25:56 2015	144	Henry Mancini	Something Loose	Martinis With Mancini
+Wed Apr  1 07:28:36 2015	143	Walter Wanderly	Beloved Melancholy	Rain Forest
+Wed Apr  1 07:31:10 2015	139	Ferrante & Teicher	Midnight Cowboy	Greatest Hits
+Wed Apr  1 07:34:33 2015	139	Gordon Jenkins	Caravan (Instrumental) (1996 D	Gordon Jenkins Presents Marshall Royal
+Wed Apr  1 07:36:41 2015	136	Ethel Smith	Dear Heart	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 07:38:48 2015	138	Paris Studio Group	Accroche Toi, Caroline	The Sound Gallery Volume 2
+Wed Apr  1 07:41:44 2015	131	Ray Anthony And His Orchestra, Dickie Harrell, Rolley Polley	Rock-Cha-Rhumba	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 07:48:32 2015	132	Martin Denny	Bangkok Cockfight	The Very Best Of Martin Denny - The Exotic Sounds
+Wed Apr  1 07:50:47 2015	132	Terry Snyder	Once In A While	Music For A Bachelor's Den, Vol. 1
+Wed Apr  1 07:53:43 2015	134	Electronic Concept Orchest	Grazing In The Grass	n/a
+Wed Apr  1 07:55:57 2015	135	Dean Elliott & His Big Band	You're The Top	Ultra-Lounge, Vol. 3: Space Capades
+Wed Apr  1 07:58:23 2015	139	Al De Lory	Evil Ways	Ultra-Lounge - On The Rocks, part one
+Wed Apr  1 08:01:08 2015	135	Sid Bass	Chant Of The Jungle	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Wed Apr  1 08:04:32 2015	129	Brother Jack Mc Duff	The Shadow Of Your Smile	n/a
+Wed Apr  1 08:08:28 2015	132	John Buzon Trio	Mr. Ghost Goes To Town	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 08:10:35 2015	133	Gillian Hills	Prys De La Cascade	n/a
+Wed Apr  1 08:12:32 2015	135	Henry Jerome	Moon River	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 08:15:11 2015	133	Les Baxter	Milord	Ultra-Lounge Volume Ten: A Bachelor In Paris
+Wed Apr  1 08:18:00 2015	131	Stanley Black	The Poor People Of Paris	Intimate Percussion
+Wed Apr  1 08:20:00 2015	133	Hugo Montenegro	Traces	Moog Power
+Wed Apr  1 08:22:46 2015	139	Dimitri From Paris	Un Woman's Paradise	Sacrebleu
+Wed Apr  1 08:25:54 2015	140	11 Acorn Lane	The Sneak	Painting Coconuts
+Wed Apr  1 08:28:55 2015	141	Louis Armstrong	High Society Calypso	Cocktails With Cole Porter
+Wed Apr  1 08:30:58 2015	145	Perkins, Bill	Samba De Orfeu	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 08:33:42 2015	141	Sir Julian	Dansero	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 08:35:46 2015	136	Frank Hunter And His Orchestra	Ritual Of The Torch	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 08:38:32 2015	132	Combustible Edison	Intermission	I, Swinger
+Wed Apr  1 08:42:09 2015	127	Johnny Pearson	Sports Car Special	The Sound Gallery Volume 2
+Wed Apr  1 08:43:43 2015	125	Milt Buckner	Late, Late Show	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 08:47:29 2015	127	Andre Popp	Java	Delerium in HI-Fi
+Wed Apr  1 08:49:55 2015	126	Maurice Montez	No Love (But Your Love)	The Groovy Organ Goes Romantic
+Wed Apr  1 08:52:25 2015	125	Wolfgang Kaltenbach	Party Shaker	Music For T.V. Dinners-The 60's
+Wed Apr  1 08:55:01 2015	127	Peggy Lee, George Shearing	Always True To You In My Fashion	Cocktails With Cole Porter
+Wed Apr  1 08:56:55 2015	125	Nelson Riddle	Lolita Ya Ya	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 08:59:20 2015	126	Daniele Luppi	La Nudista	Far Out: Swinging Bachelor Pad Music
+Wed Apr  1 09:02:42 2015	123	Tony Hatch	La Paloma	n/a
+Wed Apr  1 09:05:10 2015	125	Esquivel	Snowfall	More Of Other Worlds, Other Sounds
+Wed Apr  1 09:08:58 2015	130	Enoch Light	Blue Is The Night	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 09:11:44 2015	133	Kava Kon	Palace Of The Tiger Women	Tiki for the Atomic Age
+Wed Apr  1 09:14:10 2015	131	Richard Hayman	The Girl From Ipanema	Easy Rhythms For Your Cocktail Hour
+Wed Apr  1 09:17:33 2015	133	Arthur Lyman	Arrivederci Roma	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Wed Apr  1 09:20:37 2015	124	Walter Wanderly	Cry Out Your Sadness	Samba Swing
+Wed Apr  1 09:23:19 2015	129	David Carroll And His Orchestra	Swamp Fire	Let's Dance Again
+Wed Apr  1 09:25:54 2015	136	Ferrante & Teicher	Smile	Greatest Hits
+Wed Apr  1 09:28:09 2015	132	Astrud Gilberto & Walter Wanderley	Nega Do Cabelo Duro	A Certain Smile A Certain Sadness
+Wed Apr  1 09:30:33 2015	133	Les Paul	Whispering	All-Time Great Instrumental Hits - Vol. 1
+Wed Apr  1 09:32:33 2015	128	Henry Mancini	Odd Ball	Martinis With Mancini
+Wed Apr  1 09:35:40 2015	124	Chuy Reyes & His Orchestra	Oink, Oink Mambo	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 09:38:50 2015	126	Martin Denny	Cool	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 09:41:07 2015	128	Klaus Wunderlich	Amboss-polka	Uraltedelschnulzensynthesizergags
+Wed Apr  1 09:43:40 2015	132	Lex Baxter	Go Chango	Ultra-Lounge: Tiki Sampler
+Wed Apr  1 09:46:52 2015	130	Jackie Davis	Perfidia	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 09:49:28 2015	132	Yma Sumac	Gopher Mambo	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 09:51:45 2015	128	Ady Zehnpfennig	Easter Afternoon	Puppet Jazz
+Wed Apr  1 09:55:05 2015	132	Jack Costanzo	La Cumparsa, Harlem Nocturne	Ultra-Lounge Vol. 17: Bongo Land
+Wed Apr  1 10:01:21 2015	139	Alan Hawkshaw	Girl In A Sportscar	The Sound Gallery Vol. 1
+Wed Apr  1 10:03:07 2015	135	Bob Crewe Generation	Melancholy Serenade	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 10:05:39 2015	134	Keith Mansfield	Sporting Highlights	Music For T.V. Dinners-The 60's
+Wed Apr  1 10:07:18 2015	133	Robert Maxwell, His Harp & His Orchestra	Poinciana (Song Of The Tree)	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 10:09:56 2015	134	Up To Date	Gli Ordini Sono Ordini (The Orders Are The Orders)	Beat Vol. 1 - Lounge At The Cinevox
+Wed Apr  1 10:11:34 2015	139	Ethel Smith	Carioca	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 10:13:58 2015	140	John La Salle Quartet	Potluck	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 10:17:26 2015	141	Les Baxter	The Clown On The Eiffel Tower	Ultra-Lounge Volume Ten: A Bachelor In Paris
+Wed Apr  1 10:19:45 2015	142	Stanley Black	Jungle Drums	Intimate Percussion
+Wed Apr  1 10:21:58 2015	141	Laurindo Almeida & The Bossa Nova All-Stars	Desafinado	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 10:25:10 2015	146	Perez Prado	Why Wait	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 10:27:31 2015	137	Mallet Men	Dark Eyes And It Happened In Monterey	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 10:32:41 2015	141	Walter Scharf	The Giuoco Piano Affair	The Man From U.N.C.L.E. Vol. 2
+Wed Apr  1 10:35:44 2015	137	Antonio Carlos Jobim	Takatanga	Tide
+Wed Apr  1 10:40:33 2015	140	Gillian Hills	Zou Bisou Bisou	Twistin'The Rock Vol 9
+Wed Apr  1 10:42:34 2015	138	Hugo Montenegro	Illya	All-Time Greatest Movie Themes & Schemes
+Wed Apr  1 10:44:46 2015	139	Joe Loco	Nightmare	Ultra-Lounge Vol. 17: Bongo Land
+Wed Apr  1 10:47:30 2015	138	Leo Addeo	Love Is Just Around The Corner	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 10:49:56 2015	135	Three Suns	Wailing Guitar	1949-1956
+Wed Apr  1 10:52:06 2015	138	Cozy Cole	Topsy, Part 2	All Time Great Instrumental Hits Volume 2
+Wed Apr  1 10:55:40 2015	134	John Buzon Trio	I'll Wind	Inferno!
+Wed Apr  1 10:57:50 2015	138	Esquivel	Blue Danube	Other Worlds, Other Sounds + Four Corners Of The World
+Wed Apr  1 11:00:17 2015	136	Enoch Light	I'm In The Mood For Love	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 11:03:31 2015	138	Alan Moorhouse	That's Nice	The Sound Gallery Volume 2
+Wed Apr  1 11:05:29 2015	140	Nelson Riddle	The Theme From Route 66	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 11:07:43 2015	145	Cool Water Feat. Time Passing	The Shadow Of Your Smile	The Last Night
+Wed Apr  1 11:12:36 2015	146	Henri Rene & His Orchestra	Punctuated Performance	The History Of Space Age Pop, Volume 3: The Stereo Action Dimension (Compilation)
+Wed Apr  1 11:15:36 2015	145	Arthur Lyman	Bwana A	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Wed Apr  1 11:20:06 2015	149	Ferrante & Teicher	I Got Rhythym	Blast Off!
+Wed Apr  1 11:22:05 2015	150	Ennio Morricone	Alla Luce Del Giorno	Metti Una Sera A Cena
+Wed Apr  1 11:24:59 2015	150	11 Acorn Lane	Painting Coconuts	Painting Coconuts
+Wed Apr  1 11:27:09 2015	150	Maurice Montez	That Old Black Magic	The Groovy Organ Goes Romantic
+Wed Apr  1 11:30:14 2015	142	Sir Julian	A Man And A Woman	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 11:32:42 2015	137	Martin Denny	Happy Talk	The Very Best Of Martin Denny - The Exotic Sounds
+Wed Apr  1 11:35:00 2015	142	Melachrino Strings And Orc	Flirtation Waltz	n/a
+Wed Apr  1 11:37:54 2015	138	Orizaba And His Orchestra	Boo Qui Woo Qui	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 11:40:22 2015	139	Walter Wanderly	It's Easy To Say Goodbye	Rain Forest
+Wed Apr  1 11:42:11 2015	141	Henry Mancini	Loose Caboose	Martinis With Mancini
+Wed Apr  1 11:45:28 2015	144	Don Costa	The Misfits	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 11:47:56 2015	141	A.Brugnolini	Silvana (Bossanova)	n/a
+Wed Apr  1 11:51:49 2015	140	Pyrez Prado	Moniter Mambo	n/a
+Wed Apr  1 11:53:55 2015	140	Alan Hawkshaw	The Millionairess	Mo'Hawk - The Essential Vibes & Grooves 1967+1975
+Wed Apr  1 11:56:58 2015	141	Billy May	The Look Of Love	Ultra Lounge
+Wed Apr  1 11:59:45 2015	137	David Carroll And His Orchestra	Soft Shoe Song	Let's Dance Again
+Wed Apr  1 12:01:45 2015	135	Joe 'Fingers' Carr	Portuguese Washerwomen	All-Time Great Instrumental Hits - Vol. 1
+Wed Apr  1 12:03:50 2015	133	Walter Wanderley	A Nega Se Vingou	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 12:06:37 2015	132	Laurie Johnson	Gala Performance	Music For TV Dinners
+Wed Apr  1 12:08:27 2015	132	Les Baxter	I Dig	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 12:11:38 2015	132	Ethel Smith	Brazil	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 12:13:44 2015	132	Mr. Ho's Orchestrotica	Mini Skirt	The Unforgettable Sounds Of Esquivel
+Wed Apr  1 12:16:09 2015	129	Stanley Black	Babalu	Intimate Percussion
+Wed Apr  1 12:18:58 2015	127	Henry Jerome	Uptight (Everything's Alright)	Ultra-Lounge - On The Rocks, part one
+Wed Apr  1 12:21:56 2015	128	George Melachrino	El Relicario	Melachrino's Magic Strings
+Wed Apr  1 12:24:37 2015	126	Syd Dale	The Riviera Set	Music For T.V. Dinners-The 60's
+Wed Apr  1 12:26:56 2015	126	Scottmen	The Good Word	The Sound Gallery Volume 2
+Wed Apr  1 12:29:47 2015	125	Jack Costanzo	Chopsticks Mambo	Mr. Bongo
+Wed Apr  1 12:32:28 2015	125	Simon Park Orchestra	Up To Date	The Sound Gallery Volume 2
+Wed Apr  1 12:34:00 2015	129	Don Baker Trio	Third Man Theme	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 12:36:00 2015	131	Three Suns, The	Caravan	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Wed Apr  1 12:38:47 2015	128	Jackie Davis	Manana (Is Soon Enough For Me)	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 12:41:17 2015	126	Esquivel	Dancing In The Dark	More Of Other Worlds, Other Sounds
+Wed Apr  1 12:42:56 2015	127	Enoch Light	Blue Tango	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 12:46:00 2015	126	Hugo Montenegro	Thunderball	The Best Of Spy Flims
+Wed Apr  1 12:48:34 2015	122	Wanda De Sah	So Danco Samba (Jazz 'n' Samba)	Ultra-Lounge: Tiki Sampler
+Wed Apr  1 12:50:33 2015	120	Fantastic Plastic Machine	Dear Mr. Salesman	the Fantastic Plastic Machine
+Wed Apr  1 12:54:44 2015	119	Bob Crewe Generation	Theme From A Man And A Woman	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 12:58:04 2015	118	Arthur Lyman	Dahil Sayo	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 13:00:45 2015	122	Ferrante & Teicher	El Cumbanchero	Hot Latin Nights
+Wed Apr  1 13:03:33 2015	120	Andy Williams	Music To Watch Girls By	The very best of Andy Williams
+Wed Apr  1 13:05:42 2015	122	Brian Fahey	At The Sign Of The Swinging Cymbal	The Sound Gallery Volume 2
+Wed Apr  1 13:08:06 2015	120	Andre Popp	Perles De Cristal	Delerium in HI-Fi
+Wed Apr  1 13:11:24 2015	122	11 Acorn Lane	Two Little Dreamers	Happy As Can Be
+Wed Apr  1 13:14:31 2015	123	Manfred Minnich	Shopping Centre	Music For T.V. Dinners-The 60's
+Wed Apr  1 13:16:51 2015	124	Maurice Montez	Lover's Dream	The Groovy Organ Goes Romantic
+Wed Apr  1 13:19:10 2015	124	Martin Denny	Quiet Village (Original Version)	The Very Best Of Martin Denny - The Exotic Sounds
+Wed Apr  1 13:22:50 2015	128	Don Swan & His Orchestra	Hooray For Hollywood	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 13:25:08 2015	128	Denny Mc Lain	Cute	n/a
+Wed Apr  1 13:27:12 2015	129	Line Renaud	Sexe	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 13:30:43 2015	129	Henry Mancini	Mr. Lucky	Martinis With Mancini
+Wed Apr  1 13:32:44 2015	128	Bob Thompson, His Choir & Orchestra	The Little Black Box	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 13:35:28 2015	125	Peter Thomas Sound Orchestra	Landing On The Moon	Raumpatrouille - Space Patrol
+Wed Apr  1 13:38:27 2015	125	Les Baxter And Bas Sheva	Lust	The Passions
+Wed Apr  1 13:40:59 2015	123	Dick Hyman	Green Onions	The Age of Electronicus LP
+Wed Apr  1 13:48:47 2015	114	Neil Richardson	Rio Magic	Music For T.V. Dinners-The 60's
+Wed Apr  1 13:50:13 2015	113	David Carroll And His Orchestra	Adios	Let's Dance Again
+Wed Apr  1 13:53:22 2015	116	Orchestra Dei Concerti Di Roma Paul Baron	Star Fire (Jet Plane)	The Sound of Speed
+Wed Apr  1 13:55:39 2015	116	Laurie Johnson	Happy Go Lively	Music For TV Dinners
+Wed Apr  1 13:57:41 2015	116	Les Baxter	Roller Coaster	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 14:00:37 2015	115	Walter Wanderly	Taste Of Sadness	Samba Swing
+Wed Apr  1 14:03:13 2015	116	Dean Martin	True Love	Cocktails With Cole Porter
+Wed Apr  1 14:05:41 2015	118	Stanley Black	Old Devil Moon	Intimate Percussion
+Wed Apr  1 14:07:58 2015	117	Billy May	So Nice (Samba De Verao)	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 14:11:07 2015	116	Jean Jacques Perrey	Aerolithe Alpha	Moog Sensations
+Wed Apr  1 14:12:34 2015	116	Johnny Pearson	Pop March	Music For T.V. Dinners-The 60's
+Wed Apr  1 14:14:39 2015	118	Nino Rota	Amarcord	Greatest Hits
+Wed Apr  1 14:17:08 2015	120	Yma Sumac	Gopher	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 14:19:28 2015	117	Felix Slatkin	I Get A Kick Out Of You	Easy Rhythms For Your Cocktail Hour
+Wed Apr  1 14:21:29 2015	113	Marcello Gigante	Bossa In California	Bossa Galore - Lounge At Cinevox
+Wed Apr  1 14:23:59 2015	118	King Curtis	Watermelon Man	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 14:26:37 2015	120	Francis Lai	Marseillaise Generique	The Sound Gallery Volume 2
+Wed Apr  1 14:28:38 2015	117	Esquivel	Fantary	Exploring New Sounds In Stereo/Strings Aflame
+Wed Apr  1 14:31:51 2015	114	South Sea Serenaders	Taboo	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 14:35:29 2015	119	Enoch Light	Mad About The Boy	Provocative Percussion Bachelor Pad Music
+Wed Apr  1 14:38:35 2015	119	Henri Rene & His Orchestra	Whispering	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 14:40:42 2015	121	Astrud Gilberto & Walter Wanderley	Call Me	A Certain Smile A Certain Sadness
+Wed Apr  1 14:43:51 2015	121	Alan Hawkshaw	Blarney's Stoned	The Sound Gallery Vol. 1
+Wed Apr  1 14:45:43 2015	124	Syd Dale	Miss World	The Sound Gallery Volume 2
+Wed Apr  1 14:47:24 2015	123	Ferrante & Teicher	Theme From Lawrence Of Arabia	Greatest Hits
+Wed Apr  1 14:49:36 2015	121	Hugo Montenegro	Guaglione	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 14:52:33 2015	125	Tony Hatch	Theme From Rosemary	Tony Hatch: Look For A Star 1959-62
+Wed Apr  1 14:54:35 2015	122	Arthur Lyman	Voodoo Dreams	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 14:57:29 2015	120	Twin Pianos Of Henri Rose And Bobby Stevenson	Cumana	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 15:00:32 2015	118	Markko Polo Adventurers, The	Rain In Rangoon	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Wed Apr  1 15:03:58 2015	121	Maurice Montez	Moon River	The Groovy Organ Goes Romantic
+Wed Apr  1 15:08:00 2015	124	Martin Denny	Tune From Rangoon	Coconut Cream of Martin Denny
+Wed Apr  1 15:10:57 2015	129	Laurindo Almeida	Recado Bossa Nova	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 15:13:41 2015	131	Brian Fahey	Open House	The Sound Gallery Volume 2
+Wed Apr  1 15:15:45 2015	130	George Melachrino	Sand In My Shoes	Melachrino's Magic Strings
+Wed Apr  1 15:18:31 2015	130	Robert Maxwell	Shangri-la	Mad Men (Music From The Television Series)
+Wed Apr  1 15:20:29 2015	128	John Buzon Trio	It Must Be True	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 15:22:38 2015	131	Don Tiki	Bwana Banana	Skinny Dip With Don Tiki
+Wed Apr  1 15:26:24 2015	130	Doris Drew	Pennies From Heaven	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Wed Apr  1 15:29:23 2015	131	Three Suns	Ballin' The Jack	1949-1956
+Wed Apr  1 15:31:25 2015	126	Henry Mancini	The Old College Try Cha-Cha	Martinis With Mancini
+Wed Apr  1 15:33:50 2015	123	Dennis Farnon & His Orchestra	Isle Of Capri	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 15:37:26 2015	123	David Carroll And His Orchestra	Hey Chick	Let's Dance Again
+Wed Apr  1 15:39:29 2015	121	Jack Costanzo	The Inch Worm	Ultra-Lounge: Tiki Sampler
+Wed Apr  1 15:41:25 2015	119	Freddy Martin & His Orchestra	Bubbles In The Wine	Ultra-Lounge Vol. 13 - TV Town
+Wed Apr  1 15:44:00 2015	116	Les Baxter	Saturday Night On Saturn	Ultra-Lounge, Vol. 3: Space Capades
+Wed Apr  1 15:45:36 2015	111	Billy May & His Orchestra	Hernando's Hideaway	n/a
+Wed Apr  1 15:47:52 2015	112	Bob Crewe Generation	Winchester Cathedral	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 15:50:34 2015	108	Walter Wanderly	Beach Samba	Rain Forest
+Wed Apr  1 15:54:07 2015	106	Laurie Johnson	Jason King Theme	Vol. 2-50 Years of the Music of Laurie Johnson
+Wed Apr  1 15:56:09 2015	109	Stanley Black	Melodie D'Amour	Intimate Percussion
+Wed Apr  1 15:58:28 2015	112	John Shakespeare	Bell Hop	Music For TV Dinners
+Wed Apr  1 16:00:52 2015	111	Alvino Rey	Night Train	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 16:04:41 2015	105	Plas Johnson	Pink Panther It Had Better Be	n/a
+Wed Apr  1 16:08:57 2015	103	Dean Elliott & His Big Band	Lonesome Road	Ultra-Lounge, Vol. 3: Space Capades
+Wed Apr  1 16:11:26 2015	107	Tito Rodriguez	Theme From The Apartment	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 16:13:41 2015	106	Percussion & Guitars	Jazz Pizzicato	Easy Rhythms For Your Cocktail Hour
+Wed Apr  1 16:15:48 2015	109	Esquivel	April In Portugal	Cabaret Ma–ana
+Wed Apr  1 16:17:55 2015	109	Armando Trovajoli	Vivere Felici	Easy Tempo Vol. 8 - Cinematica!!
+Wed Apr  1 16:21:11 2015	110	Enoch Light	Good Night Sweetheart-Cha Cha	Provocative Percussion Bachelor Pad Music
+Wed Apr  1 16:23:54 2015	121	Francisco Ulloa	Pancho Mambo	For Films- Selected Tracks For Moving Pictures:Edit 10 (Black)
+Wed Apr  1 16:26:52 2015	120	11 Acorn Lane	Everybody's Here	Everybody's Here
+Wed Apr  1 16:29:47 2015	121	Henri Rene & His Orchestra	Oh, Lady Be Good	Riot in Rhythm
+Wed Apr  1 16:32:03 2015	126	Perrey & Kingsley	Toy Balloons	The Essential Perrey & Kingsley
+Wed Apr  1 16:34:06 2015	113	Ferrante & Teicher	Bye Bye Blues	Blast Off!
+Wed Apr  1 16:36:03 2015	112	Sir Julian	Movin' At Midnight	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 16:39:25 2015	111	Joe Bucci Trio	Topsy	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 16:41:36 2015	112	Arthur Lyman	Anna	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 16:43:27 2015	116	Mongo Santamaria	Que Maravilloso	!Sabroso!
+Wed Apr  1 16:46:26 2015	113	Leo Addeo	Stumbling	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 16:48:28 2015	115	Dave Barbour	Mambo Jambo (Que Rico El Mambo)	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 16:51:25 2015	115	Martin Denny	Jungle Flower (Original Version)	The Very Best Of Martin Denny - The Exotic Sounds
+Wed Apr  1 16:53:06 2015	117	Dukes Of Dixieland	Saints	On Bourbon Street with the Dukes of Dixieland Vol 4
+Wed Apr  1 16:58:41 2015	116	Tetris	White Russian	Tetris
+Wed Apr  1 17:06:21 2015	112	Ennio Morricone	Metti Una Sera A Cena	Bossa Galore - Lounge At Cinevox
+Wed Apr  1 17:10:31 2015	113	Jack Beaver	Workaday World	Music For TV Dinners
+Wed Apr  1 17:11:45 2015	114	Maurice Montez	Star Fall	The Groovy Organ Goes Romantic
+Wed Apr  1 17:13:51 2015	112	John Buzon Trio	I Can't Believe That You're In Love With Me	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 17:16:27 2015	111	Hugo Montenegro	The Wiggely Pig Walk	More Music From The Man From U.N.C.L.E.
+Wed Apr  1 17:18:29 2015	112	Lena Horne	Watch What Happens	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Wed Apr  1 17:22:00 2015	107	Peter Thomas	Monster	Futuremuzik
+Wed Apr  1 17:24:28 2015	109	Antonio Carlos Jobim	Tide	Tide
+Wed Apr  1 17:28:11 2015	113	Henry Mancini	Baby Elephant Walk	Midnight, Moonlight & Magic: The Very Best Of Henry Mancini
+Wed Apr  1 17:30:51 2015	110	Alan Hawkshaw	Convenience Shopping	Music For T.V. Dinners-The 60's
+Wed Apr  1 17:31:57 2015	109	Perez Prado	Mambo	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 17:34:46 2015	110	Ethel Smith	Tico Tico	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 17:36:46 2015	110	Astrud Gilberto & Walter Wanderley	Goodbye Sadness (Tristeza)	A Certain Smile A Certain Sadness
+Wed Apr  1 17:40:09 2015	109	Les Baxter	Balinese Bongos	Ultra-Lounge Vol. 17: Bongo Land
+Wed Apr  1 17:43:09 2015	107	Keith Mansfield	Young Scene	KPM 1000 Series: Flamboyant Themes (Volume 1)
+Wed Apr  1 17:44:27 2015	107	Walter Wanderly	Summer Samba	Samba Swing
+Wed Apr  1 17:47:29 2015	109	Nelson Riddle & His Orchestra	Naked City Theme	Ultra-Lounge Vol. 13 - TV Town
+Wed Apr  1 17:49:34 2015	107	Mel Torme	Sunshine Superman	Ultra-Lounge - On The Rocks, part one
+Wed Apr  1 17:52:27 2015	108	Bob Crewe Generation	Let's Hang On	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 17:55:34 2015	107	Stanley Black	Memories Are Made Of This	Intimate Percussion
+Wed Apr  1 17:58:31 2015	105	Don Tiki	El Producto	Skinny Dip With Don Tiki
+Wed Apr  1 18:01:36 2015	103	Syd Dale	The Penthouse Suite	The Sound Gallery Vol. 1
+Wed Apr  1 18:03:26 2015	105	Dave Pell	Like Young	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 18:06:15 2015	107	Esquivel	Limehouse Blues	Cabaret Ma–ana
+Wed Apr  1 18:08:28 2015	108	Tito Rodriguez	The Magnificent Seven	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 18:10:29 2015	106	Enoch Light	Aloha Oe	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 18:12:39 2015	103	Leroy Holmes	Mah-Na, Mah Na	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 18:15:13 2015	106	Perkins, Bill	Samba De Orfeu	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 18:17:41 2015	108	Peggy Lee, George Shearing	Always True To You In My Fashion	Cocktails With Cole Porter
+Wed Apr  1 18:19:34 2015	108	Dick Hyman	Give It Up Or Turn It Loose	Best Of Moog: Electronic Pop Hits From The 60's And 70's
+Wed Apr  1 18:22:39 2015	108	Henri Rene & His Orchestra	Time On My Hands	Riot in Rhythm
+Wed Apr  1 18:24:56 2015	109	Ferrante & Teicher	Love	Blast Off!
+Wed Apr  1 18:26:55 2015	109	Arthur Lyman	Moon Over A Ruined Castle	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Wed Apr  1 18:30:08 2015	108	Billy May & His Orchestra	Patricia	Ultra-Lounge, Volume 11: Organs in Orbit (Compilation)
+Wed Apr  1 18:32:28 2015	109	Jackie Davis	Love Is Just Around The Corner	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 18:34:54 2015	105	Pink Martini	Ohayoo Ohio	Splendor in the Grass
+Wed Apr  1 18:39:31 2015	104	Martin Denny	Moonlight And Shadows	The Very Best Of Martin Denny - The Exotic Sounds
+Wed Apr  1 18:42:29 2015	106	Milt Buckner	The Beast	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 18:44:38 2015	110	Que Cosa	Borrachacha	Viejo Amor
+Wed Apr  1 18:47:27 2015	108	Terry Snider	Oye Negra	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 18:49:57 2015	106	King Curtis	Melancholy Serenade	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Wed Apr  1 18:52:09 2015	104	Alan Hawkshaw & Keith Mansfield	Piccadilly Night Ride	KPM 1000 Series: Soul Organ Showcase
+Wed Apr  1 18:53:29 2015	106	Sonny Lester, His Orchestra & Chorus	Salome's Veil	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 18:55:50 2015	104	Don Costa	Never On Sunday	All-Time Great Instrumental Hits - Vol. 1
+Wed Apr  1 18:58:38 2015	109	Vicki Lane	You Hit The Spot	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Wed Apr  1 19:00:30 2015	105	Jack Costanzo	Twang	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 19:03:21 2015	102	Hugo Montenegro	Sandels Only	More Music From The Man From U.N.C.L.E.
+Wed Apr  1 19:05:37 2015	108	Otto Sieben	Curley Shirley	Music For TV Dinners
+Wed Apr  1 19:08:28 2015	109	Henry Mancini	Hangin' Out (From The Film 99 And 44, 100% Dead)	n/a
+Wed Apr  1 19:10:46 2015	108	Alan Hawkshaw	Blue Note	Mo'Hawk - The Essential Vibes & Grooves 1967+1975
+Wed Apr  1 19:14:56 2015	110	Billy May & Les Baxter	Cherry Pink And Apple Blossom White	Ultra-Lounge, Volume 17: Bongo Land (Compilation)
+Wed Apr  1 19:20:25 2015	112	Maya Casabianca	Zou Bisou Bisou	Les Chansons de ma jeunesse
+Wed Apr  1 19:22:39 2015	111	David Carroll And His Orchestra	Irene	Let's Dance Again
+Wed Apr  1 19:24:56 2015	107	Raymond Scott	Someone To Watch Over Me	The Secret 7: "The Unexpected"
+Wed Apr  1 19:27:07 2015	107	John Buzon Trio	Diga Diga Doo	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 19:29:24 2015	107	Ethel Smith	Perfidia	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 19:31:45 2015	107	Maurice Montez	Stella By Starlight	The Groovy Organ Goes Romantic
+Wed Apr  1 19:34:51 2015	107	Antonio Carlos Jobim	Remember	Tide
+Wed Apr  1 19:38:46 2015	110	Les Baxter	Calcutta	Ultra-Lounge, Vol. 3: Space Capades
+Wed Apr  1 19:40:53 2015	110	Walter Wanderly	O Ganso	Samba Swing
+Wed Apr  1 19:43:41 2015	111	Vickers Mike	On The Brink	The Sound Gallery Volume 2
+Wed Apr  1 19:46:00 2015	112	Stanley Black	Adieu Tristesse	Intimate Percussion
+Wed Apr  1 19:48:54 2015	113	Astrud Gilberto & Walter Wanderley	Voce Ja Foi Bahia	A Certain Smile A Certain Sadness
+Wed Apr  1 19:51:15 2015	109	Esquivel	Lullaby Of Birdland	Infinity In Sound
+Wed Apr  1 19:53:14 2015	107	Enoch Light	The Breeze And I	Persuasive Percussion (Bachelor Pad Music)
+Wed Apr  1 19:55:32 2015	107	David Lindup	In The Limelight	Music For TV Dinners
+Wed Apr  1 19:57:11 2015	107	Duke Ellington	Absinthe	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 19:59:52 2015	110	Andre Popp	La Cumparsita	Delerium in HI-Fi
+Wed Apr  1 20:02:28 2015	110	Guitars Unlimited Plus 7, The	Crazy Rhythm	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 20:04:37 2015	108	Redtenbacher's Funkestra	The Return Of The Manbag	Redtenbacher's Hausmusik
+Wed Apr  1 20:09:31 2015	105	Bob Crewe Generation	Music To Watch Girls By	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 20:12:26 2015	104	Mongo Santamaria	Mambo De Cuco	!Sabroso!
+Wed Apr  1 20:16:24 2015	97	Ferrante & Teicher	Adios	Hot Latin Nights
+Wed Apr  1 20:19:26 2015	97	Blue Rhythm Festival	Piero Piccioni	Beat Vol. 2 - Lounge At Cinevox
+Wed Apr  1 20:24:33 2015	98	Dick Schory's Percussion And B	Runnin' Wild	n/a
+Wed Apr  1 20:27:00 2015	100	Arthur Lyman	China Clipper	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Wed Apr  1 20:29:23 2015	107	Sondi Sodasi	Love Dance	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Wed Apr  1 20:31:33 2015	103	11 Acorn Lane	Mr Mambo (Instrumental Melody)	Everybody's Here
+Wed Apr  1 20:34:33 2015	103	Sir Julian	Dansero	Music For A Bachelor's Den - Volume 3
+Wed Apr  1 20:36:47 2015	101	Henri Rene & His Orchestra	Punctuated Performance	The History Of Space Age Pop, Volume 3: The Stereo Action Dimension (Compilation)
+Wed Apr  1 20:39:37 2015	100	Les Baxter, His Chorus And Orchestra	Simba	Music for a Bachelor's Den, Vol. 2: Exotica
+Wed Apr  1 20:42:15 2015	99	Martin Denny	Quiet Village	Coconut Cream of Martin Denny
+Wed Apr  1 20:44:54 2015	99	Perez Prado	Why Wait	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 20:47:08 2015	101	Sid Bass	Chant Of The Jungle	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Wed Apr  1 20:50:27 2015	99	Mr. Ho's Orchestrotica	Frenesi	The Unforgettable Sounds Of Esquivel
+Wed Apr  1 20:52:44 2015	95	Joe Loco	Nightmare	Ultra-Lounge Vol. 17: Bongo Land
+Wed Apr  1 20:55:29 2015	95	Joey Altruda & The Cocktail Cr	Apt. 8c	n/a
+Wed Apr  1 20:59:24 2015	97	Gerhard Narholz	Speaking Guitar	Music For TV Dinners
+Wed Apr  1 21:01:32 2015	98	Cozy Cole	Topsy, Part 2	All Time Great Instrumental Hits Volume 2
+Wed Apr  1 21:05:02 2015	100	Bob Thompson, His Chorus And O	Ain't We Got Fun	n/a
+Wed Apr  1 21:07:31 2015	99	Simon Park Orchestra	Up To Date	The Sound Gallery Volume 2
+Wed Apr  1 21:09:24 2015	99	Walter Wanderley	Que Sabe Voce De Mim	Ultra-Lounge, Volume 14: Bossa Novaville
+Wed Apr  1 21:11:34 2015	100	Three Suns	Johnson Rag	1949-1956
+Wed Apr  1 21:13:47 2015	102	Henry Mancini	Something For Sellers	Martinis With Mancini
+Wed Apr  1 21:16:34 2015	102	Maurice Montez	The Groovy Organ	The Groovy Organ Goes Romantic
+Wed Apr  1 21:18:38 2015	105	John Buzon Trio	Squatty Roo	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 21:20:39 2015	105	Zofka	Une Derniere Fois	Bikini
+Wed Apr  1 21:26:35 2015	106	Hugo Montenegro	Theme For Irma	The Young Beat Of Rome/Candy's Theme And Other Sweets
+Wed Apr  1 21:29:01 2015	106	Ernie Freeman Group	Fever, Comin' Home Baby	Ultra-Lounge Volume 11: Organs In Orbit
+Wed Apr  1 21:34:51 2015	106	Ennio Morricone	Meglio Stasera (Vocals Miranda Martino) (1964)	Easy Tempo: End Titles
+Wed Apr  1 21:36:58 2015	105	Ray Conniff And His Orchestra And Chorus	Caravan	Easy Rhythms For Your Cocktail Hour
+Wed Apr  1 21:39:07 2015	105	Esquivel	Boulevard Of Broken Dreams	Exploring New Sounds In Stereo/Strings Aflame
+Wed Apr  1 21:42:05 2015	103	Walter Wanderly	Agua De Beber	Samba Swing
+Wed Apr  1 21:44:37 2015	101	Stanley Black	Theme From 'Limelight'	Intimate Percussion
+Wed Apr  1 21:46:39 2015	98	Alan Hawkshaw	Holiday Commercial	Music For T.V. Dinners-The 60's
+Wed Apr  1 21:47:45 2015	99	Enoch Light	Love For Sale	Provocative Percussion Bachelor Pad Music
+Wed Apr  1 21:50:52 2015	97	Andre Popp	La Java Des Bombes Atomiques	Delerium in HI-Fi
+Wed Apr  1 21:53:29 2015	97	John La Salle Quartet	Potluck	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 21:56:47 2015	97	Los Brasilios Featuring Alberto On The Marimbas & The Juan Mora	Carol's Theme	n/a
+Wed Apr  1 21:59:23 2015	96	David Carroll And His Orchestra	Cha-Cha Panecas	Let's Dance Again
+Wed Apr  1 22:02:29 2015	94	Les Baxter	Shooting Star, Jungalero	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 22:07:43 2015	93	Ferrante & Teicher	Tico Tico	Hot Latin Nights
+Wed Apr  1 22:10:47 2015	94	Ethel Smith	April In Portugal	The Fabulous Organ Music Of Ethel Smith
+Wed Apr  1 22:13:28 2015	92	Bob Crewe Generation	Anna	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Wed Apr  1 22:16:47 2015	92	Out-Islanders	Ebb Tide	Ultra-Lounge Volume 12: Saxophobia
+Wed Apr  1 22:18:53 2015	90	Arthur Lyman	Misirlou	Taboo
+Wed Apr  1 22:21:48 2015	92	Jean Jacques Perrey	Ballet Intersideral	Moog Sensations
+Wed Apr  1 22:25:10 2015	92	Denny Mclain	Watch What Happens	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Wed Apr  1 22:26:57 2015	92	Ray Anthony And His Orchestra, Dickie Harrell, Rolley Polley	Rock-Cha-Rhumba	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Wed Apr  1 22:33:57 2015	96	Ray Martin	Lullaby Of The Leaves	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 22:36:21 2015	94	Martin Denny	Cubano Chant	Ultra Lounge
+Wed Apr  1 22:38:37 2015	93	Syd Dale	Mexican Ding Dong	Music For T.V. Dinners-The 60's
+Wed Apr  1 22:40:53 2015	94	Ortica	Paolini	n/a
+Wed Apr  1 22:42:44 2015	93	Wolfgang Kaltenbach	Party Shaker	Music For T.V. Dinners-The 60's
+Wed Apr  1 22:45:27 2015	97	Dimitri From Paris	Monsieur Dimitri Joue Du Stylophone	Sacrebleu
+Wed Apr  1 22:46:27 2015	99	11 Acorn Lane	Martini	Painting Coconuts
+Wed Apr  1 22:48:32 2015	96	Jack Costanzo	Guantanamera	Mr. Bongo
+Wed Apr  1 22:51:21 2015	96	Terry Snider	Deep Night, Softly As In A Morning Sunrise	Ultra-Lounge Vol. 17: Bongo Land
+Wed Apr  1 22:56:46 2015	100	Melachrino Strings And Orc	Flirtation Waltz	n/a
+Wed Apr  1 22:59:42 2015	99	Tony Hatch	La Paloma	n/a
+Wed Apr  1 23:02:24 2015	105	Luis Oliveira And His Bandodalua Boys	Chihuahua	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 23:04:26 2015	103	Jonah Jones Quartet	Blue Danube Rock	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 23:06:28 2015	101	Kava Kon	Palace Of The Tiger Women	Tiki for the Atomic Age
+Wed Apr  1 23:08:46 2015	102	New Classic Singers	Call Me	Ultra-Lounge Volume Eight: Cocktail Capers
+Wed Apr  1 23:10:55 2015	105	Daniele Luppi	La Nudista	Far Out: Swinging Bachelor Pad Music
+Wed Apr  1 23:14:26 2015	105	Henry Mancini	Something For Cat	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Wed Apr  1 23:17:25 2015	105	Gordon Jenkins	Caravan (Instrumental) (1996 D	Gordon Jenkins Presents Marshall Royal
+Wed Apr  1 23:19:36 2015	108	Paris Studio Group	Accroche Toi, Caroline	The Sound Gallery Volume 2
+Wed Apr  1 23:22:25 2015	104	Gillian Hills	Le Paradis Pour Toi	Twistin'The Rock Vol 9
+Wed Apr  1 23:24:33 2015	107	Jackie Davis	Glow Worm Cha-Cha-Cha	Ultra-Lounge Vol. 2: Mambo Fever
+Wed Apr  1 23:26:39 2015	105	Henri Rene & His Orchestra	Hansel And Pretzel	Riot in Rhythm
+Wed Apr  1 23:30:06 2015	106	Esquivel	Mucha Muchacha	Latin-Esque
+Wed Apr  1 23:32:27 2015	106	Walter Wanderly	O Menino Decse O Morro	Samba Swing
+Wed Apr  1 23:35:23 2015	106	Markko Polo Adventurers	Scheherazade	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Wed Apr  1 23:38:08 2015	102	Terry Snyder	Guys And Dolls	Ultra-Lounge Vol. 18 - Bottoms Up!
+Wed Apr  1 23:39:59 2015	98	Hugo Montenegro	Solo Busanova	More Music From The Man From U.N.C.L.E.
+Wed Apr  1 23:42:02 2015	97	Renegade Soundwave	Positive Id (Remix Bertrand)	The Genius of Bertrand Burgalat
+Wed Apr  1 23:46:38 2015	104	Enoch Light	Fascinating Rythm	Provocative Percussion Bachelor Pad Music
+Wed Apr  1 23:49:19 2015	107	Mr. Ho's Orchestrotica	The Boulevard Of Broken Dreams	The Unforgettable Sounds Of Esquivel
+Wed Apr  1 23:52:38 2015	103	Bernie Green	Ping Pong	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Wed Apr  1 23:55:34 2015	103	Brother Jack Mc Duff	The Shadow Of Your Smile	n/a
+Wed Apr  1 23:59:21 2015	103	Ferrante & Teicher	Quizas, Quizas, Quizas	Hot Latin Nights
+Thu Apr  2 00:02:39 2015	100	Bob Thompson, His Choir & Orchestra	Diga Diga Doo	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Thu Apr  2 00:05:17 2015	102	Stanley Black	No Other Love	Intimate Percussion
+Thu Apr  2 00:07:43 2015	101	Richard Hayman	The Girl From Ipanema	Easy Rhythms For Your Cocktail Hour
+Thu Apr  2 00:10:57 2015	102	Terry Snyder And Earl Palmer	Binga Banga Bongo, Percolator	Ultra-Lounge Volume Eight: Cocktail Capers
+Thu Apr  2 00:15:35 2015	105	Raymond Scott	A Message From Where	The Secret 7: "The Unexpected"
+Thu Apr  2 00:18:05 2015	106	Maurice Montez	We Found Our Paradise	The Groovy Organ Goes Romantic
+Thu Apr  2 00:20:40 2015	104	Arthur Lyman	Bahia	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Thu Apr  2 00:23:34 2015	106	Martin Denny	Strange Music	The Very Best Of Martin Denny - The Exotic Sounds
+Thu Apr  2 00:25:41 2015	108	Ethel Smith	Just One Of Those Things	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 00:27:35 2015	108	Syd Dale	Beauty Parade	Music For T.V. Dinners-The 60's
+Thu Apr  2 00:29:35 2015	108	Astrud Gilberto & Walter Wanderley	Here's That Rainy Day	A Certain Smile A Certain Sadness
+Thu Apr  2 00:32:13 2015	111	Don Tiki	Primitiva	Skinny Dip With Don Tiki
+Thu Apr  2 00:35:17 2015	112	Yma Sumac	Gopher Mambo	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 00:37:32 2015	110	Andre Popp	Java	Delerium in HI-Fi
+Thu Apr  2 00:40:24 2015	107	Robert Maxwell, His Harp & His Orchestra	Poinciana (Song Of The Tree)	Music for a Bachelor's Den, Vol. 2: Exotica
+Thu Apr  2 00:42:53 2015	108	Sir Julian	Caravan	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Thu Apr  2 00:46:29 2015	106	Frank Hunter And His Orchestra	Ritual Of The Torch	Music for a Bachelor's Den, Vol. 2: Exotica
+Thu Apr  2 00:49:06 2015	110	11 Acorn Lane	Painting Coconuts	Painting Coconuts
+Thu Apr  2 00:51:24 2015	108	John Buzon Trio	I'll Wind	Inferno!
+Thu Apr  2 00:53:24 2015	110	Alan Hawkshaw	Girl In A Sportscar	The Sound Gallery Vol. 1
+Thu Apr  2 00:55:00 2015	111	Lex Baxter	Go Chango	Ultra-Lounge: Tiki Sampler
+Thu Apr  2 00:58:17 2015	113	Les Baxter	Lunar Rhapsody	Ultra-Lounge Volume Six: Rhapsodesia
+Thu Apr  2 01:01:22 2015	113	Dimitri From Paris	Un Woman's Paradise	Sacrebleu
+Thu Apr  2 01:04:28 2015	113	Bob Crewe Generation	Barbarella	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Thu Apr  2 01:07:27 2015	111	Henry Mancini	It Had Better Be Tonight	Martinis With Mancini
+Thu Apr  2 01:09:08 2015	112	Johnny Pearson	Sports Car Special	The Sound Gallery Volume 2
+Thu Apr  2 01:10:38 2015	113	Billy May	Leroy Holmes	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Thu Apr  2 01:15:56 2015	114	Tony Hatch	Chick	Tony Hatch: Look For A Star 1959-62
+Thu Apr  2 01:18:10 2015	115	Jean Jacques Perrey	Frere Jean-Jacques	The Amazing New Electronic Pop Sound Of Jean Jacques Perrey [Quadraphonic]
+Thu Apr  2 01:20:40 2015	117	Esquivel	Mini Skirt	Cabaret Ma–ana
+Thu Apr  2 01:22:59 2015	115	David Carroll And His Orchestra	Bouncing Ball	Let's Dance Again
+Thu Apr  2 01:25:19 2015	117	Orizaba And His Orchestra	Boo Qui Woo Qui	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 01:27:32 2015	119	Louis Armstrong	High Society Calypso	Cocktails With Cole Porter
+Thu Apr  2 01:29:43 2015	120	Terry Snyder	Once In A While	Music For A Bachelor's Den, Vol. 1
+Thu Apr  2 01:32:32 2015	122	Gillian Hills	Prys De La Cascade	n/a
+Thu Apr  2 01:34:45 2015	122	Enoch Light	The Lady Is A Tramp	Provocative Percussion Bachelor Pad Music
+Thu Apr  2 01:37:06 2015	120	Walter Wanderly	Cheganca (The Great Arrival)	Samba Swing
+Thu Apr  2 01:39:58 2015	121	Mr. Ho's Orchestrotica	Take The A Train	The Unforgettable Sounds Of Esquivel
+Thu Apr  2 01:42:03 2015	118	Bernie Green	Under Paris Skies (Sous Le Cie	n/a
+Thu Apr  2 01:44:08 2015	115	Leo Addeo	Love Is Just Around The Corner	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 01:46:47 2015	117	Ferrante & Teicher	Anthony & Cleopatra Theme	Greatest Hits
+Thu Apr  2 01:49:51 2015	118	Denny Mc Lain	The Girl From Ipenema [Meditation]	n/a
+Thu Apr  2 01:53:10 2015	119	Henry Jerome	Uptight (Everything's Alright)	Ultra-Lounge - On The Rocks, part one
+Thu Apr  2 01:56:06 2015	119	Walter Wanderley	A Nega Se Vingou	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 01:58:43 2015	120	Dean Martin	True Love	Cocktails With Cole Porter
+Thu Apr  2 02:01:12 2015	118	Perez Prado	Zelda's Theme	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 02:03:21 2015	116	Arthur Lyman	Kinkajou	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Thu Apr  2 02:05:40 2015	117	Henri Rene & His Orchestra	Chinatown, My Chinatown	Riot in Rhythm
+Thu Apr  2 02:08:42 2015	117	Martin Denny	Firecracker	Exotic Sounds of
+Thu Apr  2 02:11:07 2015	114	Mongo Santamaria	Pachanga Pa Ti	!Sabroso!
+Thu Apr  2 02:13:10 2015	118	Astrud Gilberto & Walter Wanderley	Nega Do Cabelo Duro	A Certain Smile A Certain Sadness
+Thu Apr  2 02:15:58 2015	121	Alan Moorhouse	That's Nice	The Sound Gallery Volume 2
+Thu Apr  2 02:17:35 2015	121	Mallet Men	Dark Eyes And It Happened In Monterey	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 02:22:52 2015	126	Stanley Black	Old Devil Moon	Intimate Percussion
+Thu Apr  2 02:25:00 2015	123	Manfred Minnich	Shopping Centre	Music For T.V. Dinners-The 60's
+Thu Apr  2 02:27:31 2015	121	Maurice Montez	Lover's Dream	The Groovy Organ Goes Romantic
+Thu Apr  2 02:30:21 2015	119	Up To Date	Gli Ordini Sono Ordini (The Orders Are The Orders)	Beat Vol. 1 - Lounge At The Cinevox
+Thu Apr  2 02:31:42 2015	118	Francis Lai	Marseillaise Generique	The Sound Gallery Volume 2
+Thu Apr  2 02:33:33 2015	117	Syd Dale	Miss World	The Sound Gallery Volume 2
+Thu Apr  2 02:35:03 2015	117	John Buzon Trio	Mambo Rock	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 02:37:41 2015	116	Alan Hawkshaw	Dave Allen At Large	Mo'Hawk - The Essential Vibes & Grooves 1967+1975
+Thu Apr  2 02:38:58 2015	116	Ethel Smith	Carioca	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 02:41:47 2015	116	Plas Johnson	Pink Panther It Had Better Be	n/a
+Thu Apr  2 02:46:05 2015	113	Hugo Montenegro	Guaglione	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 02:48:54 2015	113	Henry Mancini	Springtime For Hitler	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Thu Apr  2 02:50:23 2015	113	Laurie Johnson	Happy Go Lively	Music For TV Dinners
+Thu Apr  2 02:52:14 2015	112	Mel Henke	The Lively Ones	La Dolce Henke
+Thu Apr  2 02:55:14 2015	113	Pyrez Prado	Moniter Mambo	n/a
+Thu Apr  2 02:57:25 2015	108	Three Suns, The	Danny's Inferno	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 02:59:45 2015	107	Esquivel	Bye-Bye Blues	Infinity In Sound
+Thu Apr  2 03:02:13 2015	105	Dean Elliott & His Big Band	You're The Top	Ultra-Lounge, Vol. 3: Space Capades
+Thu Apr  2 03:04:22 2015	105	Combustible Edison	Intermission	I, Swinger
+Thu Apr  2 03:08:05 2015	112	Bob Crewe Generation	A Felicidade [Theme From Black Orpheus]	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Thu Apr  2 03:10:46 2015	114	Tony Hatch	Two-Some	n/a
+Thu Apr  2 03:12:48 2015	112	Enoch Light	Blues In The Night	Provocative Percussion Bachelor Pad Music
+Thu Apr  2 03:17:19 2015	119	Milt Buckner	Late, Late Show	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 03:20:42 2015	119	Chuy Reyes & His Orchestra	Oink, Oink Mambo	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 03:23:43 2015	120	Jean Jacques Perrey	Island In Space	The Amazing New Electronic Pop Sound Of Jean Jacques Perrey [Quadraphonic]
+Thu Apr  2 03:26:27 2015	118	Jack Costanzo	La Cumparsa, Harlem Nocturne	Ultra-Lounge Vol. 17: Bongo Land
+Thu Apr  2 03:32:30 2015	119	Jackie Davis	Manana (Is Soon Enough For Me)	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 03:34:58 2015	119	Les Paul	Whispering	All-Time Great Instrumental Hits - Vol. 1
+Thu Apr  2 03:36:51 2015	115	Ferrante & Teicher	Quien Sera	Hot Latin Nights
+Thu Apr  2 03:39:56 2015	114	Sir Julian	A Man And A Woman	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 03:42:32 2015	114	Don Costa	The Misfits	Ultra-Lounge Volume 12: Saxophobia
+Thu Apr  2 03:44:59 2015	113	Antonio Carlos Jobim	Takatanga	Tide
+Thu Apr  2 03:49:37 2015	118	Walter Wanderly	The Girl From Ipanema	Rain Forest
+Thu Apr  2 03:52:09 2015	121	Arthur Lyman	Taboo	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Thu Apr  2 03:56:51 2015	121	Andre Popp	La Polka Du Colonel	Delerium in HI-Fi
+Thu Apr  2 03:59:27 2015	120	11 Acorn Lane	The Sneak	Painting Coconuts
+Thu Apr  2 04:02:29 2015	121	Martin Denny	Harlem Nocturne	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 04:04:52 2015	121	Les Baxter	Milord	Ultra-Lounge Volume Ten: A Bachelor In Paris
+Thu Apr  2 04:07:41 2015	118	Walter Scharf	The Giuoco Piano Affair	The Man From U.N.C.L.E. Vol. 2
+Thu Apr  2 04:11:15 2015	120	Raymond Scott	Temptation	The Secret 7: "The Unexpected"
+Thu Apr  2 04:13:26 2015	120	Neil Richardson	Rio Magic	Music For T.V. Dinners-The 60's
+Thu Apr  2 04:14:55 2015	122	Dimitri From Paris	Sacre Francais	Sacrebleu
+Thu Apr  2 04:19:43 2015	123	Stanley Black	When The Saints Go Marching In	Intimate Percussion
+Thu Apr  2 04:21:28 2015	123	Keith Mansfield	Sporting Highlights	Music For T.V. Dinners-The 60's
+Thu Apr  2 04:23:29 2015	122	Alvino Rey	Night Train	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 04:26:55 2015	123	Henry Jerome	Moon River	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Thu Apr  2 04:29:35 2015	120	Syd Dale	The Riviera Set	Music For T.V. Dinners-The 60's
+Thu Apr  2 04:31:55 2015	121	David Carroll And His Orchestra	Adios	Let's Dance Again
+Thu Apr  2 04:34:49 2015	119	Agents & Frank Pourcel	Casino Royale	Ultra-Lounge: Tiki Sampler (Compilation)
+Thu Apr  2 04:40:10 2015	123	Tony Bennett	I Get A Kick Out Of You	The Beat of My Heart
+Thu Apr  2 04:43:11 2015	120	Henry Mancini	The Sex Symbol (Theme From The TV Movie)	n/a
+Thu Apr  2 04:45:31 2015	114	Orchestra Dei Concerti Di Roma Paul Baron	Star Fire (Jet Plane)	The Sound of Speed
+Thu Apr  2 04:48:06 2015	116	Freddy Martin & His Orchestra	Bubbles In The Wine	Ultra-Lounge Vol. 13 - TV Town
+Thu Apr  2 04:50:45 2015	116	Gillian Hills	Zou Bisou Bisou	Twistin'The Rock Vol 9
+Thu Apr  2 04:52:49 2015	116	Ethel Smith	Brazil	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 04:55:09 2015	114	Twin Pianos Of Henri Rose And Bobby Stevenson	Cumana	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 04:58:17 2015	117	Esquivel	Primavera	More Of Other Worlds, Other Sounds
+Thu Apr  2 05:00:35 2015	116	Laurie Johnson	Gala Performance	Music For TV Dinners
+Thu Apr  2 05:02:24 2015	115	Bob Thompson, His Choir & Orchestra	The Little Black Box	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Thu Apr  2 05:04:44 2015	113	A.Brugnolini	Silvana (Bossanova)	n/a
+Thu Apr  2 05:08:30 2015	115	Joe 'Fingers' Carr	Portuguese Washerwomen	All-Time Great Instrumental Hits - Vol. 1
+Thu Apr  2 05:10:47 2015	116	Enoch Light	Hernando's Hideaway	Provocative Percussion Bachelor Pad Music
+Thu Apr  2 05:13:48 2015	119	Tony Hatch	Theme From Rosemary	Tony Hatch: Look For A Star 1959-62
+Thu Apr  2 05:16:02 2015	121	Ady Zehnpfennig	Easter Afternoon	Puppet Jazz
+Thu Apr  2 05:19:30 2015	120	Don Baker Trio	Third Man Theme	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 05:21:29 2015	119	Brian Fahey	Open House	The Sound Gallery Volume 2
+Thu Apr  2 05:23:47 2015	118	Zofka	Bikini Lounge	Bikini
+Thu Apr  2 05:27:34 2015	118	Hugo Montenegro	Perfidia	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 05:29:47 2015	120	Esquivel	Jalousie	Infinity In Sound
+Thu Apr  2 05:32:30 2015	120	Maurice Montez	Moon River	The Groovy Organ Goes Romantic
+Thu Apr  2 05:36:42 2015	126	Martin Denny	The Carioca	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 05:39:29 2015	127	Enoch Light	Whatever Lola Wants	Persuasive Percussion (Bachelor Pad Music)
+Thu Apr  2 05:41:49 2015	128	Ferrante & Teicher	Amor	Hot Latin Nights
+Thu Apr  2 05:45:32 2015	129	Stanley Black	Mr. Wonderful	Intimate Percussion
+Thu Apr  2 05:48:35 2015	129	Walter Wanderly	The Great Love	Rain Forest
+Thu Apr  2 05:51:31 2015	135	Arthur Lyman	Caravan	Taboo
+Thu Apr  2 05:53:45 2015	133	Henry Mancini	Mr. Lucky	Martinis With Mancini
+Thu Apr  2 05:55:59 2015	134	George Melachrino	El Relicario	Melachrino's Magic Strings
+Thu Apr  2 05:58:39 2015	131	Bob Crewe Generation	Theme From A Man And A Woman	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Thu Apr  2 06:02:07 2015	135	11 Acorn Lane	Two Little Dreamers	Happy As Can Be
+Thu Apr  2 06:05:16 2015	133	Les Baxter	I Dig	Ultra-Lounge Volume 12: Saxophobia
+Thu Apr  2 06:08:31 2015	132	Ethel Smith	Dear Heart	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 06:10:50 2015	131	Billy May	The Look Of Love	Ultra Lounge
+Thu Apr  2 06:13:28 2015	129	King Curtis	Watermelon Man	Ultra-Lounge Volume 12: Saxophobia
+Thu Apr  2 06:15:51 2015	128	Andy Williams	Music To Watch Girls By	The very best of Andy Williams
+Thu Apr  2 06:18:37 2015	123	Scottmen	The Good Word	The Sound Gallery Volume 2
+Thu Apr  2 06:21:08 2015	84	John Shakespeare	Bell Hop	Music For TV Dinners
+Thu Apr  2 06:23:40 2015	123	Perkins, Bill	Samba De Orfeu	Ultra-Lounge Volume 12: Saxophobia
+Thu Apr  2 06:26:08 2015	120	Al De Lory	Evil Ways	Ultra-Lounge - On The Rocks, part one
+Thu Apr  2 06:28:47 2015	126	Mr. Ho's Orchestrotica	Night And Day	The Unforgettable Sounds Of Esquivel
+Thu Apr  2 06:31:24 2015	124	Ennio Morricone	Metti Una Sera A Cena	Bossa Galore - Lounge At Cinevox
+Thu Apr  2 06:35:44 2015	122	Johnny Pearson	Pop March	Music For T.V. Dinners-The 60's
+Thu Apr  2 06:37:53 2015	122	Alan Hawkshaw	The Millionairess	Mo'Hawk - The Essential Vibes & Grooves 1967+1975
+Thu Apr  2 06:40:55 2015	119	Jackie Davis	Perfidia	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 06:43:27 2015	119	Laurie Johnson	Jason King Theme	Vol. 2-50 Years of the Music of Laurie Johnson
+Thu Apr  2 06:45:29 2015	121	Henri Rene & His Orchestra	Roller Coaster	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Thu Apr  2 06:48:12 2015	123	Astrud Gilberto & Walter Wanderley	Who Needs Forever	A Certain Smile A Certain Sadness
+Thu Apr  2 06:50:59 2015	119	Dick Hyman	Aquarius	The Age of Electronicus LP
+Thu Apr  2 06:53:42 2015	117	Jack Costanzo	Chopsticks Mambo	Mr. Bongo
+Thu Apr  2 06:56:09 2015	116	Laurindo Almeida & The Bossa Nova All-Stars	Desafinado	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 06:59:28 2015	119	Hugo Montenegro	Thunderball	The Best Of Spy Flims
+Thu Apr  2 07:01:39 2015	120	Nelson Riddle	The Theme From Route 66	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 07:03:46 2015	118	David Carroll And His Orchestra	Soft Shoe Song	Let's Dance Again
+Thu Apr  2 07:05:54 2015	120	Fantastic Plastic Machine	Dear Mr. Salesman	the Fantastic Plastic Machine
+Thu Apr  2 07:10:07 2015	122	Cool Water Feat. Time Passing	The Shadow Of Your Smile	The Last Night
+Thu Apr  2 07:15:00 2015	125	Tito Rodriguez	The Magnificent Seven	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 07:17:06 2015	126	Mel Torme	Sunshine Superman	Ultra-Lounge - On The Rocks, part one
+Thu Apr  2 07:19:50 2015	126	Mongo Santamaria	Que Maravilloso	!Sabroso!
+Thu Apr  2 07:22:44 2015	126	Esquivel	Todavia	Cabaret Ma–ana
+Thu Apr  2 07:24:35 2015	124	Dave Barbour	Mambo Jambo (Que Rico El Mambo)	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 07:27:26 2015	125	Maurice Montez	Star Fall	The Groovy Organ Goes Romantic
+Thu Apr  2 07:29:41 2015	129	Martin Denny	Martinique	Coconut Cream of Martin Denny
+Thu Apr  2 07:32:24 2015	128	Enoch Light	Brazil	Persuasive Percussion (Bachelor Pad Music)
+Thu Apr  2 07:35:25 2015	128	Stanley Black	Petite Fleur	Intimate Percussion
+Thu Apr  2 07:37:39 2015	128	Ferrante & Teicher	In Monterey	Hot Latin Nights
+Thu Apr  2 07:39:54 2015	131	Peter Thomas Sound Orchestra	Landing On The Moon	Raumpatrouille - Space Patrol
+Thu Apr  2 07:42:58 2015	133	Brian Fahey	At The Sign Of The Swinging Cymbal	The Sound Gallery Volume 2
+Thu Apr  2 07:45:22 2015	133	Henry Mancini	No-Cal Sugar Loaf	Martinis With Mancini
+Thu Apr  2 07:47:08 2015	132	Syd Dale	Disc A Go Go	Music For T.V. Dinners-The 60's
+Thu Apr  2 07:49:46 2015	134	Arthur Lyman	Waikiki Serenade	Taboo
+Thu Apr  2 07:52:32 2015	137	Yma Sumac	Gopher	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 07:54:45 2015	140	Electrik Cokernut	Jeepster	Best Of Moog: Electronic Pop Hits From The 60's And 70's
+Thu Apr  2 07:58:44 2015	137	Terry Snider	Oye Negra	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 08:01:16 2015	138	Ethel Smith	Tico Tico	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 08:03:33 2015	138	Walter Wanderly	Song Of The Jet	Rain Forest
+Thu Apr  2 08:05:43 2015	137	Billy May & His Orchestra	Patricia	Ultra-Lounge, Volume 11: Organs in Orbit (Compilation)
+Thu Apr  2 08:07:49 2015	140	Otto Sieben	Curley Shirley	Music For TV Dinners
+Thu Apr  2 08:10:55 2015	142	Don Tiki	El Producto	Skinny Dip With Don Tiki
+Thu Apr  2 08:14:09 2015	144	Laurindo Almeida	Recado Bossa Nova	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 08:16:54 2015	142	Sir Julian	Movin' At Midnight	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 08:20:01 2015	143	John Buzon Trio	Mr. Ghost Goes To Town	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 08:22:22 2015	142	Nino Rota	Lo Sceicco Binaco	Greatest Hits
+Thu Apr  2 08:23:55 2015	142	Maya Casabianca	Zou Bisou Bisou	Les Chansons de ma jeunesse
+Thu Apr  2 08:26:19 2015	148	Nelson Riddle & His Orchestra	Naked City Theme	Ultra-Lounge Vol. 13 - TV Town
+Thu Apr  2 08:28:43 2015	150	Ennio Morricone	Alla Luce Del Giorno	Metti Una Sera A Cena
+Thu Apr  2 08:31:25 2015	145	Sid Bass	Chant Of The Jungle	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Thu Apr  2 08:34:36 2015	145	11 Acorn Lane	Everybody's Here	Everybody's Here
+Thu Apr  2 08:37:44 2015	142	Don Swan & His Orchestra	Hooray For Hollywood	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 08:40:22 2015	139	Billy May	So Nice (Samba De Verao)	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 08:43:14 2015	140	Jack Beaver	Workaday World	Music For TV Dinners
+Thu Apr  2 08:44:30 2015	144	Peggy Lee, George Shearing	Always True To You In My Fashion	Cocktails With Cole Porter
+Thu Apr  2 08:46:19 2015	145	Que Cosa	Borrachacha	Viejo Amor
+Thu Apr  2 08:49:18 2015	147	Milt Buckner	The Beast	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 08:51:33 2015	148	Jack Costanzo	Caravan	Mr. Bongo
+Thu Apr  2 08:54:34 2015	146	Alan Hawkshaw	Blarney's Stoned	The Sound Gallery Vol. 1
+Thu Apr  2 08:56:32 2015	145	Dean Elliott & His Big Band	Lonesome Road	Ultra-Lounge, Vol. 3: Space Capades
+Thu Apr  2 08:58:45 2015	146	Les Baxter	Atlantis	Ultra-Lounge, Volume 01: Mondo Exotica
+Thu Apr  2 09:01:10 2015	146	Andre Popp	Jalousie	Delerium in HI-Fi
+Thu Apr  2 09:04:55 2015	145	Esquivel	Whatchamacallit	Exploring New Sounds In Stereo/Strings Aflame
+Thu Apr  2 09:07:25 2015	142	Sonny Lester, His Orchestra & Chorus	Salome's Veil	Music for a Bachelor's Den, Vol. 2: Exotica
+Thu Apr  2 09:09:44 2015	142	Robert Maxwell	Shangri-la	Mad Men (Music From The Television Series)
+Thu Apr  2 09:11:45 2015	139	Martin Denny	Manila	The Very Best Of Martin Denny - The Exotic Sounds
+Thu Apr  2 09:14:08 2015	141	Maurice Montez	Lover's Serenade	The Groovy Organ Goes Romantic
+Thu Apr  2 09:16:33 2015	138	Enoch Light	Temptation	Provocative Percussion Bachelor Pad Music
+Thu Apr  2 09:19:34 2015	143	Ferrante & Teicher	Anna	Hot Latin Nights
+Thu Apr  2 09:22:18 2015	140	Wolfgang Kaltenbach	Party Shaker	Music For T.V. Dinners-The 60's
+Thu Apr  2 09:24:52 2015	141	Stanley Black	The Poor People Of Paris	Intimate Percussion
+Thu Apr  2 09:27:11 2015	141	Henri Rene & His Orchestra	Punctuated Performance	The History Of Space Age Pop, Volume 3: The Stereo Action Dimension (Compilation)
+Thu Apr  2 09:29:33 2015	142	Leo Addeo	Stumbling	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 09:31:44 2015	139	Wanda De Sah	So Danco Samba (Jazz 'n' Samba)	Ultra-Lounge: Tiki Sampler
+Thu Apr  2 09:34:09 2015	137	Henry Mancini	Megeue	Martinis With Mancini
+Thu Apr  2 09:37:06 2015	137	Harry Breuer	In A Latin Moog	The Happy Moog
+Thu Apr  2 09:39:01 2015	140	David Carroll And His Orchestra	Swamp Fire	Let's Dance Again
+Thu Apr  2 09:41:40 2015	141	Hugo Montenegro	Illya	All-Time Greatest Movie Themes & Schemes
+Thu Apr  2 09:43:36 2015	143	Arthur Lyman	Tropical	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Thu Apr  2 09:46:36 2015	138	Nancy Wilson	Wave	Ultra-Lounge: Tiki Sampler
+Thu Apr  2 09:49:20 2015	137	Cy Coleman	Pussy Cat	Ultra-Lounge Volume Eight: Cocktail Capers
+Thu Apr  2 09:51:33 2015	137	Walter Wanderly	Voce E Eu	Ultra-Lounge Volume 11: Organs In Orbit
+Thu Apr  2 09:53:45 2015	141	Felix Slatkin	I Get A Kick Out Of You	Easy Rhythms For Your Cocktail Hour
+Thu Apr  2 09:56:00 2015	142	Denny Mc Lain	Cute	n/a
+Thu Apr  2 09:57:44 2015	144	Bob Crewe Generation	Melancholy Serenade	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Thu Apr  2 10:00:20 2015	143	Walter Wanderley	Que Sabe Voce De Mim	Ultra-Lounge, Volume 14: Bossa Novaville
+Thu Apr  2 10:02:31 2015	144	Nelson Riddle	Lolita Ya Ya	Ultra-Lounge Volume Eight: Cocktail Capers
+Thu Apr  2 10:05:11 2015	147	Peter Thomas	Monster	Futuremuzik
+Thu Apr  2 10:07:31 2015	143	Ethel Smith	April In Portugal	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 10:09:58 2015	145	Les Baxter And Bas Sheva	Lust	The Passions
+Thu Apr  2 10:12:42 2015	146	Duke Ellington	Absinthe	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 10:15:15 2015	146	Keith Mansfield	Young Scene	KPM 1000 Series: Flamboyant Themes (Volume 1)
+Thu Apr  2 10:16:44 2015	154	Nino Rota	Amarcord	Greatest Hits
+Thu Apr  2 10:19:08 2015	148	Marcello Gigante	Bossa In California	Bossa Galore - Lounge At Cinevox
+Thu Apr  2 10:21:40 2015	149	Joe Bucci Trio	Topsy	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 10:24:07 2015	158	Dave Pell	Like Young	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 10:26:51 2015	159	Syd Dale	The Penthouse Suite	The Sound Gallery Vol. 1
+Thu Apr  2 10:28:41 2015	159	Jack Costanzo	The Inch Worm	Ultra-Lounge: Tiki Sampler
+Thu Apr  2 10:30:53 2015	158	Markko Polo Adventurers, The	Rain In Rangoon	The History of Space Age Pop Vol 2: Mallets In Wonderland
+Thu Apr  2 10:34:09 2015	151	Jean Jacques Perrey & Dana Countryman	Hernando's Hideaway [Tico Tico]	n/a
+Thu Apr  2 10:37:33 2015	150	Les Baxter	Saturday Night On Saturn	Ultra-Lounge, Vol. 3: Space Capades
+Thu Apr  2 10:38:53 2015	149	Andre Popp	Perles De Cristal	Delerium in HI-Fi
+Thu Apr  2 10:42:16 2015	140	Esquivel	Cielito Lindo	Other Worlds, Other Sounds + Four Corners Of The World
+Thu Apr  2 10:44:45 2015	138	Francisco Ulloa	Pancho Mambo	For Films- Selected Tracks For Moving Pictures:Edit 10 (Black)
+Thu Apr  2 10:48:13 2015	140	Cozy Cole	Topsy, Part 2	All Time Great Instrumental Hits Volume 2
+Thu Apr  2 10:51:35 2015	142	Joe Loco	Nightmare	Ultra-Lounge Vol. 17: Bongo Land
+Thu Apr  2 10:54:12 2015	141	Martin Denny	Cubano Chant	Ultra Lounge
+Thu Apr  2 10:56:45 2015	140	Enoch Light	Dearly Beloved	Persuasive Percussion (Bachelor Pad Music)
+Thu Apr  2 10:59:33 2015	129	Ferrante & Teicher	Dos Amigos	Hot Latin Nights
+Thu Apr  2 11:02:47 2015	132	Liberace	Jalousie (Jealousy)	I'll Be Seeing You - Four Original Albums On Two Cds
+Thu Apr  2 11:04:56 2015	133	Guitars Unlimited Plus 7, The	Crazy Rhythm	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 11:06:53 2015	134	Sondi Sodasi	Love Dance	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Thu Apr  2 11:09:12 2015	129	Dick Schory's Percussion And B	Runnin' Wild	n/a
+Thu Apr  2 11:11:38 2015	131	Henry Mancini	Bijou	Martinis With Mancini
+Thu Apr  2 11:14:43 2015	135	South Sea Serenaders	Taboo	Music for a Bachelor's Den, Vol. 2: Exotica
+Thu Apr  2 11:18:35 2015	130	John Buzon Trio	Squatty Roo	Ultra-Lounge Vol. 18 - Bottoms Up!
+Thu Apr  2 11:20:32 2015	129	Tito Rodriguez	Theme From The Apartment	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Thu Apr  2 11:22:58 2015	129	Hugo Montenegro	Perfidia	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 11:25:30 2015	127	Billy May & Les Baxter	Cherry Pink And Apple Blossom White	Ultra-Lounge, Volume 17: Bongo Land (Compilation)
+Thu Apr  2 11:30:39 2015	133	Stanley Black	Theme From 'A Summer Place'	Intimate Percussion
+Thu Apr  2 11:33:35 2015	132	Henri Rene & His Orchestra	Time On My Hands	Riot in Rhythm
+Thu Apr  2 11:35:31 2015	133	Vickers Mike	On The Brink	The Sound Gallery Volume 2
+Thu Apr  2 11:37:55 2015	133	Don Tiki	Bwana Banana	Skinny Dip With Don Tiki
+Thu Apr  2 11:41:44 2015	126	Astrud Gilberto & Walter Wanderley	So Nice (Summer Samba)	A Certain Smile A Certain Sadness
+Thu Apr  2 11:44:33 2015	129	Yma Sumac	Gopher Mambo	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 11:46:31 2015	129	Alan Hawkshaw	Holiday Commercial	Music For T.V. Dinners-The 60's
+Thu Apr  2 11:47:32 2015	128	Dennis Farnon & His Orchestra	Isle Of Capri	The History of Space Age Pop, Volume 1: Melodies and Mischief
+Thu Apr  2 11:50:57 2015	128	Bob Crewe Generation	Winchester Cathedral	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Thu Apr  2 11:53:34 2015	128	Arthur Lyman	Arrivederci Roma	Music for a Bachelor's Den, Volume 5: The Best of the Arthur Lyman Group
+Thu Apr  2 11:56:46 2015	133	Walter Wanderly	Call Me	Rain Forest
+Thu Apr  2 11:58:49 2015	132	11 Acorn Lane	Mr Mambo (Instrumental)	Everybody's Here
+Thu Apr  2 12:01:41 2015	128	Maurice Montez	That Old Black Magic	The Groovy Organ Goes Romantic
+Thu Apr  2 12:04:49 2015	128	David Carroll And His Orchestra	Bouncing Ball	Let's Dance Again
+Thu Apr  2 12:06:59 2015	131	Jackie Davis	Manana (Is Soon Enough For Me)	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 12:09:32 2015	126	Bernie Green	Ping Pong	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 12:12:36 2015	126	Les Baxter, His Chorus And Orchestra	Simba	Music for a Bachelor's Den, Vol. 2: Exotica
+Thu Apr  2 12:14:55 2015	124	Ray Martin	Lullaby Of The Leaves	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 12:17:08 2015	121	Up To Date	Gli Ordini Sono Ordini (The Orders Are The Orders)	Beat Vol. 1 - Lounge At The Cinevox
+Thu Apr  2 12:18:42 2015	116	Line Renaud	Sexe	Ultra Lounge, Vol.4: Bachelor Pad Royale
+Thu Apr  2 12:22:07 2015	113	Dick Hyman	Caravan	Ultra-Lounge Vol. 17: Bongo Land
+Thu Apr  2 12:24:30 2015	117	Armando Trovajoli	Vivere Felici	Easy Tempo Vol. 8 - Cinematica!!
+Thu Apr  2 12:27:48 2015	115	Esquivel	Take The A Train	Cabaret Ma–ana
+Thu Apr  2 12:30:31 2015	117	George Melachrino	Sand In My Shoes	Melachrino's Magic Strings
+Thu Apr  2 12:32:38 2015	115	Percussion & Guitars	Jazz Pizzicato	Easy Rhythms For Your Cocktail Hour
+Thu Apr  2 12:34:41 2015	112	Les Baxter	Balinese Bongos	Ultra-Lounge Vol. 17: Bongo Land
+Thu Apr  2 12:37:44 2015	115	Martin Denny	Moonlight And Shadows	The Very Best Of Martin Denny - The Exotic Sounds
+Thu Apr  2 12:40:40 2015	117	Enoch Light	My Heart Belongs To Daddy	Persuasive Percussion (Bachelor Pad Music)
+Thu Apr  2 12:42:59 2015	120	Ferrante & Teicher	El Cumbanchero	Hot Latin Nights
+Thu Apr  2 12:45:42 2015	123	Richard Hayman	The Girl From Ipanema	Easy Rhythms For Your Cocktail Hour
+Thu Apr  2 12:48:57 2015	127	Orizaba And His Orchestra	Boo Qui Woo Qui	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 12:51:15 2015	128	Melachrino Strings And Orc	Flirtation Waltz	n/a
+Thu Apr  2 12:54:07 2015	127	Leo Addeo	Love Is Just Around The Corner	The History of Space Age Pop Vol 3: The Stereo Action Dimension
+Thu Apr  2 12:56:53 2015	132	Syd Dale	Mexican Ding Dong	Music For T.V. Dinners-The 60's
+Thu Apr  2 12:59:01 2015	129	Denny Mclain	Watch What Happens	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Thu Apr  2 13:01:01 2015	127	Henry Mancini	Something Loose	Martinis With Mancini
+Thu Apr  2 13:03:43 2015	131	Doris Drew	Pennies From Heaven	Sex Kittens In Hi Fi - The Brunettes. Music For A Bachelor's Den, Volume 8
+Thu Apr  2 13:06:41 2015	133	John Buzon Trio	It Must Be True	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 13:08:44 2015	132	Simon Park Orchestra	Up To Date	The Sound Gallery Volume 2
+Thu Apr  2 13:10:39 2015	132	Los Brasilios Featuring Alberto On The Marimbas & The Juan Mora	Carol's Theme	n/a
+Thu Apr  2 13:12:59 2015	123	Stanley Black	Mack The Knife	Intimate Percussion
+Thu Apr  2 13:15:31 2015	131	Zofka	Une Derniere Fois	Bikini
+Thu Apr  2 13:21:31 2015	139	Ennio Morricone	Meglio Stasera (Vocals Miranda Martino) (1964)	Easy Tempo: End Titles
+Thu Apr  2 13:23:30 2015	138	John La Salle Quartet	Potluck	Ultra-Lounge Vol. 18 - Bottoms Up!
+Thu Apr  2 13:26:54 2015	138	Perrey & Kingsley	Spooks In Space	The Essential Perrey & Kingsley
+Thu Apr  2 13:28:46 2015	138	Astrud Gilberto & Walter Wanderley	Goodbye Sadness (Tristeza)	A Certain Smile A Certain Sadness
+Thu Apr  2 13:32:25 2015	132	Andre Popp	La Cumparsita	Delerium in HI-Fi
+Thu Apr  2 13:34:49 2015	128	Terry Snyder And Earl Palmer	Binga Banga Bongo, Percolator	Ultra-Lounge Volume Eight: Cocktail Capers
+Thu Apr  2 13:39:37 2015	127	Henri Rene & His Orchestra	Hansel And Pretzel	Riot in Rhythm
+Thu Apr  2 13:42:47 2015	134	Bob Crewe Generation	Let's Hang On	The Best of the Bob Crewe Generation: Music to Watch Girls By
+Thu Apr  2 13:45:44 2015	130	Walter Wanderly	Taste Of Sadness	Samba Swing
+Thu Apr  2 13:48:34 2015	131	Arthur Lyman	Dahil Sayo	Music for a Bachelor's Den, Volume 6: More of the Best of the Arthur Lyman Group
+Thu Apr  2 13:50:48 2015	133	Hugo Montenegro	Theme For Three	All-Time Greatest Movie Themes & Schemes
+Thu Apr  2 13:52:40 2015	129	Billy May & His Orchestra	Hernando's Hideaway	n/a
+Thu Apr  2 13:54:48 2015	129	David Carroll And His Orchestra	The Doodlin' Drummer	Let's Dance Again
+Thu Apr  2 13:56:45 2015	133	Maurice Montez	No Love (But Your Love)	The Groovy Organ Goes Romantic
+Thu Apr  2 13:59:14 2015	134	Perez Prado	Zelda's Theme	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 14:01:04 2015	130	Johnny Pearson	Sports Car Special	The Sound Gallery Volume 2
+Thu Apr  2 14:02:39 2015	126	Luis Oliveira And His Bandodalua Boys	Chihuahua	Ultra-Lounge Vol. 2: Mambo Fever
+Thu Apr  2 14:04:47 2015	126	Tony Hatch	La Paloma	n/a
+Thu Apr  2 14:07:22 2015	123	Bob Thompson, His Chorus And O	Ain't We Got Fun	n/a
+Thu Apr  2 14:09:52 2015	120	Antonio Carlos Jobim	Remember	Tide
+Thu Apr  2 14:13:52 2015	118	Esquivel	You Belong To My Heart (Solamente Una Vez)	Latin-Esque
+Thu Apr  2 14:16:33 2015	118	Brother Jack Mc Duff	The Shadow Of Your Smile	n/a
+Thu Apr  2 14:20:31 2015	119	Sir Julian	Dansero	Music For A Bachelor's Den - Volume 3
+Thu Apr  2 14:22:26 2015	120	Jack Costanzo	Twang	Ultra-Lounge Vol. 18 - Bottoms Up!
+Thu Apr  2 14:25:07 2015	120	Ray Anthony And His Orchestra, Dickie Harrell, Rolley Polley	Rock-Cha-Rhumba	Ultra-Lounge Volume 9:  Cha Cha De Amor
+Thu Apr  2 14:32:07 2015	128	Enoch Light	Speak Low	Provocative Percussion Bachelor Pad Music
+Thu Apr  2 14:34:47 2015	124	Martin Denny	Quiet Village (Original Version)	The Very Best Of Martin Denny - The Exotic Sounds
+Thu Apr  2 14:38:29 2015	125	Ferrante & Teicher	Barbarella	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Thu Apr  2 14:40:49 2015	124	Ethel Smith	Perfidia	The Fabulous Organ Music Of Ethel Smith
+Thu Apr  2 14:43:20 2015	126	Out-Islanders	Ebb Tide	Ultra-Lounge Volume 12: Saxophobia
+Thu Apr  2 14:45:34 2015	125	Don Costa	Never On Sunday	All-Time Great Instrumental Hits - Vol. 1
+Thu Apr  2 14:48:10 2015	125	Leroy Holmes	Mah-Na, Mah Na	Ultra-Lounge Vol. 18 - Bottoms Up!
+Thu Apr  2 14:50:34 2015	126	Gillian Hills	Le Paradis Pour Toi	Twistin'The Rock Vol 9
+Thu Apr  2 14:52:32 2015	125	Les Baxter	Voodoo Dreams-Voodoo	Ultra-Lounge, Volume 01: Mondo Exotica
+Thu Apr  2 14:57:39 2015	124	Henry Mancini	The Old College Try Cha-Cha	Martinis With Mancini
+Thu Apr  2 15:00:36 2015	128	King Curtis	Watermelon Man	Ultra-Lounge Volume 12: Saxophobia
+Thu Apr  2 15:02:45 2015	128	Paris Studio Group	Accroche Toi, Caroline	The Sound Gallery Volume 2
+Thu Apr  2 15:05:58 2015	127	Billy May	Leroy Holmes	Ultra-Lounge, Vol. 16: Mondo Hollywood
+Thu Apr  2 15:10:56 2015	123	Plas Johnson	Pink Panther It Had Better Be	n/a
+Thu Apr  2 15:15:09 2015	126	Stanley Black	On The Street Where You Live	Intimate Percussion
+Thu Apr  2 15:18:17 2015	131	Jonah Jones Quartet	Blue Danube Rock	Ultra-Lounge Volume Eight: Cocktail Capers

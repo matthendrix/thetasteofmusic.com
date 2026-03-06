@@ -1,0 +1,354 @@
+Wed Apr  1 00:04:28 2015	100	St Germain	So Flute	Tourist
+Wed Apr  1 00:12:39 2015	99	Bonobo	Animals	Black Sands
+Wed Apr  1 00:19:24 2015	101	Tony Williams Lifetime	What It's About	The Old Bum's Rush
+Wed Apr  1 00:24:39 2015	102	Nils Petter Molvaer	Monocline Revisited	Hamada
+Wed Apr  1 00:27:26 2015	99	Jazz Gnatz Electronique	No Easy Rides	Everything is Awesome
+Wed Apr  1 00:33:11 2015	101	Gerald Clayton	One Two You	Two-Shade
+Wed Apr  1 00:39:24 2015	99	Mehliana	Sleeping Giant	Live at Largo
+Wed Apr  1 00:45:29 2015	101	Weather Report	Herandnu	Black Market
+Wed Apr  1 00:51:54 2015	110	Jan Gunnar Hoff	Your Song	In Town
+Wed Apr  1 00:59:12 2015	117	Jaga Jazzist	Kitty Wu	The Stix
+Wed Apr  1 01:03:31 2015	115	John McLaughlin and the 4th Dimension	Guitar Love	Now Here This
+Wed Apr  1 01:10:43 2015	116	Koop	Soul For Sahib	Waltz For Koop
+Wed Apr  1 01:14:12 2015	119	Moca	Lounge Lizard	Tempomat
+Wed Apr  1 01:19:09 2015	121	Jori Hulkkonen	Nitewalking	The Spirits Inside Me
+Wed Apr  1 01:25:37 2015	128	Koolfang	Bug Report	Gig In The Sky
+Wed Apr  1 01:39:23 2015	125	Miroslav Vitous	Miro Bop	Universal Syncopations
+Wed Apr  1 01:43:11 2015	123	Torun Eroksen	Words	Jazzland Sampler 2005
+Wed Apr  1 01:47:02 2015	128	Sha's Feckel	Knarrho	Greatest Hits
+Wed Apr  1 01:55:19 2015	131	Arild Andersen	Lines	The Triangle
+Wed Apr  1 01:58:16 2015	128	Ludovico Einaudi	Life	In A Time Lapse
+Wed Apr  1 02:02:16 2015	130	Wesseltoft,Schwarz,Berglund	Take A Quick Break	Trialogue
+Wed Apr  1 02:09:34 2015	129	Dhafer Youssef	Suraj	Electric Sufi
+Wed Apr  1 02:15:24 2015	130	Nils Petter Molvaer	Soft Moon Shine	Hamada
+Wed Apr  1 02:21:31 2015	129	Jon Hassell	Rain	City: Works Of Fiction
+Wed Apr  1 02:27:24 2015	132	Sha's Banryu	050	Chessboxing
+Wed Apr  1 02:32:24 2015	130	Allan Holdsworth	Pud Wud	Then!
+Wed Apr  1 02:40:15 2015	129	The E.Normus Trio	The Woodpecker	Love & Barbiturates
+Wed Apr  1 02:43:50 2015	128	Nik Baertsch's Ronin	Modul 35	Stoa / Nik Bartsch's Ronin
+Wed Apr  1 02:59:06 2015	132	Wolfert Brederode	High & Low	Currents
+Wed Apr  1 03:04:21 2015	130	Nuspirit Helsinki	Circular Motion	Nuspirit Helsinki
+Wed Apr  1 03:11:35 2015	130	Ketil Bjornstad	Remembrance V	Remembrance (Ocrd)
+Wed Apr  1 03:16:11 2015	140	Jaga Jazzist	Swedenborgske Rom	What We Must
+Wed Apr  1 03:24:07 2015	130	Laurent Garnier & Bugge Wesseltoft	63	Public Outburst
+Wed Apr  1 03:35:55 2015	126	Palle Mikkelborg	Bella Theme	The Garden is a Woman
+Wed Apr  1 03:38:32 2015	125	Alex Machacek	Am/Bbm-complex	Next Generation Of Sound
+Wed Apr  1 03:42:31 2015	127	Sleep Walker	Big Escape	Works
+Wed Apr  1 03:48:17 2015	123	Meadow	Badger	Blissful Ignorance
+Wed Apr  1 03:53:25 2015	126	Sounds From The Ground	Planted	Terra Firma
+Wed Apr  1 04:02:07 2015	131	Wesseltoft,Schwarz,Berglund	Round Midnight	Trialogue
+Wed Apr  1 04:06:54 2015	132	Arild Andersen Quartet	Green Shading Into Blue	Green in Blue: Early Quartets
+Wed Apr  1 04:15:48 2015	134	Dhafer Youssef	Electric Sufi	Electric Sufi
+Wed Apr  1 04:20:36 2015	136	Anat Fort Trio	Some	And If
+Wed Apr  1 04:26:10 2015	137	Michel Benita	Sky Screen (Feat. Np Molvaer)	Drastic
+Wed Apr  1 04:30:50 2015	143	Miles Davis	Orange	Aura
+Wed Apr  1 04:39:30 2015	139	Marilyn Mazur	Antilope Arabesque	Celestial Circle
+Wed Apr  1 04:45:48 2015	132	Bill Laswell's Somma	Tumo	Live
+Wed Apr  1 04:54:29 2015	136	Alex Machacek	D-Lite	Fat
+Wed Apr  1 05:01:29 2015	137	Dennis Gonzalez	Song For A Singer	Welcome To Us
+Wed Apr  1 05:12:46 2015	136	Jonas Hellborg With Buckethead And Michael Shrieve	Death That Sleeps In Them	Octave Of The Holy Innocents
+Wed Apr  1 05:18:23 2015	134	Esbjorn Svensson Trio	The Childhood Dream	301
+Wed Apr  1 05:25:46 2015	143	Soft Machine	Riff II	Switzerland 1974
+Wed Apr  1 05:28:45 2015	141	Mari Boine	Gulan Du (Nils Petter Molvaer & Jan Bang Remix)	Remixed - Odda Hamis
+Wed Apr  1 05:35:27 2015	136	Samuel Hallkvist	Four and Return	Return to Center
+Wed Apr  1 05:37:38 2015	136	Gerald Clayton	Love All Around	Two-Shade
+Wed Apr  1 05:39:41 2015	137	Mehliana	Taming the Dragon	Taming the Dragon
+Wed Apr  1 05:46:13 2015	133	Echolocation	Low Orbit	Beauty In An Empty Glass
+Wed Apr  1 05:53:00 2015	135	Karim Ziad	Mektoub	Dawi
+Wed Apr  1 05:57:43 2015	134	In The Country	Only The Birds Can See Us	This Was The Pace Of My Heartbeat
+Wed Apr  1 06:04:59 2015	134	Illumination	Perfect Sky	This Is Illumination
+Wed Apr  1 06:12:55 2015	130	Dylan Ryan /  Sand	White Magic	Sky Bleached
+Wed Apr  1 06:15:14 2015	128	Ketil Bjornstad	Outward Bound	The Sea II
+Wed Apr  1 06:20:01 2015	124	Fredy Studer	Bellydance On A Chessboard	Seven Songs
+Wed Apr  1 06:25:14 2015	126	Ketil Bjornstad Terje Rypdal	Flotation And Surroundings	Life in Leipzig
+Wed Apr  1 06:31:42 2015	127	Jan Garbarek	Aichuri, The Song Man	Legend Of The Seven Dreams
+Wed Apr  1 06:36:31 2015	134	Trilok Gurtu	All Blues	Spellbound
+Wed Apr  1 06:42:55 2015	139	Michel Benita	Whispering	Drastic
+Wed Apr  1 06:48:39 2015	140	Peter Hum Quintet	New Toy	A Boy's Journey
+Wed Apr  1 06:54:47 2015	141	Baby Mammoth	Ebb & Flow	Motion Without Pain
+Wed Apr  1 07:00:39 2015	143	Haslinger	Higher Purpose	Sleeper Cell
+Wed Apr  1 07:04:48 2015	146	Jan Bang	Exile From Paradise	...And Poppies From Kandahar
+Wed Apr  1 07:10:13 2015	145	Julia Huelsmann Trio	Ritual	Imprint
+Wed Apr  1 07:15:31 2015	151	David Torn	Bulbs	Prezens
+Wed Apr  1 07:21:12 2015	150	Carsten Lindholm	9th Gate	Tribute
+Wed Apr  1 07:26:33 2015	155	The E.Normus Trio	Blood	Love & Barbiturates
+Wed Apr  1 07:31:43 2015	158	Shavian	Hiding in plain sight	Letters
+Wed Apr  1 07:38:59 2015	155	Johannes Enders	No Hope & Then Hope Again	Dome
+Wed Apr  1 07:46:50 2015	154	Tomasz Stanko Quartett	Kattorna	Lontano
+Wed Apr  1 07:53:07 2015	154	Soft Machine	Penny Hitch (coda)	Switzerland 1974
+Wed Apr  1 07:58:42 2015	156	Bobo Stenson Quartet, Feat. Jan Garbarek	Desireless	Witchi-Tai-To
+Wed Apr  1 08:18:57 2015	164	Fredy Studer	Hajime (Dedicated To Jimi Hendrix, John Coltrane And Edgar Vare	Seven Songs
+Wed Apr  1 08:26:11 2015	167	Jon Hassell	The Elephant And The Orchid	Power Spot
+Wed Apr  1 08:37:18 2015	162	Torbjorn Sunde	Vertigo	Meridians
+Wed Apr  1 08:43:55 2015	165	Trilok Gurtu	Spellbound	Spellbound
+Wed Apr  1 08:48:36 2015	166	Palle Mikkelborg	Strike The Chord Upon The Drum	Song Tread Lightly
+Wed Apr  1 08:54:50 2015	167	Ludovico Einaudi	Brother	In A Time Lapse
+Wed Apr  1 08:59:39 2015	173	Dylan Ryan / Sand	Low Fell	Circa
+Wed Apr  1 09:04:35 2015	176	Bobo Stenson	Olivia	Cantando
+Wed Apr  1 09:10:54 2015	185	Marilyn Mazur	Drumrite	Celestial Circle
+Wed Apr  1 09:15:31 2015	191	Dhafer Youssef	Iman	Malak
+Wed Apr  1 09:24:44 2015	189	Jan Gunnar Hoff	Winds	Magma
+Wed Apr  1 09:31:01 2015	185	Sha's Feckel	Build Us a Rocket Then...	Greatest Hits
+Wed Apr  1 09:39:35 2015	181	Ketil Bjornstad	Ray Of Light	Floating
+Wed Apr  1 09:46:11 2015	185	Nils Petter Molvaer	Tlon	Khmer
+Wed Apr  1 09:53:56 2015	186	Esbjorn Svensson Trio	Leucocyte I. Ab Initio	Leucocyte
+Wed Apr  1 10:02:22 2015	178	Introspective	Supplement	[ONE]
+Wed Apr  1 10:07:45 2015	198	Beanfield	Someone Like You Featuring Ernesto	Seek
+Wed Apr  1 10:13:25 2015	193	Soft Machine	LBO	Switzerland 1974
+Wed Apr  1 10:18:13 2015	190	Diamond Dust	Emergency	It's That Time
+Wed Apr  1 10:24:44 2015	184	Twilight Archive	NomadsSaharaSundownRemix	EP
+Wed Apr  1 10:29:34 2015	186	In The Country	Aerial Dark Bright Round	This Was The Pace Of My Heartbeat
+Wed Apr  1 10:35:45 2015	184	Louie Vega	Thousand Fingered Man	Jazztronica
+Wed Apr  1 10:41:33 2015	179	Carlo Mombelli	Meditations in my Back Yard	I Stared into my Head
+Wed Apr  1 10:47:32 2015	180	Joe Zawinul	Gypsy	Stories of the Danube
+Wed Apr  1 10:54:54 2015	179	Alex Machacek	Safe Word	Fat
+Wed Apr  1 11:02:10 2015	182	Illumination	Cry Me A River	The Chilluminati remixes
+Wed Apr  1 11:10:46 2015	184	Dreamweavers	Bahama Breeze	Late Thursday Nights
+Wed Apr  1 11:16:41 2015	192	Midival Pundit Z	Enemy	Midival Times
+Wed Apr  1 11:22:34 2015	198	Trio Mediaeval	Det Lisle Banet	Folk Songs
+Wed Apr  1 11:26:49 2015	195	Jazzland	Moderation (Extended Version)	Jazzland Remixed 2
+Wed Apr  1 11:35:22 2015	196	Jon Hassell	Voodoo Wind	Earthquake Island
+Wed Apr  1 11:44:39 2015	186	Markus Stockhausen	Mona	Joyosa
+Wed Apr  1 11:49:19 2015	180	Beady Belle	Hindsight	Cewbeagappic
+Wed Apr  1 11:53:30 2015	181	Core	The Shadow	Office Essentials
+Wed Apr  1 12:02:22 2015	186	Spin Marvel	Canonical	Infolding
+Wed Apr  1 12:10:52 2015	174	Mehliana	Elegy for Amelia E.	Taming the Dragon
+Wed Apr  1 12:18:12 2015	178	Fusion Orchestra	Russia	Octagon
+Wed Apr  1 12:24:39 2015	184	Manfred Schoof	Resonance	Resonance
+Wed Apr  1 12:31:44 2015	187	Vassilis Tsabropoulos	Vocalise	Melos
+Wed Apr  1 12:38:49 2015	183	Dj Cheb I Sabbah	Shri Durga	Shri Durga
+Wed Apr  1 12:49:43 2015	170	Diamond Dust	Vuelta Abajo	It's That Time
+Wed Apr  1 12:55:55 2015	167	Gerald Clayton	Bootleg Bruise	Bond The Paris Sessions
+Wed Apr  1 13:00:57 2015	166	Supersilent	Live 1.3	London 2000 (live)
+Wed Apr  1 13:11:26 2015	171	Terje Rypdal & Chaser	Once Upon A Time	Chaser
+Wed Apr  1 13:16:52 2015	173	Miles Davis	The Little Blue Frog (Mst)	The Complete Bitches Brew Sessions
+Wed Apr  1 13:25:54 2015	173	Marilyn Mazur	Flamingo Sky	Flamingo Sky
+Wed Apr  1 13:31:27 2015	166	Pear	Von Schkinny	extemp'ore
+Wed Apr  1 13:37:06 2015	165	Alex Gunia & Peace	Big Beat	9866
+Wed Apr  1 13:44:47 2015	155	Ganfunkel	Jam 1am	Machine Coincident Jazz
+Wed Apr  1 13:48:56 2015	149	Face	No Fear	KJM10th Vol. 2
+Wed Apr  1 13:55:22 2015	151	Nils Petter Molvaer	Tabula Rasa	Np 3
+Wed Apr  1 13:57:30 2015	152	Ulf Wakenius	Birds And Bees	Vagabond
+Wed Apr  1 14:01:34 2015	149	Twilight Archive	Once Was the West	Ritual Fiction
+Wed Apr  1 14:05:43 2015	152	Jon Hassell	Who Cares	Lugano 2013 (live unreleased)
+Wed Apr  1 14:15:18 2015	145	Terje Rypdal	Dawn	Unfinished Highballs
+Wed Apr  1 14:27:30 2015	141	Eivind Aarset	Porcupine Night Walk	Electronique Noire
+Wed Apr  1 14:33:37 2015	140	Nik Baertsch's Ronin	Modul 36	Stoa / Nik Bartsch's Ronin
+Wed Apr  1 14:48:30 2015	138	Trilok Gurtu	Jhulelal	The Beat of Love
+Wed Apr  1 14:53:00 2015	133	Miroslav Vitous	Sun Flower	Universal Syncopations
+Wed Apr  1 15:00:12 2015	127	Carlo Mombelli	Sonic design: the rights of springs	I Stared into My Head
+Wed Apr  1 15:02:12 2015	125	Jazzland	First There Was Jazz 2 (Sternklang)	Jazzland Remixed 2
+Wed Apr  1 15:07:38 2015	117	Weather Report	Cannon Ball	Black Market
+Wed Apr  1 15:11:37 2015	120	Marcin Wasilewski Trio	The Young And Cinema	January
+Wed Apr  1 15:20:33 2015	121	Ketil Bjornstad Terje Rypdal	Easy Now	Life in Leipzig (Ocrd)
+Wed Apr  1 15:24:47 2015	118	Tomasz Stanko Quintet	Etiuda Baletowa No.3	Dark Eyes
+Wed Apr  1 15:30:36 2015	115	Vassilis Tsabropoulos	Sayyid Dance	Melos
+Wed Apr  1 15:34:46 2015	116	Electroslide	Three Moons In The Maze	Electroslide
+Wed Apr  1 15:42:33 2015	117	Arild Andersen	Choral	The Triangle
+Wed Apr  1 15:48:44 2015	121	Arve Henriksen	Saraswati	Places Of Worship
+Wed Apr  1 15:52:58 2015	124	Illumination	Sweet Delirium	This Is Illumination
+Wed Apr  1 15:59:32 2015	126	Beanfield	Catalpa	Human Patterns
+Wed Apr  1 16:04:51 2015	119	Luup	Urban Legend	Distress Signal Code
+Wed Apr  1 16:09:55 2015	118	Wesseltoft,Schwarz,Berglund	Valiant	Trialogue
+Wed Apr  1 16:17:31 2015	121	Norma Winstone	A Song For England	Distances
+Wed Apr  1 16:20:16 2015	119	Mirror Conspiracy	Canard	Mozaic
+Wed Apr  1 16:26:31 2015	116	Yonderboi	Riders On The Storm, Pink Solidism	Shallow and Profound
+Wed Apr  1 16:35:36 2015	121	Nils Petter Molvaer	Intrusion I	Switch
+Wed Apr  1 16:37:13 2015	121	Gary Burton	Mevlevia	Ring
+Wed Apr  1 16:43:13 2015	120	Marilyn Mazur	Back To Dreamfog Mountain	Small Labyrinths
+Wed Apr  1 16:48:48 2015	121	Tord Gustavsen Trio	Where We Went	Being There
+Wed Apr  1 16:53:25 2015	121	Trilok Gurtu	Universal Mother	Spellbound
+Wed Apr  1 16:59:37 2015	117	Hamilton Sterling And Jimmy Haslip	Spiral, Dreams Of Home	Migration
+Wed Apr  1 17:04:21 2015	110	Jaga Jazzist	Music Dance Drama	One-Armed Bandit
+Wed Apr  1 17:09:50 2015	106	Gerald Clayton	Two Heads One Pillow	Two-Shade
+Wed Apr  1 17:16:29 2015	107	Audun Kleive	Exploded Cod	Ohmagoddabl
+Wed Apr  1 17:21:28 2015	103	Barre Phillips	Brd	Three Day Moon
+Wed Apr  1 17:29:57 2015	106	Johannes Enders	One Of 8 Views	Dome
+Wed Apr  1 17:36:26 2015	110	Dylan Ryan / Sand	Possession	Circa
+Wed Apr  1 17:40:40 2015	108	Jon Hassell	Blue Night	Dressing for Pleasure
+Wed Apr  1 17:48:15 2015	112	Dee C'rell	Other Lands	Particles
+Wed Apr  1 17:54:29 2015	112	Gregory James	Blues For Chas	Reincarnation
+Wed Apr  1 17:57:43 2015	113	Lars Danielsson	Pacem	European Voices
+Wed Apr  1 18:09:40 2015	107	Twilight Archive	The Cooling Tower	Ritual Fiction
+Wed Apr  1 18:14:52 2015	108	Arild Andersen Quartet	Jana	Green in Blue: Early Quartets
+Wed Apr  1 18:21:35 2015	106	Taylor Haskins	Upward Mobility	Recombination
+Wed Apr  1 18:26:31 2015	107	Beady Belle	Big Balloon	Cewbeagappic
+Wed Apr  1 18:32:29 2015	110	Marilyn Mazur	Ufozil	Flamingo Sky
+Wed Apr  1 18:36:31 2015	107	Carlo Mombelli	Salvation	Stories
+Wed Apr  1 18:41:25 2015	101	Bugge Wesseltoft	Skog	Jazzland Sampler 2005
+Wed Apr  1 18:46:22 2015	101	Paul Mc Candless	Musiverse	ShapeShifter
+Wed Apr  1 18:53:30 2015	104	Wesseltoft Schwarz	See You Tomorrow	Duo
+Wed Apr  1 18:59:57 2015	104	Shavian	Meditations in an emergency	Letters
+Wed Apr  1 19:08:10 2015	101	Roger Harmar	Borobadur	Asusu
+Wed Apr  1 19:11:56 2015	101	Mehliana	Sassyassed Sassafrass	Taming the Dragon
+Wed Apr  1 19:17:47 2015	101	Gregory James	If Not Now, When	Reincarnation
+Wed Apr  1 19:21:34 2015	94	Stefano Bollani	Asuda	Stone in the Water
+Wed Apr  1 19:29:35 2015	104	Ketil Bjornstad Terje Rypdal	The Return Of Per Ulv	Life in Leipzig
+Wed Apr  1 19:34:37 2015	100	Jerry Goodman & Jan Hammer	Night	Like Children
+Wed Apr  1 19:40:11 2015	98	David Torn	Suyafhu Skin. Snapping The Hollow Reed	Cloud About Mercury
+Wed Apr  1 19:47:57 2015	98	Optical Substance	Dr.Tabla And His Monster	Sub Luna
+Wed Apr  1 19:56:38 2015	97	Sienna	Dance Of The White Rythms	A Pure Land
+Wed Apr  1 20:02:10 2015	96	Yukihiro Fukutomi Feat. Ernesto	Deep In Your Mind	KJM10th Vol. 1
+Wed Apr  1 20:09:19 2015	95	Nils Petter Molvaer	Dead Indeed (Jan Bang's 7 00 Am Mix)	Solid Ether Recoloured
+Wed Apr  1 20:17:39 2015	99	Eberhard Weber	Amsterdam	Resume
+Wed Apr  1 20:21:43 2015	97	Alex Machacek	Yellow Pages	[SIC]
+Wed Apr  1 20:27:46 2015	94	Pear	Tribute To Lorraine	extemp'ore
+Wed Apr  1 20:33:22 2015	92	Diamond Dust	Devotion	It's That Time
+Wed Apr  1 20:44:39 2015	84	Arve Henriksen	Lament	Places Of Worship
+Wed Apr  1 20:48:11 2015	85	Mirror Conspiracy	Glass House	Mozaic
+Wed Apr  1 20:54:54 2015	84	Marc Beacco	Steamboat Lullaby	Crocodile Smile
+Wed Apr  1 20:59:50 2015	85	Mark Isham	Internet	Miles Remembered: The Silent Way Project
+Wed Apr  1 21:04:47 2015	83	Humcrush	Cyborg Ii	Hornswoggle
+Wed Apr  1 21:11:24 2015	82	Meadow	Meadow	Blissful Ignorance
+Wed Apr  1 21:17:32 2015	83	Mehliana	You Can't Go Back Now	Taming the Dragon
+Wed Apr  1 21:23:30 2015	87	Jazz Gnatz Electronique	Gnatterings Pt 1	Everything is Awesome
+Wed Apr  1 21:27:53 2015	85	Dee C'rell	Modelli	Turning
+Wed Apr  1 21:32:30 2015	84	John Mc Laughlin	Marbles, Siren	Devotion
+Wed Apr  1 21:42:10 2015	85	Nik Baertsch's Ronin	Modul 53	Llyria
+Wed Apr  1 21:48:42 2015	88	Marilyn Mazur	Gaderne	Jordsange / Earth Songs
+Wed Apr  1 21:53:52 2015	89	Vienna Dc	Low End	Analogue
+Wed Apr  1 22:03:20 2015	90	Palle Mikkelborg	Beautiful Boy	Song Tread Lightly
+Wed Apr  1 22:07:01 2015	90	Ganfunkel	Venezia	Fighting Music With Music
+Wed Apr  1 22:11:33 2015	87	Mungolian Jet Set	The Ghost Of Cauldron M I Cannnot Live In Sin	Beauty Came To Us In Stone
+Wed Apr  1 22:17:48 2015	89	Arild Andersen	Svev	If you Look Far Enough
+Wed Apr  1 22:23:07 2015	87	Samuel Hallkvist	Persona	Return to Center
+Wed Apr  1 22:27:42 2015	91	Eivind Aarset	Superstrings (Remix By Illumination)	Jazzland Remixed
+Wed Apr  1 22:32:27 2015	93	John Abercrombie	Mirrors	While We're Young
+Wed Apr  1 22:40:01 2015	93	Fly	Super Sister	Sky & Country
+Wed Apr  1 22:50:39 2015	97	Eberhard Weber	Death In The Car Wash	Later that Evening
+Wed Apr  1 23:06:56 2015	93	Miles Davis	Back Seat Betty	We Want Miles
+Wed Apr  1 23:15:12 2015	93	Alex Machacek	What a Time to Be Me	Fat
+Wed Apr  1 23:22:27 2015	93	Charles Lloyd Quartet	Desolation Sound	Mirror
+Wed Apr  1 23:29:21 2015	92	Carlo Mombelli	Untitled Prayer	I Stared into My Head
+Wed Apr  1 23:30:31 2015	92	Lost Tribe	Dick Tracy	Lost Tribe
+Wed Apr  1 23:36:11 2015	101	Roger Harmar	Impossible Musics	Asusu
+Wed Apr  1 23:40:11 2015	100	Nils Petter Molvaer	Khmer	Jazz Baltica '01
+Wed Apr  1 23:53:24 2015	102	Gerald Clayton	Burn	Bond The Paris Sessions
+Wed Apr  1 23:55:58 2015	100	Erik Truffaz	Out Of A Dream	Out of a Dream
+Thu Apr  2 00:03:33 2015	99	Shining	Jonathan Livingston Seagull	Jazzland Sampler 2005
+Thu Apr  2 00:08:15 2015	103	Miles Davis	Right Off	The Complete Jack Johnson Sessions
+Thu Apr  2 00:34:54 2015	110	Marc Beacco	The Crocodile Smile	Crocodile Smile
+Thu Apr  2 00:40:26 2015	109	Levin Torn White	Convergence	Levin Torn White
+Thu Apr  2 00:44:11 2015	104	Alex Machacek	Gem 2	Improvision
+Thu Apr  2 00:46:47 2015	109	Mathias Eick	Cologne Blues	The Door
+Thu Apr  2 00:55:17 2015	113	Weather Report	Black Market	Black Market
+Thu Apr  2 01:01:03 2015	113	Jan Gunnar Hoff	La Sangria del Sr. Manzano	Barxeta
+Thu Apr  2 01:07:14 2015	114	John Mc Laughlin Trio	Hijacked	Que Alegria
+Thu Apr  2 01:15:39 2015	119	John McLaughlin and the 4th Dimension	Wonderfall	Now Here This
+Thu Apr  2 01:22:00 2015	121	Dj Krush & Toshinori Kondo	Toh-Sui	Ki-Oku
+Thu Apr  2 01:26:55 2015	127	Tuniq	The Spirit (Tuniq Remix)	Tuniq
+Thu Apr  2 01:33:02 2015	129	Jan Garbarek	Afric Pepperbird	Afric Pepperbird
+Thu Apr  2 01:40:54 2015	127	Mehliana	The Dreamer	Taming the Dragon
+Thu Apr  2 01:46:17 2015	131	Alice Coltrane	Via Sivanandagar	Huntington Ashram Monastery World Galaxy
+Thu Apr  2 01:52:12 2015	128	Moca	Jazz Tip	Wroooooooooam
+Thu Apr  2 01:57:51 2015	136	Marilyn Mazur	Evigheden	Jordsange / Earth Songs
+Thu Apr  2 02:07:02 2015	134	Dylan Ryan / Sand	Mortgage On My Soul	Circa
+Thu Apr  2 02:11:15 2015	138	Twilight Archive	Solitary Procession	Twilight Archive
+Thu Apr  2 02:16:02 2015	138	Mark Isham	It's About That Time	Miles Remembered: The Silent Way Project
+Thu Apr  2 02:23:27 2015	141	Soft Machine	Land Of the Bag Snake	Switzerland 1974
+Thu Apr  2 02:28:08 2015	136	Sounds From The Ground	Razz	Luminal
+Thu Apr  2 02:34:55 2015	141	Fade Out Vision	Gongo	Mother Earth
+Thu Apr  2 02:40:18 2015	141	Eberhard Weber	Appellation	New Jazz Festival Hamburg '75
+Thu Apr  2 02:52:03 2015	143	Salvatore Bonafede, Enrico Rava	Viaggio A Donnafugata	Journey To Donnafugata
+Thu Apr  2 02:56:35 2015	142	Joe Zawinul	The Great Empire	Dialects
+Thu Apr  2 03:00:13 2015	143	Joe Farrell	Outback	Outback
+Thu Apr  2 03:08:37 2015	144	Trilok Gurtu	Living Magic	Living Magic
+Thu Apr  2 03:14:47 2015	139	Palle Mikkelborg	The Song Of The Sea	The Garden is a Woman
+Thu Apr  2 03:26:43 2015	146	Los Ladrones	Las Luces Del Norte	Crossbreed
+Thu Apr  2 03:33:15 2015	143	Dhafer Youssef	Frag-Habibe	Malak
+Thu Apr  2 03:44:09 2015	133	Mark Isham, Art Lande	The Melancholy Of Departure	We Begin
+Thu Apr  2 03:50:38 2015	132	Jonas Hellborg Featuring Selvaganesh And Niladri Kumar	Shri Shri Vikkuji	Kali’s Son
+Thu Apr  2 04:01:56 2015	140	The E.Normus Trio	The Long Boots Of Age	Love & Barbiturates
+Thu Apr  2 04:08:10 2015	140	Todd Sickafoose	Cloud of Dust	Tiny Resistors
+Thu Apr  2 04:13:57 2015	142	Nils Petter Molvaer	Axis Of Ignorance (Live Oslo)	Oslo '05
+Thu Apr  2 04:24:59 2015	139	Eberhard Weber	A Dark Spell	Little Movements
+Thu Apr  2 04:33:11 2015	145	Laurent Garnier & Bugge Wesseltoft	Barbiturik Blues	Public Outburst
+Thu Apr  2 04:42:42 2015	150	Robert Glasper	Canvas	Canvas
+Thu Apr  2 04:52:31 2015	147	Twilight Archive	Some Answer to It	Ritual Fiction
+Thu Apr  2 04:57:44 2015	149	Fresu/Youssef/Aarset	Elettromagnetic	Jazz Italiano Live
+Thu Apr  2 05:11:42 2015	145	Quantic	Mishaps Happening	Jazztronica
+Thu Apr  2 05:16:49 2015	144	Billy Cobham	Was/ Not/ Was	Nordic
+Thu Apr  2 05:23:20 2015	148	Electroslide	Building Blocks	Electroslide
+Thu Apr  2 05:28:42 2015	144	Diamond Dust	Raju	It's That Time
+Thu Apr  2 05:36:05 2015	144	Miles Davis	Shhh, Peaceful	In a Silent Way
+Thu Apr  2 05:54:09 2015	147	Weather Report	Boogie Woogie Waltz	Sweetnighter
+Thu Apr  2 06:07:11 2015	147	Jaga Jazzist	Animal Chin	A Livingroom Hush
+Thu Apr  2 06:11:26 2015	148	Jon Hassell	Open Secret (Live)	Berlin 2006
+Thu Apr  2 06:21:32 2015	154	Arild Andersen Quartet	Sole	Green in Blue: Early Quartets
+Thu Apr  2 06:31:02 2015	154	Stanley Cowell	05 El Space-O	New World
+Thu Apr  2 06:39:27 2015	157	Levin Torn White	Cheese It The Corpse	Levin Torn White
+Thu Apr  2 06:43:30 2015	157	Allan Holdsworth	How Deep Is The Ocean-	None Too Soon
+Thu Apr  2 06:48:51 2015	155	Marilyn Mazur	Erternal Embrace	Tangled Temptations & The Magic Box
+Thu Apr  2 06:52:46 2015	158	Wibutee	Dubelec	Eight Domestic Challenges
+Thu Apr  2 06:59:40 2015	163	Soft Machine	The Man Who Waved At Trains (reprise)	Switzerland 1974
+Thu Apr  2 06:59:58 2015	163	Weather Report	Will	Sweetnighter
+Thu Apr  2 07:06:10 2015	163	John Mclaughlin	New Blues Old Bruise	Five Peace Band Live
+Thu Apr  2 07:12:52 2015	161	Marilyn Mazur	Tour Song	Celestial Circle
+Thu Apr  2 07:17:46 2015	158	Alice Coltrane	Isis and Osiris	Journey in Satchidananda
+Thu Apr  2 07:29:07 2015	171	Jan Garbarek	The Healing Smoke	Visible World
+Thu Apr  2 07:35:59 2015	174	Maria Kannegaard	Hey Ya	Jazzland Sampler 2005
+Thu Apr  2 07:38:44 2015	174	Dzihan & Kamien	Basmati (Live)	Live In Vienna
+Thu Apr  2 07:43:31 2015	171	Rainer Bruninghaus & Manfred Schoof	Ingredience Of The Blues	Shadows & Smiles
+Thu Apr  2 07:54:55 2015	181	Arild Andersen	7th Background	Electra
+Thu Apr  2 08:05:45 2015	181	Alex Machacek	Matt's Riff	Improvision
+Thu Apr  2 08:10:42 2015	185	Miles Davis	Violet	Aura
+Thu Apr  2 08:19:18 2015	189	Esbjorn Svensson Trio	Dodge The Dodo	Live at Antibes-Juan-lesPins 2003
+Thu Apr  2 08:32:23 2015	176	Mungolian Jet Set	Close Encounters Of The Mung Kind	Beauty Came To Us In Stone
+Thu Apr  2 08:50:11 2015	188	Eivind Aarset	Empathic Guitar	Light Extracts
+Thu Apr  2 08:54:37 2015	185	Paul Motian Trio	Lost In A Dream	Lost in a Dream
+Thu Apr  2 09:01:16 2015	188	Grand General	Antics	Grand General
+Thu Apr  2 09:13:07 2015	173	Dylan Ryan / Sand	Raw Rattle	Circa
+Thu Apr  2 09:16:18 2015	175	John Abercrombie	Dolorosa	While We're Young
+Thu Apr  2 09:21:38 2015	185	Jan Gunnar Hoff	Stone	Magma
+Thu Apr  2 09:27:18 2015	185	Fresu/Youssef/Aarset	Drobak Saray	Jazz Italiano Live
+Thu Apr  2 09:34:42 2015	189	Markus Stockhausen	Aparis	Aparis
+Thu Apr  2 09:50:35 2015	200	Jaga Jazzist	All I Know Is Tonight	What We Must
+Thu Apr  2 09:57:49 2015	194	Marilyn Mazur	Track 05	Live-Monaco 2001 Unreleased
+Thu Apr  2 10:14:56 2015	167	Joe Farrell Quartet	Circle In The Square	Joe Farrell
+Thu Apr  2 10:21:57 2015	165	Terje Rypdal & Chaser	Tanga	Blue
+Thu Apr  2 10:26:31 2015	169	Weather Report	China Blues	This Is This
+Thu Apr  2 10:32:06 2015	163	Jonas Hellborg Featuring Selvaganesh And Niladri Kumar	Kalighat	Kali’s Son
+Thu Apr  2 10:40:41 2015	169	Dee C'rell	Transmission Music	Tales from Love
+Thu Apr  2 10:44:47 2015	165	Karim Ziad	Jilala	Dawi
+Thu Apr  2 10:49:32 2015	162	Diamond Dust	It's That Time	It's That Time
+Thu Apr  2 10:54:21 2015	172	Terje Rypdal	Per Ulv	Waves
+Thu Apr  2 11:02:54 2015	170	Core	Illiman Dance	Blue Sky
+Thu Apr  2 11:19:45 2015	162	Jon Hassell	Light On Water	Last night the moon came dropping it's clothes in the street
+Thu Apr  2 11:27:30 2015	162	Antonio Carlos Jobim	Children's Games	Stone Flower
+Thu Apr  2 11:30:42 2015	171	Chick Corea And John Mclaughli	New Blues, Old Bruise	Five Piece Band Live
+Thu Apr  2 11:44:35 2015	156	Alex Machacek	Hyperways To Brazil	Next Generation Of Sound
+Thu Apr  2 11:50:10 2015	160	Jabberloop	Smells Like Teens Spirits Feat	Infinite Works 
+Thu Apr  2 11:54:50 2015	163	Chris Rossi	Soular Flair	Cycles Of Fusion
+Thu Apr  2 12:01:42 2015	157	Nils Petter Molvaer & Moritz von Oswald	Development (Ricardo Mix Dig)	1/1
+Thu Apr  2 12:08:47 2015	156	Stefano Bollani	Orvieto	Stone in the Water
+Thu Apr  2 12:16:35 2015	154	The E.Normus Trio	Acquiescence	Love & Barbiturates
+Thu Apr  2 12:17:12 2015	154	Laurent Garnier	The Man With The Red Face	F Comm Essentials
+Thu Apr  2 12:26:14 2015	159	Dzihan & Kamien	I Guess She .	Freaks And Icons
+Thu Apr  2 12:30:33 2015	161	Food	Mictyris	Quiet Inlet
+Thu Apr  2 12:35:50 2015	160	Dylan Ryan / Sand	Night Sea Journey	Circa
+Thu Apr  2 12:37:34 2015	165	Lars Danielsson	Suffering	Libera Me
+Thu Apr  2 12:43:58 2015	165	Marilyn Mazur	Farewelling	Tangled Temptations & The Magic Box
+Thu Apr  2 12:47:59 2015	167	Kosma	Odessa	City Lounge 3
+Thu Apr  2 12:53:30 2015	162	Pat Metheny Group	The Way Up, Pt. 3	The Way Up
+Thu Apr  2 13:07:40 2015	158	Enrico Rava	Bella	The Pilgrim And The Stars
+Thu Apr  2 13:16:49 2015	158	Samuel Hallkvist	DG Family	Return to Center
+Thu Apr  2 13:22:13 2015	156	Mehliana	Just Call Me Nige	Taming the Dragon
+Thu Apr  2 13:27:34 2015	155	Jonas Hellborg With Buckethead And Michael Shrieve	Kidogo	Octave Of The Holy Innocents
+Thu Apr  2 13:34:50 2015	155	Jon Hassell	Confined To Ice	Audio Virus
+Thu Apr  2 13:39:39 2015	154	Jazz Gnatz Electronique	Twisted Sista	Everything is Awesome
+Thu Apr  2 13:49:12 2015	154	Jan Gunnar Hoff	Life	Magma
+Thu Apr  2 13:57:34 2015	154	Simeon Harris	After Night Falls	eScape
+Thu Apr  2 14:05:10 2015	156	Jon Hassell	Darbari Extension Ii	Aka Darbari Java - Magic Realism 1
+Thu Apr  2 14:12:15 2015	144	Nat Birchall	Akhenaten	Akhenaten
+Thu Apr  2 14:22:29 2015	143	Twilight Archive	Umbrella Terrain	Ritual Fiction
+Thu Apr  2 14:27:50 2015	144	Ketil Bjornstad	Remembrance I	Remembrance (Ocrd)
+Thu Apr  2 14:32:34 2015	142	Soft Machine	Peff	Switzerland 1974
+Thu Apr  2 14:36:54 2015	139	Eberhard Weber	Bochum	Resume
+Thu Apr  2 14:39:35 2015	142	Imogen Heap	Headlock	Speak For Yourself
+Thu Apr  2 14:42:53 2015	138	Optical Substance	Karusell	Adaptation
+Thu Apr  2 14:48:35 2015	135	Michael Shrieve	Soundings In Fathoms	Fascination
+Thu Apr  2 14:56:39 2015	141	Ken Nordine	A Thousand Dreams	A Transparent Mask
+Thu Apr  2 15:00:57 2015	133	Nils Petter Molvaer	Ambient upholstery	Back in Hamburg (unreleased live)
+Thu Apr  2 15:05:21 2015	130	Mehliana	Swimming	Taming the Dragon
+Thu Apr  2 15:10:42 2015	127	Jan Bang	Passport Control	and poppies from Kandahar
+Thu Apr  2 15:19:07 2015	129	Fresu/Youssef/Aarset	Il Settimo	Jazz Italiano Live

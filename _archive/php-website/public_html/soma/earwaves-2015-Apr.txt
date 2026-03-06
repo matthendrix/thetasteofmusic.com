@@ -1,0 +1,365 @@
+Wed Apr  1 00:11:18 2015	12	Tom Lawrence	Seven Springs	Water Beetles Of Pollardstown Fen
+Wed Apr  1 00:17:03 2015	13	Edgar Froese	Maroubra Bay	Epsilon In Malaysian Pale
+Wed Apr  1 00:33:30 2015	12	Chris Chafe	Vanishing Point- 1989 (Part 4)	Historia da Musica Eletroacustica CD 44- 1987-1989
+Wed Apr  1 00:43:27 2015	12	Brian Eno	River Mist	Textures
+Wed Apr  1 00:47:27 2015	11	Karlheinz Stockhausen	Mantra (Two Pianos and Ring Modulation) (Part 23)	Historia da Musica Eletroacustica CD 27- 1970
+Wed Apr  1 00:51:55 2015	11	Gregory Taylor	Filipus_yang_melit	Dua_belas
+Wed Apr  1 00:53:46 2015	11	Henri Pousseur	Electre	History of Electronic Music
+Wed Apr  1 01:36:03 2015	12	Node	Doppler	Node 2 (DiN44)
+Wed Apr  1 01:41:13 2015	12	Klaus Schulze	La Vie Secrete: Der Narr	La Vie Electronique 6 [[Disc 3]]
+Wed Apr  1 01:49:06 2015	14	Iannis Xenakis	Orient-Occident	History of Electronic Music
+Wed Apr  1 01:59:48 2015	13	Carl Stone	Gadberry's 1989	Mom's
+Wed Apr  1 02:09:00 2015	12	Julius Berger	Zehn Praludien Fur Violoncello Solo	Music Of Our Time
+Wed Apr  1 02:10:08 2015	12	Bernard Parmegiani	De Natura Sonorum, XI.	Historia da Musica Eletroacustica CD 24- 1975-1978
+Wed Apr  1 02:14:39 2015	13	Michael Tilson Thomas: Steve Reich & Musicians	Reich: Music For Mallet Instruments, Voices & Electric Organ	Reich: The Four Sections, Music For Mallet Instruments, Voices & Organ
+Wed Apr  1 02:31:36 2015	12	Marc Hyland	Chrome	n/a
+Wed Apr  1 02:33:45 2015	12	Gregory Jay Lowe	Song Of The Turtle	DISContact II [Disc 2]
+Wed Apr  1 02:35:42 2015	11	Brian Eno & J. Peter Schwalm	Like Pictures, Pt. 2	Drawn From Life
+Wed Apr  1 02:41:28 2015	11	David Bowie	Warszawa	Low
+Wed Apr  1 02:47:31 2015	13	Space	Phonics	An Interesting Breakfast Conversation
+Wed Apr  1 02:52:14 2015	13	Francois Bayle	Tremblement de terre tres doux- 1978 (Part 11)	Historia da Musica Eletroacustica CD Extra- Bayle- 1978-79
+Wed Apr  1 02:52:55 2015	13	Bruce Brubaker	Adams: China Gates	Inner Cities
+Wed Apr  1 02:57:28 2015	13	Atoi	Xibalba Be (Maha Kali Ma)	Atoi Mystery School- Y2kaos- Disc B : Atoi Live
+Wed Apr  1 03:02:47 2015	12	Terry Riley	Music Of A Thousand Springs	In C- Shanghai Film Orchestra
+Wed Apr  1 03:18:33 2015	13	Popol Vuh	Si haJing woChuang ru-Meng pato49	Affensunde
+Wed Apr  1 03:25:44 2015	12	Robert Fripp & The League Of The Crafty Guitarists	Chiara	Show of hands
+Wed Apr  1 03:26:38 2015	12	Stephen Drury	Cage: Music For Two	Complete John Cage Edition, Vol. 13- The Piano Works 1
+Wed Apr  1 03:56:12 2015	14	We Drew Lightning	Alter	Swimming With Orange
+Wed Apr  1 04:00:56 2015	14	Harold Budd & Brian Eno	Their Memories	A Brief History Of Ambient Volume 1 [Disc 1]
+Wed Apr  1 04:03:30 2015	14	Bengt Hambraeus	Doppelrohr II (Part 1)	History of Electronic Music
+Wed Apr  1 04:07:22 2015	15	Michael Vlatkovich Trio	Chobraty	No Zee Two Es
+Wed Apr  1 04:13:29 2015	16	Amadinda Percussion Group	Second Construction	Amadinda
+Wed Apr  1 04:20:38 2015	17	Lou Reed	Wind Coda	Hudson Wind Meditations
+Wed Apr  1 04:25:49 2015	17	Various Artists	Der Himmel Ueber Berlin (Sky Over Berlin)	Wings Of Desire: Original Soundtrack
+Wed Apr  1 04:30:33 2015	17	Robert Fripp & Brian Eno	Evening Star	The Essential Fripp & Eno
+Wed Apr  1 04:38:14 2015	17	Jean-Claude Risset	Computer Suite from Little Boy, I. (Part 13)	Historia da Musica Eletroacustica CD 18- 1966-1968
+Wed Apr  1 04:44:18 2015	15	Beatsystem	No Jumping Up And Down / Spooky Action At A Distance	Em:t 2297
+Wed Apr  1 04:46:58 2015	15	Henry Cow	Off The Map	Concerts [Disc 2]
+Wed Apr  1 04:54:58 2015	16	Carl Weingarten	Flow Of Stars	Panomorphia
+Wed Apr  1 05:06:17 2015	19	Peter Van Riper	Heart	Music For Spaces
+Wed Apr  1 05:10:01 2015	18	Paul Bowles	Up Above World	Baptism of Solitude
+Wed Apr  1 05:12:15 2015	18	Loop Guru	...Zen Bowls	The Fountains Of Paradise
+Wed Apr  1 05:15:18 2015	19	Pierre Henry	Musique sans titre- 1950- Andante Sacre (Part 18)	Historia da Musica Eletroacustica CD Extra 3- Pierre Henry 1
+Wed Apr  1 05:21:37 2015	17	Brian Eno	Untitled	Rarities
+Wed Apr  1 05:23:41 2015	17	Ricardo Mandolini	Cancion de Madera y Agua	Historia da Musica Eletroacustica CD 31- 1980-1982
+Wed Apr  1 05:31:54 2015	18	Francois Bayle	Tremblement de terre tres doux- 1978 (Part 5)	Historia da Musica Eletroacustica CD Extra- Bayle- 1978-79
+Wed Apr  1 05:36:29 2015	16	Pierre Boulez	Repons (6 solistas, ensemble e 4X) (Part 5)	Historia da Musica Eletroacustica CD 33- 1981-84
+Wed Apr  1 05:38:48 2015	16	Karlheinz Stockhausen	Mixtur (Part 20)	History of Electronic Music
+Wed Apr  1 05:39:15 2015	16	Harry Partch	The Bewitched (1955)- V. Scene 4: A Soul Tormented by Contempor	n/a
+Wed Apr  1 05:44:45 2015	15	Pete Namlook & Richie Hawtin	Part 4	From Within 3- Silent Intelligence 54.25 Part I- XII
+Wed Apr  1 05:47:48 2015	15	John Morton	Outlier (Outlier)	Outlier: New Music For Music Boxes
+Wed Apr  1 05:51:48 2015	16	Olivier Messiaen	Oraison; Ondas Martenot	History of Electronic Music
+Wed Apr  1 05:58:40 2015	15	Adrian Belew	Portrait of the Guitarist as a Young Drum	The Guitar as Orchestra (1995)
+Wed Apr  1 06:05:52 2015	17	Philippe Manoury	Zeitlauf (ensemble & live electronics) (Part 6)	Historia da Musica Eletroacustica CD 30- 1982
+Wed Apr  1 06:09:41 2015	17	Armadillo String Quartet	Youkali Tango	Lost In The Stars: The Music Of Kurt Weill
+Wed Apr  1 06:14:25 2015	17	Paul Bowles	Baptism of Solitude	Baptism of Solitude
+Wed Apr  1 06:17:53 2015	18	Nicolas Collins	Sound For Picture (w/ Ben Neill)	Sound Without Picture
+Wed Apr  1 06:28:36 2015	18	Loren Nerell	Galungan	Lilin Dewa
+Wed Apr  1 06:45:37 2015	16	Vladimir Ussachevsky	Computer Piece No. 1	Historia da Musica Eletroacustica CD 18- 1966-1968
+Wed Apr  1 06:49:03 2015	16	Roderik De Man	Wait A Minute	Man, Roderik de
+Wed Apr  1 06:50:13 2015	16	Either/Orchestra	Miles Away	The Calculus Of Pleasure
+Wed Apr  1 07:04:49 2015	15	Iannis Xenakis	La Legende d'Eer (Part 3)	Historia da Musica Eletroacustica CD 23- 1977-1978
+Wed Apr  1 07:46:13 2015	12	California Guitar Trio	Skyline	Whitewater
+Wed Apr  1 07:50:37 2015	14	Oval	Do While Apple-X	94diskont
+Wed Apr  1 07:54:37 2015	16	MaJaLe & Unis, Vir	Falling Sky	Imaginarium
+Wed Apr  1 07:58:53 2015	16	Daniel Chorzempa	Sonett	Historia da Musica Eletroacustica CD 23- 1977-1978
+Wed Apr  1 08:12:36 2015	15	Vir Unis & Saul Stokes	Thermal Transfer	Thermal Transfer
+Wed Apr  1 08:20:52 2015	18	Pierre Schaeffer	5 Etudes de Bruits; Pathetique	History of Electronic Music
+Wed Apr  1 08:24:50 2015	16	Carl Stone	Hop Ken	Dresher: Water Dreams / Other Fire / Stone, C.: Hop Ken / Wall Me Do / Demarinis: Kokole / I Want You
+Wed Apr  1 08:37:59 2015	15	Stephen Drury	Cage: Dream (1948)	In A Landscape
+Wed Apr  1 08:46:17 2015	14	Joshua Pierce	Fourth Interlude	John Cage: Sonatas & Interludes for prepared Piano
+Wed Apr  1 08:48:38 2015	14	Frank Perry	Treasure Of The Mountain	Solar: A Music Travelogue Volume One
+Wed Apr  1 08:55:53 2015	15	Juilliard Quartet	Streichquartett Nr. 6 In Es	Music Of Our Time
+Wed Apr  1 09:00:23 2015	15	Hayg Boyadjian	Scorpius Rising	Opus One CD 177
+Wed Apr  1 09:09:23 2015	20	Dino Saluzzi	Memories	Andina
+Wed Apr  1 09:10:56 2015	16	Various	Ascension	iNDEX04 (DiN40)
+Wed Apr  1 09:14:48 2015	17	Chris & Cosey	Re-Education through Labour	Trance
+Wed Apr  1 09:21:35 2015	18	Towering Inferno	Part I: the Rose (I)	Kaddish
+Wed Apr  1 09:25:32 2015	17	J.A. Deane	Algebao	Nomad
+Wed Apr  1 09:27:56 2015	17	BrianEno	Eveerybody's Mother/Step up	My Squelchy Life
+Wed Apr  1 09:34:40 2015	18	Quatuor Helios	Credo In Us	Credo In Us...More Works for Percussion
+Wed Apr  1 09:46:18 2015	15	Bernard Parmegiani	Exercisme 3- 1986 (Part 5)	Historia da Musica Eletroacustica CD 39- 1986
+Wed Apr  1 09:48:43 2015	17	Chas Smith	An Hour Out Of Desert Center	An Hour Out Of Desert Center
+Wed Apr  1 09:57:18 2015	18	Derek Bailey, George Lewis, John Zorn	Who's On First	Yankees
+Wed Apr  1 10:00:40 2015	19	Ink On Paper	Pedestrian	Official Demo
+Wed Apr  1 10:06:45 2015	19	David Behrman	A Traveller's Dream Journal- Setting A	Leapday Night
+Wed Apr  1 10:16:11 2015	17	Luba Orgonasova, Soprano; Roman Trekel, Baritone; Rundfunkchor	Missa Da Requiem	n/a
+Wed Apr  1 10:23:29 2015	17	Microstoria	Sleepy People / Network Down	_Snd
+Wed Apr  1 10:28:38 2015	19	Rampant Egos	I've Eaten the Keys	Tweak of Nature
+Wed Apr  1 10:32:59 2015	19	D Numbers	Insomniac	Onda
+Wed Apr  1 10:37:57 2015	18	Pierre Henry	Microphone bien tempere- 1950-52- Tam Tam IV	Historia da Musica Eletroacustica CD Extra 3- Pierre Henry 1
+Wed Apr  1 10:41:36 2015	18	David Borden	Fireflies	Cayuga Night Music
+Wed Apr  1 10:49:48 2015	18	Brian Eno	Glitterbug 7	Glitterbug
+Wed Apr  1 10:52:55 2015	18	Steve Roach	Stars Begin	Landmass
+Wed Apr  1 11:00:31 2015	16	Francois Bayle	Camera Obscura (1976 revision) (Part 7)	Historia da Musica Eletroacustica CD 29- 1975-1976
+Wed Apr  1 11:01:21 2015	17	Kronos Quartet	Volans: String Quartet #1, `White Man Sleeps`- Mvt. 5	n/a
+Wed Apr  1 11:04:46 2015	17	Karlheinz Stockhausen	Mantra (Two Pianos and Ring Modulation) (Part 11)	Historia da Musica Eletroacustica CD 27- 1970
+Wed Apr  1 11:06:22 2015	17	Ian Boddy & Markus Reuter	Slowfall	Colour Division (DiN43)
+Wed Apr  1 11:10:34 2015	18	Michael Vetter & The Overtone Choir	Ancient Voices	Ancient Voices
+Wed Apr  1 11:21:40 2015	18	Klaus Schulze	Nostalgic Echo: Solitude	La Vie Electronique 5 [[Disc 2]]
+Wed Apr  1 11:25:32 2015	17	Pierre Boulez	Repons (6 solistas, ensemble e 4X) (Part 8)	Historia da Musica Eletroacustica CD 33- 1981-84
+Wed Apr  1 11:30:55 2015	18	Aphrodite's Child	Lament	666 [Disc 1]
+Wed Apr  1 11:33:48 2015	19	Angus Maclaurin	Secret Handshake Part I	Glass Music
+Wed Apr  1 11:37:55 2015	20	Philippe Manoury	Neptune- 1991- 2 vibrafones-MIDI, tam-tam, marimba e live-elect	n/a
+Wed Apr  1 11:40:49 2015	23	William Winant, Joan La Barbara	8 Whiskus	John Cage at Summerstage
+Wed Apr  1 11:45:33 2015	23	Rodrigo Cicchelli-Velloso	Cymbals- Reminiscencia- 1993	Historia da Musica Eletroacustica CD 50- 1991-1993
+Wed Apr  1 12:00:17 2015	19	Loren Nerell	Frogs	Indonesian Soundscapes
+Wed Apr  1 12:03:31 2015	22	Wendy Carlos	Bach: Anna Magdalena NoteBook 1n D, BWV Ahn 122- March	Switched-On Brandenburgs, Volume II
+Wed Apr  1 12:04:46 2015	20	Marco Stroppa	Traiettoria (Part 3)	Historia da Musica Eletroacustica CD 35- 1982-1984
+Wed Apr  1 12:11:42 2015	19	Kurt Weill	Little Threepenny Music: Overture	Concerto For Violin And Wind Orchestra; Kiddush, Little 3penny Music
+Wed Apr  1 12:13:33 2015	19	Dirk Reith	nahe zu fern- 1987	Historia da Musica Eletroacustica CD 41- 1986-1987
+Wed Apr  1 12:23:18 2015	15	Dieter Moebius	Alte Mir	Electroshock Presents: Electroacoustic Music- Volume V
+Wed Apr  1 12:33:27 2015	14	Subradial	Dance Of Shadows	Ice Diving
+Wed Apr  1 12:39:31 2015	15	Jorge Antunes	Valsa sideral (Part 4)	History of Electronic Music
+Wed Apr  1 12:42:49 2015	16	Steven Feld	Le Son de L'angelus En France: Meaudre	The Time Of Bells
+Wed Apr  1 12:53:43 2015	15	Michael Byron	Continents Of City And Love	Awakening At The Inn Of The Birds
+Wed Apr  1 13:09:54 2015	14	Out Of Context	Confidence	Out Of Context Plays One Nich Equals 25 Miles Written By Sumner Carnahan
+Wed Apr  1 13:17:12 2015	16	Amadinda Percussion Group	Jovial Jasper	Amadinda
+Wed Apr  1 13:23:36 2015	16	Simulate Sensual	Skin Deep	Simulate Sensual
+Wed Apr  1 13:27:39 2015	18	Black Market	Is It Too Late to Illuminate the Museum	Transfigurations
+Wed Apr  1 13:30:58 2015	14	Jean-Claude Risset	Computer Suite from Little Boy, II. (Part 14)	Historia da Musica Eletroacustica CD 18- 1966-1968
+Wed Apr  1 13:35:13 2015	14	Richard Zvonar, Robert Black	Massif (1995)	Presence III [Disc 2]
+Wed Apr  1 13:43:01 2015	14	Glenn Freeman	Three2 (1991)	Three2, Twenty-Three, Six, Twenty-Six / Christina Fong, Glenn Freeman, Karen Krummel
+Wed Apr  1 13:51:41 2015	13	Moebius & Plank	Two Oldtimers	Begegnungen
+Wed Apr  1 13:58:37 2015	14	Tangerine Dream	Sunrise In The Third System	Journey Through A Burning Brain [Disc 1]
+Wed Apr  1 14:02:43 2015	16	Forrest Fang	Filling The Bowl	Bibimbap
+Wed Apr  1 14:08:18 2015	18	Lisa Walker	Backwards Unfolding	Grooved Whale
+Wed Apr  1 14:15:22 2015	19	Peter Warren & Matt Samolis	Tk. 4	Bowed Metal Music
+Wed Apr  1 14:19:32 2015	16	Anatoly Pereslegin	Model 4: John	Passion Models
+Wed Apr  1 14:27:34 2015	16	John Cage	IV	Sonatas And Interludes For Prepared Piano
+Wed Apr  1 14:30:19 2015	15	Ang Mo Faux	Choppa	Improvisations
+Wed Apr  1 14:55:29 2015	13	BrianEno	The Hasness	My Squelchy Life
+Wed Apr  1 14:59:56 2015	13	Robert Fripp & The League Of The Crafty Guitarists	Eye of the Needle	Show of hands
+Wed Apr  1 15:02:56 2015	12	Penguin Cafe Orchestra	Wildlife	Ambient Volume 2- Imaginary Landscapes (1)
+Wed Apr  1 15:11:14 2015	13	Gregory Taylor	Simon_petrus	Dua_belas
+Wed Apr  1 15:14:29 2015	12	Beatriz Ferreyra	Echos	Historia da Musica Eletroacustica CD 24- 1975-1978
+Wed Apr  1 15:22:48 2015	10	California Guitar Trio	The Marsh	Whitewater
+Wed Apr  1 15:27:42 2015	16	Turtle Island Quartet	Mr. Bumbles	Metropolis
+Wed Apr  1 15:30:18 2015	15	Ensemble Modern	Peaches En Regalia	Ensemble Modern Plays Frank Zappa
+Wed Apr  1 15:33:15 2015	15	Balanescu Quartet	Matty Drawing	Angels & Insects
+Wed Apr  1 15:34:18 2015	15	Brian Eno	Glitterbug 1	Glitterbug
+Wed Apr  1 15:37:30 2015	16	CelloCosmos	Grand Shift	CelloCosmos
+Wed Apr  1 15:48:54 2015	19	Brian Eno & J. Peter Schwalm	Intenser	Drawn From Life
+Wed Apr  1 15:54:20 2015	18	Joan La Barbara	Cage: Eight Whiskus	Singing Through
+Wed Apr  1 15:58:32 2015	17	Mother Mallard	The Continuing Story of Counterpoint, Part 8A	The Continuing Story of Counterpoint, Part 5-8
+Wed Apr  1 16:06:56 2015	16	Karlheinz Stockhausen	Mantra (Two Pianos and Ring Modulation) (Part 24)	Historia da Musica Eletroacustica CD 27- 1970
+Wed Apr  1 16:08:51 2015	16	Paul Price Percussion Ensemble	Cage: She Is Asleep- 2. Quartet For 12 Tomtoms	Cage: Works For Piano & Prepared Piano, Vol. 1
+Wed Apr  1 16:14:33 2015	15	Pierre Boulez	Anthemes II- 1991-97- violino, computador e 6 grupos de alto-fa	n/a
+Wed Apr  1 16:15:31 2015	15	Sarah Peebles	Nocturnal Premonitions	DISContact II [Disc 2]
+Wed Apr  1 16:17:32 2015	15	Francois Bayle	Toupie dans le ciel- 1979 (Part 15)	Historia da Musica Eletroacustica CD Extra- Bayle- 1978-79
+Wed Apr  1 16:19:45 2015	15	Pierre Henry	Coexistence- 1958- Final	Historia da Musica Eletroacustica CD Extra 4- Pierre Henry 2
+Wed Apr  1 16:25:41 2015	16	Rampant Egos	Sappho	Cockroaches
+Wed Apr  1 16:29:30 2015	16	Roger Eno	Newton's Statue	Lost In Translation
+Wed Apr  1 16:31:41 2015	17	Tim Labor	Clutch	Views from the Perfect City
+Wed Apr  1 16:40:34 2015	17	Turtle Island String Quartet: Ying Quartet	Balakrishnan: Mara's Garden Of False Delights- Doughboy	4 + 4
+Wed Apr  1 16:44:15 2015	15	Kronos Quartet	Sallinen: Winter Was Hard, Op. 20	Winter Was Hard
+Wed Apr  1 16:45:39 2015	15	Michael Koenig	Klangfiguren I	History of Electronic Music
+Wed Apr  1 16:49:37 2015	15	Terre Thaemlitz	Fat Chair	Tranquilizer
+Wed Apr  1 16:55:17 2015	15	Laurie Radford	Les ponts de l'espace (2001)	Presence III [Disc 2]
+Wed Apr  1 17:02:21 2015	15	Joshua Pierce	Cage: In A Landscape	Cage: Works For Piano & Prepared Piano, Vol. 1
+Wed Apr  1 17:09:33 2015	13	CK Berlow	Domino Re-Mix	High Mayhem Fest 05
+Wed Apr  1 17:20:01 2015	11	Fred Sherry cello/ Orchestra of St Luke's/Wuorinen	Five: Con for Amplified Vc and Orch: Ist movt and cadanza	Five
+Wed Apr  1 17:26:29 2015	11	Iannis Xenakis	Metastaseis (1953-54) for 60 musicians	Xenakis: Orchestral Works & Chamber Music
+Wed Apr  1 17:34:32 2015	10	Jurgen Knieper	Lied Vom Kindsein, 2 (Strophe -Song Of Childhood, Verse 2)	Wings Of Desire: Original Soundtrack
+Wed Apr  1 17:35:29 2015	13	Bruno Maderna	Dimensioni II (Invenzione su una Voce)	History of Electronic Music
+Wed Apr  1 17:49:13 2015	14	Adrian Belew	Laurence Harvey's Despair	The Guitar as Orchestra (1995)
+Wed Apr  1 17:51:56 2015	13	Oliver Knussen: London Sinfonietta	Takemitsu: Day Signal, `Signals From Heaven 1`	n/a
+Wed Apr  1 17:53:43 2015	13	Mythos	Encyclopedia Terra Part 2	Mythos
+Wed Apr  1 18:00:33 2015	13	Steve Roach	Midnight Migration	Tales From the Ultra Tribe
+Wed Apr  1 18:11:37 2015	13	Niccolo Castiglioni	Divertimento	History of Electronic Music
+Wed Apr  1 18:14:16 2015	12	Simon Limbrick, Gavin Bryars, Bill Frisell, Etc.	Bryars: The Old Tower Of Lobenicht	Bryars: After The Requiem
+Wed Apr  1 18:29:41 2015	13	Loren Nerell	Within the Cloud	The Venerable Dark Cloud
+Wed Apr  1 18:33:23 2015	12	Edgar Froese	Esilon In Malaysian Pale	Epsilon In Malaysian Pale
+Wed Apr  1 18:49:36 2015	14	Bernard Parmegiani	Violostries I	History of Electronic Music
+Wed Apr  1 18:54:15 2015	14	Klaus Schulze	Return of the Tempel: Midnight Blue	In Blue [Disc 2]
+Wed Apr  1 19:03:36 2015	13	Quatuor Helios	Inlets	Credo In Us...More Works for Percussion
+Wed Apr  1 19:12:41 2015	11	Pete Namlook & Richie Hawtin	Part 7	From Within 3- Silent Intelligence 54.25 Part I- XII
+Wed Apr  1 19:14:15 2015	10	Pierre Schaeffer	Etude aux Objets (Objets etendus)	History of Electronic Music
+Wed Apr  1 19:17:09 2015	10	Philippe Manoury	Jupiter- 1986- flauta e 4X (Part 13)	Historia da Musica Eletroacustica CD 38- 1983-1986
+Wed Apr  1 19:18:38 2015	10	Alexander Volodin	The Music Of My Memory: Deep	Reflections Of Time
+Wed Apr  1 19:23:34 2015	11	Out Of Context	Mask	Out Of Context Plays One Nich Equals 25 Miles Written By Sumner Carnahan
+Wed Apr  1 19:29:13 2015	10	Bulent Arel	Postlude from Music for a Sacred Service	Columbia-Princeton Electronic Music Center 1961-1973
+Wed Apr  1 19:32:55 2015	9	Charles Zachary Bornstein: St-X Ensemble	Xenakis: Xas	Xenakis: Ensemble Music 2
+Wed Apr  1 19:41:40 2015	9	Ink On Paper	Main St.	Ink On Paper
+Wed Apr  1 19:43:23 2015	11	Michael Brook	Cascade	The World Cafe
+Wed Apr  1 19:46:27 2015	11	Towering Inferno	Part III: Toll (I)	Kaddish
+Wed Apr  1 19:47:14 2015	12	Robert Fripp	The Gates Of Paradise	The Gates of Paradise
+Wed Apr  1 20:00:57 2015	14	Pierre Henry & Pierre Schaeffer	Symphonie pour un homme seul, IV	History of Electronic Music
+Wed Apr  1 20:02:15 2015	12	Brian Eno	Markgraph	The Shutov Assembly
+Wed Apr  1 20:05:36 2015	12	Ian Boddy	Destination Zero	Liverdelphia (DiN42)
+Wed Apr  1 20:15:26 2015	12	Chris & Cosey	Cowboys in Cuba	Trance
+Wed Apr  1 20:20:59 2015	12	Morton Subotnick	Return- A Triumph Of Reason I	The Key To Songs
+Wed Apr  1 20:39:54 2015	13	Karlheinz Stockhausen	Mixtur (Part 10)	History of Electronic Music
+Wed Apr  1 20:42:00 2015	13	Rova	Water Under the Bridge	Bingo
+Wed Apr  1 20:47:35 2015	14	Marco Stroppa	Traiettoria (Part 5)	Historia da Musica Eletroacustica CD 35- 1982-1984
+Wed Apr  1 20:57:17 2015	16	Katherine Gordon	Holding Patterns (Holding Patterns)	Sonic Circuits VIII
+Wed Apr  1 21:02:40 2015	16	Chris De Giere	Kimchi Tastes Of Summer	Bibimbap
+Wed Apr  1 21:08:49 2015	16	Black Market	Torah	n/a
+Wed Apr  1 21:11:57 2015	16	Wendy Carlos	Carlos (W): Just Imaginings	Beauty In The Beast
+Wed Apr  1 21:23:39 2015	16	Harry Partch	The Bewitched- Epilogue	Enclosure 5
+Wed Apr  1 21:25:27 2015	16	Brian Eno/Jon Hassell	Delta Rain Dream	A Brief History Of Ambient Volume 1 [Disc 2]
+Wed Apr  1 21:28:39 2015	15	John Cage	Imaginary Landscape No. 5	History of Electronic Music
+Wed Apr  1 21:30:14 2015	16	Synergy	On Presuming To Be Modern II	Cords
+Wed Apr  1 21:32:55 2015	15	Alice Shields	Study for Voice and Tape	Columbia-Princeton Electronic Music Center 1961-1973
+Wed Apr  1 21:38:13 2015	14	Pierre Henry	Concerto des ambiguites- 1950- Intermede (Part 11)	Historia da Musica Eletroacustica CD Extra 3- Pierre Henry 1
+Wed Apr  1 21:40:32 2015	12	Michael Mauldin	Desert Light, IV	Opus One CD 177
+Wed Apr  1 21:43:49 2015	10	Brassum	Elastomeric	Warning Lights
+Wed Apr  1 21:49:27 2015	10	Kronos Quartet	Webern: 6 Bagatelles, Op. 9	Winter Was Hard
+Wed Apr  1 21:53:19 2015	10	Pierre Boulez	Repons (6 solistas, ensemble e 4X) (Part 2)	Historia da Musica Eletroacustica CD 33- 1981-84
+Wed Apr  1 21:59:42 2015	10	Francois Bayle	Camera Obscura (1976 revision) (Part 10)	Historia da Musica Eletroacustica CD 29- 1975-1976
+Wed Apr  1 22:02:19 2015	10	Ernst Krenek	Pfigstoratorium (Spiritus Intelligentiae Sanctus) soprano, teno	n/a
+Wed Apr  1 22:19:23 2015	10	Glen Velez	Temple Of Moonlight	Rhythmcolor Exotica
+Wed Apr  1 22:23:13 2015	9	Jurgen Knieper	Die Kathedrale Der Buecher (The Cathedral Of Books)	Wings Of Desire: Original Soundtrack
+Wed Apr  1 22:27:12 2015	10	We Drew Lightning	Bloody Mary	Swimming With Orange
+Wed Apr  1 22:31:35 2015	9	Iannis Xenakis	Charisma (1971) for clarinet and cello	Xenakis: Orchestral Works & Chamber Music
+Wed Apr  1 22:35:40 2015	9	Subradial	Hydrostatic	Ice Diving
+Wed Apr  1 22:39:03 2015	9	John Zorn	Blue	Elegy
+Wed Apr  1 22:45:46 2015	11	Joshua Pierce	Sonata #10	n/a
+Wed Apr  1 22:48:20 2015	12	Turtle Island Quartet	Sunny August Full Of Moon	Metropolis
+Wed Apr  1 22:53:34 2015	13	Loren Nerell	Dark Horizon	The Venerable Dark Cloud
+Wed Apr  1 22:59:43 2015	13	Grilly Biggs	Twenty-One Pt. 1	Live @ High Mayhem 2005
+Wed Apr  1 23:07:26 2015	13	Paul Bowles	Baptism of Solitude	Baptism of Solitude
+Wed Apr  1 23:10:56 2015	12	Node	Shinkansen West	Node 2 (DiN44)
+Wed Apr  1 23:21:58 2015	13	Tom Lawrence	Scarletstown Swamps	Water Beetles Of Pollardstown Fen
+Wed Apr  1 23:29:23 2015	11	Bernard Parmegiani	Sonare- 1996 (Part 3)	Historia da Musica Eletroacustica CD 54- 1996
+Wed Apr  1 23:54:46 2015	10	Robert Normandeau	Spleen [ex.]	DISContact! II [Disc 1]
+Wed Apr  1 23:57:37 2015	10	Oliver Knussen: London Sinfonietta	Takemitsu: Archipelago S.	Takemitsu: Quotation Of Dream
+Thu Apr  2 00:09:04 2015	12	Frisell, Godsey, Ales	Busy Busy Busy	Safety In Numbers/American Blood
+Thu Apr  2 00:12:00 2015	13	Pierre Schaeffer	5 Etudes de Bruits; Tourniquets	History of Electronic Music
+Thu Apr  2 00:13:49 2015	13	Anthony De Mare	Travel Song	Pianos and Voices (1992)
+Thu Apr  2 00:15:24 2015	13	Mother Mallard	Part Twelve A (1987)	The Continuing Story of Counterpoint Parts 9-12
+Thu Apr  2 00:22:18 2015	13	David Byrne	Samara	The Forest
+Thu Apr  2 00:27:45 2015	14	Out Of Context	Stripped	Out Of Context Plays One Nich Equals 25 Miles Written By Sumner Carnahan
+Thu Apr  2 00:34:13 2015	14	Turtle Island String Quartet: Ying Quartet	Balakrishnan: Mara's Garden Of False Delights- Snakes & Ladders	4 + 4
+Thu Apr  2 00:40:29 2015	13	Sonic Youth	Invito Al Cielo	SYR3: Invito Al Cielo
+Thu Apr  2 01:00:37 2015	13	Philippe Manoury	Jupiter- 1986- flauta e 4X (Part 3)	Historia da Musica Eletroacustica CD 38- 1983-1986
+Thu Apr  2 01:03:14 2015	13	Hans Reichel	Prelude to `Onkel Boskopp` (III)	n/a
+Thu Apr  2 01:05:28 2015	13	Brian Eno	Cavallino	The Shutov Assembly
+Thu Apr  2 01:08:15 2015	14	Steven Feld	Arctic Circle Jingling	The Time Of Bells 4
+Thu Apr  2 01:12:52 2015	13	Herbert Henck	Klavierstucke	Music Of Our Time
+Thu Apr  2 01:14:56 2015	13	Karlheinz Stockhausen	Mixtur (Part 18)	History of Electronic Music
+Thu Apr  2 01:17:27 2015	13	Frank Zappa & The Mothers Of Invention	Aybe Sea	Burnt Weeny Sandwich
+Thu Apr  2 01:19:28 2015	13	David Darling	Etude For T.O.D.	A Sombient Collection- The Throne Of Drones
+Thu Apr  2 01:24:12 2015	14	Vinko Globokar	Kolo- 1988- coro misto, trombone e eletronica (Part 6)	Historia da Musica Eletroacustica CD 42- 1987-1988
+Thu Apr  2 01:47:40 2015	12	Martin Fumarola	Estatismo (1989)	Presence III [Disc 1]
+Thu Apr  2 01:55:37 2015	12	Beatsystem	Closely Tuned Drone	Em:t 2297
+Thu Apr  2 02:05:05 2015	11	David Tanenbaum	Slow (Electric Counterpoint)	Acoustic Counterpoint
+Thu Apr  2 02:08:13 2015	11	Keller Quartet	Kurtag: String Quartet, Op. 1- 3. Vivacissimo; Lento	Kurtag: Musik Fur Streichinstrumente
+Thu Apr  2 02:11:23 2015	11	Ink On Paper	Nyc	Ink On Paper
+Thu Apr  2 02:14:49 2015	11	Ian Boddy & Markus Reuter	Colour Division	Colour Division (DiN43)
+Thu Apr  2 02:23:31 2015	12	Tangerine Dream	Wahn	The Analogue Space Years 1969-1973
+Thu Apr  2 02:28:15 2015	12	Derek Bailey, George Lewis, John Zorn	The Warning Track	Yankees
+Thu Apr  2 02:32:42 2015	13	Steve Roach	Groove Immersion (Part Three)	Groove Immersion
+Thu Apr  2 02:45:16 2015	13	Luigi Nono	A Pierre. Dell'Azzurro Silenzio, Inquietum- 1985- coro, dlauta	n/a
+Thu Apr  2 02:54:14 2015	13	Charles Zachary Bornstein: St-X Ensemble	Xenakis: Echange	Xenakis: Ensemble Music 2
+Thu Apr  2 03:10:50 2015	11	Brian Eno & J. Peter Schwalm	Like Pictures, Pt. 1	Drawn From Life
+Thu Apr  2 03:11:45 2015	11	Towering Inferno	Part IV: the Bell	Kaddish
+Thu Apr  2 03:16:57 2015	11	Aquiles Pantaleao	Solidos- 1993	Historia da Musica Eletroacustica CD 51- 1993-1994
+Thu Apr  2 03:25:40 2015	11	Post Prandials	The Nancy's Panties Symphonic Metamorphosis	Flight
+Thu Apr  2 03:31:28 2015	11	Tung-Lung Lin	Mirror Of Time (1999)	Presence III [Disc 2]
+Thu Apr  2 03:35:32 2015	11	Pierre Boulez	Repons (6 solistas, ensemble e 4X) (Part 6)	Historia da Musica Eletroacustica CD 33- 1981-84
+Thu Apr  2 03:41:06 2015	11	Brassum	Seven Enchiladas	Warning Lights
+Thu Apr  2 03:44:15 2015	10	Pierre Henry	Coexistence- 1958- Scherzo	Historia da Musica Eletroacustica CD Extra 4- Pierre Henry 2
+Thu Apr  2 03:46:01 2015	10	Kronos Quartet	Lurie: Bella By Barlight	Winter Was Hard
+Thu Apr  2 03:48:50 2015	9	Michael Tilson Thomas: London Symphony Orchestra	Reich: The Four Sections- 4. Full Orchestra	Reich: The Four Sections, Music For Mallet Instruments, Voices & Organ
+Thu Apr  2 03:55:02 2015	10	Francois Bayle	Camera Obscura (1976 revision) (Part 5)	Historia da Musica Eletroacustica CD 29- 1975-1976
+Thu Apr  2 03:57:00 2015	12	Steve Reich	Music For A Large Ensemble	Octet/Music for a Large Ensemble/Violin Phase
+Thu Apr  2 04:12:19 2015	11	Turtle Island Quartet	Sidewinder	Metropolis
+Thu Apr  2 04:18:13 2015	11	CelloCosmos	MacroCosmos (Two)	CelloCosmos
+Thu Apr  2 04:23:00 2015	13	William Winant, Deborah Dietrich, Karen Rosenak, David Abel	Feldman: Rothko Chapel 2	Feldman: Rothko Chapel, Why Patterns?
+Thu Apr  2 04:27:32 2015	13	Paul Bowles	You Are Not I	Baptism of Solitude
+Thu Apr  2 04:27:52 2015	13	David Dunn	...with zitterings of flight released,	Views from the Perfect City
+Thu Apr  2 04:41:31 2015	14	Grilly Biggs	Twenty-One Pt. 2	Live @ High Mayhem 2005
+Thu Apr  2 04:45:20 2015	14	Rampant Egos	Memory Strings	Songs in the Key of Me
+Thu Apr  2 04:49:32 2015	14	Loren Nerell	A Sense of Presence	Slow Dream
+Thu Apr  2 05:08:53 2015	13	We Drew Lightning	Insectivore	Swimming With Orange
+Thu Apr  2 05:17:21 2015	15	Brian Eno	The Water Garden	Textures
+Thu Apr  2 05:19:45 2015	15	Lisa Walker	Boogie/Wave (Edit)	EarthEar Radio Volume 2: Winter 2002
+Thu Apr  2 05:25:05 2015	15	Karlheinz Stockhausen	Gesang der Junglinge	History of Electronic Music
+Thu Apr  2 05:37:41 2015	14	Guido Del Fabbro	Gaviscon	Carre de sable
+Thu Apr  2 05:41:50 2015	15	Bruno Maderna	Musica su Due Dimensioni	History of Electronic Music
+Thu Apr  2 05:48:51 2015	16	Roger Eno	Aryis	Swimming
+Thu Apr  2 05:51:33 2015	16	Pierre Henry	Microphone bien tempere- 1950-52- Batterie Fugace	Historia da Musica Eletroacustica CD Extra 3- Pierre Henry 1
+Thu Apr  2 05:53:34 2015	15	Francois Bayle	Tremblement de terre tres doux- 1978 (Part 1)	Historia da Musica Eletroacustica CD Extra- Bayle- 1978-79
+Thu Apr  2 05:55:28 2015	15	Henry Cow	Beautiful As The Moon; Terrible As An Army With Banners- Nirvan	n/a
+Thu Apr  2 06:17:52 2015	19	Quatuor Helios	Imaginery Lanscape Ndeg3	Credo In Us...More Works for Percussion
+Thu Apr  2 06:21:16 2015	16	Karin Hoghielm	Vocalis	Hoghielm: Apocryphal
+Thu Apr  2 06:22:56 2015	20	Frank Zappa & The Mothers Of Invention	Overture To A Holiday In Berlin	Burnt Weeny Sandwich
+Thu Apr  2 06:24:25 2015	20	Paul Schutze	The Tears Of Eros	The Annihilating Angel
+Thu Apr  2 06:30:36 2015	19	Kronos Quartet	Barber: Adagio For Strings, Op. 11	Winter Was Hard
+Thu Apr  2 06:36:48 2015	19	Christoph Grund, Piano	Farbtonstucke	Music Of Our Time
+Thu Apr  2 06:38:45 2015	19	Philippe Manoury	La Partition du Ciel et de l'Enfer- 1989- flauta, 2 pianos, ens	n/a
+Thu Apr  2 06:47:37 2015	17	John Cage	II	Sonatas And Interludes For Prepared Piano
+Thu Apr  2 06:49:39 2015	16	A Produce	Near & Far Away	Reflect Like A Mirror, Respond Like An Echo
+Thu Apr  2 06:55:28 2015	17	Joan La Barbara	Circular Song (Part 19)	Voice Is the Original Instrument
+Thu Apr  2 07:02:49 2015	17	Liliane Mazeron, Stuart Patterson, Irene Jarsky, Christian Treg	Overture- Part One	n/a
+Thu Apr  2 07:07:43 2015	17	D Numbers	Dead Things	Onda
+Thu Apr  2 07:13:47 2015	17	Wativ	Dim Blue Voices	Baghdad Music Journal
+Thu Apr  2 07:17:48 2015	17	Michael Matthews	On The Outer Edge (2001)	Presence III [Disc 2]
+Thu Apr  2 07:22:50 2015	18	A Most Happy Sound	The Nature Of Time (The Nature Of Time)	The Nature Of Time
+Thu Apr  2 07:29:31 2015	19	Sergio Barroso	Cronicas De Ultrasueno	Delirantes [Disc 1] [IMED 9628]
+Thu Apr  2 07:41:43 2015	22	Pierre Boulez	Anthemes II- 1991-97- violino, computador e 6 grupos de alto-fa	n/a
+Thu Apr  2 07:43:47 2015	21	John Duesenberry	WaveBreak (1994)	Presence III [Disc 1]
+Thu Apr  2 07:48:19 2015	22	Byron Metcalf, Dashmesh Khalsa, Steve Roach	Realms of the Sacred Seed	Dream Tracker
+Thu Apr  2 07:59:38 2015	21	Wendy Carlos	Beauty In The Beast	Beauty in the Beast
+Thu Apr  2 08:02:56 2015	19	Loren Nerell	Hiasan (Ornament)	Lilin Dewa
+Thu Apr  2 08:22:48 2015	21	David Dunn	Tabula Angelorum Bonorum 49, Part VII	Angels & Insects
+Thu Apr  2 08:27:08 2015	20	Klaus Schulze	La Vie Secrete: Geist Der Zeit	La Vie Electronique 6 [[Disc 3]]
+Thu Apr  2 08:37:49 2015	24	Joshua Pierce	First Interlude	John Cage: Sonatas & Interludes for prepared Piano
+Thu Apr  2 08:40:34 2015	24	Hans Reichel	Upper Larum	Lower Lurum
+Thu Apr  2 08:44:39 2015	24	Bernard Parmegiani	Violostries III	History of Electronic Music
+Thu Apr  2 08:48:25 2015	24	Steve Roach / Kelly David	Last Light	The Long Night
+Thu Apr  2 08:58:06 2015	23	Chas Smith	Albuquerque 5402- A Curse Of Beauty	An Hour Out Of Desert Center
+Thu Apr  2 09:06:05 2015	27	Tangerine Dream	Circulation Of Events	The Analogue Space Years 1969-1973
+Thu Apr  2 09:11:33 2015	25	Edgar Froese	Upland	Aqua
+Thu Apr  2 09:18:10 2015	24	Martin Fumarola	SC (1999-2000)	Presence III [Disc 1]
+Thu Apr  2 09:20:55 2015	21	David Parsons	The Other Side	Parsons, D.: Surya
+Thu Apr  2 09:31:12 2015	22	Ian Boddy & Markus Reuter	Beacon	Colour Division (DiN43)
+Thu Apr  2 09:39:55 2015	21	Various	Dervish	iNDEX04 (DiN40)
+Thu Apr  2 09:44:31 2015	23	Impact Test Dummy	10.666	High Mayhem Fest 05
+Thu Apr  2 09:55:31 2015	21	David Borden	The Coming Of Winter	Cayuga Night Music
+Thu Apr  2 10:01:36 2015	25	Paul Dresher	Other Fire	Dresher: Water Dreams / Other Fire / Stone, C.: Hop Ken / Wall Me Do / Demarinis: Kokole / I Want You
+Thu Apr  2 10:12:24 2015	22	Pete Namlook, Klaus Schulze & Bill Laswell	Three Pipers at the Gates of Dawn, p.I	The Dark Side of the Moog 4
+Thu Apr  2 10:19:42 2015	23	Judi Silvano	Dobranotz	Cleome- Live Takes
+Thu Apr  2 10:23:34 2015	20	Richard Bone	Part Four	Vesperia
+Thu Apr  2 10:33:17 2015	21	Brian Eno	Dune: Prophecy	Rarities
+Thu Apr  2 10:37:16 2015	20	Ensemble Modern	Revised Music For Low Budget Orchestra	Ensemble Modern Plays Frank Zappa
+Thu Apr  2 10:44:49 2015	17	Karlheinz Stockhausen	Mantra (Two Pianos and Ring Modulation) (Part 19)	Historia da Musica Eletroacustica CD 27- 1970
+Thu Apr  2 10:48:24 2015	18	Jean-Claude Risset	Mutations	Historia da Musica Eletroacustica CD 20- 1968-1970
+Thu Apr  2 10:53:16 2015	17	M. Griffin	Escape/Approach	Sudden Dark
+Thu Apr  2 10:58:11 2015	17	Luening & Ussachevsky	Incantation	History of Electronic Music
+Thu Apr  2 11:00:23 2015	17	Philip Glass	Heroes	"Heroes" Symphony
+Thu Apr  2 11:05:36 2015	21	The Late Severa Wires	Note	Rewired
+Thu Apr  2 11:13:50 2015	18	Hi-Fi Market	Bangkok, Thailand, Dec 4th 1995	Solar: A Music Travelogue Volume One
+Thu Apr  2 11:16:18 2015	18	Nicolas Collins	Strange Heaven	Sound Without Picture
+Thu Apr  2 11:29:46 2015	24	Henry Threadgill's Zooid	Mirror Mirror The Verb	This Brings Us To, Volume I
+Thu Apr  2 11:32:50 2015	22	Luciano Berio	Perspectives	History of Electronic Music
+Thu Apr  2 11:39:17 2015	21	Francois Bayle	Camera Obscura (1976 revision) (Part 13)	Historia da Musica Eletroacustica CD 29- 1975-1976
+Thu Apr  2 11:49:16 2015	20	Kronos Quartet	Part: Fratres	Winter Was Hard
+Thu Apr  2 11:57:35 2015	20	Sylvi MacCormac	penny: a process (1998)	Presence III [Disc 2]
+Thu Apr  2 12:00:26 2015	19	Synergy	Icarus	Sequencer
+Thu Apr  2 12:03:41 2015	18	Space	Live At The Public Theatre, II	An Interesting Breakfast Conversation
+Thu Apr  2 12:08:59 2015	18	Brian Eno & J. Peter Schwalm	Persis	Drawn From Life
+Thu Apr  2 12:16:36 2015	21	Larval	Thick Atmosphere	2
+Thu Apr  2 12:19:42 2015	22	Out Of Context	Distance	Out Of Context Plays One Nich Equals 25 Miles Written By Sumner Carnahan
+Thu Apr  2 12:28:38 2015	21	Adrian Belew	If Only...	The Guitar as Orchestra (1995)
+Thu Apr  2 12:33:15 2015	23	Regianaldo Carvalho	Sibemol (Part 8)	History of Electronic Music
+Thu Apr  2 12:34:54 2015	22	Turtle Island String Quartet: Ying Quartet	Price: Variations On An Unoriginal Theme	4 + 4
+Thu Apr  2 12:42:22 2015	24	Pierre Schaeffer	Variations sur une flute mexicane	History of Electronic Music
+Thu Apr  2 12:46:18 2015	26	Jeff Sipe, Paul Hanson, Jonas Hellborg	Astral Communications	Jeff Sipe, Paul Hanson, Jonas Hellborg- LP
+Thu Apr  2 12:52:17 2015	27	Newband	Partch: Eleven Intrusions- Olympus' Pantatonic	Partch: Eleven Intrusions
+Thu Apr  2 12:53:32 2015	26	Terje Rypdal	Key witness	Vossabrygg, Op.84
+Thu Apr  2 12:55:15 2015	27	Philippe Manoury	Jupiter- 1986- flauta e 4X (Part 1)	Historia da Musica Eletroacustica CD 38- 1983-1986
+Thu Apr  2 12:58:31 2015	26	Jose Halac	Cueca	Illegal Edge
+Thu Apr  2 13:04:38 2015	24	Tom Lawrence	Moore's Well	Water Beetles Of Pollardstown Fen
+Thu Apr  2 13:09:46 2015	26	David Taylor, St Luke's Chamber Ensemble	Archaeopteryx for Bass Trbn and 10 Players	Five
+Thu Apr  2 13:25:16 2015	22	Loren Nerell	Mentation	Slow Dream
+Thu Apr  2 13:52:32 2015	24	Klaus Schulze	Titanische Tage: The Ram	La Vie Electronique 5 [[Disc 2]]
+Thu Apr  2 13:57:21 2015	25	Al Faaet And J.A. Deane	Grand Cross Eclipse	Grand Cross Eclipse
+Thu Apr  2 14:07:28 2015	24	Aquiles Pantaleao	Materialma- 1995 (Part 5)	Historia da Musica Eletroacustica CD 52- 1992-1995
+Thu Apr  2 14:19:54 2015	20	Pierre Henry	Haut-Voltage- 1956- avec la vois de Pierre Henry	Historia da Musica Eletroacustica CD Extra 4- Pierre Henry 2
+Thu Apr  2 14:41:55 2015	21	Pierre Boulez	Dialogue de l'Ombre Double- 1982- Clarinete solo, tape e espaci	n/a
+Thu Apr  2 14:42:54 2015	19	Oliver Knussen: London Sinfonietta	Takemitsu: Dream/Window	Takemitsu: Quotation Of Dream
+Thu Apr  2 14:56:24 2015	23	Rundfunkorchester Berlin with Hans-Dieter Baum	Palillos Y Panderetas	Music Of Our Time
+Thu Apr  2 15:00:15 2015	19	Michael Jarrell	Rhizomes (Assonance VIIb)- 1991-93- dois percussionistas, dois	n/a
+Thu Apr  2 15:13:42 2015	24	Peter Cusak & Nicolas Collins	Hazlitt	A Host, Of Golden Daffodils

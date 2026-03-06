@@ -1,0 +1,655 @@
+Wed Apr  1 00:00:22 2015	55	Sleater-Kinney	No Cities To Love	No Cities To Love
+Wed Apr  1 00:03:25 2015	56	Courtney Barnett	Pedestrian At Best	Sometimes I Sit and Think, and Sometimes I Just Sit
+Wed Apr  1 00:07:09 2015	57	Made Violent	Dirty	Made Violent - EP
+Wed Apr  1 00:09:46 2015	53	U2	One Tree Hill	Joshua Tree
+Wed Apr  1 00:14:26 2015	53	The Go! Team	Did You Know?	The Scene Between
+Wed Apr  1 00:19:09 2015	53	The Watson Twins	How Am I To Be	Fire Songs
+Wed Apr  1 00:22:12 2015	51	Lost Boy ?	Car Wash	Canned
+Wed Apr  1 00:26:29 2015	52	Tomboy	Roll Out	Tomboy EP
+Wed Apr  1 00:30:42 2015	51	Bailterspace	Films of You	Trinine
+Wed Apr  1 00:33:13 2015	52	The Boggs	Forts	Forts
+Wed Apr  1 00:35:50 2015	53	JEFF The Brotherhood	Prairie Song	Wasted On The Dream
+Wed Apr  1 00:39:25 2015	55	Echo & the Bunnymen	Silver	Songs To Learn & Sing
+Wed Apr  1 00:42:32 2015	58	The Wedding Present	Be Honest	Bizarro
+Wed Apr  1 00:44:42 2015	59	Alex G	Change	Trick
+Wed Apr  1 00:46:42 2015	59	Male Gaze	The Shining Path	Gale Maze
+Wed Apr  1 00:49:57 2015	62	Morrissey	I'm OK By Myself	Years Of Refusal
+Wed Apr  1 00:54:33 2015	62	The Living Eyes	Eat it Up	Living Large
+Wed Apr  1 00:56:33 2015	64	X	Soul Kitchen (Record Plant Demo 1979)	Beyond And Back: The X Anthology (Disc 1)
+Wed Apr  1 00:59:14 2015	66	Glasvegas	Geraldine	Glasvegas [Vinyl]
+Wed Apr  1 01:02:45 2015	67	Petite Noir	Shadows	The King of Anxiety
+Wed Apr  1 01:06:43 2015	65	Queens Of The Stone Age	3's & 7's	Era Vulgaris
+Wed Apr  1 01:10:15 2015	65	The Vickers	Walking On Rope	Ghosts
+Wed Apr  1 01:14:00 2015	65	Keath Mead	Polite Refusal	Sunday Dinner
+Wed Apr  1 01:18:33 2015	62	The Front Bottoms	Au Revoir	Talon Of The Hawk
+Wed Apr  1 01:19:46 2015	62	Doe	Late Bloomer	First Four
+Wed Apr  1 01:22:55 2015	62	The Cure	In Between Days	Staring At The Sea-The Singles 1979-1985
+Wed Apr  1 01:25:46 2015	67	Buffalo Tom	Frozen Lake	Let Me Come Over
+Wed Apr  1 01:29:20 2015	64	The Bright Light Social Hour	Slipstream	Space Is Still the Place
+Wed Apr  1 01:32:14 2015	65	Dirty Projectors	Offspring Are Blank	Swing Lo Magellan
+Wed Apr  1 01:36:15 2015	66	Chastity Belt	Joke	Time to Go Home
+Wed Apr  1 01:41:35 2015	67	Purling Hiss	The Harrowing Wind	Water On Mars
+Wed Apr  1 01:45:10 2015	68	Anthonie Tonnon	Bird Brains	Demo
+Wed Apr  1 01:49:22 2015	69	Modest Mouse	Coyotes	Strangers to Ourselves
+Wed Apr  1 01:53:34 2015	68	King Tuff	Hole In My Head	Wild Desire
+Wed Apr  1 01:55:40 2015	70	Wimple Winch	Save My Soul	The Rubble Collection 1
+Wed Apr  1 01:59:11 2015	70	Liam Hayes	Fokus	Slurrup
+Wed Apr  1 02:03:45 2015	66	War On Drugs	Best Night	Slave Ambient
+Wed Apr  1 02:07:41 2015	66	Spacemen 3	Hypnotized	Indie Top 20 - Volume 8
+Wed Apr  1 02:13:19 2015	68	Kurt Vile	Runner Ups	Smoke Ring For My Halo
+Wed Apr  1 02:17:51 2015	68	Useless Eaters	Aftershock	Bleeding Moon
+Wed Apr  1 02:20:12 2015	67	Tyme	Land of 1000 Dances	Back From The Grave - Part 4
+Wed Apr  1 02:23:38 2015	66	Pontiak	Ghosts	Innocence
+Wed Apr  1 02:28:12 2015	65	Mainland	Leave the Lights On	Shiner EP
+Wed Apr  1 02:30:59 2015	65	The Remo Four	Live Like A Lady	Glass Orchid Aftermath - Rubble Collection 16
+Wed Apr  1 02:33:43 2015	68	Dry Heeves	Samhain	Boogie Till Ya Puke
+Wed Apr  1 02:39:23 2015	68	The Jesus & Mary Chain	Sowing Seeds	Psychocandy
+Wed Apr  1 02:42:02 2015	85	The Beatles	Rain	Past Masters, Vol. 2 [2009 Stereo Remaster]
+Wed Apr  1 02:44:57 2015	69	Ty Segall	My Head Explodes	Goodbye Bread
+Wed Apr  1 02:49:11 2015	70	Fat White Family	Is It Raining in Your Mouth?	Champagne Holocaust
+Wed Apr  1 02:52:46 2015	73	The Doors	People Are Strange	Strange Days
+Wed Apr  1 02:55:15 2015	72	Mystic Five	Are You For Real, Girl	Back From The Grave - Part 7
+Wed Apr  1 02:57:56 2015	72	The White Stripes	Fell In Love With A Girl	White Blood Cells
+Wed Apr  1 03:00:40 2015	72	Tiger High	So It Goes	Inside The Acid Coven
+Wed Apr  1 03:03:17 2015	71	Status Quo	Pictures Of Matchmen Men	The British Invasion
+Wed Apr  1 03:06:27 2015	78	Cheap Time	Same Surprise	Exit Smiles
+Wed Apr  1 03:12:11 2015	76	Allah-Las	Artifact	Worship the Sun
+Wed Apr  1 03:15:24 2015	73	Sons Of Fred	Sweet Love	The Rubble Collection 2
+Wed Apr  1 03:18:15 2015	75	Jacco Gardner	Find Yourself	Find Yourself (single)
+Wed Apr  1 03:22:50 2015	75	Chastity Belt	Drone	Time to Go Home
+Wed Apr  1 03:27:05 2015	75	Sonny & Cher	It's Gonna Rain	Where The Action Is! Los Angeles Nuggets 1965-1968
+Wed Apr  1 03:29:58 2015	74	Tijuana Panthers	Sooner Or Later	Wayne Interest
+Wed Apr  1 03:34:34 2015	77	Teenanger	Hot Rods At The Loser Convention	Black Moon Spell
+Wed Apr  1 03:37:11 2015	81	Joy Division	Colony	Heart and soul. (2)
+Wed Apr  1 03:41:15 2015	78	Moon Duo	Free The Skull	Shadow Of The Sun
+Wed Apr  1 03:45:12 2015	81	The Rebel Set	Just A Rumor	How To Make A Monster
+Wed Apr  1 03:48:44 2015	77	The Warlocks	Zombie Like Lovers	Heavy Deavy Skull Lover
+Wed Apr  1 03:51:30 2015	79	The Raveonettes	New York Was Great	Chain Gang Of Love
+Wed Apr  1 03:54:23 2015	79	My Bloody Valentine	When You Sleep	Loveless
+Wed Apr  1 03:58:46 2015	78	Pixies	U-Mass	Live In Berkeley, CA (Sept. 24, 2004)
+Wed Apr  1 04:01:46 2015	75	Champs	The Balfron Tower	Vamala
+Wed Apr  1 04:04:51 2015	74	Sunflower Bean	Tame Impala	Sunflower Bean EP
+Wed Apr  1 04:10:15 2015	74	Pomegranates	Heaven	Heaven
+Wed Apr  1 04:12:32 2015	74	Death Cab For Cutie	Crooked Teeth	Plans
+Wed Apr  1 04:15:49 2015	78	UNKLE	Follow Me Down (Featuring Sleepy Sun)	Where Did The Night Fall
+Wed Apr  1 04:20:23 2015	80	Dan Deacon	When I Was Done Dying	Gliss Riffer
+Wed Apr  1 04:24:30 2015	80	Elephone	Moving Beds	A Far Distant Parade
+Wed Apr  1 04:29:25 2015	82	Courtney Barnett	An Illustration of Loneliness (Sleepless in NY)	Sometimes I Sit and Think, and Sometimes I Just Sit
+Wed Apr  1 04:32:29 2015	84	Maximum Balloon	Young Love	Maximum Balloon
+Wed Apr  1 04:35:54 2015	86	HA1/4sker DA1/4	Ice Cold Ice	Warehouse: Songs And Stories
+Wed Apr  1 04:39:31 2015	84	Malka	Swoon	The Constant State
+Wed Apr  1 04:43:28 2015	86	CIKATRI$	TombA(c)e Amoureuse	Aïe ! - le trois
+Wed Apr  1 04:45:31 2015	87	Stephen Malkmus & The Jicks	Forever 28	Mirror Traffic
+Wed Apr  1 04:48:54 2015	85	Los Campesinos!	We Throw Parties, You Throw Knives	Sticking Fingers Into Sockets
+Wed Apr  1 04:51:10 2015	84	SpAPkraket	Tandava	In A Witch Forest
+Wed Apr  1 04:55:59 2015	84	Aluminum Babe	Everything 2 Me	Vit.Ri.Fied
+Wed Apr  1 04:59:13 2015	83	Harvey Danger	Flagpole Sitta	Where Have All the Merrymakers Gone?
+Wed Apr  1 05:02:52 2015	83	Gospel Gossip	Shadows Are Bent	Sing Into My Mouth
+Wed Apr  1 05:06:44 2015	84	Queens Of The Stone Age	I Sat By The Ocean	...Like Clockwork
+Wed Apr  1 05:10:34 2015	85	Dorsal Fins	Mind Renovation	Mind Renovation
+Wed Apr  1 05:13:29 2015	84	Twin River	Word To The Wise	Should The Light Go Out
+Wed Apr  1 05:16:44 2015	86	The Buzzcocks	Orgasm Addict	Singles Going Steady
+Wed Apr  1 05:18:53 2015	89	Doe	Redo Improve	First Four
+Wed Apr  1 05:21:00 2015	93	City Light	I Want What's Bad For Me	Burned Out Bright
+Wed Apr  1 05:24:04 2015	90	The Living Eyes	Low Life	Living Large
+Wed Apr  1 05:26:34 2015	92	Richard Hawley	Just Like The Rain	Coles Corner
+Wed Apr  1 05:29:43 2015	95	Radical Dads	Don't Go	Universal Coolers
+Wed Apr  1 05:34:00 2015	94	JosA(c) GonzA!lez	Stories We Build, Stories We Tell	Vestiges & Claws
+Wed Apr  1 05:37:25 2015	89	AM Syndicate	The Neighbor And His Wife	Liberation
+Wed Apr  1 05:41:34 2015	91	Young Buffalo	Old Soul	House
+Wed Apr  1 05:45:01 2015	89	The Clash	Police & Thieves	The Royal Tenenbaums
+Wed Apr  1 05:50:54 2015	97	Dick Diver	Percentage Points	Melbourne, Florida
+Wed Apr  1 05:53:46 2015	99	The Go Team	Panther Dash	Thunder Lightning Strike
+Wed Apr  1 05:56:36 2015	99	Circa Waves	T-Shirt Weather	T-Shirt Weather
+Wed Apr  1 05:59:30 2015	98	XTC	Earn Enough For Us	Skylarking
+Wed Apr  1 06:02:27 2015	98	Mini Mansions	Any Emotions	The Great Pretenders
+Wed Apr  1 06:05:32 2015	98	Cloud Cult	Chemicals Collide	The Meaning of 8
+Wed Apr  1 06:08:46 2015	94	The Bright Light Social Hour	Aperture	Space Is Still the Place
+Wed Apr  1 06:13:32 2015	96	Suede	It Starts And Ends With You	Bloodsports
+Wed Apr  1 06:17:12 2015	95	Pokey LaFarge	Something In The Water	Something In The Water
+Wed Apr  1 06:20:24 2015	94	Blitzen Trapper	Sci-Fi Kid	Wild Mountain Nation
+Wed Apr  1 06:23:20 2015	93	Love Is Chemicals	Claw Your Sweater	Love Is Chemicals
+Wed Apr  1 06:27:08 2015	96	R.E.M.	So. Central Rain	Eponymous
+Wed Apr  1 06:30:35 2015	102	The Go! Team	What D'You Say?	The Scene Between
+Wed Apr  1 06:34:00 2015	103	dungen	Panda	Ta Det Lugnt
+Wed Apr  1 06:38:58 2015	102	Summer Cannibals	TV	Show Us Your Mind
+Wed Apr  1 06:42:36 2015	99	Wand	Caveism	Golem
+Wed Apr  1 06:46:12 2015	97	pacificUV	Russians	After The Dream You Are Awake
+Wed Apr  1 06:49:25 2015	100	Sarah Bethe Nelson	Impossible Love	Fast Moving Clouds
+Wed Apr  1 06:52:31 2015	104	Okkervil River	Our Life Is Not a Movie or Maybe	The Stage Names
+Wed Apr  1 06:56:22 2015	104	Bearhug	Catacombs	So Gone
+Wed Apr  1 07:00:40 2015	103	Screaming Females	Wishing Well	Rose Mountain
+Wed Apr  1 07:03:48 2015	106	The National	Mistaken For Strangers	Boxer
+Wed Apr  1 07:07:28 2015	101	Death Cab For Cutie	Why You'd Want To Live Here	The Photo Album
+Wed Apr  1 07:11:51 2015	106	Gateway Drugs	Mommy	Magick Spells
+Wed Apr  1 07:14:57 2015	104	Clinic	Distortions	Internal Wrangler
+Wed Apr  1 07:18:51 2015	105	Tame Impala	Apocalypse Dreams	Lonerism
+Wed Apr  1 07:24:35 2015	105	Moon Duo	Zero	Shadow Of The Sun
+Wed Apr  1 07:27:34 2015	105	Dorsal Fins	Jacqueline	Mind Renovation
+Wed Apr  1 07:30:16 2015	105	Squeeze	Tempted (alternate version)	Excess Moderation (Disc 1)
+Wed Apr  1 07:33:20 2015	109	Gal Pals	Ex-Marionette	Velvet Rut
+Wed Apr  1 07:36:44 2015	112	The Ettes	Love Lies Bleeding	Do You Want Power
+Wed Apr  1 07:38:37 2015	110	Depeche Mode	Stripped	Singles 1986-1998 (Disc 1)
+Wed Apr  1 07:42:12 2015	111	Houndstooth	Borderlands	No News From Home
+Wed Apr  1 07:46:36 2015	112	Belle and Sebastian	Piazza, New York Catcher	Dear Catastrophe Waitress
+Wed Apr  1 07:49:16 2015	111	The Minor Leagues	Good Boys	This Story Is Old, I Know, But It Goes On
+Wed Apr  1 07:52:40 2015	110	Wolf Colony	The One	Unmasked
+Wed Apr  1 07:55:36 2015	113	The Byrds	Turn! Turn! Turn! (To Everything There Is A Season)	Turn! Turn! Turn!
+Wed Apr  1 07:59:05 2015	111	Swervedriver	Autodidact	I Wasn't Born to Lose You
+Wed Apr  1 08:06:39 2015	110	Dinosaur Jr.	Puke & Cry	Green Mind
+Wed Apr  1 08:08:32 2015	111	Sebadoh	Love You Here	Defend Yourself
+Wed Apr  1 08:11:43 2015	112	Keath Mead	Change	Sunday Dinner
+Wed Apr  1 08:14:48 2015	114	The Thermals	Our Trip	Fuckin A
+Wed Apr  1 08:16:42 2015	110	Champs	Vamala	Vamala
+Wed Apr  1 08:20:21 2015	107	Pavement	Cut Your Hair	Crooked Rain, Crooked Rain
+Wed Apr  1 08:23:32 2015	107	Mikal Cronin	See It My Way	MCII
+Wed Apr  1 08:25:19 2015	105	Caviare Days	The Lucky Ones	Caviare Days
+Wed Apr  1 08:25:55 2015	90	Little Barrie	Tip It Over	King Of The Waves
+Wed Apr  1 08:26:37 2015	94	Mikal Cronin	See It My Way	MCII
+Wed Apr  1 08:27:28 2015	100	Modest Mouse	The Best Room	Strangers To Ourselves
+Wed Apr  1 08:31:44 2015	105	Sonic Youth	Antenna	The Eternal
+Wed Apr  1 08:37:49 2015	110	Sarah Bethe Nelson	Soft Eyes	Fast Moving Clouds
+Wed Apr  1 08:40:44 2015	112	Mini Mansions	Vertigo	The Great Pretenders
+Wed Apr  1 08:45:17 2015	118	Silversun Pickups	Three Seed	Carnavas
+Wed Apr  1 08:51:13 2015	115	Weezer	Hash Pipe	Weezer (Green Album)
+Wed Apr  1 08:53:59 2015	112	Metronomy	Loving Arm	The English Riviera
+Wed Apr  1 08:57:32 2015	113	Faerground Accidents	We Hate The Same Things	We Hate The Same Things (single)
+Wed Apr  1 09:00:55 2015	115	The Smiths	Heaven Knows I'm Miserable Now	Singles
+Wed Apr  1 09:04:36 2015	114	The Soft Moon	Feel	Deeper
+Wed Apr  1 09:08:00 2015	111	The Wedding Present	Ringway To Seatac	Search for Paradise (CD + Bonus DVD)
+Wed Apr  1 09:10:39 2015	119	The Icarus Line	Black Lives At The Golden Coast	Black Lives At The Golden Coast
+Wed Apr  1 09:13:35 2015	117	Dick Diver	Waste The Alphabet	Melbourne, Florida
+Wed Apr  1 09:15:56 2015	119	Dorsal Fins	Sun & Stars	Mind Renovation
+Wed Apr  1 09:19:44 2015	121	Erica Nockalls	Cut Them Out	Imminent Room
+Wed Apr  1 09:22:56 2015	127	Mates Of State	Goods (All in Your Head)	All Day
+Wed Apr  1 09:27:43 2015	125	Gateway Drugs	Friday's Are For Suckers	Magick Spells
+Wed Apr  1 09:31:01 2015	128	Shout Out Louds	Very Loud	Howl Howl Gaff Gaff
+Wed Apr  1 09:35:03 2015	128	Yeah Yeah Yeahs	Maps	Fever To Tell
+Wed Apr  1 09:38:36 2015	128	Muscles	Ice Cream	Guns Babes Lemonade
+Wed Apr  1 09:42:10 2015	126	The House Of Love	I Don't Know Why I Love You	The House Of Love
+Wed Apr  1 09:45:27 2015	132	of Montreal	Apollyon Of Blue Room	Aureate Gloom
+Wed Apr  1 09:49:11 2015	130	Screaming Females	Criminal Image	Rose Mountain
+Wed Apr  1 09:54:19 2015	129	The High Strung	I Got Your Back	Ode To The Inverse Of The Dude
+Wed Apr  1 09:56:45 2015	130	The Prefab Messiahs	Booshwa Sally	Keep Your Stupid Dreams Alive
+Wed Apr  1 09:59:49 2015	131	A.C. Newman	Like A Hitman, Like A Dancer	Get Guilty
+Wed Apr  1 10:03:16 2015	132	Mitski	Texas Reznikoff	Bury Me at Makeout Creek
+Wed Apr  1 10:05:24 2015	136	Diamond Jim	Little Heartbreaker	Big Bad Beautiful Dreams
+Wed Apr  1 10:09:45 2015	136	Moon Duo	Slow Down	Shadow Of The Sun
+Wed Apr  1 10:14:57 2015	136	Dave Segedy	Walk Around	Schrodego
+Wed Apr  1 10:17:30 2015	140	Jeremy Warmsley	5 Verses	5 Interesting Lies EP
+Wed Apr  1 10:20:57 2015	140	Chastity Belt	Time to Go Home	Time to Go Home
+Wed Apr  1 10:24:45 2015	135	Buffalo Tom	Larry	Let Me Come Over
+Wed Apr  1 10:30:00 2015	138	Male Gaze	Early Surgeon	Gale Maze
+Wed Apr  1 10:32:24 2015	132	Elvis Costello	(What's So Funny 'Bout) Peace, Love and Understanding	The Best of Elvis Costello & the Attractions
+Wed Apr  1 10:35:46 2015	132	Sunflower Bean	OK Mr. Man	Sunflower Bean EP
+Wed Apr  1 10:39:15 2015	136	Mimicking Birds	Memorabilia	Eons
+Wed Apr  1 10:42:38 2015	134	Wand	Self Hypnosis In Three Days	Golem
+Wed Apr  1 10:46:32 2015	137	HeadQuarters	Feelove	O And O
+Wed Apr  1 10:50:15 2015	137	Beach Baby	Ladybird	Ladybird (single)
+Wed Apr  1 10:53:54 2015	139	Broncho	Pick a Fight	Can't Get Past the Lips
+Wed Apr  1 10:56:05 2015	143	Gal Pals	Dumbhead	Velvet Rut
+Wed Apr  1 10:58:58 2015	143	Yuck	Rebirth	Glow & Behold
+Wed Apr  1 11:02:53 2015	142	Pixies	Gouge Away	Doolittle
+Wed Apr  1 11:05:32 2015	147	My Bloody Valentine	Only Shallow	Loveless
+Wed Apr  1 11:09:09 2015	149	Dan Deacon	When I Was Done Dying	Gliss Riffer
+Wed Apr  1 11:13:31 2015	156	Spring Offensive	Everything Other Than This	Pull Us Apart
+Wed Apr  1 11:17:42 2015	149	Mini Mansions	Double Visions	The Great Pretenders
+Wed Apr  1 11:20:36 2015	149	Tei Shi	Bassically	Verde
+Wed Apr  1 11:25:05 2015	150	We Know Mason	Let's Get Out Of Our Heads Now	You Do
+Wed Apr  1 11:29:38 2015	146	Crystal Robots	Monday In The City (version)	Crystal Robots
+Wed Apr  1 11:32:55 2015	145	Foreign Born	Union Hall	On The Wing Now
+Wed Apr  1 11:36:40 2015	144	Gang Of Four	Isle of Dogs	What Happens Next
+Wed Apr  1 11:40:29 2015	146	Gateway Drugs	Friday's Are For Suckers	Magick Spells
+Wed Apr  1 11:43:46 2015	146	Bad Veins	Gold And Warm	Bad Veins [Vinyl]
+Wed Apr  1 11:47:30 2015	142	The English Beat	Jackpot	I Just Can't Stop It
+Wed Apr  1 11:51:39 2015	145	Chastity Belt	Drone	Time to Go Home
+Wed Apr  1 11:56:01 2015	143	Teddybears	Crystal Meth Christian (Featuring The Flaming Lips)	Devil's Music
+Wed Apr  1 11:59:48 2015	143	TV On The Radio	Dirtywhirl	Return to Cookie Mountain
+Wed Apr  1 12:03:51 2015	147	Dick Diver	Percentage Points	Melbourne, Florida
+Wed Apr  1 12:06:40 2015	146	The Cribs	Finally Free	For All My Sisters
+Wed Apr  1 12:10:17 2015	145	South	Here On In	From Here On In
+Wed Apr  1 12:15:18 2015	145	of Montreal	Apollyon Of Blue Room	Aureate Gloom
+Wed Apr  1 12:19:16 2015	142	Magik Markers	Screams of Birds and Girls	Surrender To the Fantasy
+Wed Apr  1 12:23:36 2015	143	The Breeders	Drivin' On 9	Last Splash
+Wed Apr  1 12:26:48 2015	142	JEFF The Brotherhood	In My Dreams	Wasted On The Dream
+Wed Apr  1 12:30:53 2015	143	Heaven's Gate	Drone	Transmuting
+Wed Apr  1 12:34:15 2015	143	High Places	Altos Lugares	Original Colors
+Wed Apr  1 12:38:04 2015	143	Alex G	Change	Trick
+Wed Apr  1 12:39:56 2015	140	Big Troubles	Never Mine	Romantic Comedy
+Wed Apr  1 12:44:00 2015	138	Made Violent	Dirty	Made Violent - EP
+Wed Apr  1 12:46:43 2015	140	APB	Rainy Day	Something To Believe In
+Wed Apr  1 12:50:38 2015	145	Fanfarlo	Lenslife	Rooms Filled With Light
+Wed Apr  1 12:54:00 2015	143	Captain Baby	Row On	Sugar Ox
+Wed Apr  1 12:58:57 2015	139	Psychedelic Furs	India (tedit)	Psychedelic Furs
+Wed Apr  1 13:03:15 2015	138	The Go! Team	Waking The Jetstream	The Scene Between
+Wed Apr  1 13:07:12 2015	138	J.Kleinberg	Boy Meets Girl	The Sadness You Feel Will Make You Real
+Wed Apr  1 13:12:40 2015	137	Prototypes	Gentleman	Prototypes
+Wed Apr  1 13:15:48 2015	134	Moon Duo	Zero	Shadow Of The Sun
+Wed Apr  1 13:18:49 2015	130	Vetiver	Wonder Why	The Errant Charm
+Wed Apr  1 13:22:16 2015	130	Matthew E. White	Rock & Roll Is Cold	Fresh Blood
+Wed Apr  1 13:26:13 2015	133	Evans The Death	Bad Year	Expect Delays
+Wed Apr  1 13:28:51 2015	136	Telekinesis!	Great Lakes	Telekinesis!
+Wed Apr  1 13:31:43 2015	133	Siouxsie & the Banshees	Cities In Dust	Twice Upon A Time: The Singles
+Wed Apr  1 13:35:30 2015	131	Catherine Wheel	Black Metallic	Ferment
+Wed Apr  1 13:42:36 2015	130	Chastity Belt	Joke	Time to Go Home
+Wed Apr  1 13:47:47 2015	123	Cars & Trains	Asking	We Are All Fire
+Wed Apr  1 13:52:46 2015	120	Lost Boy ?	Car Wash	Canned
+Wed Apr  1 13:56:54 2015	122	The Black Angels	Diamond Eyes	Clear Lake Forest
+Wed Apr  1 14:00:39 2015	126	Subliminal Girls	Burn Koko	Burn Koko (Single)
+Wed Apr  1 14:04:52 2015	121	The Soft Moon	Far	Deeper
+Wed Apr  1 14:08:37 2015	118	Doe	Redo Improve	First Four
+Wed Apr  1 14:10:34 2015	120	The Grates	Aw Yeah	Teeth Lost, Hearts Won
+Wed Apr  1 14:13:30 2015	120	AM Syndicate	My Friend The Sleep Walker (The Cowbell Song)	Liberation
+Wed Apr  1 14:17:49 2015	115	Wand	Caveism	Golem
+Wed Apr  1 14:21:42 2015	120	Metronomy	Month Of Sundays	Love Letters
+Wed Apr  1 14:25:01 2015	119	Happy Mondays	Kinky Afro	Pills 'n' Thrills and Bellyaches
+Wed Apr  1 14:28:40 2015	119	Future Of The Left	Lapsed Catholics	Travels With Myself And Another
+Wed Apr  1 14:32:47 2015	118	The Parson Red Heads	Sister	King Giraffe
+Wed Apr  1 14:35:55 2015	118	The Prefab Messiahs	Booshwa Sally	Keep Your Stupid Dreams Alive
+Wed Apr  1 14:39:15 2015	122	Grooms	Comb The Feelings Through Your Hair	Comb The Feelings Through Your Hair
+Wed Apr  1 14:42:36 2015	123	The Shangri-Las	Leader Of The Pack	The Very Best of the Shangri-Las
+Wed Apr  1 14:45:16 2015	121	Dorsal Fins	Mind Renovation	Mind Renovation
+Wed Apr  1 14:48:32 2015	119	Potty Mouth	The Spins	Hell Bent
+Wed Apr  1 14:51:51 2015	113	Wolf Colony	The One	Unmasked
+Wed Apr  1 14:54:37 2015	110	Fires Of Rome	Love is a Burning Thing	You Kingdom You
+Wed Apr  1 14:58:33 2015	110	Soulsavers	Jesus Of Nothing	It's Not How Far You Fall, It's The Way You Land
+Wed Apr  1 15:02:35 2015	108	Sarah Bethe Nelson	Soft Eyes	Fast Moving Clouds
+Wed Apr  1 15:05:20 2015	107	Mitski	Texas Reznikoff	Bury Me at Makeout Creek
+Wed Apr  1 15:07:28 2015	105	Summer Cannibals	Something New	Show Us Your Mind
+Wed Apr  1 15:09:44 2015	105	The Jesus & Mary Chain	Blues From A Gun	Follow Our Trax - Volume III
+Wed Apr  1 15:14:26 2015	98	clintongore	Keep in Mind	clintongore
+Wed Apr  1 15:18:35 2015	101	Tomboy	Roll Out	Tomboy EP
+Wed Apr  1 15:22:47 2015	102	Second Sky	Purpose	Purpose EP
+Wed Apr  1 15:26:51 2015	97	Sister Crayon	(In) Reverse	Bellow
+Wed Apr  1 15:30:37 2015	96	Mist And Mast	In Public	Action At A Distance
+Wed Apr  1 15:34:14 2015	96	Dan Deacon	Feel The Lightning	Gliss Riffer
+Wed Apr  1 15:38:59 2015	96	The Cars	Just What I Needed	The Cars Deluxe Edition Disc 1
+Wed Apr  1 15:42:35 2015	98	The Smiths	The Headmaster Ritual	Meat is Murder
+Wed Apr  1 15:47:15 2015	98	Gateway Drugs	Faith Healer	Magick Spells
+Wed Apr  1 15:50:36 2015	99	Oh No Ono	Helplessly Young	Eggs
+Wed Apr  1 15:53:49 2015	97	Parquet Courts	Slide Machine	Content Nausea
+Wed Apr  1 15:57:57 2015	94	Wand	Self Hypnosis In Three Days	Golem
+Wed Apr  1 16:01:48 2015	92	Generation X	Kiss Me Deadly	Anthology
+Wed Apr  1 16:06:14 2015	92	JosA(c) GonzA!lez	Leaf Off / The Cave [Radio Edit]	Vestiges & Claws
+Wed Apr  1 16:09:56 2015	90	Modest Mouse	The Best Room	Strangers To Ourselves
+Wed Apr  1 16:14:14 2015	90	The Wonder Stuff	Don't Let Me Down, Gently	Hup
+Wed Apr  1 16:17:15 2015	90	Camera Obscura	Let's Get Out Of This Country	Let's Get Out Of This Country
+Wed Apr  1 16:20:34 2015	89	Bearhug	The Glow	So Gone
+Wed Apr  1 16:24:49 2015	89	Faerground Accidents	We Hate The Same Things	We Hate The Same Things (single)
+Wed Apr  1 16:28:30 2015	86	JEFF The Brotherhood	Prairie Song	Wasted On The Dream
+Wed Apr  1 16:31:39 2015	89	Pokey LaFarge	All Night Long	Something In The Water
+Wed Apr  1 16:34:30 2015	89	Dinosaur Jr.	Green Mind	Green Mind
+Wed Apr  1 16:39:27 2015	89	Courtney Barnett	An Illustration of Loneliness (Sleepless in NY)	Sometimes I Sit and Think, and Sometimes I Just Sit
+Wed Apr  1 16:42:31 2015	89	Gal Pals	Ex-Marionette	Velvet Rut
+Wed Apr  1 16:45:38 2015	90	Girl In A Coma	Smart	Exits & All The Rest
+Wed Apr  1 16:48:49 2015	88	Jesse Woods	Lazerburn	Get Your Burdens Lifted
+Wed Apr  1 16:51:28 2015	86	Bright Eyes	Lua	I'm Wide Awake It's Morning
+Wed Apr  1 16:55:15 2015	85	Gang Of Four	Isle of Dogs	What Happens Next
+Wed Apr  1 16:58:50 2015	81	Houndstooth	Borderlands	No News From Home
+Wed Apr  1 17:02:59 2015	79	Bon Iver	Towers	Bon Iver
+Wed Apr  1 17:05:53 2015	81	Malka	A Flock Of Crows	The Constant State
+Wed Apr  1 17:09:43 2015	86	Yeah Yeah Yeahs	Way Out	Show Your Bones
+Wed Apr  1 17:12:36 2015	83	Get Set Go	Ordinary World	Ordinary World
+Wed Apr  1 17:17:27 2015	85	Wand	Self Hypnosis In Three Days	Golem
+Wed Apr  1 17:21:11 2015	82	Tilly And The Wall	Bad Education	Bottoms of Barrels
+Wed Apr  1 17:25:19 2015	84	Royal Headache	Never Again	Royal Headache
+Wed Apr  1 17:27:19 2015	81	The Living Eyes	Low Life	Living Large
+Wed Apr  1 17:29:49 2015	82	Editors	Bullets	The Back Room
+Wed Apr  1 17:32:56 2015	82	The Bright Light Social Hour	Aperture	Space Is Still the Place
+Wed Apr  1 17:37:37 2015	76	Freelance Whales	Generator ^ Second Floor	Weathervanes
+Wed Apr  1 17:42:15 2015	77	La Luz	Morning High	It's Alive
+Wed Apr  1 17:46:10 2015	80	JosA(c) GonzA!lez	Let It Carry You	Vestiges & Claws
+Wed Apr  1 17:51:32 2015	79	Broken Water	Drown	Tempest
+Wed Apr  1 17:55:06 2015	80	Tei Shi	Bassically	Verde
+Wed Apr  1 17:59:58 2015	76	The Amps	Empty Glasses	Pacer
+Wed Apr  1 18:02:31 2015	77	City Light	I See You	Burned Out Bright
+Wed Apr  1 18:05:18 2015	79	CIKATRI$	TombA(c)e Amoureuse	Aïe ! - le trois
+Wed Apr  1 18:07:26 2015	81	The Mountain Goats	This Year	The Sunset Tree
+Wed Apr  1 18:11:10 2015	81	Circa Waves	T-Shirt Weather	T-Shirt Weather
+Wed Apr  1 18:14:14 2015	77	The Go! Team	What D'You Say?	The Scene Between
+Wed Apr  1 18:17:56 2015	79	Desolation Wilderness	Boardwalk Theme	New Universe
+Wed Apr  1 18:21:58 2015	77	Art Brut	Emily Kane	Bang Bang Rock And Roll
+Wed Apr  1 18:24:42 2015	77	Tame Impala	Solitude Is Bliss	Innerspeaker
+Wed Apr  1 18:28:28 2015	82	Dan Deacon	When I Was Done Dying	Gliss Riffer
+Wed Apr  1 18:32:40 2015	84	E.D. Sedgwick	It Wasn't Me	We Wear White
+Wed Apr  1 18:35:24 2015	81	Summer Cannibals	Show Us Your Mind	Show Us Your Mind
+Wed Apr  1 18:37:43 2015	78	The Rapture	House Of Jealous Lovers (radio edit)	(single)
+Wed Apr  1 18:41:26 2015	78	...And You Will Know Us By The Trail Of Dead	It Was There That I Saw You	Source Tags & Codes
+Wed Apr  1 18:45:28 2015	77	Gateway Drugs	Mommy	Magick Spells
+Wed Apr  1 18:48:14 2015	78	Dave Segedy	Walk Around	Schrodego
+Wed Apr  1 18:50:49 2015	76	Portugal. The Man	Evil Friends (Radio Edit)	Evil Friends
+Wed Apr  1 18:53:15 2015	78	Perfume Genius	Learning	Learning
+Wed Apr  1 18:55:58 2015	74	Bearhug	Catacombs	So Gone
+Wed Apr  1 18:59:49 2015	74	Sister Vanilla	Can't Stop The Rock	Song For A Secret/Can't Stop The Rock
+Wed Apr  1 19:02:55 2015	71	Grinderman	Palaces of Montezuma	Grinderman 2
+Wed Apr  1 19:06:15 2015	67	Wax Idols	AD RE: Ian	Discipline & Desire
+Wed Apr  1 19:10:25 2015	66	Paul McCartney	Appreciate	New
+Wed Apr  1 19:14:40 2015	65	Modest Mouse	Coyotes	Strangers to Ourselves
+Wed Apr  1 19:18:22 2015	66	Sarah Bethe Nelson	Soft Eyes	Fast Moving Clouds
+Wed Apr  1 19:20:46 2015	65	The Beastie Boys	Get It Together	Ill Communication
+Wed Apr  1 19:24:41 2015	65	Champs	Vamala	Vamala
+Wed Apr  1 19:28:14 2015	65	Fires Of Rome	Dawn Lament	You Kingdom You
+Wed Apr  1 19:32:32 2015	69	The Soft Moon	Feel	Deeper
+Wed Apr  1 19:35:59 2015	71	Boris	Neu Years	Asobi Seksu x Boris 7"
+Wed Apr  1 19:40:15 2015	68	Radical Dads	Don't Go	Universal Coolers
+Wed Apr  1 19:44:38 2015	69	Keath Mead	Polite Refusal	Sunday Dinner
+Wed Apr  1 19:48:29 2015	69	Exitmusic	The Modern Age	Exitmusic
+Wed Apr  1 19:53:17 2015	64	The Living Eyes	Dry Spell	Living Large
+Wed Apr  1 19:56:38 2015	64	Ske	Stuff	Sound & Pictures Reykjavik
+Wed Apr  1 20:00:18 2015	63	Sunflower Bean	Tame Impala	Sunflower Bean EP
+Wed Apr  1 20:05:27 2015	59	Artichoke	Robber Bee	Bees
+Wed Apr  1 20:08:30 2015	56	Gateway Drugs	Mommy	Magick Spells
+Wed Apr  1 20:11:09 2015	56	The Afghan Whigs	Gentlemen	Gentlemen
+Wed Apr  1 20:14:58 2015	56	Matthew E. White	Rock & Roll Is Cold	Fresh Blood
+Wed Apr  1 20:19:15 2015	59	Youth Group	Baby Body	Skeleton Jar
+Wed Apr  1 20:22:54 2015	54	The Bright Light Social Hour	Sweet Madeline	Space Is Still the Place
+Wed Apr  1 20:28:34 2015	57	Fear Of Men	Descent	Loom
+Wed Apr  1 20:32:26 2015	52	Alex G	Memory	Trick
+Wed Apr  1 20:35:25 2015	54	The Veils	Advice For Young Mothers To Be	Nux Vomica
+Wed Apr  1 20:38:40 2015	54	Billy Idol	White Wedding (Part 1)	Sedated In The Eighties
+Wed Apr  1 20:42:48 2015	53	Stornoway	I Saw You Blink	Beachcomber's Windowsill
+Wed Apr  1 20:46:37 2015	53	The Cribs	Spring On Broadway	For All My Sisters
+Wed Apr  1 20:50:14 2015	48	Billy Bragg	A New England	Back To Basics
+Wed Apr  1 20:52:29 2015	48	Dick Diver	Waste The Alphabet	Melbourne, Florida
+Wed Apr  1 20:54:40 2015	49	Courtney Barnett	Depreston	Sometimes I Sit and Think, and Sometimes I Just Sit
+Wed Apr  1 20:58:59 2015	48	Spottiswoode & McMahon	Ukranainian Girl	S & M
+Wed Apr  1 21:01:55 2015	49	Grooms	Comb The Feelings Through Your Hair	Comb The Feelings Through Your Hair
+Wed Apr  1 21:05:33 2015	49	Two Seconds	Steadfast Kickdrum	Until We're Legal
+Wed Apr  1 21:07:21 2015	49	Bearhug	Aimee	So Gone
+Wed Apr  1 21:10:43 2015	47	Houndstooth	No News From Home	No News From Home
+Wed Apr  1 21:14:26 2015	47	Mixhell	Exit Wound	Spaces
+Wed Apr  1 21:17:48 2015	47	Phantom Band	The Howling	Checkmate Savage
+Wed Apr  1 21:24:16 2015	48	Pokey LaFarge	Something In The Water	Something In The Water
+Wed Apr  1 21:27:38 2015	48	The Breeders	Safari	Safari
+Wed Apr  1 21:30:56 2015	47	The Who	Christmas	Tommy
+Wed Apr  1 21:35:26 2015	49	Doe	Late Bloomer	First Four
+Wed Apr  1 21:38:36 2015	48	Captain Baby	Row On	Sugar Ox
+Wed Apr  1 21:43:34 2015	46	Ty Segall And White Fence	Crybaby	Hair
+Wed Apr  1 21:45:30 2015	46	Screaming Females	Empty Head	Rose Mountain
+Wed Apr  1 21:49:26 2015	47	The Sisters Of Mercy	Doctor Jeep	Vision Thing
+Wed Apr  1 21:54:15 2015	47	The Heavenly States	Pretty Life	Delayer
+Wed Apr  1 21:57:55 2015	46	Petite Noir	Shadows	The King of Anxiety
+Wed Apr  1 22:01:46 2015	48	Yeah Yeah Yeahs	Sacrilege	Advance single
+Wed Apr  1 22:05:37 2015	50	Scotland Yard Gospel Choir	Tear Down The Opera House	...And The Horse You Rode In On
+Wed Apr  1 22:07:34 2015	49	Moon Duo	Zero	Shadow Of The Sun
+Wed Apr  1 22:10:29 2015	50	Amusement Parks On Fire	Venus In Cancer	Amusement Parks on Fire
+Wed Apr  1 22:14:10 2015	50	Summer Cannibals	Show Us Your Mind	Show Us Your Mind
+Wed Apr  1 22:16:40 2015	52	Echo & the Bunnymen	The Back Of Love	Songs To Learn & Sing
+Wed Apr  1 22:19:47 2015	52	The Cardigans	Sabbath Bloody Sabbath	Emmerdale
+Wed Apr  1 22:24:28 2015	54	Dick Diver	Tearing The Posters Down	Melbourne, Florida
+Wed Apr  1 22:27:50 2015	54	Nirvana	Breed	Nevermind
+Wed Apr  1 22:30:48 2015	56	Beach Baby	Ladybird	Ladybird (single)
+Wed Apr  1 22:34:30 2015	54	Sonic Youth	Dirty Boots	Goo
+Wed Apr  1 22:39:20 2015	54	Cut Off Your Hands	Happy As Can Be	You and I
+Wed Apr  1 22:42:45 2015	57	Sarah Bethe Nelson	We're Not Dead	Fast Moving Clouds
+Wed Apr  1 22:46:29 2015	54	Tom Waits	LowDown	Orphans - Brawlers, Bawlers & Bastards
+Wed Apr  1 22:50:40 2015	53	The Prefab Messiahs	Weirdoz Everywhere	Keep Your Stupid Dreams Alive
+Wed Apr  1 22:53:25 2015	52	Gateway Drugs	Head	Magick Spells
+Wed Apr  1 22:57:37 2015	51	The Decemberists	The Hazards of Love 1 (The Prettiest Whistles Won't Wrestle the Thistles Undone)	Hazards of Love
+Wed Apr  1 23:01:55 2015	52	Ride	Leave Them All Behind (single)	Leave Them All Behind
+Wed Apr  1 23:06:31 2015	51	Magic Bullets	Spilled Milk	a Child but in life yet a DOCTOR in love
+Wed Apr  1 23:08:47 2015	51	The Go! Team	What D'You Say?	The Scene Between
+Wed Apr  1 23:12:38 2015	51	The Velvet Underground	Run Run Run	The Best Of The Velvet Underground
+Wed Apr  1 23:16:45 2015	50	Mini Mansions	Vertigo	The Great Pretenders
+Wed Apr  1 23:21:50 2015	55	Portugal. The Man	Got It All (This Can't Be Living Now)	In The Mountain In The Cloud
+Wed Apr  1 23:25:27 2015	54	The Church	Under The Milky Way	PNYE 2005
+Wed Apr  1 23:30:31 2015	58	Gal Pals	Dumbhead	Velvet Rut
+Wed Apr  1 23:33:24 2015	55	Dorsal Fins	Sun & Stars	Mind Renovation
+Wed Apr  1 23:36:47 2015	57	M.I.A.	Mango Pickle Down River (featuring The Wilcannia Mob)	Kala
+Wed Apr  1 23:40:40 2015	56	The Ocean Party	Wading In	Soft Focus
+Wed Apr  1 23:43:59 2015	57	Lost Boy ?	Bank	Canned
+Wed Apr  1 23:47:19 2015	62	Spoon	The Beast And Dragon, Adored	Gimme Fiction
+Wed Apr  1 23:51:29 2015	61	Filter	Hey Man, Nice Shot	Short Bus
+Wed Apr  1 23:56:13 2015	60	Goldspot	The Border Line	Aerogramme
+Wed Apr  1 23:59:39 2015	61	Public Image Ltd.	Death Disco	The Greatest Hits, So Far
+Thu Apr  2 00:03:50 2015	58	Mitski	Townie	Bury Me at Makeout Creek
+Thu Apr  2 00:06:55 2015	58	Evans The Death	Sledgehammer	Expect Delays
+Thu Apr  2 00:09:43 2015	58	The Flaming Lips	Yeah Yeah Yeah Song	At War with the Mystics
+Thu Apr  2 00:14:28 2015	60	Grooms	Will The Boys	Comb The Feelings Through Your Hair
+Thu Apr  2 00:18:11 2015	65	Animal Collective	Brothersport	Merriweather Post Pavilion
+Thu Apr  2 00:23:57 2015	64	Male Gaze	Early Surgeon	Gale Maze
+Thu Apr  2 00:26:31 2015	65	Shout Out Louds	Shut Your Eyes	n/a
+Thu Apr  2 00:29:35 2015	68	Champs	The Balfron Tower	Vamala
+Thu Apr  2 00:32:41 2015	68	of Montreal	Empyrean Abattoir	Aureate Gloom
+Thu Apr  2 00:37:08 2015	66	The Peekers	Sweet Potatoes	Life In The Air
+Thu Apr  2 00:39:09 2015	68	JEFF The Brotherhood	In My Dreams	Wasted On The Dream
+Thu Apr  2 00:43:18 2015	66	Nine Inch Nails	Closer	The Downward Spiral
+Thu Apr  2 00:49:13 2015	64	SpAPkraket	Tandava	In A Witch Forest
+Thu Apr  2 00:53:59 2015	67	The Replacements	I Will Dare	Let It Be
+Thu Apr  2 00:57:09 2015	68	Chastity Belt	Drone	Time to Go Home
+Thu Apr  2 01:01:37 2015	66	Mike Pace and the Child Actors	Summer Lawns	Best Boy
+Thu Apr  2 01:03:56 2015	68	Malka	Swoon	The Constant State
+Thu Apr  2 01:07:40 2015	68	Villagers	Becoming A Jackal	Becoming A Jackal
+Thu Apr  2 01:10:54 2015	69	Swervedriver	Autodidact	I Wasn't Born to Lose You
+Thu Apr  2 01:15:49 2015	67	Robert Pollard	Give Up The Grape	Normal Happiness
+Thu Apr  2 01:17:37 2015	66	Mini Mansions	Any Emotions	The Great Pretenders
+Thu Apr  2 01:20:41 2015	67	Supergrass	Diamond Hoo Ha Man	Diamond Hoo Ha
+Thu Apr  2 01:24:03 2015	64	Duck Duck Punch	Let Go	Human Chemistry
+Thu Apr  2 01:28:05 2015	66	The Jesus & Mary Chain	Far Gone And Out	Honey's Dead
+Thu Apr  2 01:30:39 2015	68	Screaming Females	Wishing Well	Rose Mountain
+Thu Apr  2 01:34:05 2015	69	Death Cab For Cutie	Someday You Will Be Loved	Plans (Bonus Video Version)
+Thu Apr  2 01:37:08 2015	69	Noel Gallagheras High Flying Birds	The Right Stuff	Chasing Yesterday
+Thu Apr  2 01:42:38 2015	71	Happyness	Naked Patients	Weird Little Birthday
+Thu Apr  2 01:47:35 2015	72	The Chameleons	Tears (acoustic)	Strange Times
+Thu Apr  2 01:52:18 2015	72	The Soft Moon	Far	Deeper
+Thu Apr  2 01:56:09 2015	74	Lake Trout	Shiny Wrapper	Not Them, You
+Thu Apr  2 02:00:38 2015	73	Gateway Drugs	Friday's Are For Suckers	Magick Spells
+Thu Apr  2 02:04:16 2015	75	Male Gaze	Early Surgeon	Gale Maze
+Thu Apr  2 02:06:35 2015	74	Oxford Collapse	Back of the Yards	Bits
+Thu Apr  2 02:09:05 2015	75	Neato Fleets	Today Pills	Reckless Tongue
+Thu Apr  2 02:13:17 2015	73	Jacco Gardner	Find Yourself	Find Yourself (single)
+Thu Apr  2 02:16:35 2015	73	Public Image Ltd.	Public Image	The Greatest Hits, So Far
+Thu Apr  2 02:19:32 2015	74	The Kinks	She's Got Everything	The Ultimate Collection
+Thu Apr  2 02:22:35 2015	74	Gal Pals	Ex-Marionette	Velvet Rut
+Thu Apr  2 02:26:00 2015	74	Sunflower Bean	OK Mr. Man	Sunflower Bean EP
+Thu Apr  2 02:29:08 2015	73	Agesandages	Under A Cloud Shaped Like A Tomb	Alright You Restless
+Thu Apr  2 02:32:22 2015	73	Doe	Redo Improve	First Four
+Thu Apr  2 02:34:28 2015	71	LCD Soundsystem	All My Friends	Sound Of Silver
+Thu Apr  2 02:41:59 2015	73	Blur	Bugman	13
+Thu Apr  2 02:45:01 2015	71	Young Buffalo	Guilt	House
+Thu Apr  2 02:48:18 2015	72	Yeah Yeah Yeahs	Subway	Mosquito
+Thu Apr  2 02:52:50 2015	71	Hookworms	In Our Time	Pearl Mystic
+Thu Apr  2 02:57:33 2015	74	Tei Shi	Bassically	Verde
+Thu Apr  2 03:01:54 2015	76	The Pretenders	Brass In Pocket	The Singles
+Thu Apr  2 03:05:02 2015	78	Courtney Barnett	Debbie Downer	Sometimes I Sit and Think, and Sometimes I Just Sit
+Thu Apr  2 03:07:58 2015	81	The Buzzcocks	Something's Gone Wrong Again	Singles Going Steady
+Thu Apr  2 03:12:37 2015	83	Radiohead	Bodysnatchers	In Rainbows
+Thu Apr  2 03:16:35 2015	82	Crystal Robots	Monday In The City (version)	Crystal Robots
+Thu Apr  2 03:19:51 2015	81	The Jam	David Watts	Compact Snap
+Thu Apr  2 03:22:53 2015	82	The Go! Team	Waking The Jetstream	The Scene Between
+Thu Apr  2 03:26:44 2015	80	Naomi Punk	Eleven Inches	Television Man
+Thu Apr  2 03:30:45 2015	77	One For The Team	Best Supporting Actress	Ghosts
+Thu Apr  2 03:33:49 2015	77	Dick Diver	Percentage Points	Melbourne, Florida
+Thu Apr  2 03:36:52 2015	76	Bears	You Can Tell	Shortest Day Of The Year
+Thu Apr  2 03:39:49 2015	74	Dorsal Fins	Nothing Left To Hide	Mind Renovation
+Thu Apr  2 03:43:30 2015	74	JosA(c) GonzA!lez	Leaf Off / The Cave [Radio Edit]	Vestiges & Claws
+Thu Apr  2 03:47:17 2015	76	Nine Inch Nails	Hurt	The Downward Spiral
+Thu Apr  2 03:51:45 2015	76	Charlatans UK	The Only One I Know	Indie Top 20 - Volume 10
+Thu Apr  2 03:55:37 2015	79	Joker's Daughter	Under The Influence Of Jaffa Cakes	The Last Laugh
+Thu Apr  2 03:57:52 2015	81	Alex G	Change	Trick
+Thu Apr  2 03:59:49 2015	79	Bloc Party	The Prayer	Weekend in the City
+Thu Apr  2 04:03:30 2015	81	CIKATRI$	TombA(c)e Amoureuse	Aïe ! - le trois
+Thu Apr  2 04:05:43 2015	81	Division Day	Chalk Lines	Visitation
+Thu Apr  2 04:09:10 2015	78	The Arcade Fire	Half Light II (No Celebration)	The Suburbs
+Thu Apr  2 04:13:29 2015	79	Male Gaze	The Shining Path	Gale Maze
+Thu Apr  2 04:16:32 2015	80	Sunflower Bean	Tame Impala	Sunflower Bean EP
+Thu Apr  2 04:21:49 2015	81	Bright Eyes	Hot Knives	Cassadaga
+Thu Apr  2 04:25:52 2015	80	James	Hymn From A Village	The best of
+Thu Apr  2 04:28:34 2015	81	Keath Mead	Polite Refusal	Sunday Dinner
+Thu Apr  2 04:32:42 2015	80	Throwing Muses	Red Shoes	The Real Ramona
+Thu Apr  2 04:36:07 2015	85	The Cars	My Best Friend's Girl	The Cars Deluxe Edition Disc 1
+Thu Apr  2 04:39:42 2015	86	Clap Your Hands Say Yeah	Same Mistake	Hysterical
+Thu Apr  2 04:42:42 2015	86	Downtown Harvest	Anita Leave	Discovering Dinosaurs
+Thu Apr  2 04:46:40 2015	88	The Bright Light Social Hour	Aperture	Space Is Still the Place
+Thu Apr  2 04:51:29 2015	89	Screaming Females	Ripe	Rose Mountain
+Thu Apr  2 04:54:39 2015	85	City Light	All You Demons	Burned Out Bright
+Thu Apr  2 04:56:38 2015	84	The Prefab Messiahs	Booshwa Sally	Keep Your Stupid Dreams Alive
+Thu Apr  2 04:59:49 2015	83	Thee Oh Sees	I Come From The Mountain	Floating Coffin
+Thu Apr  2 05:04:09 2015	85	Dorsal Fins	Sun & Stars	Mind Renovation
+Thu Apr  2 05:07:47 2015	85	Jane's Addiction	Jane Says	Nothing's Shocking
+Thu Apr  2 05:12:34 2015	92	Mini Mansions	Double Visions	The Great Pretenders
+Thu Apr  2 05:15:14 2015	93	of Montreal	Empyrean Abattoir	Aureate Gloom
+Thu Apr  2 05:19:43 2015	90	Dead Stars	Underwater	Slumber
+Thu Apr  2 05:23:56 2015	93	Modest Mouse	God is an Indian and You're an Asshole	Strangers To Ourselves
+Thu Apr  2 05:24:59 2015	93	Micah Paul Hinson	Beneath The Rose	Micah P. Hinson & The Gospel of Progress
+Thu Apr  2 05:27:46 2015	91	Bearhug	Aimee	So Gone
+Thu Apr  2 05:31:13 2015	93	The So So Glos	All of the Time	Blowout
+Thu Apr  2 05:35:32 2015	94	Swervedriver	Setting Sun	I Wasn't Born to Lose You
+Thu Apr  2 05:38:31 2015	94	Sabrosa Purr	Liars, Petty Thieves And Pets	Music From The Violet Room
+Thu Apr  2 05:41:57 2015	94	Petite Noir	Come Inside	The King of Anxiety
+Thu Apr  2 05:46:51 2015	95	The Smiths	Barbarism Begins At Home	Meat is Murder
+Thu Apr  2 05:53:47 2015	97	Lost Boy ?	Bank	Canned
+Thu Apr  2 05:56:55 2015	96	Sybris	Saint Veronica	Into The Trees
+Thu Apr  2 06:01:29 2015	94	Moon Duo	Free The Skull	Shadow Of The Sun
+Thu Apr  2 06:05:23 2015	103	The Front Bottoms	Skeleton	Talon of the Hawk
+Thu Apr  2 06:08:52 2015	95	The Mighty Lemon Drops	Happy Head	Happy Head & Out Of Hand
+Thu Apr  2 06:11:10 2015	97	Spoon	Back To The Life	Kill The Moonlight
+Thu Apr  2 06:13:32 2015	94	Malka	A Flock Of Crows	The Constant State
+Thu Apr  2 06:17:30 2015	97	Ash Reiter	Paper Diamonds	Paper Diamonds
+Thu Apr  2 06:22:00 2015	101	Wand	Floating Head	Golem
+Thu Apr  2 06:24:58 2015	104	Dorsal Fins	Mind Renovation	Mind Renovation
+Thu Apr  2 06:27:59 2015	100	Blur	She's So High	Leisure
+Thu Apr  2 06:32:36 2015	98	Young Buffalo	Old Soul	House
+Thu Apr  2 06:36:12 2015	99	Sonic Youth	Sleepin' Around	Rather Ripped
+Thu Apr  2 06:39:30 2015	100	The Cribs	Spring On Broadway	For All My Sisters
+Thu Apr  2 06:43:12 2015	99	Courtney Barnett	An Illustration of Loneliness (Sleepless in NY)	Sometimes I Sit and Think, and Sometimes I Just Sit
+Thu Apr  2 06:46:33 2015	97	Warren Teagarden	Quite The Tiger!	Warren Teagarden And The Good Grief
+Thu Apr  2 06:49:37 2015	97	Machinery Hall	Go Distorted	Machinery Hall
+Thu Apr  2 06:53:31 2015	104	Twin River	Word To The Wise	Should The Light Go Out
+Thu Apr  2 06:56:37 2015	107	The Breeders	Hellbound	Pod
+Thu Apr  2 06:58:58 2015	110	Superchunk	Hyper Enough	Here's Where the Strings Come In
+Thu Apr  2 07:02:36 2015	114	The Bright Light Social Hour	Sweet Madeline	Space Is Still the Place
+Thu Apr  2 07:08:00 2015	118	CIKATRI$	Quand me rA(c)veillerai-je?	Aïe ! - le trois
+Thu Apr  2 07:09:55 2015	119	Cut Off Your Hands	Expectations	You & I
+Thu Apr  2 07:12:53 2015	115	Gateway Drugs	Friday's Are For Suckers	Magick Spells
+Thu Apr  2 07:16:20 2015	112	Guided By Voices	The Best of Jill Hives	Earthquake Glue
+Thu Apr  2 07:18:44 2015	114	The Ramones	Teenage Lobotomy	Mania
+Thu Apr  2 07:20:49 2015	115	of Montreal	Like Ashoka's Inferno Of Memory	Aureate Gloom
+Thu Apr  2 07:26:17 2015	111	Ruby Pins	A Trial	Ruby Pins
+Thu Apr  2 07:29:54 2015	109	The Wedding Present	My Favourite Dress	George Best Plus
+Thu Apr  2 07:33:56 2015	107	Summer Cannibals	Show Us Your Mind	Show Us Your Mind
+Thu Apr  2 07:36:37 2015	107	Junip	So Clear	Junip
+Thu Apr  2 07:41:27 2015	107	Mitski	Townie	Bury Me at Makeout Creek
+Thu Apr  2 07:44:34 2015	105	The Beatles	And Your Bird Can Sing	Revolver
+Thu Apr  2 07:46:33 2015	105	Pixies	Bone Machine	Live In Berkeley, CA (Sept. 24, 2004)
+Thu Apr  2 07:49:16 2015	105	Lost Boy ?	About The Future	Canned
+Thu Apr  2 07:53:36 2015	106	MOUSE	Bankers	1/2 Wig
+Thu Apr  2 07:54:46 2015	106	Doe	Late Bloomer	First Four
+Thu Apr  2 07:57:58 2015	108	Public Image Ltd.	This Is Not A Love Song	The Greatest Hits, So Far
+Thu Apr  2 08:02:16 2015	109	Gringo Star	All Yall	All Yall
+Thu Apr  2 08:04:55 2015	113	Grooms	Will The Boys	Comb The Feelings Through Your Hair
+Thu Apr  2 08:08:35 2015	111	School Of Seven Bells	Windstorm	Disconnect From Desire
+Thu Apr  2 08:12:42 2015	112	Screaming Females	Ripe	Rose Mountain
+Thu Apr  2 08:15:42 2015	115	Courtney Barnett	Depreston	Sometimes I Sit and Think, and Sometimes I Just Sit
+Thu Apr  2 08:19:50 2015	116	Gary Numan	Cars	The Pleasure Principle
+Thu Apr  2 08:23:23 2015	118	Bright Eyes	Lover I Don't Have To Love	Lifted or The Story Is In The Soil, Keep Your Ear To The Ground
+Thu Apr  2 08:27:37 2015	118	Francis And The Lights	It'll Be Better	It'll Be Better
+Thu Apr  2 08:29:58 2015	119	The Soft Moon	Feel	Deeper
+Thu Apr  2 08:33:42 2015	123	Water Liars	$100	Phantom Limb
+Thu Apr  2 08:36:40 2015	124	The Prefab Messiahs	Booshwa Sally	Keep Your Stupid Dreams Alive
+Thu Apr  2 08:39:58 2015	119	MiniBoone	Rollerskates	MiniBoone
+Thu Apr  2 08:42:46 2015	118	The Black Hollies	Gloomy Monday Morning	Softly Towards The Light
+Thu Apr  2 08:45:46 2015	120	Sarah Bethe Nelson	Impossible Love	Fast Moving Clouds
+Thu Apr  2 08:49:00 2015	121	Bearhug	Catacombs	So Gone
+Thu Apr  2 08:52:59 2015	126	Cut Off Your Hands	Hollowed Out	Hollow
+Thu Apr  2 08:56:08 2015	130	Sebadoh	Rebound	Bakesale
+Thu Apr  2 08:58:30 2015	122	Gang Of Four	Isle of Dogs	What Happens Next
+Thu Apr  2 09:02:11 2015	122	Deers	Castigadas En El Granero	Barn (single)
+Thu Apr  2 09:05:45 2015	125	Robert Pollard	A Boy In Motion	From A Compound Eye
+Thu Apr  2 09:07:13 2015	127	Conor Oberst	Cape Canaveral	Conor Oberst
+Thu Apr  2 09:11:10 2015	129	David Newton & Thee Mighty Angels	Everything Is Just So	Paint The Town EP
+Thu Apr  2 09:13:56 2015	129	Modest Mouse	The Best Room	Strangers To Ourselves
+Thu Apr  2 09:18:42 2015	129	The Go! Team	Did You Know?	The Scene Between
+Thu Apr  2 09:23:06 2015	130	Dark Time Sunshine	Shewolf	Believeyoume
+Thu Apr  2 09:27:21 2015	127	The Living Eyes	Low Life	Living Large
+Thu Apr  2 09:30:00 2015	126	Tap Tap	On My Way	Lanzafame
+Thu Apr  2 09:32:14 2015	126	Mini Mansions	Vertigo	The Great Pretenders
+Thu Apr  2 09:37:13 2015	124	The Thermals	At the Bottom of the Sea	Now We Can See
+Thu Apr  2 09:42:28 2015	120	Petite Noir	Come Inside	The King of Anxiety
+Thu Apr  2 09:47:17 2015	124	Chastity Belt	Joke	Time to Go Home
+Thu Apr  2 09:52:47 2015	130	APB	Shoot You Down	Something To Believe In
+Thu Apr  2 09:56:16 2015	130	Keath Mead	Change	Sunday Dinner
+Thu Apr  2 09:59:18 2015	134	The Decemberists	Sixteen Military Wives	Picaresque
+Thu Apr  2 10:03:59 2015	139	Made Violent	Dirty	Made Violent - EP
+Thu Apr  2 10:06:50 2015	142	INXS	Don't Change	Best Of INXS
+Thu Apr  2 10:10:53 2015	144	Will Butler	Take My Side	Policy
+Thu Apr  2 10:14:40 2015	146	Veronica Falls	Found Love In A Graveyard	Veronica Falls
+Thu Apr  2 10:18:28 2015	147	Dave Segedy	Car	Schrodego
+Thu Apr  2 10:20:42 2015	146	Castanets	Out For The West	Decimation Blues
+Thu Apr  2 10:24:50 2015	145	Faerground Accidents	We Hate The Same Things	We Hate The Same Things (single)
+Thu Apr  2 10:28:20 2015	143	Teddybears	Punkrocker (ft. Iggy Pop)	Soft Machine
+Thu Apr  2 10:32:40 2015	149	Summer Cannibals	Something New	Show Us Your Mind
+Thu Apr  2 10:34:41 2015	144	Charlie Boyer And The Voyeurs	Be Glamorous	Clarietta
+Thu Apr  2 10:37:37 2015	145	Bright Eyes	Hit The Switch	Digital Ash in a Digital Urn
+Thu Apr  2 10:42:17 2015	140	Siouxsie & the Banshees	Spellbound	Juju
+Thu Apr  2 10:45:34 2015	147	Screaming Females	Wishing Well	Rose Mountain
+Thu Apr  2 10:48:50 2015	146	Pow!	66	High Tech Boom
+Thu Apr  2 10:51:38 2015	148	Bearhug	The Glow	So Gone
+Thu Apr  2 10:55:58 2015	149	Beach Baby	Ladybird	Ladybird (single)
+Thu Apr  2 10:59:36 2015	142	Paleo	Holly Would	Fruit of the Spirit
+Thu Apr  2 11:03:53 2015	138	Evans The Death	Just 60,000 More Days 'Til I Die	Expect Delays
+Thu Apr  2 11:06:16 2015	138	The Gaslight Anthem	The Queen of Lower Chelsea	American Slang
+Thu Apr  2 11:09:41 2015	138	Sarah Bethe Nelson	We're Not Dead	Fast Moving Clouds
+Thu Apr  2 11:14:27 2015	137	Tomboy	Roll Out	Tomboy EP
+Thu Apr  2 11:18:38 2015	144	Los Campesinos!	Sweet Dreams, Sweet Cheeks	Hold On Now Youngster
+Thu Apr  2 11:22:50 2015	138	The Wombats	Moving to New York	A Guide to Love, Loss & Desperation
+Thu Apr  2 11:26:25 2015	138	Circa Waves	Young Chasers	T-Shirt Weather
+Thu Apr  2 11:28:19 2015	138	Elbow	Neat Little Rows	Build A Rocket Boys!
+Thu Apr  2 11:33:49 2015	136	The View	Wasted Little DJ's	Hats Off To The Buskers
+Thu Apr  2 11:37:47 2015	134	Houndstooth	No News From Home	No News From Home
+Thu Apr  2 11:41:10 2015	139	Moon Duo	Slow Down	Shadow Of The Sun
+Thu Apr  2 11:46:35 2015	146	Wilco	Ashes Of American Flags	Yankee Hotel Foxtrot
+Thu Apr  2 11:51:13 2015	148	Doe	Redo Improve	First Four
+Thu Apr  2 11:53:22 2015	150	Mission Of Burma	2wice	The Obliterati
+Thu Apr  2 11:56:48 2015	150	Laura Marling	Master Hunter	Once I Was An Eagle
+Thu Apr  2 11:59:51 2015	149	CIKATRI$	Quand me rA(c)veillerai-je?	Aïe ! - le trois
+Thu Apr  2 12:01:55 2015	149	Art Brut	Good Weekend	Bang Bang Rock & Roll
+Thu Apr  2 12:04:37 2015	147	Deaf Wish	Radjik Beach	St. Vincent's (single)
+Thu Apr  2 12:07:35 2015	148	of Montreal	Apollyon Of Blue Room	Aureate Gloom
+Thu Apr  2 12:11:30 2015	144	Wolf Parade	Pobody's Nerfect	Expo 86
+Thu Apr  2 12:16:57 2015	143	Lost Boy ?	Car Wash	Canned
+Thu Apr  2 12:21:16 2015	146	Stiff Little Fingers	Alternative Ulster	All The Best (Disc 1)
+Thu Apr  2 12:24:07 2015	147	Heartless Bastards	Onions	Stairs and Elevators
+Thu Apr  2 12:26:48 2015	148	Evans The Death	Just 60,000 More Days 'Til I Die	Expect Delays
+Thu Apr  2 12:29:17 2015	152	Blonde Redhead	My Plants Are Dead	Penny Sparkle
+Thu Apr  2 12:33:34 2015	153	Wand	Caveism	Golem
+Thu Apr  2 12:37:35 2015	154	The Strokes	Ize Of The World	First Impressions Of Earth
+Thu Apr  2 12:41:49 2015	153	Frightened Rabbit	Good Arms Vs. Bad Arms	The Midnight Organ Fight
+Thu Apr  2 12:46:47 2015	150	Champs	Vamala	Vamala
+Thu Apr  2 12:50:36 2015	148	Jelly Beans	I Wanna Love Him So Bad	The Best Of The Girl Groups Volume 1
+Thu Apr  2 12:53:12 2015	147	The Bright Light Social Hour	Slipstream	Space Is Still the Place
+Thu Apr  2 12:56:01 2015	145	Modest Mouse	Coyotes	Strangers to Ourselves
+Thu Apr  2 12:59:26 2015	144	Her Space Holiday	My Girlfriend's Boyfriend	(single)
+Thu Apr  2 13:03:55 2015	141	XTC	Senses Working Overtime	Waxworks: Some Singles - 1977-1982
+Thu Apr  2 13:08:46 2015	145	Minisnap	New Broom	Bounce Around
+Thu Apr  2 13:11:58 2015	148	JosA(c) GonzA!lez	Stories We Build, Stories We Tell	Vestiges & Claws
+Thu Apr  2 13:15:14 2015	149	The Wedding Present	Queen Anne	Take Fountain
+Thu Apr  2 13:19:23 2015	150	Dave Segedy	Walk Around	Schrodego
+Thu Apr  2 13:21:51 2015	150	The DA,	Too Insistent	Both Ways Open Jaws
+Thu Apr  2 13:24:59 2015	150	Glasvegas	If	Later...When The TV Turns To Static
+Thu Apr  2 13:29:14 2015	144	Dorsal Fins	Jacqueline	Mind Renovation
+Thu Apr  2 13:31:44 2015	140	Dan Deacon	When I Was Done Dying	Gliss Riffer
+Thu Apr  2 13:35:56 2015	140	Nantes	Unsatisfy	BeingsBeing
+Thu Apr  2 13:38:40 2015	139	Curve	Coast Is Clear	Pubic Fruit
+Thu Apr  2 13:42:15 2015	137	Evans The Death	Bad Year	Expect Delays
+Thu Apr  2 13:44:58 2015	135	Steve Wynn & The Miracle 3	Resolution	Northern Aggression
+Thu Apr  2 13:49:15 2015	137	Arctic Monkeys	Don't Sit Down 'Cause I've Moved Your Chair	Suck It and See
+Thu Apr  2 13:52:11 2015	129	Surfer Blood	Floating Vibes	Astro Coast
+Thu Apr  2 13:56:14 2015	127	Bloc Party	So Here We Are	Silent Alarm
+Thu Apr  2 13:59:46 2015	126	Swervedriver	Autodidact	I Wasn't Born to Lose You
+Thu Apr  2 14:04:49 2015	123	Gal Pals	Here's to the Gals	Velvet Rut
+Thu Apr  2 14:07:41 2015	121	Nine Black Alps	Behind Your Eyes	Everything Is
+Thu Apr  2 14:10:39 2015	121	The Go! Team	What D'You Say?	The Scene Between
+Thu Apr  2 14:14:18 2015	120	Freshkills	I Quit Smoking	Freshkills
+Thu Apr  2 14:19:31 2015	117	Courtney Barnett	Depreston	Sometimes I Sit and Think, and Sometimes I Just Sit
+Thu Apr  2 14:23:51 2015	120	The Breeders	New Year	Last Splash
+Thu Apr  2 14:25:45 2015	119	Houndstooth	Borderlands	No News From Home
+Thu Apr  2 14:29:42 2015	118	Gateway Drugs	Head	Magick Spells
+Thu Apr  2 14:34:16 2015	119	[the] caseworker	Markievicz's Walls	I Don't Know Where I'm Going But I'm Going To Those Who Love Me"
+Thu Apr  2 14:37:40 2015	125	Doe	C.A.E.	First Four
+Thu Apr  2 14:40:14 2015	125	The Cure	The Lovecats	Japanese Whispers
+Thu Apr  2 14:43:57 2015	123	The Living Eyes	Eat it Up	Living Large
+Thu Apr  2 14:45:58 2015	121	The Church	Reptile	Starfish
+Thu Apr  2 14:50:49 2015	123	Faerground Accidents	Back In Town	We Hate The Same Things (single)
+Thu Apr  2 14:53:38 2015	121	The Diableros	Tropical Pets	You Can't Break The Strings In Our Olympic Hearts
+Thu Apr  2 14:57:50 2015	114	Screaming Females	Criminal Image	Rose Mountain

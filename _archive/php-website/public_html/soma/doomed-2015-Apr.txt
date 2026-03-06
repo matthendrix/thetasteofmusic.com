@@ -1,0 +1,516 @@
+Wed Apr  1 00:00:19 2015	29	Christian Death	This Is Heresy (Edit)	Gothic Rock
+Wed Apr  1 00:03:23 2015	27	Deutsch Nepal	Tender Love	Karmanik Collection
+Wed Apr  1 00:06:28 2015	28	Controlled Bleeding	Healing Time	Trudge
+Wed Apr  1 00:12:52 2015	30	Scribbletronics	Ambivalence	Old Octobers Disinterred
+Wed Apr  1 00:14:37 2015	30	Sleeping Dogs Wake	Threnody	Threnody
+Wed Apr  1 00:21:27 2015	23	Attrition	Dance Or Die Remix	The Hand That Feeds (Compilation)
+Wed Apr  1 00:22:08 2015	23	Razed In Black	Guilty	Sacrificed
+Wed Apr  1 00:23:22 2015	26	Iszoloscope	Holokarst	Aquifere
+Wed Apr  1 00:26:27 2015	28	Fear Factory	Refinery	Remanufacture
+Wed Apr  1 00:28:53 2015	28	Tool	Viginti Tres	10,000 Days
+Wed Apr  1 00:32:50 2015	27	Philippe Petit & Friends	Bela Emerson & Philippe Petit	Reciprocess: +/Vs.
+Wed Apr  1 00:35:58 2015	25	Big Mouse	Dawn From Innocence	The Seed Does Stir
+Wed Apr  1 00:44:55 2015	29	In Slaughter Natives	Intercession	Sacrosancts Bleed
+Wed Apr  1 00:49:56 2015	28	Ordo Rosarius Equilibrio	A Golden Dawn For A Judas Kiss	Apocalips
+Wed Apr  1 00:54:31 2015	27	Mijael Gutierrez	06_Migraine	Eva's headaches
+Wed Apr  1 01:01:53 2015	28	Raison D'Etre	Sephiroth	Within The Depths Of Silence And Phormations
+Wed Apr  1 01:05:05 2015	27	Rejean Paquin	La Maison-Dieu	n/a
+Wed Apr  1 01:07:58 2015	27	Negative Trip	Idiom	Drug Time
+Wed Apr  1 01:14:46 2015	27	Lassigue Bendthaus	Transitory	Matter
+Wed Apr  1 01:22:20 2015	29	Coil	The First Five Minutes After Death	Horse Rotovator
+Wed Apr  1 01:27:41 2015	27	Rome	A La Faveur De La Nuit (Version One)	All My Dead Friends
+Wed Apr  1 01:31:15 2015	27	Numb	Trial	Death On The Installment Plan
+Wed Apr  1 01:37:29 2015	25	Faktory	Severed Fingers	Civilized?
+Wed Apr  1 01:39:38 2015	26	Wave Workers Foundation	Dissected	In The Whirlpool
+Wed Apr  1 01:42:01 2015	26	Cure	Pornography	Pornography
+Wed Apr  1 01:48:37 2015	26	Current 93	Alone Into The Alone	Live At Bar Maldoror
+Wed Apr  1 02:07:57 2015	25	Camanecroszcope	From The Gulf And Into Existen	n/a
+Wed Apr  1 02:14:35 2015	23	Razor Noise	The Grand Experiment	Manifest
+Wed Apr  1 02:19:25 2015	23	Olekranon	Severed	Danaus
+Wed Apr  1 02:26:17 2015	25	Sky Burial	Freedom As A Last Resort	Of The First Light
+Wed Apr  1 02:30:04 2015	23	Fields Of The Nephilim	Psychonaut Lib. Iiii	Psychonaut
+Wed Apr  1 02:38:55 2015	26	Beehatch	Sad For Mark	Beehatch
+Wed Apr  1 02:40:24 2015	25	The Truth About Frank	Love Is A Cage	Cannibal Work Ethic
+Wed Apr  1 02:45:08 2015	24	Monolith	There Are Other Worlds	Atavistic
+Wed Apr  1 02:50:50 2015	28	Attrition	Behind Innocence, Lies	History
+Wed Apr  1 02:56:39 2015	28	Pimentola	Psychopompos	All My Dead Friends
+Wed Apr  1 03:02:09 2015	28	Lab Report	Song 2	All Your Little Pieces Make Me A Whole
+Wed Apr  1 03:07:22 2015	29	Die Form Sadist School	The Scavenger	Les Cent Vingt Journees De Sodome
+Wed Apr  1 03:13:34 2015	28	Mijael Gutierrez	The Calling	Ixquic2.1
+Wed Apr  1 03:14:51 2015	29	Deutsch Nepal	Impassive Metal Sex	Benevolence
+Wed Apr  1 03:24:16 2015	28	Malign	Strapped Down	Shatter And Impale
+Wed Apr  1 03:27:39 2015	27	Har	B'ak'tun 13	B'ak'tun 13
+Wed Apr  1 03:34:31 2015	29	Ah Cama-Sotz	Damascus Dar Meshq	Dead Cities
+Wed Apr  1 03:40:30 2015	31	Legendary Pink Dots	Fourth Secret	The Maria Dimension
+Wed Apr  1 03:43:28 2015	31	Forma Tadre	Le Musee Des Appareils	Automate
+Wed Apr  1 03:53:23 2015	28	In Slaughter Natives	Christ	In Slaughter Natives
+Wed Apr  1 03:58:31 2015	27	Raison D'etre	Of Dying Relics	Karmanik Collection
+Wed Apr  1 04:03:10 2015	32	Stromlinie	U-Bahn-Fahrt	Ant-hology (Disc 2)
+Wed Apr  1 04:06:45 2015	36	Oblivion Ensemble	D Is So [Lve	n/a
+Wed Apr  1 04:08:40 2015	34	Mittageisen	237 Tage	1981-1986
+Wed Apr  1 04:14:22 2015	32	Ordo Equitum Solis	Labyrinth	Solstitii Temporis Sensvs
+Wed Apr  1 04:16:59 2015	30	Attrition	Dreamsleep	History
+Wed Apr  1 04:20:35 2015	30	Lunarin	Eclipse	The Chrysalis
+Wed Apr  1 04:21:42 2015	28	Coil	Tenderness Of Wolves	Scatology
+Wed Apr  1 04:25:56 2015	27	Brighter Death Now	Cadaver	The Slaughterhouse
+Wed Apr  1 04:32:48 2015	30	Wumpscut	Womb (Miserable Days Mixx)	Born Again
+Wed Apr  1 04:37:24 2015	30	Scribbletronics	Morphine	Old Octobers Disinterred
+Wed Apr  1 04:41:33 2015	31	Love Is Colder Than Death	Fiorina	Mental Traveller
+Wed Apr  1 04:44:31 2015	32	Mental Destruction	Streams Of Time	Karmanik Collection
+Wed Apr  1 04:49:21 2015	33	Ordo Rosarius Equilibrio	Heart The Sound Of A Black Flame Rising	Apocalips
+Wed Apr  1 04:53:09 2015	34	Shark Bait	God Devil Head	Blowtorch Face-Lift
+Wed Apr  1 04:54:50 2015	35	Golgatha	Rite Of Spring	All My Dead Friends
+Wed Apr  1 04:59:38 2015	34	Fair Sex	Woe	Machine Bites
+Wed Apr  1 05:00:27 2015	35	Mortiis	Reisene Til Og Odenmarker	Projekt 2007.1
+Wed Apr  1 05:08:32 2015	34	Yen Pox	Hollow Earth	Blood Music
+Wed Apr  1 05:15:08 2015	33	Head On Fire	Intro	Nostalgia
+Wed Apr  1 05:19:46 2015	33	Medusa's Spell	Lulling	All My Dead Friends
+Wed Apr  1 05:24:43 2015	33	Manta Ray	Anada Para Celia	Torres De Electricidad
+Wed Apr  1 05:27:26 2015	35	Current 93	St. Peters Keys All Bloody	Dogs Blood Rising
+Wed Apr  1 05:29:42 2015	32	Des Esseintes	Strange Tremors	Mondo Macabro (Compilation)
+Wed Apr  1 05:36:23 2015	35	Scar Tissue	Switch	TMOTD
+Wed Apr  1 05:40:30 2015	39	Lab Report	Movement 1	Foundspaces
+Wed Apr  1 05:49:57 2015	45	Schnitt Acht	Deforming	Subhuman Minds
+Wed Apr  1 05:53:45 2015	46	Mynox Layh	Stadium	Respectus
+Wed Apr  1 05:57:59 2015	46	Attrition	At The Fiftieth Gate	Esoteria
+Wed Apr  1 06:00:08 2015	45	Coil	Tainted Love	Scatology
+Wed Apr  1 06:05:51 2015	47	Ordo Equitum Solis	Obsessions	Solstitii Temporis Sensvs
+Wed Apr  1 06:10:29 2015	47	Bedtime For Robots	Guess Who This Is	Flying Machine
+Wed Apr  1 06:13:07 2015	47	Autumn Cathedral	My Thoughts Fall In A Slow Cascade	Asleep Within Waves
+Wed Apr  1 06:16:39 2015	48	Andreas Ammer, Fm Einheit	Canto Xxvii	Radio Inferno
+Wed Apr  1 06:19:18 2015	46	Fear Factory	Natividad	Soul Of A New Machine
+Wed Apr  1 06:20:21 2015	47	Beehatch	Something Too	Beehatch
+Wed Apr  1 06:21:41 2015	47	Jerry Goldsmith	The Killer Storm	The Omen
+Wed Apr  1 06:24:27 2015	47	Parsec	Tech Atmos	Biorretro
+Wed Apr  1 06:31:41 2015	48	Leaetherstrip	The Nature Of God	Fit For Flogging
+Wed Apr  1 06:33:36 2015	48	Bauhaus	The Three Shadows Part 1	The Sky's Gone Out
+Wed Apr  1 06:37:35 2015	47	Black Tape For A Blue Girl	The Scar Of A Poet	Ashes in the Brittle Air
+Wed Apr  1 06:44:37 2015	44	Das Ich	Des Satans Neue Kleider	Satanische Verse
+Wed Apr  1 06:50:33 2015	45	STROM.ec	Helvetin Esikartano	Divine Legions Beyond Psyche
+Wed Apr  1 06:57:36 2015	44	Anthony Dibella	Dead Communica	n/a
+Wed Apr  1 07:02:34 2015	39	Ah Cama-Sotz	Enuma Elish	Dead Cities
+Wed Apr  1 07:08:38 2015	38	Love Is Colder Than Death	To Be At The Point Of Death	Oxeia
+Wed Apr  1 07:12:00 2015	37	Big Mouse	Captain Mary	The Seed Does Stir
+Wed Apr  1 07:15:52 2015	41	Tool	Faaip De Oaid	Lateralus
+Wed Apr  1 07:18:38 2015	41	Scribbletronics	Pendulum	Old Octobers Disinterred
+Wed Apr  1 07:28:37 2015	41	Communion	Jesus Split The Atom	Ionospheric Intercourse
+Wed Apr  1 07:35:30 2015	36	Clock Dva	Connection Machine	Buried Dreams
+Wed Apr  1 07:41:28 2015	40	Gracious Shades	He Used A Gun	Inoculation Of The Media
+Wed Apr  1 07:42:49 2015	39	Radio Free Clear Light	The Gauntlet	The Labyrinth Of Ohgel
+Wed Apr  1 07:46:49 2015	39	Goethes Erben	Krieg	Die Brut
+Wed Apr  1 07:52:36 2015	41	Attrition	The Burial Club	All Mine Enemys Whispers
+Wed Apr  1 07:59:42 2015	39	Verne Langdon	Hypnotique	Music For Zombies
+Wed Apr  1 08:05:07 2015	37	Manufactura	Burned Alive	We're Set Silently On Fire
+Wed Apr  1 08:08:47 2015	37	Andreas Ammer, Fm Einheit	Canto Iv	Radio Inferno
+Wed Apr  1 08:11:11 2015	38	Matthew Schultz	Military	Subla Kahn Nine One One
+Wed Apr  1 08:14:30 2015	46	For Greater Good	Le Jugement Du Roi En Jaune	All My Dead Friends
+Wed Apr  1 08:18:46 2015	41	Will	Triumph	Word.Flesh.Stone
+Wed Apr  1 08:22:30 2015	39	Des Esseintes	Fragments	Mondo Macabro (Compilation)
+Wed Apr  1 08:30:47 2015	39	Brighter Death Now	Consumers	The Slaughterhouse
+Wed Apr  1 08:35:30 2015	45	She Wants Revenge	All Those Moments	This Is Forever
+Wed Apr  1 08:37:48 2015	42	Numb	Decay Of The Angel	Death On The Installment Plan
+Wed Apr  1 08:42:33 2015	45	Love Is Colder Than Death	Tired To Death	Teignmouth
+Wed Apr  1 08:46:09 2015	40	Razed In Black	Whipped	Sacrificed
+Wed Apr  1 08:47:44 2015	41	Throbbing Gristle	Beachy Head	20 Jazz Funk Greats
+Wed Apr  1 08:51:33 2015	44	Soma	Endless	The Inner Cinema
+Wed Apr  1 08:55:28 2015	47	Turbo Messiah	Scorn-Free Workday	Arrhythmia
+Wed Apr  1 09:01:06 2015	47	Legendary Pink Dots	Count On Me	Your Children Placate You From Premature Graves
+Wed Apr  1 09:02:43 2015	50	In Slaughter Natives	To Mega Therion	Enter Now The World
+Wed Apr  1 09:07:36 2015	44	Truth About Frank	4 (Version 11)	14 Versions of the same EP (Version 11)
+Wed Apr  1 09:13:58 2015	46	Barry Andrews	Down The Pyramids	Haunted Box of Switches
+Wed Apr  1 09:15:45 2015	44	Attrition	Marianne's Dream	Esoteria
+Wed Apr  1 09:19:55 2015	42	Chainsaw	Oil	CHAINSAW
+Wed Apr  1 09:23:53 2015	43	Philippe Petit & Friends	Severin 24 & Philippe Petit	Reciprocess: +/Vs.
+Wed Apr  1 09:27:40 2015	41	Manufactura Vs. Micronaut	The Death Touch	Manufactura vs. Micronaut
+Wed Apr  1 09:34:09 2015	41	Shark Bait	God Devil Head (Conclusion)	Blowtorch Face-Lift
+Wed Apr  1 09:35:00 2015	41	Verne Langdon	Flowers Of Evil	Music For Zombies
+Wed Apr  1 09:40:08 2015	42	Will	Epilogue	Pearl of Great Price
+Wed Apr  1 09:43:40 2015	42	STROM.ec	Valis	Divine Legions Beyond Psyche
+Wed Apr  1 09:48:39 2015	39	Brujeria	Brujerizmo	Roadrunner Records Sampler
+Wed Apr  1 09:51:33 2015	38	Manufactura	Play Dead	We're Set Silently On Fire
+Wed Apr  1 09:57:06 2015	38	Brighter Death Now	Bites Everything	Karmanik Collection
+Wed Apr  1 10:00:48 2015	38	Phragments	Earth Shall Not Cover Their Blood	Earth Shall Not Cover Their Blood
+Wed Apr  1 10:08:59 2015	40	Tim	Fog Pit	Zeitblase
+Wed Apr  1 10:16:50 2015	34	Gebrochene Augen	Wormhole	Prufung
+Wed Apr  1 10:21:33 2015	36	Beehatch	First Song	Beehatch
+Wed Apr  1 10:24:43 2015	33	Matthew Schultz	Religion	Subla Kahn Nine One One
+Wed Apr  1 10:33:56 2015	37	Numb	Alien Head	n/a
+Wed Apr  1 10:40:57 2015	36	Division	Breathe	Matthew Schultz
+Wed Apr  1 10:46:47 2015	38	Rapoon	Sub-Terran	IN 13 [IndustrialNation 5th Anniversary CD Sampler]
+Wed Apr  1 10:51:21 2015	36	Tool	Cesaro Summability	®nima
+Wed Apr  1 10:52:38 2015	35	Ken Elkinson	Blood	Halloween Ambient
+Wed Apr  1 10:57:27 2015	36	Front 242	Off E N D	n/a
+Wed Apr  1 10:58:56 2015	36	Faint	Ballad Of A Paralysed Citizen	Danse Macabre
+Wed Apr  1 11:03:07 2015	38	Contagious Orgasm	In My Heart	Ant-hology
+Wed Apr  1 11:08:50 2015	43	Goethes Erben	Koma	Das Sterben Ist Aesthetisch Bunt
+Wed Apr  1 11:15:37 2015	42	Soriah	Ofrendas De Luz A Los Muertos	Ofrendas De Luz A Los Muertos
+Wed Apr  1 11:45:46 2015	47	Attrition	The Trial	All Mine Enemys Whispers
+Wed Apr  1 11:52:37 2015	48	Second Voice	Transluna	Approaching Luna
+Wed Apr  1 11:54:37 2015	48	Ordo Rosarius Equilibrio	Lost Forever, In The Blitzkrieg Of Roses	Apocalips
+Wed Apr  1 11:58:35 2015	47	Fleshpulseflesh	No Sanctuary	Ionospheric Intercourse
+Wed Apr  1 12:03:39 2015	44	Yen Pox	Hollow Earth	Blood Music
+Wed Apr  1 12:10:37 2015	48	Calva Y Nada	Einstimmen	El Peste Perverso Lleva Mi Pecunia
+Wed Apr  1 12:11:51 2015	47	Girls Under Glass	The Return Of Rigor Mortis	Flowers
+Wed Apr  1 12:17:53 2015	54	Revue Noir	Sunshine Iv	ANTHOLOGY ARCHIVE
+Wed Apr  1 12:19:46 2015	51	The Truth About Frank	Taritakoom	Cannibal Work Ethic
+Wed Apr  1 12:22:36 2015	51	STROM.ec	Helvetin Esikartano	Divine Legions Beyond Psyche
+Wed Apr  1 12:29:47 2015	51	Ordo Equitum Solis	Le Crepuscule De La Vie	Solstitii Temporis Sensvs
+Wed Apr  1 12:34:56 2015	55	Skinny Puppy	Draining Faces	Cleanse Fold and Manipulate
+Wed Apr  1 12:39:55 2015	54	Big Mouse	Loud Hard Cold Silence	The Seed Does Stir
+Wed Apr  1 12:41:33 2015	52	Drowning Shadows	Encroaching Coldness (Renfield Version)	Dracul Atmosphere
+Wed Apr  1 12:45:11 2015	56	Unknown Forces	Soundtrack To Death	n/a
+Wed Apr  1 12:52:45 2015	52	Lab Report	A Pleasant Resolution	-Classical -Atmospheres
+Wed Apr  1 12:57:12 2015	52	Of Skin And Saliva	Sahul	Sahul
+Wed Apr  1 13:01:31 2015	57	Radio Free Clear Light	The Grinding Wheel	The Labyrinth Of Ohgel
+Wed Apr  1 13:06:33 2015	50	This Morn' Omina	Currents	7 Years Of Famine
+Wed Apr  1 13:18:13 2015	50	Psyclon Nine	The Room	Crwn Thy Frnicatr [Evangelium Di Silenti]
+Wed Apr  1 13:19:34 2015	48	Beehatch	Softly Said	Brood
+Wed Apr  1 13:24:35 2015	50	Numb	Distorted Relations	Language Of Silence
+Wed Apr  1 13:30:44 2015	49	Tool	Die Eier Von Satan	®nima
+Wed Apr  1 13:32:58 2015	49	Attrition	What Shall I Sing?	All Mine Enemys Whispers
+Wed Apr  1 13:39:28 2015	50	Phragments	The Return	Earth Shall Not Cover Their Blood
+Wed Apr  1 13:44:56 2015	49	Matthew Schultz	Horns	Subla Kahn Nine One One
+Wed Apr  1 13:53:58 2015	49	Battery Cage	This Life Sucks, I'm Leaving	A Young Person's Guide To Heartbreak
+Wed Apr  1 13:55:19 2015	50	As Lonely As Dave Bowman	Pod Five (Test Flight Excerpt)	Projekt 2007.1
+Wed Apr  1 14:00:59 2015	47	Love Is Colder Than Death	Taliesin And Melanghel	Mental Traveller
+Wed Apr  1 14:04:51 2015	51	Steve Brand	Song For The Moon	Awakensong
+Wed Apr  1 14:13:29 2015	43	Elephant Vs. Bromley	Mary Had A Red Dress	Danse Macabre Sampler II
+Wed Apr  1 14:19:05 2015	40	Will	Summoning	Pearl of Great Price
+Wed Apr  1 14:22:19 2015	42	Goethes Erben	Keine Loesung	Das Sterben Ist Aesthetisch Bunt
+Wed Apr  1 14:25:20 2015	39	Mentallo & The Fixer	Stumbled	Algorythum
+Wed Apr  1 14:33:26 2015	38	Lab Report	Ambient Two With Beat	-Classical -Atmospheres
+Wed Apr  1 14:39:07 2015	41	Drev	Life Reprise	Failure
+Wed Apr  1 14:40:27 2015	41	In Slaughter Natives	Clean Cathedral Of Deliverance	Karmanik Collection
+Wed Apr  1 14:47:46 2015	38	Malign	Erode	Shatter And Impale
+Wed Apr  1 14:52:16 2015	42	Sigillum S	Allocation And Paradox	Cybertantrick Quantum Leaps
+Wed Apr  1 14:57:42 2015	43	Calva Y Nada	Habemus Papam (Remix)	Monologe Eines Baumes
+Wed Apr  1 15:02:08 2015	41	Unto Ashes	Song For A Widow	Songs For A Widow
+Wed Apr  1 15:05:52 2015	38	Skelectory	White Drift	n/a
+Wed Apr  1 15:09:42 2015	38	Sky Burial	Of The First Light	Of The First Light
+Wed Apr  1 15:15:46 2015	38	Attrition	Casual Nightmare	Action and Reaction
+Wed Apr  1 15:21:02 2015	38	Ordo Rosarius Equilibrio	Regression And The Return To Paradise Extinct	Cocktails Carnage Crucifixion and Pornography
+Wed Apr  1 15:25:44 2015	34	Lunarin	Shiver	The Chrysalis
+Wed Apr  1 15:27:30 2015	34	Olekranon	Severed	Danaus
+Wed Apr  1 15:34:10 2015	35	Ordo Equitum Solis	Vacuum Quaerens	Animi Aegritudo
+Wed Apr  1 15:40:29 2015	37	Doubting Thomas	Excrement	Father Don't Cry
+Wed Apr  1 15:46:15 2015	38	Legendary Pink Dots	Disturbance	Canta Mientras Puedas
+Wed Apr  1 15:51:35 2015	38	Coil	The Last Rites Of Spring	Gold is the Metal with the Broadest Shoulders
+Wed Apr  1 15:53:27 2015	40	Prids	..	Love Zero
+Wed Apr  1 15:54:09 2015	40	Oblivion Ensemble	R (Embr) Yo U	Seraphim Hallucino
+Wed Apr  1 15:56:31 2015	37	Clock Dva	The Sonology Of Sex	Buried Dreams
+Wed Apr  1 16:00:30 2015	39	Ah Cama-Sotz	The Howl Of The Werewolf	Ant-hology
+Wed Apr  1 16:06:33 2015	36	Numb	Benthos	Language Of Silence
+Wed Apr  1 16:10:29 2015	34	Agonoize	Under The Cross	999
+Wed Apr  1 16:13:57 2015	36	Fields Of The Nephilim	Wail Of Sumer	Elizium
+Wed Apr  1 16:20:33 2015	34	En Halv Kokt I Folie	F R Zwei Spitzen Pro Tag Ausgeformt	The Totally Out Music Of
+Wed Apr  1 16:22:00 2015	32	Beehatch	Edison Medicine	Brood
+Wed Apr  1 16:24:39 2015	33	Unto Ashes	Rubine	Burials Foretold
+Wed Apr  1 16:26:59 2015	33	Philippe Petit & Friends	Chapter 24 & Philippe Petit	Reciprocess: +/Vs.
+Wed Apr  1 16:29:28 2015	32	Will	Exhaust Inhibits	Pearl of Great Price
+Wed Apr  1 16:33:11 2015	31	Goethes Erben	Die Brut	Die Brut
+Wed Apr  1 16:36:41 2015	31	Faint	Sealed Human	Blank-wave Arcade
+Wed Apr  1 16:39:53 2015	32	Bauhaus	Double Dare	1979-1983 Volume One
+Wed Apr  1 16:44:39 2015	30	3d House Of Beef	Society Of Old Crows [Scar Tissue Perception Remix]	Similar Attack Pattern
+Wed Apr  1 16:48:09 2015	30	Negative Trip	Idiom	Drug Time
+Wed Apr  1 16:55:00 2015	32	Attrition	Still Life?	Dante's Kitchen
+Wed Apr  1 16:59:09 2015	32	In Slaughter Natives	Invocation	Sacrosancts Bleed
+Wed Apr  1 17:06:38 2015	27	Feindflug	Feuerpause	Volk Und Armee ...
+Wed Apr  1 17:08:11 2015	27	Jerry Goldsmith	Ave Satani	The Omen
+Wed Apr  1 17:10:32 2015	26	Kristoffer Nystroms Orkester	Bi Ter	n/a
+Wed Apr  1 17:17:51 2015	26	Memorandum	Pura Dalem (Temple Of The Dead)	Karmanik Collection
+Wed Apr  1 17:21:47 2015	28	Radio Free Clear Light	Chamber Of Withering	The Labyrinth Of Ohgel
+Wed Apr  1 17:25:55 2015	31	Battery Cage	Music To Slit Your Wrists By	A Young Person's Guide To Heartbreak
+Wed Apr  1 17:33:59 2015	31	Ladytron	Cmyk	Witching Hour
+Wed Apr  1 17:35:38 2015	33	Lassigue Bendthaus	Rotation Mecanique	Matter
+Wed Apr  1 17:39:31 2015	31	She Silenced Seraphim	Eternal Betrayal	Ionospheric Intercourse
+Wed Apr  1 17:44:11 2015	31	Achenar	Liberation	Super Death Explosion Kittens
+Wed Apr  1 17:44:53 2015	31	Controlled Bleeding	Healing Time	Trudge
+Wed Apr  1 17:51:16 2015	26	Kobi	The Evening Was Unusually Sultry And Heavy	Dronesyndrome
+Wed Apr  1 17:58:32 2015	27	Die Form Sadist School	La Fille Aux Yeux Morts	Les Cent Vingt Journees De Sodome
+Wed Apr  1 18:06:34 2015	21	Agonoize	Slave To Lust	999
+Wed Apr  1 18:08:29 2015	21	Autumn Cathedral	Cabaret Grey	Asleep Within Waves
+Wed Apr  1 18:13:36 2015	24	Sky Burial	Through Bog And Bull Briar	Of The First Light
+Wed Apr  1 18:18:30 2015	27	Fields Of The Nephilim	At The Gates Of Silent Memory	Elizium
+Wed Apr  1 18:26:55 2015	26	Olekranon	Libertine	Danaus
+Wed Apr  1 18:34:28 2015	25	A-Politiq	Black Box	Rivet Head Culture
+Wed Apr  1 18:39:00 2015	25	Will	Crusade	Pearl of Great Price
+Wed Apr  1 18:43:05 2015	32	Grendel	Outro	Harsh Generation
+Wed Apr  1 18:45:07 2015	31	Darkroom	Fallout 3 Track 02	Fallout 3
+Wed Apr  1 18:47:27 2015	32	Unto Ashes	Drei Todesarten	Songs For A Widow
+Wed Apr  1 18:50:41 2015	32	Wumpscut	She's Dead	Music For A Slaughtering Tribe
+Wed Apr  1 18:55:43 2015	31	Bohern& Der Club Of Gore	Darkstalker	n/a
+Wed Apr  1 19:01:26 2015	27	Truth About Frank	Times Of Children	[WaW027] The Truth About Frank - Neon Fractured Night
+Wed Apr  1 19:05:00 2015	29	Black Rain	Memory Johnny	Forced Cranial Removal
+Wed Apr  1 19:08:07 2015	29	Click Click	Red	I Rage I Melt
+Wed Apr  1 19:12:47 2015	30	Thomas Raniszewski	The Moon In Winter	A Midnight at a Time
+Wed Apr  1 19:14:29 2015	30	Velvet Acid Christ	Hell One	Church of Acid
+Wed Apr  1 19:18:36 2015	33	Numb	A Dead Place	Death On The Installment Plan
+Wed Apr  1 19:24:40 2015	31	Scribbletronics	Ambivalence	Old Octobers Disinterred
+Wed Apr  1 19:26:34 2015	33	Attrition	The Big Lie	History
+Wed Apr  1 19:36:27 2015	35	Ordo Equitum Solis	Angoris Nox	Solstitii Temporis Sensvs
+Wed Apr  1 19:46:21 2015	37	Transmeta	Whirlwind Weaver	Ionospheric Intercourse
+Wed Apr  1 19:52:13 2015	38	Steve Roach	Artifact Ghost (Excerpt)	Projekt 2007.1
+Wed Apr  1 19:58:38 2015	41	Jerry Goldsmith	The Demise of Mrs. Blaylock	The Omen
+Wed Apr  1 20:01:24 2015	38	Lab Report	Song 8	All Your Little Pieces Make Me A Whole
+Wed Apr  1 20:05:25 2015	36	In Slaughter Natives	Angel Meat	Enter Now The World
+Wed Apr  1 20:10:55 2015	34	3d House Of Beef	Brittle	Similar Attack Pattern
+Wed Apr  1 20:17:39 2015	32	Encomiast	Without Fear Of Wind Or Vertigo	Winter's End
+Wed Apr  1 20:22:53 2015	29	Big Mouse	The Freezing	The Seed Does Stir
+Wed Apr  1 20:27:27 2015	29	Current 93	Only Shadows Of Hooks	Live At Bar Maldoror
+Wed Apr  1 20:50:08 2015	33	Battery Cage	Shot 23, 24	A Young Person's Guide To Heartbreak
+Wed Apr  1 20:51:59 2015	32	She Wants Revenge	Disconnect	She Wants Revenge
+Wed Apr  1 20:53:56 2015	29	Scar Tissue	The Devices	TMOTD
+Wed Apr  1 20:55:45 2015	27	Pimentola	Psychopompos	All My Dead Friends
+Wed Apr  1 21:01:20 2015	26	Skinny Puppy	Epilogue	Cleanse Fold and Manipulate
+Wed Apr  1 21:02:27 2015	27	Phragments	The Kin Of Cain	Earth Shall Not Cover Their Blood
+Wed Apr  1 21:07:39 2015	28	Mynox Layh	Fluctoni	Respectus
+Wed Apr  1 21:13:40 2015	27	Das Ich	Staub	Staub
+Wed Apr  1 21:18:45 2015	28	Coph Nia	Hymn To Lucifer (Premix)	All My Dead Friends
+Wed Apr  1 21:23:18 2015	28	Will	Triumph	Word.Flesh.Stone
+Wed Apr  1 21:26:43 2015	31	Joy Of Life	Liberty	From Hypnotic...: The Hyperium Compilation Part I
+Wed Apr  1 21:31:25 2015	29	Invader Zim	In The Beginning	Music from the Nickelodeon TV Series "Invader Zim"
+Wed Apr  1 21:33:06 2015	28	Fear Factory	Refinery	Remanufacture
+Wed Apr  1 21:35:48 2015	30	Drowning Shadows	Lost Between Worlds (Ordin V1)	Dracul Atmosphere
+Wed Apr  1 21:39:09 2015	29	Fields Of The Nephilim	(Dead But Dreaming)	Elizium
+Wed Apr  1 21:40:30 2015	30	Jerry Goldsmith	Safari Park	The Omen
+Wed Apr  1 21:43:33 2015	27	Philippe Petit & Friends	Justin K. Broadrick & Philippe Petit	Reciprocess: +/Vs.
+Wed Apr  1 21:47:28 2015	28	Camouflage	Pompeji	Voices And Images
+Wed Apr  1 21:50:37 2015	28	Attrition	Still Life?	Dante's Kitchen
+Wed Apr  1 21:54:39 2015	29	Collapsar	Reaching Nariai	Collapsar
+Wed Apr  1 22:00:55 2015	34	Headscan	Sunken World	Pattern Recognition
+Wed Apr  1 22:06:28 2015	33	Abandoned Toys	Where Red Shadows Slumber	The Witch's Garden
+Wed Apr  1 22:09:36 2015	33	Camanecroszcope	What Comes Forth From Obscur..	n/a
+Wed Apr  1 22:17:02 2015	33	Transmeta	Chaos Stirs Gently	Ionospheric Intercourse
+Wed Apr  1 22:23:24 2015	34	Hybryds	I Walk Alone	Ant-hology
+Wed Apr  1 22:29:27 2015	31	Communion	Emergence	Ionospheric Intercourse
+Wed Apr  1 22:34:28 2015	24	Nevermore	Ophidian	dreaming Neon black
+Wed Apr  1 22:35:19 2015	24	Matthew Schultz	Indian	Subla Kahn Nine One One
+Wed Apr  1 22:42:06 2015	23	Remyl	Addicts	Melt
+Wed Apr  1 22:45:09 2015	23	Stromkern	Schau' Mal...	Dammerung Im Traum
+Wed Apr  1 22:45:44 2015	25	Kobi	Faint Echos Ran Round The Unseen Hall (Part 1)	Dronesyndrome
+Wed Apr  1 22:51:21 2015	24	Annabelle's Garden	Winter Moon Descends	Wo Sind Nur Eure Gotter Hin?
+Wed Apr  1 22:57:44 2015	27	Car Crash International	Last Remains	n/a
+Wed Apr  1 23:03:08 2015	28	Malign	Strapped Down	Shatter And Impale
+Wed Apr  1 23:06:40 2015	29	Panzer Ag	Introduction Otd	Your World Is Burning
+Wed Apr  1 23:07:40 2015	29	Coil	Hellraiser Theme	The Unreleased Themes For Hellraiser
+Wed Apr  1 23:10:21 2015	33	Regan	Hallowed Ground	n/a
+Wed Apr  1 23:13:35 2015	33	Agonoize	Golipe	999
+Wed Apr  1 23:13:57 2015	33	Gram Rabbit	Hares Don't Have Tea	Cultivation
+Wed Apr  1 23:15:28 2015	31	Lassigue Bendthaus	Transitory	Matter
+Wed Apr  1 23:22:52 2015	31	Recliner	Nose Dive	Rivet Head Culture
+Wed Apr  1 23:25:42 2015	33	Jerry Goldsmith	Broken Vows	The Omen
+Wed Apr  1 23:27:42 2015	32	Attrition	A Few Of My Favourite Things	Jeopardy Maze
+Wed Apr  1 23:34:09 2015	29	Big Mouse	Storm	The Seed Does Stir
+Wed Apr  1 23:36:39 2015	27	Combichrist	The Undertaker	Everybody Hates You [disc two]
+Wed Apr  1 23:41:22 2015	28	Christian Death	Prayer	Only Theatre of Pain
+Wed Apr  1 23:43:58 2015	28	Philippe Petit & Friends	Bela Emerson & Philippe Petit	Reciprocess: +/Vs.
+Wed Apr  1 23:46:54 2015	29	Joy Division	Atmosphere	Substance 1977-1980
+Wed Apr  1 23:51:05 2015	28	Sleeping Dogs Wake	Threnody	Threnody
+Wed Apr  1 23:57:58 2015	28	Feindflug	Leere Graben	Volk Und Armee ...
+Wed Apr  1 23:59:31 2015	28	She Silenced Seraphim	My Life For You	Ionospheric Intercourse
+Thu Apr  2 00:03:58 2015	29	Raison D'Etre	Sephiroth	Within The Depths Of Silence And Phormations
+Thu Apr  2 00:07:04 2015	28	Wave Workers Foundation	Dissected	In The Whirlpool
+Thu Apr  2 00:09:22 2015	28	Vidna Obmana	Awaken In Floating Colours-Composition 4	Passage in Beauty
+Thu Apr  2 00:16:47 2015	29	Calva Y Nada	Neiiin	Monologe Eines Baumes
+Thu Apr  2 00:19:24 2015	30	Anthony DiBella	Dead Communica	n/a
+Thu Apr  2 00:24:29 2015	28	In Slaughter Natives	Sacred Worms	Enter Now The World
+Thu Apr  2 00:28:18 2015	30	Black Tape For A Blue Girl	Indefinable, Yet	Halo Star
+Thu Apr  2 00:31:26 2015	32	Skinny Puppy	The Mourn	Cleanse Fold and Manipulate
+Thu Apr  2 00:33:49 2015	34	Electric Hellfire Club	The Abattoir Eternal	Kiss the Goat
+Thu Apr  2 00:35:18 2015	32	Unto Ashes	Intermezzo	Songs For A Widow
+Thu Apr  2 00:36:29 2015	33	Mindy Misty Vs. Europ Europ	Transport Fluid Factory	Mindy Misty Vs. Europ Europ
+Thu Apr  2 00:40:24 2015	32	Negative Trip	Retard	Drug Time
+Thu Apr  2 00:41:28 2015	33	Radio Free Clear Light	The Grinding Wheel	The Labyrinth Of Ohgel
+Thu Apr  2 00:46:12 2015	33	Rejean Paquin	La Maison-Dieu	n/a
+Thu Apr  2 00:49:08 2015	33	Advent Sleep	No More You	Asleep By Dawn
+Thu Apr  2 00:53:51 2015	30	Fields Of The Nephilim	Vet For The Insane	Dawnrazor
+Thu Apr  2 01:00:12 2015	32	Bedtime For Robots	Malleus Malleficarum (Immortal	Malleus Maleficarum
+Thu Apr  2 01:03:28 2015	31	Ordo Rosarius Equilibrio	Liturgy Of 6	Cocktails, Carnage, Crucifixion and Pornography
+Thu Apr  2 01:08:27 2015	30	Wumpscut	Womb (Miserable Days Mixx)	Born Again
+Thu Apr  2 01:13:09 2015	32	Razor Noise	Noise Part 6	Manifest
+Thu Apr  2 01:14:29 2015	31	Attrition	Dream Nine (Recurring)	Esoteria
+Thu Apr  2 01:17:59 2015	28	Headscan	Corroded Center Pole	Pattern Recognition
+Thu Apr  2 01:20:10 2015	29	Annabelle's Garden	In Ein Morgen	Wo Sind Nur Eure Gotter Hin?
+Thu Apr  2 01:24:49 2015	34	Ordo Equitum Solis	Animi Aegritudo	Animi Aegritudo
+Thu Apr  2 01:29:19 2015	32	Sylvan	Eternity Ends	Posthumous Silence
+Thu Apr  2 01:31:05 2015	32	Bleak	Grey Clouds	Beneath The Icy Floe v.4
+Thu Apr  2 01:36:31 2015	34	Verne Langdon	Zombie Sonata	Music For Zombies
+Thu Apr  2 01:40:53 2015	35	Camanecroszcope	Among The Blackest Souls Below	Echoes ov a Beckoning Arcanum
+Thu Apr  2 01:47:59 2015	32	Mittageisen	237 Tage	1981-1986
+Thu Apr  2 01:53:27 2015	30	Current 93	The Stair Song	Swastikas For Noddy
+Thu Apr  2 01:53:40 2015	30	Ken Elkinson	Blood	Halloween Ambient
+Thu Apr  2 01:58:53 2015	31	Sky Burial	Freedom As A Last Resort	Of The First Light
+Thu Apr  2 02:02:43 2015	31	Vatican	Requiem (V1.2)	There Is No Time (Disc 3)
+Thu Apr  2 02:07:02 2015	30	Christian Death	The Third Anti Christ	n/a
+Thu Apr  2 02:16:44 2015	32	Deutsch Nepal	Deflagration Of Hell	Deflagration Of Hell
+Thu Apr  2 02:22:58 2015	33	Mijael Gutierrez	The Calling	Ixquic2.1
+Thu Apr  2 02:24:01 2015	34	Thomas Raniszewski	The Moon in Winter	A Midnight at a Time
+Thu Apr  2 02:25:52 2015	34	Oblivion Ensemble	D Is So [Lve	n/a
+Thu Apr  2 02:27:32 2015	35	Numb	Revenant	Death On The Installment Plan
+Thu Apr  2 02:32:15 2015	34	Tool	Intension	10,000 Days
+Thu Apr  2 02:38:08 2015	36	Rennick	Lover	611-07-0681
+Thu Apr  2 02:41:14 2015	31	Battery Cage	Giving Up On It All	A Young Person's Guide To Heartbreak
+Thu Apr  2 02:43:45 2015	34	Das Ich	Des Satans Neue Kleider	Satanische Verse
+Thu Apr  2 02:49:23 2015	34	Attrition	Inside, Outside	Action and Reaction
+Thu Apr  2 02:54:43 2015	32	Scar Tissue	Gravity	TMOTD
+Thu Apr  2 02:57:58 2015	32	Radio Free Clear Light	The Gauntlet	The Labyrinth Of Ohgel
+Thu Apr  2 03:02:13 2015	32	As Lonely As Dave Bowman	Four	Pod
+Thu Apr  2 03:07:35 2015	32	Nurse With Wound	Zero Mix [Ii]	Zero Mix
+Thu Apr  2 03:17:20 2015	32	Manta Ray	Don't Push Me	Torres De Electricidad
+Thu Apr  2 03:21:11 2015	33	Coil	The Hellbound Heart	The Unreleased Themes For Hellraiser
+Thu Apr  2 03:23:12 2015	34	Current 93	Christ's First Howling	Live At Bar Maldoror
+Thu Apr  2 03:27:43 2015	28	Razor Noise	The Grand Experiment	Manifest
+Thu Apr  2 03:32:31 2015	28	Synoiz	Shock! Horror!	Ambients
+Thu Apr  2 03:35:29 2015	31	In Slaughter Natives	Head	In Slaughter Natives
+Thu Apr  2 03:40:43 2015	35	Communion	Secrets Of Sleepers	Ionospheric Intercourse
+Thu Apr  2 03:46:00 2015	38	Velvet Acid Christ	Serial Killer 101	Neuralblastoma
+Thu Apr  2 03:52:32 2015	32	Steve Roach	The Memory	Empetus
+Thu Apr  2 03:57:32 2015	35	Sky Burial	Decomposition Of Shadows	Of The First Light
+Thu Apr  2 04:03:39 2015	33	STROM.ec	Valis	Divine Legions Beyond Psyche
+Thu Apr  2 04:08:56 2015	36	Attrition	At The Fiftieth Gate	Esoteria
+Thu Apr  2 04:10:59 2015	38	Joy Division	Eternal	Closer
+Thu Apr  2 04:16:58 2015	37	In Strict Confidence	Die Sieben Siegel (Intro)	Collapse
+Thu Apr  2 04:20:34 2015	37	Olekranon	Severed	Danaus
+Thu Apr  2 04:27:29 2015	35	Scribbletronics	Sleepers	Old Octobers Disinterred
+Thu Apr  2 04:35:27 2015	33	Christian Death	This Is Heresy (Edit)	Gothic Rock
+Thu Apr  2 04:38:30 2015	33	Phragments	The Kin Of Cain	Earth Shall Not Cover Their Blood
+Thu Apr  2 04:43:33 2015	31	Current 93	Christus Christus (The Shells Have Cracked)	Dogs Blood Rising
+Thu Apr  2 04:46:22 2015	30	Great Deal Of Noise	Notti (Intro)	13 Convolutions
+Thu Apr  2 04:47:47 2015	31	Oblivion Ensemble	.Open [Ing The Darkness Of This Hole	Seraphim Hallucino
+Thu Apr  2 04:49:29 2015	33	Collapsar	Reaching Nariai	Collapsar
+Thu Apr  2 04:55:29 2015	29	Letum	Death Will Be My Friend	All My Dead Friends
+Thu Apr  2 04:59:30 2015	30	Bauhaus	Mask	1979-1983 Volume One
+Thu Apr  2 05:04:05 2015	30	Fear Factory	A Therapy For Pain	Demanufacture
+Thu Apr  2 05:12:55 2015	32	Beehatch	Sad For Mark	Beehatch
+Thu Apr  2 05:14:34 2015	31	Matthew Schultz	Mourning Hijack	Subla Kahn Nine One One
+Thu Apr  2 05:23:14 2015	33	Test Dept.	Demonomania	A Good Night Out
+Thu Apr  2 05:30:08 2015	32	Stone Glass Steel	Circle Of Sound	Ant-hology (Disc 2)
+Thu Apr  2 05:33:45 2015	31	Spk	In The Dying Moments	Zamia Lehmanni: Songs of Byzantine Flowers
+Thu Apr  2 05:40:33 2015	30	Clock Dva	Buried Dreams	Buried Dreams
+Thu Apr  2 05:44:28 2015	31	Soriah	Esqueleto De Chapulin	Ofrendas De Luz A Los Muertos
+Thu Apr  2 05:58:52 2015	35	The Truth About Frank	Love Is A Cage	Cannibal Work Ethic
+Thu Apr  2 06:03:50 2015	33	T.G.V.T.	Final Insult	Ant-hology (Disc 2)
+Thu Apr  2 06:07:57 2015	32	Sigillum S	Fastened Metempsycosis	Cybertantrick Quantum Leaps
+Thu Apr  2 06:09:34 2015	32	Blok 57	Warm Leatherette	The Official Techno Club Compilation Volume Two
+Thu Apr  2 06:14:34 2015	31	Combichrist	Below	Everybody Hates You [disc two]
+Thu Apr  2 06:21:43 2015	34	Autumn Cathedral	My Thoughts Fall In A Slow Cascade	Asleep Within Waves
+Thu Apr  2 06:25:11 2015	27	Big Mouse	The Deep Hum	The Seed Does Stir
+Thu Apr  2 06:31:25 2015	29	Attrition	My Eyes	Esoteria
+Thu Apr  2 06:35:45 2015	30	Trauma	Dune	Fractal I
+Thu Apr  2 06:39:58 2015	31	Black Tape For A Blue Girl	Am I So Deceived	Ashes in the Brittle Air
+Thu Apr  2 06:44:44 2015	27	Brighter Death Now	Cadaver	The Slaughterhouse
+Thu Apr  2 06:51:36 2015	30	Numb	Balance Of Terror	Christmeister - Bliss
+Thu Apr  2 06:55:48 2015	30	Monolith	There Are Other Worlds	Atavistic
+Thu Apr  2 07:01:09 2015	29	Legendary Pink Dots	Stigmata (Part 4)	Your Children Placate You From Premature Graves
+Thu Apr  2 07:07:37 2015	33	Phragments	Earth Shall Not Cover Their Blood	Earth Shall Not Cover Their Blood
+Thu Apr  2 07:15:40 2015	31	Gram Rabbit	I & Suse J	n/a
+Thu Apr  2 07:15:58 2015	31	Gebrochene Augen	Filament	Prufung
+Thu Apr  2 07:21:34 2015	32	Mijael Gutierrez	06_Migraine	Eva's headaches
+Thu Apr  2 07:29:28 2015	29	Raison D'etre	Of Dying Relics	Karmanik Collection
+Thu Apr  2 07:33:46 2015	29	Tool	Faaip De Oaid	Lateralus
+Thu Apr  2 07:36:12 2015	28	Skinny Puppy	Reclamation	Too Dark Park
+Thu Apr  2 07:38:55 2015	30	Iszoloscope	Winds Of Minas Linea	Coagulating Wreckage
+Thu Apr  2 07:46:30 2015	30	Ordo Rosarius Equilibrio	Let The Words Of My Murder Be The Last Words Your Hear	Apocalips
+Thu Apr  2 07:51:13 2015	31	Wire	Feed Me	The Ideal Copy
+Thu Apr  2 07:57:07 2015	31	Unknown Forces	Soundtrack To Death	n/a
+Thu Apr  2 08:04:38 2015	30	Ordo Equilibrio	Sic Transit Gloria Mundi... In Extremis	Karmanik Collection
+Thu Apr  2 08:09:47 2015	30	Coil	Main Title	The Unreleased Themes For Hellraiser
+Thu Apr  2 08:13:05 2015	32	Attrition	Dreamsleep	History
+Thu Apr  2 08:16:39 2015	33	Radio Free Clear Light	Chamber Of Withering	The Labyrinth Of Ohgel
+Thu Apr  2 08:20:42 2015	37	Will	Summoning	Pearl of Great Price
+Thu Apr  2 08:23:42 2015	36	Beehatch	Something Too	Beehatch
+Thu Apr  2 08:25:03 2015	39	Rejean Paquin	La Mort	n/a
+Thu Apr  2 08:30:18 2015	38	Camanecroszcope	Ancient Voices Haunt The Deep	Echoes ov a Beckoning Arcanum
+Thu Apr  2 08:35:46 2015	39	Mentallo & The Fixer	Intro	Algorythum
+Thu Apr  2 08:40:23 2015	42	Soma	Endless	The Inner Cinema
+Thu Apr  2 08:44:31 2015	41	Faktory	Severed Fingers	Civilized?
+Thu Apr  2 08:46:43 2015	37	Matthew Schultz	Subla Kahn	Subla Kahn Nine One One
+Thu Apr  2 08:56:33 2015	34	Carl Orff	O Fortuna	Carmina Burana
+Thu Apr  2 08:58:45 2015	35	Love Is Colder Than Death	Taliesin And Melanghel	Mental Traveller
+Thu Apr  2 09:02:36 2015	34	Scribbletronics	The Ghost Book	Old Octobers Disinterred
+Thu Apr  2 09:04:08 2015	35	Black Tape For A Blue Girl	Damn Swan	Halo Star
+Thu Apr  2 09:07:10 2015	32	Scar Tissue	Crying Response Machine	TMOTD
+Thu Apr  2 09:09:46 2015	32	Jerry Goldsmith	Beheaded	The Omen
+Thu Apr  2 09:11:04 2015	32	Panzer Ag	Drukne I Taarer	This Is My Battlefield
+Thu Apr  2 09:17:55 2015	32	Cure	Pornography	Pornography
+Thu Apr  2 09:24:55 2015	34	Malign	Charging The Weapon	Shatter And Impale
+Thu Apr  2 09:29:35 2015	32	Gebrochene Augen	Wormhole	Prufung
+Thu Apr  2 09:34:39 2015	32	Throbbing Gristle	Hamburger Lady	Greatest Hits
+Thu Apr  2 09:38:27 2015	29	Des Esseintes	Release	Mondo Macabro (Compilation)
+Thu Apr  2 09:44:22 2015	32	Deutsch Nepal	Tender Love	Karmanik Collection
+Thu Apr  2 09:47:36 2015	30	Chainsawtooth	Cltch	uNNatural
+Thu Apr  2 09:51:09 2015	30	Psy 231	Fear To Faith	Arrhythmia
+Thu Apr  2 09:54:21 2015	33	Numb	Alien Head	n/a
+Thu Apr  2 10:01:20 2015	35	Drowning Shadows	Encroaching Coldness (Renfield Version)	Dracul Atmosphere
+Thu Apr  2 10:05:13 2015	36	In Slaughter Natives	Christ	In Slaughter Natives
+Thu Apr  2 10:10:48 2015	40	Camanecroszcope	From The Gulf And Into Existen	n/a
+Thu Apr  2 10:17:02 2015	38	Attrition	Crawling (Excerpt)	History
+Thu Apr  2 10:22:42 2015	40	Will	Furnace Of Souls	Pearl of Great Price
+Thu Apr  2 10:26:52 2015	40	Spk	Maladia Europa (The European Sickness)	Leichenschrei
+Thu Apr  2 10:30:54 2015	35	Beehatch	Du Du Horn	Brood
+Thu Apr  2 10:32:54 2015	36	Calva Y Nada	Habemus Papam (Remix)	Monologe Eines Baumes
+Thu Apr  2 10:37:34 2015	34	Fracture	Eleison	n/a
+Thu Apr  2 10:37:51 2015	34	Coil	Paradisiac	Gold is the Metal with the Broadest Shoulders
+Thu Apr  2 10:40:11 2015	31	Manufactura	Burned Alive	We're Set Silently On Fire
+Thu Apr  2 10:43:43 2015	32	Battery Cage	We Need To Talk	A Young Person's Guide To Heartbreak
+Thu Apr  2 10:45:50 2015	31	Mijael Gutierrez	Ceremony	Ixquic2.1
+Thu Apr  2 10:51:07 2015	31	Turbo Messiah	Scorn-Free Workday	Arrhythmia
+Thu Apr  2 10:56:46 2015	30	Black Sabbath	Planet Caravan	The Best Of Black Sabbath
+Thu Apr  2 11:00:57 2015	33	Tool	Mantra	Lateralus
+Thu Apr  2 11:01:46 2015	32	Fair Sex	Woe	Machine Bites
+Thu Apr  2 11:03:13 2015	31	Phragments	The Return	Earth Shall Not Cover Their Blood
+Thu Apr  2 11:08:41 2015	34	Coph Nia	Hymn To Lucifer (Premix)	All My Dead Friends
+Thu Apr  2 11:12:54 2015	31	Stromlinie	U-Bahn-Fahrt	Ant-hology (Disc 2)
+Thu Apr  2 11:16:37 2015	34	Unto Ashes	Rubine	Burials Foretold
+Thu Apr  2 11:18:35 2015	34	Deutsch Nepal	Impassive Metal Sex	Benevolence
+Thu Apr  2 11:28:13 2015	35	Lunarin	Eclipse	The Chrysalis
+Thu Apr  2 11:29:08 2015	34	Malign	Erode	Shatter And Impale
+Thu Apr  2 11:33:36 2015	37	Barry Andrews	Down The Pyramids	Haunted Box of Switches
+Thu Apr  2 11:35:32 2015	38	Iszoloscope	Holokarst	Aquifere
+Thu Apr  2 11:38:36 2015	39	Archon Satani	Dies Irae Pt. 2	Karmanik Collection
+Thu Apr  2 11:45:10 2015	39	Calva Y Nada	Einstimmen	El Peste Perverso Lleva Mi Pecunia
+Thu Apr  2 11:46:32 2015	38	The Truth About Frank	Teddy Hop	Cannibal Work Ethic
+Thu Apr  2 11:53:54 2015	33	Combative Alignment	Part One	...And Outside Glows The Red Dawn
+Thu Apr  2 12:01:21 2015	35	Legendary Pink Dots	Fourth Secret	The Maria Dimension
+Thu Apr  2 12:03:58 2015	37	Throbbing Gristle	Tiab Guls	Greatest Hits
+Thu Apr  2 12:08:10 2015	35	Goethes Erben	Koma	Das Sterben Ist Aesthetisch Bunt
+Thu Apr  2 12:14:43 2015	34	Scribbletronics	Morphine	Old Octobers Disinterred
+Thu Apr  2 12:18:42 2015	33	Har	B'ak'tun 13	B'ak'tun 13
+Thu Apr  2 12:25:21 2015	37	Attrition	The Burial Club	All Mine Enemys Whispers
+Thu Apr  2 12:32:39 2015	35	Andreas Ammer, Fm Einheit	Canto Xxvii	Radio Inferno
+Thu Apr  2 12:35:26 2015	36	Lab Report	Song 2	All Your Little Pieces Make Me A Whole
+Thu Apr  2 12:40:41 2015	35	Borghesia	Toxido	Escorts And Models
+Thu Apr  2 12:43:47 2015	35	Deied	Opus Dei (Intro)	keys
+Thu Apr  2 12:48:57 2015	37	Coil	Tenderness Of Wolves	Scatology
+Thu Apr  2 12:53:28 2015	34	Bedtime For Robots	Guess Who This Is	Flying Machine
+Thu Apr  2 12:56:21 2015	34	Parsec	Tech Atmos	Biorretro
+Thu Apr  2 13:03:31 2015	32	Communion	Jesus Split The Atom	Ionospheric Intercourse
+Thu Apr  2 13:10:22 2015	32	Philippe Petit & Friends	Lydia Lunch & Philippe Petit	Reciprocess: +/Vs.
+Thu Apr  2 13:15:56 2015	30	Anthony Dibella	Dead Communica	n/a
+Thu Apr  2 13:20:50 2015	35	Ordo Rosarius Equilibrio	It Was The Day Of Lucifer Rising	Cocktails Carnage Crucifixion and Pornography
+Thu Apr  2 13:24:37 2015	37	Stars Of The Lid	Austin Texas Mental Hospital,	Tired Sounds of Stars of the Lid
+Thu Apr  2 13:27:08 2015	35	Ken Elkinson	Blood	Halloween Ambient
+Thu Apr  2 13:32:26 2015	36	Brujeria	Brujerizmo	Roadrunner Records Sampler
+Thu Apr  2 13:35:17 2015	35	Throbbing Gristle	Beachy Head	20 Jazz Funk Greats
+Thu Apr  2 13:38:36 2015	35	Negative Trip	Idiom	Drug Time
+Thu Apr  2 13:45:31 2015	37	Skinny Puppy	Social Deception	Bites
+Thu Apr  2 13:48:35 2015	34	Gracious Shades	He Used A Gun	Inoculation Of The Media
+Thu Apr  2 13:49:50 2015	33	Manufactura	Unforgiving Dreams	We're Set Silently On Fire
+Thu Apr  2 13:56:33 2015	31	Faint	Ballad Of A Paralysed Citizen	Danse Macabre
+Thu Apr  2 14:00:35 2015	32	Legendary Pink Dots	Cheraderama	The Maria Dimension
+Thu Apr  2 14:05:28 2015	31	Ah Cama-Sotz	Enuma Elish	Dead Cities
+Thu Apr  2 14:11:10 2015	33	In Slaughter Natives	Death, Just Only Death.	In Slaughter Natives
+Thu Apr  2 14:16:34 2015	29	Schnitt Acht	Deforming	Subhuman Minds
+Thu Apr  2 14:20:05 2015	30	Coil	The First Five Minutes After Death	Horse Rotovator
+Thu Apr  2 14:25:30 2015	35	Tool	Die Eier Von Satan	®nima
+Thu Apr  2 14:27:36 2015	31	Ordo Equitum Solis	Obsessions	Solstitii Temporis Sensvs
+Thu Apr  2 14:32:09 2015	29	Razed In Black	Guilty	Sacrificed
+Thu Apr  2 14:33:28 2015	31	Kobi	The Evening Was Unusually Sultry And Heavy	Dronesyndrome
+Thu Apr  2 14:40:33 2015	33	Second Voice	Transluna	Approaching Luna
+Thu Apr  2 14:42:33 2015	33	Ordo Rosarius Equilibrio	Remember Depravity And The Orgies Of Rome	Cocktails Carnage Crucifixion and Pornography
+Thu Apr  2 14:46:43 2015	36	Unto Ashes	Song For A Widow	Songs For A Widow
+Thu Apr  2 14:50:47 2015	36	Scar Tissue	Switch	TMOTD
+Thu Apr  2 14:55:10 2015	39	Will	Epilogue	Pearl of Great Price
+Thu Apr  2 14:58:33 2015	41	Sutures Are Bait	Do Not Play	Sutures Are Bait
+Thu Apr  2 15:00:38 2015	40	Lab Report	Something Remembered	-Classical -Atmospheres
+Thu Apr  2 15:07:57 2015	38	Love Is Colder Than Death	Tired To Death	Teignmouth

@@ -1,0 +1,881 @@
+Wed Apr  1 00:00:46 2015	48	Betty Wright	If You Don't Love Me Like You Say You Love Me	n/a
+Wed Apr  1 00:03:43 2015	48	Ike & Tina Turner	Funkier Than A Mosquita's Tweeter	Soul Archive (130529)
+Wed Apr  1 00:06:17 2015	45	Bobby Brown	Two Of A Kind	n/a
+Wed Apr  1 00:09:02 2015	45	Patti Austin	Are We Ready For Love	n/a
+Wed Apr  1 00:11:37 2015	44	Etta James	Seven Day Fool	The Second Time Around
+Wed Apr  1 00:14:29 2015	45	Elijah And The Ebonies	Hot Grits!!!	n/a
+Wed Apr  1 00:17:44 2015	48	Jimmy Soul Clark	(Come On Be My) Sweet Darlin'	The Cream Of Northern Soul Vol. 1 (Disc 1)
+Wed Apr  1 00:20:19 2015	47	Derrick Harriott	When We Get Married	n/a
+Wed Apr  1 00:22:55 2015	51	Eddie Jones	It Went To Your Head	n/a
+Wed Apr  1 00:25:23 2015	52	Wayne Fontana	Something Keeps Calling Me Back	Wayne One (Compilation)
+Wed Apr  1 00:27:30 2015	52	Archie Bell & The Drells	Tighten Up	25 Years Of R&B - 1968
+Wed Apr  1 00:30:19 2015	55	Gate Wesley & Band feat. Billy LaMont	(Zap Pow) Do the Batman!	Funky16Corners Mix 2.0- Sookie!
+Wed Apr  1 00:32:36 2015	50	Helene Smith	You Got To Be A Man	n/a
+Wed Apr  1 00:35:15 2015	50	Na Allen	Thanks For Nothing	n/a
+Wed Apr  1 00:37:25 2015	48	G.C. Cameron	No Matter Where	n/a
+Wed Apr  1 00:40:43 2015	50	Muanual B. Holcolm	I Stayed Away Too Long	n/a
+Wed Apr  1 00:42:59 2015	48	Vernon Garrett	If I Could Turn Back The Hands Of Time	The Stateside Story, Volume 5 (Compilation)
+Wed Apr  1 00:45:17 2015	48	The Inspirations	Touch Me, Hold Me, Kiss Me	Cooler Shakers!
+Wed Apr  1 00:47:51 2015	49	Nolan Porter	Crazy Love	n/a
+Wed Apr  1 00:50:38 2015	49	Carolyn Cooke	I Don't Mind	Northern Soul Floorshakers!
+Wed Apr  1 00:52:43 2015	50	Al Green	Let Me Help You	n/a
+Wed Apr  1 00:54:35 2015	50	Marlena Shaw	Woman Of The Ghetto	The Spice of Life
+Wed Apr  1 00:59:31 2015	50	Laura Greene	Moonlight, Music And You	Northern Soul Floorshakers!
+Wed Apr  1 01:01:54 2015	50	Patti Drew	They'll Never Be Another	n/a
+Wed Apr  1 01:04:32 2015	52	Jeanette Williams	Stuff	n/a
+Wed Apr  1 01:07:15 2015	50	Bettye Swann	Lonely Love	Chigger Please!
+Wed Apr  1 01:09:30 2015	51	The Rance Allen Group	If I Could Make The World Better	n/a
+Wed Apr  1 01:11:53 2015	52	Beginning Of The End	Superwoman	n/a
+Wed Apr  1 01:16:32 2015	54	The Contours	Searching For A Girl	n/a
+Wed Apr  1 01:19:15 2015	57	TSU Tornadoes	You're Mine	n/a
+Wed Apr  1 01:21:54 2015	55	The Spinners	I Just Want To Fall In Love	n/a
+Wed Apr  1 01:24:41 2015	56	The Whispers	Needle In A Haystack	Planets of Life
+Wed Apr  1 01:26:38 2015	59	The Companions	Be Yourself	n/a
+Wed Apr  1 01:29:05 2015	56	Otis Redding	(Sittin' On) The Dock Of The Bay	Dock of the Bay
+Wed Apr  1 01:31:43 2015	56	James & Bobby Purify	Shake A Tail Feather	Chigger Please!
+Wed Apr  1 01:33:28 2015	56	Willie Hutch	Love Runs Out	24 Classic Northern Soul Floorpackers
+Wed Apr  1 01:36:04 2015	56	Smokey Robinson	Ooh Baby Baby	n/a
+Wed Apr  1 01:39:07 2015	56	Deon Jackson	That's What You Do To Me	n/a
+Wed Apr  1 01:41:16 2015	56	Chubby Checker	The Rub	n/a
+Wed Apr  1 01:45:02 2015	57	Just Brothers	Sliced Tomatoes	Soul Archive (091029)
+Wed Apr  1 01:47:16 2015	58	Hetti Lloyd	If You Can't Satisfy (It's Time To Say Goodbye)	n/a
+Wed Apr  1 01:49:25 2015	59	The Incredible Say Whats!	Twitchie Feet	n/a
+Wed Apr  1 01:52:42 2015	59	Sister Sledge	Love Has Found Me	n/a
+Wed Apr  1 01:55:43 2015	58	The Pree Sisters	You've Got To Use What You Got	n/a
+Wed Apr  1 01:58:25 2015	60	Creation	I Got The Fever	The Stateside Story, Volume 6 (Compilation)
+Wed Apr  1 02:01:25 2015	59	Jimmy Ruffin	Tell Me What You Want	Disco Gold
+Wed Apr  1 02:04:45 2015	60	Jan Bradley	I'm Over You	Chess Divas (Compilation)
+Wed Apr  1 02:06:53 2015	60	Marsha Gee	Peanut Duck	The Shotgun And The Duck
+Wed Apr  1 02:09:37 2015	58	The Wailers	Don't Ever Leave Me	Another Dance: Rarities From Studio 1 (Compilation)
+Wed Apr  1 02:12:30 2015	59	Burning Desire	Why She Had To Go	n/a
+Wed Apr  1 02:16:43 2015	60	The Inverts	Look Out Love	n/a
+Wed Apr  1 02:19:31 2015	65	The Invitations	Look On The Good Side	n/a
+Wed Apr  1 02:22:40 2015	66	The O'Jays	Shiftless, Shady, Jealous Kind Of People	n/a
+Wed Apr  1 02:26:07 2015	66	Jim Jones And The Chaunteys	Baby (Better Get On Home)	n/a
+Wed Apr  1 02:28:17 2015	67	The Exciters	You Don't Know What You're Missing ('Til It's Gone)	n/a
+Wed Apr  1 02:31:04 2015	65	The Jaggerz	Let Me Be Your Man	n/a
+Wed Apr  1 02:33:47 2015	66	The Infernos	I'm Coming Home	Soul Archive (060701)
+Wed Apr  1 02:35:43 2015	68	Rosie & The Originals	Angel Baby	Oldies Archive (080919)
+Wed Apr  1 02:39:02 2015	69	Hot Sauce	Echoes From The Past	n/a
+Wed Apr  1 02:41:31 2015	68	Little Ben & The Cheers	I Don't Have To Cry (Over You)	n/a
+Wed Apr  1 02:44:23 2015	73	The Firtations	Nothing But A Heartache	n/a
+Wed Apr  1 02:46:35 2015	72	Sly & The Family Stone	Everybody Is A Star	Sly & The Family Stone - Anthology
+Wed Apr  1 02:49:29 2015	72	The Commodores	Machine Gun	The Commodores: The Definitive Collection
+Wed Apr  1 02:52:15 2015	71	Bobby Freeman	C'mon And Swim- Part 2	The Shotgun And The Duck
+Wed Apr  1 02:54:20 2015	71	Antibalas	Tattletale Part 1	n/a
+Wed Apr  1 02:58:51 2015	73	Vowels	It's Alright	n/a
+Wed Apr  1 03:01:18 2015	74	Gene Chandler	Simply Call It Love	n/a
+Wed Apr  1 03:03:21 2015	74	The Noble Knights	Sing A Simple Song	Funk Drops 2: Breaks, Nuggets and Rarities (Compilation)
+Wed Apr  1 03:06:39 2015	73	Donnie Elbert	My Confession Of Love	n/a
+Wed Apr  1 03:08:44 2015	72	Jimmy `Preacher` Ellie	I'm Gonna' Do It By Myself	n/a
+Wed Apr  1 03:10:50 2015	73	The Ideals	The Gorilla	n/a
+Wed Apr  1 03:12:56 2015	73	The Embers	Watch Out Girl	Hipshakin' Volume
+Wed Apr  1 03:15:29 2015	73	Johnny Appalachian	Up In Smoke	n/a
+Wed Apr  1 03:17:26 2015	73	Top Shelf	No Second Thoughts	Soul Archive (130529)
+Wed Apr  1 03:20:15 2015	72	Baby Washington	I Can't Wait To See My Baby's Face	Hipshakin' Volume
+Wed Apr  1 03:22:41 2015	75	Creations	Footsteps	n/a
+Wed Apr  1 03:25:27 2015	72	Jimmie Preacher Ellis & The Odd Fellows	Put Your Hoe To My Row	n/a
+Wed Apr  1 03:27:53 2015	74	Senor Soul	It's Your Thing	Soul Archive (130119)
+Wed Apr  1 03:30:08 2015	75	Butch Baker	Fat Man At The Go-Go	24 Classic Northern Soul Floorpackers
+Wed Apr  1 03:32:56 2015	76	The Intruders	Hang On In There	n/a
+Wed Apr  1 03:36:14 2015	72	Bobby Byrd	Ain't No Use	n/a
+Wed Apr  1 03:38:45 2015	72	Ike Nesbitt	I'm Lonely	n/a
+Wed Apr  1 03:41:31 2015	72	Carl Carlton	I Can Feel It	n/a
+Wed Apr  1 03:43:55 2015	71	Clarence Reid	A Real Woman	n/a
+Wed Apr  1 03:46:31 2015	69	The Manhattans	Follow Your Heart	n/a
+Wed Apr  1 03:49:20 2015	69	Thelma Jones	Stronger	Boogaloo Babes
+Wed Apr  1 03:51:58 2015	69	The Soul Runners	Charley	Hipshaker (Compilation)
+Wed Apr  1 03:54:27 2015	67	Tommy Neal	Going To A Happening	Northern Soul Dance Party (Compilation)
+Wed Apr  1 03:56:41 2015	66	The Sharpees	Tired of Being Lonely	Windy City Soul
+Wed Apr  1 03:59:22 2015	66	Joe Simon	I Ain't Givin' Up	n/a
+Wed Apr  1 04:01:14 2015	65	johnson, Hawkins, Tatum & Durr	A World Without You	Eccentric Soul: The Capsoul Label (Compilation)
+Wed Apr  1 04:04:33 2015	67	Tina Britt	You're Absolutely Right	Boogaloo Babes
+Wed Apr  1 04:06:35 2015	64	Don Varner	Tear Stained Face	24 Classic Northern Soul Floorpackers
+Wed Apr  1 04:08:49 2015	64	James Brown	Hot Pats Pt. 1	n/a
+Wed Apr  1 04:11:55 2015	65	Menahan Street Band	Lights Out	The Crossing
+Wed Apr  1 04:14:29 2015	64	J.P. Robinson	Say It	n/a
+Wed Apr  1 04:17:17 2015	66	Charles Wright & the Watts 103rd Street Rhythm Band	Caesar's Palace	n/a
+Wed Apr  1 04:19:46 2015	65	Darryl Carter	Begging You To Stay	n/a
+Wed Apr  1 04:22:33 2015	67	The Five Stairsteps	You've Waited Too Long	n/a
+Wed Apr  1 04:25:11 2015	67	Fred Hughes	Don't Let This Happen To Us	n/a
+Wed Apr  1 04:27:31 2015	67	Exsaveyons	I Don't Love You No More	n/a
+Wed Apr  1 04:29:43 2015	68	Jr. Walker & The All Stars	Brainwasher (Part 1)	n/a
+Wed Apr  1 04:32:30 2015	67	Skull Snaps	My Hang Up Is You	n/a
+Wed Apr  1 04:36:15 2015	66	Johnny Maestro	I'm Stepping Out Of The Picture	Cooler Shakers!
+Wed Apr  1 04:38:32 2015	64	Teardrops	You Won't Be There	n/a
+Wed Apr  1 04:40:35 2015	66	Denise LaSalle	A Promise Is A Promise	n/a
+Wed Apr  1 04:43:30 2015	68	Marvin Gaye	Don't Mess With Mister `T`	n/a
+Wed Apr  1 04:46:14 2015	67	Timmy Thomas	Funky Me	n/a
+Wed Apr  1 04:48:55 2015	66	P.J. Proby	Niki Hoeky	Enigma
+Wed Apr  1 04:51:30 2015	65	Bettye Swann	Closed For The Season	Contagious
+Wed Apr  1 04:54:17 2015	65	Marlena Shaw	Wade In The Water	n/a
+Wed Apr  1 04:57:42 2015	66	Major Lance	Stay Away From Me (I Love You Too Much)	n/a
+Wed Apr  1 05:00:47 2015	62	Mamie Galore	You Got The Power	n/a
+Wed Apr  1 05:03:18 2015	64	Don Thomas	Come On Train	Cooler Shakers!
+Wed Apr  1 05:06:36 2015	64	Cookin' On Three Burners	Mind Made Up	n/a
+Wed Apr  1 05:10:36 2015	61	Jimmy Jones	Ain't Nothing Wrong Making Love The First Night	n/a
+Wed Apr  1 05:13:45 2015	65	The Whispers	As I Sit Here	Oldies Archive (080919)
+Wed Apr  1 05:16:18 2015	68	Gino Washington	Rat Race	n/a
+Wed Apr  1 05:18:54 2015	69	The Velvelettes	He Was Really Sayin' Somethin'	Hitsville USA- The Motown Singles Collection 1959-1971
+Wed Apr  1 05:21:23 2015	66	Jimmy Burns	Powerful Love	n/a
+Wed Apr  1 05:23:42 2015	65	The Contours	First I Look At The Purse	Hitsville USA- The Motown Singles Collection 1959-1971
+Wed Apr  1 05:26:36 2015	66	Jackie Wilson and LaVern Baker	Think Twice	n/a
+Wed Apr  1 05:29:17 2015	69	Alice Clark	You Hit Me	45
+Wed Apr  1 05:31:46 2015	70	Ricky Allen	Skate Boo-Ga-Loo	n/a
+Wed Apr  1 05:33:53 2015	68	Jackie Lee	African Boo-Ga-Loo	n/a
+Wed Apr  1 05:36:06 2015	69	Tony Middleton & The Willows	Only My Heart	n/a
+Wed Apr  1 05:38:35 2015	71	The Triumphs	I'm Coming To Your Rescue	n/a
+Wed Apr  1 05:40:34 2015	68	Pat Satchmo	The Love I Had With You	n/a
+Wed Apr  1 05:43:33 2015	71	The Amazers	Without A Warning	Soul Archive (060701)
+Wed Apr  1 05:45:22 2015	70	Perez Prado & Don Alfio	Love Child	n/a
+Wed Apr  1 05:48:17 2015	70	James Brown & The Famous Flames	Licking Stick (Part 1)	n/a
+Wed Apr  1 05:50:55 2015	71	Barbara Lynn	I'm A Good Woman	CD Club 2012 02- Hurt By Love
+Wed Apr  1 05:53:22 2015	73	The Delfonics	You Get Yours And I'll Get Mine	Eighteen With A Bullet
+Wed Apr  1 05:56:20 2015	69	Jim Spencer With `The Herd`	Daddy's Little Angel	n/a
+Wed Apr  1 05:58:41 2015	69	Vera Hamilton	But I Ain't Got No More (G.S.T.S.K.D.T.S.)	n/a
+Wed Apr  1 06:00:56 2015	69	Dee Dee Warwick	Worth Every Tear I Cry	Northern Soul Connoisseurs
+Wed Apr  1 06:03:00 2015	69	The Snowmen	Sugar Daddy	Heartburn (Rooky Ricardo's Presents)
+Wed Apr  1 06:05:19 2015	73	Martinis	Hung Over	Hip to the Jive
+Wed Apr  1 06:07:12 2015	71	Johnny Nash	Three Rooms With Running Water	n/a
+Wed Apr  1 06:09:30 2015	74	Ernie K. Doe	Until The Real Thing Comes Along	Oldies Archive (080919)
+Wed Apr  1 06:12:37 2015	75	The Pacesetters	I'm Gonna' Make It	n/a
+Wed Apr  1 06:14:26 2015	77	The Cre-Shendos	This Must Be Love	Dead End Kids (Rooky's Presents More R&B)
+Wed Apr  1 06:17:17 2015	74	Human Beinz	Nobody But Me	Nuggets: Original Artyfacts from the First Psychedelic Era (Disc 2)
+Wed Apr  1 06:19:23 2015	74	The King Pins	I Won't Have It	King Northern Soul
+Wed Apr  1 06:21:52 2015	74	The Furys	I'm Satisified With You	n/a
+Wed Apr  1 06:24:12 2015	74	Eddie Regan	Playin Hide & Seek	24 Classic Northern Soul Floorpackers
+Wed Apr  1 06:26:22 2015	76	Mongo Santamaria	Stoned Soul Picnic	n/a
+Wed Apr  1 06:29:27 2015	75	Buddy Ace	Gotta Get Myself Together	n/a
+Wed Apr  1 06:31:31 2015	74	Eddie Bo	Hook And Sling-Part 2	n/a
+Wed Apr  1 06:33:40 2015	73	Miss LaVelle	Run To You	n/a
+Wed Apr  1 06:35:46 2015	75	The Continental 4	The Way I Love You	n/a
+Wed Apr  1 06:38:50 2015	80	O.V. Wright	What Did You Tell This Girl of Mine	Soul Classics (Compilation)
+Wed Apr  1 06:41:31 2015	76	The Inspirations	No One Else Can Take Your Place	Lost Soul, Vol. 8
+Wed Apr  1 06:43:31 2015	77	Patti Austin	Can't Forget The One I Love	n/a
+Wed Apr  1 06:46:34 2015	75	Robert Jay	Alcohol Pt. 1	n/a
+Wed Apr  1 06:49:06 2015	76	Betty Wright	I Love The Way You Love	n/a
+Wed Apr  1 06:52:15 2015	76	The Chi-Lites	Trouble's A' Comin'	n/a
+Wed Apr  1 06:55:16 2015	74	Sonny Til and The Orioles	Hey! Little Woman	Looking Back, Vol. 5
+Wed Apr  1 06:57:25 2015	75	Oz & The Ends	Look Away	n/a
+Wed Apr  1 07:01:09 2015	78	Billy Bishop	If And When	n/a
+Wed Apr  1 07:03:23 2015	79	Ben E. King	Don't Play That Song	Soul Clan
+Wed Apr  1 07:05:56 2015	78	Chuck Willis	Give Ane Take	n/a
+Wed Apr  1 07:08:43 2015	80	Jimmy `Soul` Clark	If I Only Knew	n/a
+Wed Apr  1 07:11:35 2015	80	The Show Stoppers	How Easy Your Heart Forgets Me	Shrimpton CD
+Wed Apr  1 07:13:40 2015	78	Nancy Butts	Let Me Be Free	n/a
+Wed Apr  1 07:16:54 2015	79	The Isley Brothers	Work To Do	Brother, Brother, Brother
+Wed Apr  1 07:19:56 2015	81	Bobby Womack	Nobody Wants You When You're Down And Out	n/a
+Wed Apr  1 07:22:39 2015	75	The Yeomans	Unlucky	n/a
+Wed Apr  1 07:25:16 2015	76	Sam Dees	Lonely For You Baby	Cooler Shakers!
+Wed Apr  1 07:27:49 2015	75	April Stevens	Wanting You	n/a
+Wed Apr  1 07:30:39 2015	72	Chuck Jackson	If I Didn't Love You	Hipshakin' Volume
+Wed Apr  1 07:32:34 2015	73	Billy Prophet	What Can I Do	Sunset Soul Club- November 21, 2004
+Wed Apr  1 07:34:37 2015	74	The Commodores	The Zoo	n/a
+Wed Apr  1 07:37:33 2015	75	Wayne Cochran	Goin' Back To Miami	n/a
+Wed Apr  1 07:40:34 2015	74	The Notations	I'm Still Here	Art Laboe's Dedicated to You, Volume 9
+Wed Apr  1 07:43:27 2015	75	Lonnie Russ	My Wife Can't Cook	n/a
+Wed Apr  1 07:45:54 2015	74	The Winstons	Love of The Common People	Color Him Father
+Wed Apr  1 07:48:37 2015	76	Wade Flemons	Welcome Stranger	n/a
+Wed Apr  1 07:50:57 2015	75	The Tamlins	Thick And Thin	n/a
+Wed Apr  1 07:54:38 2015	77	Eddie Floyd	Got To Make A Comeback	n/a
+Wed Apr  1 07:56:58 2015	77	Linda Jones	Take The Boy Out Of The Country	n/a
+Wed Apr  1 07:59:32 2015	75	Marlena Shaw	California Soul	Funky16Corners Blogtoberfest
+Wed Apr  1 08:02:25 2015	74	Betty Everett	Too Hot To Hold	The Very Best of Betty Everett (Compilation)
+Wed Apr  1 08:04:16 2015	74	Deon Jackson	Love Makes The World Go 'Round	n/a
+Wed Apr  1 08:06:55 2015	76	The Dells	There Is	There Is
+Wed Apr  1 08:09:56 2015	77	Bettye Swann	Lonely Love	Chigger Please!
+Wed Apr  1 08:12:16 2015	76	Smoke	Oh Love (Well We Finally Made It)	n/a
+Wed Apr  1 08:15:46 2015	76	Edwin Starr	Twenty Five Miles	Hitsville USA- The Motown Singles Collection 1959-1971
+Wed Apr  1 08:18:59 2015	77	Bobby Moore	Hey, Mr. D.J.	Soul Archive (091226)
+Wed Apr  1 08:21:46 2015	79	Etta James	Security	The Chess 50th Anniversary Collection
+Wed Apr  1 08:24:16 2015	76	Paula Lamont	A Beatle Meets A Ladybug	n/a
+Wed Apr  1 08:26:40 2015	78	The Metros	The Since I Found My Baby	Northern Soul Floorshakers!
+Wed Apr  1 08:28:58 2015	79	The Fabulous Playboys	Nervous	Shakin' Fit! (Compilation)
+Wed Apr  1 08:31:16 2015	79	Garland Green	I Can't Believe You Quit Me	CD Club 2012 02- Hurt By Love
+Wed Apr  1 08:33:32 2015	81	Kim Tolliver	I Got To Find A Way	n/a
+Wed Apr  1 08:35:50 2015	80	Sherman Evans	I Don't Care	n/a
+Wed Apr  1 08:38:00 2015	78	Chuck Wood	I've Got My Love Light Burning	n/a
+Wed Apr  1 08:40:26 2015	77	The Spinners	Together We Can Make Such Sweet Music	n/a
+Wed Apr  1 08:43:17 2015	82	The Ivories	Please Stay	Cooler Shakers!
+Wed Apr  1 08:45:39 2015	82	Brother Jack McDuff & David Newman	But It's Alright	Double Barrelled Soul
+Wed Apr  1 08:50:54 2015	79	Donnie Elbert	Set My Heart At Ease	n/a
+Wed Apr  1 08:53:10 2015	78	Brothers Of Soul	Hurry Don't Linger	n/a
+Wed Apr  1 08:55:44 2015	79	Gladys Knight	Stop And Get A Hold Of Myself	n/a
+Wed Apr  1 08:58:38 2015	80	The Temptations	Slow Down Heart	n/a
+Wed Apr  1 09:01:16 2015	82	Jackie Wilson	Lonely Teardrops	n/a
+Wed Apr  1 09:03:51 2015	81	James Gadson	Got To Find My Baby	n/a
+Wed Apr  1 09:06:39 2015	79	Don & Juan	What I Really Meant To Say	Bigtop Soul Cellar
+Wed Apr  1 09:08:48 2015	79	Johnny Williams	Don't Cha' Ever Forget It	n/a
+Wed Apr  1 09:11:34 2015	82	The Olympics	Baby, Do The Philly Dog	The Shotgun And The Duck
+Wed Apr  1 09:13:49 2015	80	Lynn Minor And His Band	Fat Back	n/a
+Wed Apr  1 09:16:44 2015	83	Marva Whitney	It's My Thing	n/a
+Wed Apr  1 09:19:31 2015	86	The Casuleers	You Betta' Be Sure	n/a
+Wed Apr  1 09:21:36 2015	85	The Dynamics	The I Need Your Love	Northern Soul Floorshakers!
+Wed Apr  1 09:24:14 2015	85	Yvonne Baker	Eyes	n/a
+Wed Apr  1 09:26:20 2015	86	Louis Curry	I'll Try Again Tomorrow	Sunset Soul Club- November 21, 2004
+Wed Apr  1 09:28:25 2015	88	Vernon Garrett	Shine It On	CD Club 2012 02- Hurt By Love
+Wed Apr  1 09:30:40 2015	89	Leon & The Metronomes	Catch You On The Rebound	Heartburn (Rooky Ricardo's Presents)
+Wed Apr  1 09:32:51 2015	87	Johnny Sayles	Hold My Own Baby	n/a
+Wed Apr  1 09:35:31 2015	85	Bunny Sigler	Can You Dig It	The Shotgun And The Duck
+Wed Apr  1 09:38:39 2015	85	The Interpretations	Soul Affection	n/a
+Wed Apr  1 09:40:39 2015	84	The Originals	Don't Stop Now	n/a
+Wed Apr  1 09:43:53 2015	83	Eddie Holman	This Can't Be True	The Cream Of Vintage Soul Vol. 1 (Disc 1)
+Wed Apr  1 09:46:42 2015	84	Jackie Ross	Honey Dear	n/a
+Wed Apr  1 09:48:57 2015	87	The Rance Allen Group	Ainyt No Need of Crying	n/a
+Wed Apr  1 09:52:37 2015	89	Charlie Ace	Don't Let The Sun Catch You Crying	n/a
+Wed Apr  1 09:55:15 2015	88	The Fat Albert Orchestra & Chorus	Hey, Hey, Hey	Sunset Soul Club- November 21, 2004
+Wed Apr  1 09:57:19 2015	86	Joe Hicks	Don't It make You Feel Funky	n/a
+Wed Apr  1 09:59:37 2015	90	The Dontells	Nothing But Nothing	n/a
+Wed Apr  1 10:01:30 2015	89	Johnny Maestro	Heartburn	Heartburn - A Rooky Ricardo's Mix
+Wed Apr  1 10:03:21 2015	89	Eddy Jacobs Exchange	Love (Your Pain Goes Deep)	n/a
+Wed Apr  1 10:06:21 2015	87	Belita Woods	That's When I'll Stop Loving You	n/a
+Wed Apr  1 10:09:31 2015	90	Norma Rudd	He's Mine	n/a
+Wed Apr  1 10:11:40 2015	91	The Vanguards	Somebody Please	Oldies Archive (090617)
+Wed Apr  1 10:15:22 2015	86	Roy Lee Johnson	Busy Body	n/a
+Wed Apr  1 10:17:57 2015	86	Kenny O'Dell	Unknown Territory	n/a
+Wed Apr  1 10:19:48 2015	85	Ralph Weeks	Let Me Do My Thing	n/a
+Wed Apr  1 10:23:30 2015	85	The Capprells	Close Your Eyes	n/a
+Wed Apr  1 10:26:27 2015	82	Timi Yuro	It'll Never Be Over For Me	n/a
+Wed Apr  1 10:29:20 2015	83	The Lost Generation	The Sly, Slick And The Wicked	n/a
+Wed Apr  1 10:32:02 2015	84	Norfolk	Don't Ask Me	n/a
+Wed Apr  1 10:35:34 2015	82	Fontella Bass	Recovery	Rescue Me
+Wed Apr  1 10:37:49 2015	81	Dee Clark	That's My Girl	Cooler Shakers!
+Wed Apr  1 10:40:20 2015	81	Dee Dee Sharp	Mashed Potato Time	Billboard Top 40 Singles from 1962
+Wed Apr  1 10:42:51 2015	81	Patti York	Where Were You	n/a
+Wed Apr  1 10:45:33 2015	80	Pat Lundy	Any Day Now	n/a
+Wed Apr  1 10:47:35 2015	79	Bit-O-Honey	Live In Maid	n/a
+Wed Apr  1 10:50:21 2015	78	The Ad Libs	Appreciation	Soul Archive (060701)
+Wed Apr  1 10:52:43 2015	80	Wayne Cochran	Harlem Shuffle	Chopper 70 / Harlem Shuffle (Single)
+Wed Apr  1 10:55:16 2015	77	Tony Michaels	I Love The Life I Live	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 10:58:31 2015	75	Rufus Wood	Before 2001	n/a
+Wed Apr  1 11:00:32 2015	76	Special Delivery	I Destroyed Your Love- Part 1	Oldies Archive (090617)
+Wed Apr  1 11:03:52 2015	77	Gladys Knight & The Pips	It Should Have Been Me	n/a
+Wed Apr  1 11:06:45 2015	78	Delores Hall	Good Lovin' Man	West Coast Winners: 24 Northern Soul Gems From the Sunny Side (Compilation)
+Wed Apr  1 11:09:16 2015	76	John Roberts	I'll Forget You	n/a
+Wed Apr  1 11:11:35 2015	81	Eugene Blacknell & The New Breed	Gettin Down	n/a
+Wed Apr  1 11:14:18 2015	81	Du-Ettes	Please Forgive Me	n/a
+Wed Apr  1 11:16:44 2015	81	Sister Sledge	Mama Never Told Me	n/a
+Wed Apr  1 11:19:47 2015	83	Ben E. King	What Can A Man Do	n/a
+Wed Apr  1 11:22:17 2015	79	21st Century	Your Smallest Wish	n/a
+Wed Apr  1 11:25:11 2015	77	Sam Rhodes	Shake Your Soul Honey	n/a
+Wed Apr  1 11:27:21 2015	80	The Esquires	Part Angel	n/a
+Wed Apr  1 11:29:52 2015	77	The Sensations	It's A New Day	n/a
+Wed Apr  1 11:32:33 2015	81	Tina Britt	Look	Boogaloo Babes
+Wed Apr  1 11:35:05 2015	79	Barbara Mercer	Nobody Loves You Like Me	n/a
+Wed Apr  1 11:37:34 2015	78	Brenda Parker	Help Me Find Mr. Good Man	n/a
+Wed Apr  1 11:40:50 2015	77	Edwin Starr	I Have Faith In You Baby	Soul Satisfaction 4 (Compilation)
+Wed Apr  1 11:42:59 2015	79	Fred Wesley & The J.B.'s	You Can Have Watergate Just Gimmie Some Bucks And I'll Be Strai	n/a
+Wed Apr  1 11:46:19 2015	78	Little Carl Carlton	Drop By My Place	Drop by My Place / Two Timer (Single)
+Wed Apr  1 11:49:24 2015	78	The Sweethearts	No More Tears	Sunset Soul Club- May 2, 2004
+Wed Apr  1 11:52:01 2015	77	The Valentinos	Somewhere There's A Girl	Looking for a Love (Single)
+Wed Apr  1 11:54:22 2015	74	Irene And The Scotts	I'm Stuck On My Baby	n/a
+Wed Apr  1 11:56:09 2015	75	Jeanette Williams	All Of A Sudden	Casino Classics Two (Compilation)
+Wed Apr  1 11:58:40 2015	71	Lou Courtney	Beware	n/a
+Wed Apr  1 12:01:50 2015	71	Jimmy Beaumont	You Got Too Much Going For You	24 Classic Northern Soul Floorpackers
+Wed Apr  1 12:04:31 2015	69	Bobby Reed	You Are	Were a Lover: Brunswick (Compilation)
+Wed Apr  1 12:06:58 2015	71	Al Greene	Don't Leave Me	Sunset Soul Club- May 2, 2004
+Wed Apr  1 12:08:57 2015	72	The Magnificent Men	Just Walk In My Shoes	Shrimpton CD
+Wed Apr  1 12:11:26 2015	72	The Sequins	A Case Of Love	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 12:13:35 2015	71	The Soul Toranodoes	Hot Pants Break Down	n/a
+Wed Apr  1 12:16:21 2015	70	Donnie Elbert	Can't Get Over Losing You	Oldies Archive (090617)
+Wed Apr  1 12:19:21 2015	71	The Casanova Two	We Got To Keep On	n/a
+Wed Apr  1 12:21:50 2015	73	The Miracles	Ooo Baby Baby	n/a
+Wed Apr  1 12:24:22 2015	69	New Holidays	Maybe So Maybe No	n/a
+Wed Apr  1 12:27:37 2015	69	T.J. Williams & Two Shades Of Soul	Baby, I Need You	n/a
+Wed Apr  1 12:30:24 2015	69	Bobby Sansom	Don't Leave Me (Baby Don't Go!)	n/a
+Wed Apr  1 12:32:45 2015	68	Barbara Randolph	Hurting All Over	n/a
+Wed Apr  1 12:35:17 2015	69	The Spinners	It's A Shame	Hitsville USA- The Motown Singles Collection 1959-1971
+Wed Apr  1 12:38:34 2015	69	Phil Flowers	Discontented	Soul Archive (120113)
+Wed Apr  1 12:40:39 2015	70	The Swinging Hearts	Please Say It Isn't So	n/a
+Wed Apr  1 12:43:15 2015	67	Harold Melvin & The Bluenotes	Prayin'	Contagious
+Wed Apr  1 12:47:14 2015	65	The Soul-Jers	Gonna Be A Big Man	Heartburn (Rooky Ricardo's Presents)
+Wed Apr  1 12:49:34 2015	64	Sonny Till	Tears & Misery	Northern Soul Floorshakers!
+Wed Apr  1 12:51:24 2015	66	Cheryl Williams	Everybody's Happy But Me	n/a
+Wed Apr  1 12:53:44 2015	67	Ruby Winters	Better	n/a
+Wed Apr  1 12:56:11 2015	66	The Incredibles	I Found Another Love	CD Club 2012 02- Hurt By Love
+Wed Apr  1 12:58:32 2015	70	Gene & Eddie	It's So Hard	n/a
+Wed Apr  1 13:00:59 2015	72	No No Starr	Pull Yourself Together	n/a
+Wed Apr  1 13:03:22 2015	71	The Themes	No Explanation Needed	n/a
+Wed Apr  1 13:05:35 2015	70	Bob Wilson	Suzy's Serenade	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 13:07:46 2015	69	The Cavaliers	Hold On To My Baby	Northern Soul Floorshakers!
+Wed Apr  1 13:10:16 2015	66	Brenda & The Tabulations	Stop Sneaking Around	Soul Archive (100516)
+Wed Apr  1 13:11:57 2015	68	Ann Sexton	You've Been Gone Too Long	Cooler Shakers!
+Wed Apr  1 13:14:17 2015	67	The Commodores	Rapid Fire	n/a
+Wed Apr  1 13:17:15 2015	65	Barbara & Brenda	A Special Kind Of Love	n/a
+Wed Apr  1 13:19:39 2015	67	The Velvelettes	A Bird In The Hand	n/a
+Wed Apr  1 13:22:22 2015	68	J. J. Barnes	Real Humdinger	Heartburn - A Rooky Ricardo's Mix
+Wed Apr  1 13:24:59 2015	67	Sugar Pie De Santo	She's Got Everything	Soul Soul Soul Vol. 1
+Wed Apr  1 13:27:23 2015	68	The 5th Dimension	Too Poor To Die	Soul Archive (090828)
+Wed Apr  1 13:29:55 2015	66	Bobby Byrd	We're In Love	Bobby Byrd Got Soul: The Best of Bobby Byrd (Compilation)
+Wed Apr  1 13:32:36 2015	67	The Shells	Whiplash	Whiplash / When I'm Blue (Single)
+Wed Apr  1 13:34:55 2015	67	Gene Chandler	Buddy, Ain't It A Shame	Sunset Soul Club- November 21, 2004
+Wed Apr  1 13:37:28 2015	68	Miss Madeline	Behave Yourself	n/a
+Wed Apr  1 13:39:53 2015	69	Harold Burrage	Got To Find A Way	n/a
+Wed Apr  1 13:42:51 2015	75	The O'Jays	I'll Be Sweeter Tomorrow	The Ultimate Collection (Compilation)
+Wed Apr  1 13:45:50 2015	70	Jimmy Ruffin	Living In A World I Created For Myself	n/a
+Wed Apr  1 13:48:57 2015	71	Al Reed	99 44/100 Pure Love	n/a
+Wed Apr  1 13:51:30 2015	69	Benny Latimore	It's Just A Matter Of Time	n/a
+Wed Apr  1 13:54:21 2015	70	Martha & The Vandellas	Show Me The Way	Soul Archive (070224)
+Wed Apr  1 13:56:47 2015	71	Ricky Allen	Nothing In The World Can Hurt Me (Except You)	n/a
+Wed Apr  1 13:58:50 2015	70	Gene Kadoe	Mary Ann	n/a
+Wed Apr  1 14:01:37 2015	67	Jr. Walker & The All Stars	What Does It Take (To Win Your Love)	n/a
+Wed Apr  1 14:03:48 2015	68	Tina Britt	Sookie, Sookie	Blue All the Way
+Wed Apr  1 14:06:36 2015	69	Billy Strange	The James Bond Theme	Secret Agent File
+Wed Apr  1 14:08:39 2015	67	Donald Jenkins & The Delighters	Adios (My Love)	n/a
+Wed Apr  1 14:10:50 2015	67	The Minits	Take A Look At Yourself	n/a
+Wed Apr  1 14:13:15 2015	66	Jackie Wilson	You Showed Me How To Be Happy	n/a
+Wed Apr  1 14:15:57 2015	64	Bessie Jones	No More Tears	n/a
+Wed Apr  1 14:17:42 2015	62	James & Bobby Purify	Wish You Didn't Have To Go	James &amp; Bobby Purify
+Wed Apr  1 14:19:45 2015	59	Bobby Fuller Five	The Magic Touch	Soul Archive (100516)
+Wed Apr  1 14:22:41 2015	62	7th Avenue Aviators	You Should O Held On	24 Classic Northern Soul Floorpackers
+Wed Apr  1 14:25:25 2015	61	Isaac Hayes	Walk On By	Hot Buttered Soul
+Wed Apr  1 14:29:51 2015	58	The D C Playboys	You Were All I Need	n/a
+Wed Apr  1 14:32:01 2015	59	Eddie Holman	Eddie's My Name	Soul Archive (090728)
+Wed Apr  1 14:34:50 2015	58	The Festivals	Baby Show It	n/a
+Wed Apr  1 14:37:32 2015	58	Loraine Chandler	What Can I Do	n/a
+Wed Apr  1 14:40:12 2015	58	Elijah And The Ebonies	Sock It To 'Em Soul Brother	n/a
+Wed Apr  1 14:42:20 2015	56	Emanual Laskey	I'm Peace Loving Man	n/a
+Wed Apr  1 14:44:48 2015	57	Al Green	I'm Glad You're Mine	I'm Still In Love With You
+Wed Apr  1 14:47:48 2015	55	Jimmy `Soul` Clark	Take A Little Time To Tell Her	n/a
+Wed Apr  1 14:49:55 2015	55	King Coleman	Hang It Up	n/a
+Wed Apr  1 14:52:37 2015	55	Latin Breed	I Turn You On	n/a
+Wed Apr  1 14:54:48 2015	56	Edwin Starr	Love Is My Destination	n/a
+Wed Apr  1 14:57:44 2015	54	The Floaters	Everything Happens For A Reason	n/a
+Wed Apr  1 15:01:31 2015	53	Sweet Berry	Don't Let Go	n/a
+Wed Apr  1 15:05:45 2015	49	Jimmy Jones	Time And Changes	n/a
+Wed Apr  1 15:08:49 2015	48	Wilson Pickett	I'll Never Be The Same	n/a
+Wed Apr  1 15:11:17 2015	49	The Caesars	(Lala) I Love You	n/a
+Wed Apr  1 15:14:31 2015	52	The Sharks	Don't Fool Me	n/a
+Wed Apr  1 15:16:59 2015	52	Laura Lee	If I'm Good Enough To Love (I'm Good Enough To Marry	n/a
+Wed Apr  1 15:20:35 2015	52	Rosa Lee Brooks	My Diary	n/a
+Wed Apr  1 15:22:56 2015	53	Tarheel Slim and Little Ann	It's Too Late	n/a
+Wed Apr  1 15:25:37 2015	53	The Falcons	Standing On Guard	Eighteen With A Bullet
+Wed Apr  1 15:28:19 2015	53	Lady	Money (Instrumental)	n/a
+Wed Apr  1 15:31:50 2015	55	Johnny Sayles	I Cant Get Enough	24 Classic Northern Soul Floorpackers
+Wed Apr  1 15:34:21 2015	57	Jimmy Lewis	One Love	n/a
+Wed Apr  1 15:36:18 2015	57	The Brothers Two	I'm Tired Of You Baby	n/a
+Wed Apr  1 15:38:43 2015	57	Etta James	Something's Got A Hold On Me	The Chess 50th Anniversary Collection
+Wed Apr  1 15:41:16 2015	58	Junior Wells	Junior's Groove	n/a
+Wed Apr  1 15:43:27 2015	61	Inez & Charlie Foxx	(1-2-3-4-5-6-7) Count The Days	n/a
+Wed Apr  1 15:46:01 2015	61	Willie Hutch	Love Runs Out	24 Classic Northern Soul Floorpackers
+Wed Apr  1 15:48:37 2015	61	The Kittens	Ain't No More Room	Just Keep On Dancing  Chess Northern Soul
+Wed Apr  1 15:50:54 2015	61	Sandy Wynns	A Touch Of Venus	24 Classic Northern Soul Floorpackers
+Wed Apr  1 15:53:30 2015	60	Syl Johnson	Don't do it	n/a
+Wed Apr  1 15:55:58 2015	58	The Soul Sisters	Just A Moment Ago	n/a
+Wed Apr  1 15:58:33 2015	63	Jasper Woods	Hully Gully Papa	n/a
+Wed Apr  1 16:00:46 2015	62	Mel Brown	Chicken Fat	n/a
+Wed Apr  1 16:03:15 2015	59	Brenda Holloway	Every Little Bit Hurts	Hitsville USA- The Motown Singles Collection 1959-1971
+Wed Apr  1 16:05:57 2015	57	Earnest Jackson	Love And Hapiness	n/a
+Wed Apr  1 16:10:34 2015	58	Bobby Treetop	So Sweet So Satisfyin'	Soul Archive (090626)
+Wed Apr  1 16:13:19 2015	57	Bobby Bland	Sweet Lips of Joy	n/a
+Wed Apr  1 16:15:41 2015	59	Hank Ballard And His Midnighters	These Young Girls	n/a
+Wed Apr  1 16:18:32 2015	59	Innervision	Gotta' Find A Way To Get Back Home	n/a
+Wed Apr  1 16:21:45 2015	58	Jimmy Ricks	Wigglin' and Gigglin'	n/a
+Wed Apr  1 16:24:06 2015	56	Larry & The Larks	Tell Me	Sunset Soul Club- November 21, 2004
+Wed Apr  1 16:26:45 2015	59	The Temptations	Get Ready	Gettin' Ready
+Wed Apr  1 16:29:17 2015	57	Rosie Lopez	Too Hot To Hold	n/a
+Wed Apr  1 16:31:29 2015	58	John Roberts	To Be My Girl	n/a
+Wed Apr  1 16:34:16 2015	53	The Sheppards	Pretend You're Still Mine	n/a
+Wed Apr  1 16:36:33 2015	55	Cicero Blake	See What Tomorrow Brings	n/a
+Wed Apr  1 16:38:49 2015	54	Skull Snaps	All Of A Sudden	n/a
+Wed Apr  1 16:42:13 2015	52	Fusik	Amen Sister	n/a
+Wed Apr  1 16:45:54 2015	52	Jackie Wilson	The Who Who Song	Soul Archive (120420)
+Wed Apr  1 16:48:41 2015	50	Chris Clark	Do I Love You (Indeed I Do)	Soul Archive (090828)
+Wed Apr  1 16:51:15 2015	50	The Dontells	In Your Heart (You Know I'm Right)	n/a
+Wed Apr  1 16:52:56 2015	50	`Doc` & The Interns	We Can Work It Out	n/a
+Wed Apr  1 16:55:54 2015	50	Mack Rice	Coal Man	n/a
+Wed Apr  1 16:58:19 2015	49	Jean Wells	The Best Thing For You Baby	n/a
+Wed Apr  1 17:00:48 2015	49	Beginning Of The End	That's What I Get	n/a
+Wed Apr  1 17:05:15 2015	51	Southwind Symphony	Coming Home	Glolite 45rpm
+Wed Apr  1 17:07:45 2015	52	Pat Hunt	Super Cool (You're Just A Super Fool)	Sound Of Funk VII (Compilation)
+Wed Apr  1 17:09:44 2015	52	The Capitols	Don't Say Maybe Baby	Fueled by Red Stripe
+Wed Apr  1 17:12:02 2015	51	Lee Rogers	Love Bandit	n/a
+Wed Apr  1 17:14:18 2015	51	The Martinels	Baby, Think It Over	n/a
+Wed Apr  1 17:16:42 2015	48	Harold Burrage	More Power To You	n/a
+Wed Apr  1 17:18:57 2015	49	Clay Hammond	My Jealous Girl	n/a
+Wed Apr  1 17:21:30 2015	47	Watson & The Sherlocks	Standing On A Corner	n/a
+Wed Apr  1 17:23:38 2015	46	Little Tommy	Baby Can't You See	n/a
+Wed Apr  1 17:26:14 2015	48	Senor Soul	Some Got It, Some Don't	It's Your Thing
+Wed Apr  1 17:28:33 2015	47	Porgy & The Monarchs	That Girl	Cooler Shakers!
+Wed Apr  1 17:30:34 2015	50	The Crescents	That's All She Left Me	Dead End Kids (Rooky's Presents More R&B)
+Wed Apr  1 17:32:41 2015	48	Jimmy Radcliffe	Long After Tonight Is All Over	Cooler Shakers!
+Wed Apr  1 17:34:56 2015	48	The Valentinos	Breakaway	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 17:37:26 2015	47	Jimmy Delphs	I've Been Fooled Before	Detroit: The Northern Soul Years (Compilation)
+Wed Apr  1 17:39:35 2015	48	Chollo	Latin Soul Drive Is Here	n/a
+Wed Apr  1 17:42:45 2015	48	The Festivals	I'll Always Love You	n/a
+Wed Apr  1 17:44:47 2015	48	Robby Fortson	Are You For Real	Hipshakin' Volume
+Wed Apr  1 17:46:47 2015	50	Roscoe Robinson	My Pride Won't Let Me	n/a
+Wed Apr  1 17:49:36 2015	51	Soul Runners	Spreadin' Honey	Grits 'N Cornbread / Spreadin' Honey (Single)
+Wed Apr  1 17:51:50 2015	49	Jocelyne	Nitty Gritty	Sunset Soul Club- November 21, 2004
+Wed Apr  1 17:54:16 2015	50	Phil Terrell	I'll Erase You (From My Heart)	n/a
+Wed Apr  1 17:56:31 2015	48	The Parliaments	Don't Be Sore At Me	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 17:58:42 2015	46	Fred Hughes	As Long As We're Together	n/a
+Wed Apr  1 18:01:17 2015	46	Candy & The Kisses	The 81	The Shotgun And The Duck
+Wed Apr  1 18:03:39 2015	47	The Masqueraders	I Ain't Got Nobody Else	Eighteen With A Bullet
+Wed Apr  1 18:06:24 2015	46	Jackie Dorsey	Lovely Situation	n/a
+Wed Apr  1 18:08:46 2015	47	The Capprells	Walk On By	n/a
+Wed Apr  1 18:12:57 2015	47	The Delfonics	Ready Or Not	Eighteen With A Bullet
+Wed Apr  1 18:14:53 2015	49	The Enchanters	A Fool Like Me	n/a
+Wed Apr  1 18:18:33 2015	49	The Friends of Distinction	Easy Evil	n/a
+Wed Apr  1 18:22:16 2015	50	The O'Jays	Looky Looky	n/a
+Wed Apr  1 18:24:43 2015	47	Preludes	Shiggy Diggy	Groovin At The Go Go
+Wed Apr  1 18:27:15 2015	48	LaShawn Collins	What You Gonna Do Now	n/a
+Wed Apr  1 18:29:48 2015	48	Paul Kelly	Chills and Fever	n/a
+Wed Apr  1 18:31:36 2015	48	Lloyd Williams	I'm In Love With You	n/a
+Wed Apr  1 18:34:16 2015	48	The Larks	I Want Her To Love Me	Dead End Kids (Rooky's Presents More R&B)
+Wed Apr  1 18:37:15 2015	49	Barbara Mason	Ain't Got Nobody	n/a
+Wed Apr  1 18:39:21 2015	49	The Five Stairsteps	Playgirl's Love	Greatest Hits (Compilation)
+Wed Apr  1 18:41:27 2015	48	True Movement	What A Lovely Way To Meet	n/a
+Wed Apr  1 18:45:15 2015	52	The Superlatives	I Don't Know How To Say I Love You	The Westbound Sound of Detroit: Sensational Motor City Groups 1969-75 (Compilation)
+Wed Apr  1 18:47:30 2015	50	Jr. Walker & The All Stars	Shotgun	The Shotgun And The Duck
+Wed Apr  1 18:50:32 2015	52	Sonny Knight & The Lakers	Sugar Man	n/a
+Wed Apr  1 18:53:33 2015	50	Marvin Gaye	Got To Give It Up Part 1	n/a
+Wed Apr  1 18:57:36 2015	55	Monique	If You Love Me, Show Me	Hipshakin' Volume
+Wed Apr  1 18:59:42 2015	54	The Olympics	The Bounce	Something Old, Something New
+Wed Apr  1 19:02:17 2015	51	Tower Of Power	So Very Hard To Go	n/a
+Wed Apr  1 19:05:38 2015	51	Carolyn Franklin	If You Want Me	n/a
+Wed Apr  1 19:08:31 2015	49	The Dynamics	The Love That I Need	n/a
+Wed Apr  1 19:10:47 2015	50	Tina Britt	I Found A New Love	n/a
+Wed Apr  1 19:13:12 2015	48	C And The Shells	You Are The Circus	n/a
+Wed Apr  1 19:15:55 2015	47	James Crawford	Honest I Do	Soul Archive (060701)
+Wed Apr  1 19:18:24 2015	46	The Ovations	They Say	Goldwax Northern Soul
+Wed Apr  1 19:20:13 2015	47	The Dramatics	Inky Dinky Wang Dang Doo	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 19:22:47 2015	48	The Marvellos	Why Do you Want To Hurt The One Who Loves You	Soul Archive (100828)
+Wed Apr  1 19:25:26 2015	48	Timothy Wilson	Cross My Heart	n/a
+Wed Apr  1 19:29:14 2015	47	Marvin Gaye & Tammi Terrell	You're All I Need To Get By	n/a
+Wed Apr  1 19:31:47 2015	49	Jimmy Robbins	I Can't Please You	Sunset Soul Club- Vol. 1
+Wed Apr  1 19:34:15 2015	50	Dell Ingrid	Pt. 1	n/a
+Wed Apr  1 19:36:59 2015	47	Freddie Scott	(You) Got What I Need	Forever My Darling (Pledging My Love) / (You) Got What I Need (Single)
+Wed Apr  1 19:39:35 2015	47	Al Gardner	Sweet Baby	n/a
+Wed Apr  1 19:42:12 2015	45	Fred Wesly & The J.B.'s	Damn Right I Am Somebody (Part 1)	n/a
+Wed Apr  1 19:45:31 2015	44	The Valdons	Stop, Wait A Minute Girl	n/a
+Wed Apr  1 19:47:28 2015	45	Bobby Womack	California Dreamin'	n/a
+Wed Apr  1 19:50:47 2015	45	Dee Dee Warwick	Gotta Get A Hold Of Myself	n/a
+Wed Apr  1 19:53:30 2015	44	Johnny Otis Show	Watts Breakaway	Blow Up A Go-Go
+Wed Apr  1 19:55:55 2015	45	5 Degrees Fahrenheit	Vibrations	n/a
+Wed Apr  1 19:58:30 2015	44	The Mylestones	Love Me Girl	n/a
+Wed Apr  1 20:01:14 2015	46	The Jackson 5	The Young Folks	n/a
+Wed Apr  1 20:04:28 2015	46	Jack Montgomery	Dearly Beloved	Cooler Shakers!
+Wed Apr  1 20:06:50 2015	46	Big Daddy Rucker	Jealous Man	n/a
+Wed Apr  1 20:09:23 2015	45	The Van Dykes	I've Got To Go On Without You	Oldies Archive (100521)
+Wed Apr  1 20:12:14 2015	45	The Eight Minutes	Here's Some Dances	n/a
+Wed Apr  1 20:14:51 2015	45	James & Bobby Purify	Shake A Tail Feather	Chigger Please!
+Wed Apr  1 20:16:53 2015	46	Clarence Reid	Part Time Lover	n/a
+Wed Apr  1 20:18:53 2015	45	The Exciters	Blowing Up My Mind	Northern Soul Floorshakers!
+Wed Apr  1 20:21:37 2015	46	Barbara Lewis	Spend A Little Time	n/a
+Wed Apr  1 20:24:36 2015	44	The Jive Turkeys	B.A.	n/a
+Wed Apr  1 20:28:23 2015	46	Al Wilson	Show and Tell	Show And Tell (Digitally Remastered)
+Wed Apr  1 20:31:41 2015	47	Earl Van Dyke & The Motown Brass	There Is No Greater Love	The Motown Sound
+Wed Apr  1 20:33:55 2015	48	Alex Brown	Love Really Hurts Without You	n/a
+Wed Apr  1 20:36:48 2015	45	Robert & Johnny	Brown, Pretty Brown Eyes	n/a
+Wed Apr  1 20:39:47 2015	44	Alvin Cash & The Crawlers	The Bump	Soul Archive (091008)
+Wed Apr  1 20:42:21 2015	44	Pat Lewis	Look What I Almost Missed	n/a
+Wed Apr  1 20:44:55 2015	44	Jimmy Ruffin	Maria (You Were The Only One)	n/a
+Wed Apr  1 20:47:58 2015	43	Eric Burdon And The Animals	Help Me Girl	Eric Is Here
+Wed Apr  1 20:50:31 2015	43	The Geminis	A Friend Of Mine	n/a
+Wed Apr  1 20:53:15 2015	44	Gloria Gaynor	She'll Be Sorry	n/a
+Wed Apr  1 20:55:39 2015	44	The Capprells	I Believe In The Stars	n/a
+Wed Apr  1 20:59:51 2015	43	The Gaylettes	You're My Kind of Man	n/a
+Wed Apr  1 21:03:01 2015	42	Nella Dodds	Honey Boy	Big City Soul, Volume 4: The Scepter, Wand, Musicor, Dynamo &amp; Subsidiaries Story (Compilation)
+Wed Apr  1 21:05:24 2015	44	Lattimore Brown	Sweet Desiree	n/a
+Wed Apr  1 21:07:48 2015	41	Joan Moody	Don't Do Me That Way	Soul For Sale Vol. 1
+Wed Apr  1 21:10:01 2015	43	Billy Thompson	Black Eyed Girl	Cooler Shakers!
+Wed Apr  1 21:11:50 2015	42	Jesse James	At Last	Versatility
+Wed Apr  1 21:15:18 2015	44	Bobby Pickett	The Humpty Dumpty	n/a
+Wed Apr  1 21:17:14 2015	45	Harold Melvin & The Blue Notes	Big Singing Star	n/a
+Wed Apr  1 21:20:40 2015	45	Walkin' Willie	Do You Still Love Me	n/a
+Wed Apr  1 21:23:04 2015	44	T-K-O's	The Charge	n/a
+Wed Apr  1 21:25:42 2015	44	Betty Adams	Make It Real (Ride On)	n/a
+Wed Apr  1 21:28:31 2015	45	The Larks	The Jerk	Cool Jerk / The Jerk (Single)
+Wed Apr  1 21:31:13 2015	42	Neil Dover	Mr. Bus Driver	n/a
+Wed Apr  1 21:33:14 2015	42	Connie Laverne	Can't Live Without You	n/a
+Wed Apr  1 21:35:50 2015	42	The Isley Brothers	Don't Give It Away	n/a
+Wed Apr  1 21:38:44 2015	43	The Lost Generation	You're So Young But You're True	Soul Archive (091025)
+Wed Apr  1 21:41:07 2015	42	Evaline	Think You Better Leave	n/a
+Wed Apr  1 21:43:14 2015	44	Bobby McClure	Love Trap	n/a
+Wed Apr  1 21:45:54 2015	43	Prince Walker & The Tracers	It's All In Your Mind	n/a
+Wed Apr  1 21:48:35 2015	46	The Matadors	Say Yes Baby	Heartburn (Rooky Ricardo's Presents)
+Wed Apr  1 21:51:16 2015	47	Brothers Of Soul	I Guess That Don't Make Me A Loser	n/a
+Wed Apr  1 21:54:01 2015	43	The Preparations	Get-E-Up (The Horse)	The Shotgun And The Duck
+Wed Apr  1 21:56:02 2015	42	Cash McCall	When You Wake Up	n/a
+Wed Apr  1 21:58:29 2015	41	Mongo Santamaria	See-Saw	Stone Soul
+Wed Apr  1 22:01:54 2015	42	Bar-Kays	Give Everybody Some	The Complete Stax-Volt Singles 1959-1968 [Disc 8]
+Wed Apr  1 22:04:22 2015	41	Shirley Wahls	Why Am I Crying	King Northern Soul
+Wed Apr  1 22:06:32 2015	41	Thelma Jones	Never Leave Me	n/a
+Wed Apr  1 22:08:52 2015	41	International GTOs	I Love My Baby	n/a
+Wed Apr  1 22:11:26 2015	41	Eddy Senay	Ain't No Sunshine	n/a
+Wed Apr  1 22:14:29 2015	40	Linda Jones	Hypnotized	Oldies Archive (100521)
+Wed Apr  1 22:17:11 2015	40	The Endeavors	Who! Shaft Where?	n/a
+Wed Apr  1 22:20:28 2015	41	The Hesitations	Soul Superman	n/a
+Wed Apr  1 22:22:36 2015	41	The Unsisputed Truth	You Got The Love I Need	Soul Archive (120218)
+Wed Apr  1 22:25:28 2015	41	Prophets	I Got The Fever	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Wed Apr  1 22:28:30 2015	40	Eddie Bo	Hook And Sling-Part 1	n/a
+Wed Apr  1 22:30:56 2015	40	Bobby Moore	Searching For My Baby	Oldies Archive (100521)
+Wed Apr  1 22:33:29 2015	43	Junior McCants	The Boy Needs A Girl	King Northern Soul
+Wed Apr  1 22:35:48 2015	43	The Diplomats	Love Ain't What It Used To Be	Soul Archive (100516)
+Wed Apr  1 22:38:30 2015	42	The Shirelles	No Doubt About It	Soulfully Yours (Compilation)
+Wed Apr  1 22:41:06 2015	44	Herb Ward	Strange Chance	n/a
+Wed Apr  1 22:43:28 2015	43	Jackie Wilson	Higher And Higher	Sixty Hits of the 60s
+Wed Apr  1 22:46:17 2015	38	The La-Rells	I Guess I'll Never Stop Loving You	n/a
+Wed Apr  1 22:48:43 2015	39	Tina Britt	Who Was That	Sunset Soul Club- November 21, 2004
+Wed Apr  1 22:51:24 2015	39	Monk Higgins	Creatrix Did It	n/a
+Wed Apr  1 22:54:29 2015	40	Christine Kittrell	Call His Name	King Northern Soul
+Wed Apr  1 22:57:13 2015	40	Chuck Jackson	Somebody New	CD Club 2012 02- Hurt By Love
+Wed Apr  1 22:58:55 2015	40	Carlton Brasco	Don't Chain My Soul	n/a
+Wed Apr  1 23:01:33 2015	41	Chuck Bernard	Every Hurt Makes You Stronger	Soul Archive (060701)
+Wed Apr  1 23:04:14 2015	44	Soul Survivors	Mission Impossible	n/a
+Wed Apr  1 23:06:18 2015	44	Prince Gino & The Tailomades	Brand New Man With The Master Plan (Part 2)	n/a
+Wed Apr  1 23:10:29 2015	43	Ramsey Lewis	Slipping In To Darkness (LP Version)	n/a
+Wed Apr  1 23:16:37 2015	44	The Lost Souls	If It Don't Work Out	n/a
+Wed Apr  1 23:18:46 2015	43	Percy Wiggins	It Didn't Take Much (For Me To Fall In Love)	Northern Soul Floorshakers!
+Wed Apr  1 23:21:21 2015	45	Bobby Hebb	Love Me	Hey! Look What I Found, Volume 10 (Compilation)
+Wed Apr  1 23:23:31 2015	44	Connie Tanzell	I Want Her By My Side	n/a
+Wed Apr  1 23:25:57 2015	40	Carol Grimes	Number One	n/a
+Wed Apr  1 23:28:55 2015	39	Chacon	Chacon Pata Pata	n/a
+Wed Apr  1 23:32:30 2015	40	Timmy Thomas	Why Can't We Live Together	Why Can't We Live Together
+Wed Apr  1 23:35:36 2015	40	Black Ivory	What Goes Around (Comes Around)	n/a
+Wed Apr  1 23:40:49 2015	40	The Volumes	The Way To Love You	n/a
+Wed Apr  1 23:43:17 2015	41	Eric Williams	I'll Give My Love To You	n/a
+Wed Apr  1 23:46:00 2015	43	The Supremes	Stoned Love	Hitsville USA- The Motown Singles Collection 1959-1971
+Wed Apr  1 23:48:55 2015	42	Andre Williams	You Got It	n/a
+Wed Apr  1 23:51:14 2015	42	John Roberts	Be My Baby	n/a
+Wed Apr  1 23:53:26 2015	41	Jomo	Hangin' Out	n/a
+Wed Apr  1 23:55:43 2015	41	Hetti Lloyd	Grief, Sorry, Pain & Woe	n/a
+Wed Apr  1 23:58:56 2015	42	Nancy Wilson	The End Of Our Love	CD Club 2012 02- Hurt By Love
+Thu Apr  2 00:01:24 2015	44	Roscoe Shelton	Running For My Life	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Thu Apr  2 00:03:34 2015	43	The O'Jays	Time To Get Down	n/a
+Thu Apr  2 00:06:30 2015	45	Gerri Diamond	Give Up On Love	Sunset Soul Club- November 21, 2004
+Thu Apr  2 00:09:29 2015	45	Jimmy Robbins	I Can't Please You	Sunset Soul Club- Vol. 1
+Thu Apr  2 00:11:52 2015	45	James Brown	Super Bad (Part 1 & Part 2)	n/a
+Thu Apr  2 00:15:53 2015	43	The Falcons	Love Look In Her Eyes	Mr. Fine Wine's Detroit Soul (2003 WFMU Marathon premium) (Compilation)
+Thu Apr  2 00:18:48 2015	45	God's Gift To Women	Stop To Think It Over	n/a
+Thu Apr  2 00:23:35 2015	44	L.B. Wilson	Don't	n/a
+Thu Apr  2 00:25:51 2015	44	Betty Lavette	Let Me Down Easy	Soul Anthology: A Retrospective of Smooth n' Funky Soul Grooves (Compilation)
+Thu Apr  2 00:28:52 2015	45	Jackie Lee	Would You Believe	Sunset Soul Club- Vol. 1
+Thu Apr  2 00:31:46 2015	45	Little Francisco Greaves	Hiko-Iko	n/a
+Thu Apr  2 00:34:30 2015	44	Bill Pinkney	Don't Call Me	n/a
+Thu Apr  2 00:36:49 2015	42	Oscar Weathers	The Spoiler	n/a
+Thu Apr  2 00:39:47 2015	43	Rance Allen Group	There's Gonna' Be A Showdown	n/a
+Thu Apr  2 00:42:29 2015	44	Jerry O	Karate-Boo-Ga-Loo	Sunset Soul Club- Vol. 1
+Thu Apr  2 00:44:58 2015	43	Little Johnny Taylor	Somewhere Down The Line	Somewhere Down the Line / What You Need is a Ball
+Thu Apr  2 00:47:04 2015	46	Candi Staton	Blackmail	n/a
+Thu Apr  2 00:50:00 2015	48	Boris Gardiner	Let's Stay Together	Friends and Lovers
+Thu Apr  2 00:53:13 2015	46	Bobby Freeman	C'mon And Swim	The Shotgun And The Duck
+Thu Apr  2 00:55:42 2015	47	Ray Barretto	A Deeper Shade Of Soul	n/a
+Thu Apr  2 00:57:45 2015	49	Honey & The Bees	Love Can Turn To Hate	n/a
+Thu Apr  2 01:00:20 2015	49	Paul Martin	Don't Hustle Me	n/a
+Thu Apr  2 01:02:56 2015	50	Sharon Scott	Could It Be You?	Northern Soul Floorshakers!
+Thu Apr  2 01:04:58 2015	55	The Three Souls	Dangerous Dan Express	Shrimpton CD
+Thu Apr  2 01:07:48 2015	53	Johnny Moore	It May Be Tears Of Joy	n/a
+Thu Apr  2 01:10:12 2015	54	Robert & Johnny	A Perfect Wife	n/a
+Thu Apr  2 01:12:34 2015	57	Jimmy Merchant	Skin The Cat	Shakin' Fit! (Compilation)
+Thu Apr  2 01:15:15 2015	56	Brenton Wood	Sweet Molly Malone	Soul Archive (130927)
+Thu Apr  2 01:17:13 2015	57	Darrow Fletcher	What Good Am I Without You	n/a
+Thu Apr  2 01:19:29 2015	55	The Ambassadors	Good Love Bad Love	n/a
+Thu Apr  2 01:22:19 2015	54	Darrell Banks	Open The Door To Your Heart	Hard To Find 45's On CD Sweet Soul Sounds
+Thu Apr  2 01:24:34 2015	54	Exit 9	Jive Man	n/a
+Thu Apr  2 01:29:37 2015	58	Lou Pride	I'm Comin' Home In The Morning	n/a
+Thu Apr  2 01:32:46 2015	60	Cliff Nobles & Co.	Gettin' Away	CD Club 2012 02- Hurt By Love
+Thu Apr  2 01:35:21 2015	61	Buddy Ace	Nothing In The World Can Hurt Me	n/a
+Thu Apr  2 01:37:32 2015	58	Bobby Taylor	Oh, I've Been Bless'd	n/a
+Thu Apr  2 01:40:27 2015	62	The Dynamic Tints	Falling In Love	n/a
+Thu Apr  2 01:42:57 2015	62	Freddie Hughes	Where's My Baby	n/a
+Thu Apr  2 01:45:38 2015	63	Fontella Bass	Honey Bee	n/a
+Thu Apr  2 01:47:46 2015	64	Barbara Mason	Yes, It's You	n/a
+Thu Apr  2 01:50:32 2015	63	The Bobbettes	Bad Thing To Know	n/a
+Thu Apr  2 01:53:16 2015	62	The Jelly Beans	You Don't Mean Me No Good	Sunset Soul Club- November 21, 2004
+Thu Apr  2 01:55:12 2015	64	Bobby Patterson	I'm In Love With You	Sunset Soul Club- May 2, 2004
+Thu Apr  2 01:57:55 2015	64	Linda Lydell	Here I Am	n/a
+Thu Apr  2 01:59:55 2015	64	Brown Brothers of Soul	Poquito Soul	Cholo / Poquito Soul (Single)
+Thu Apr  2 02:01:51 2015	64	Jeanette Williams	You Didn't Know Then	n/a
+Thu Apr  2 02:04:22 2015	64	Rose Valentine	I've Gotta Know Right Now	Northern Soul Floorshakers!
+Thu Apr  2 02:07:11 2015	65	The Friends of Distinction	Ain't No Woman (Like The One I've Got)	n/a
+Thu Apr  2 02:10:15 2015	64	The Vibrating Vibrations	Surprise Party For Baby	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Thu Apr  2 02:12:32 2015	63	The Supremes	There's No Stopping Us Now	n/a
+Thu Apr  2 02:15:46 2015	60	The Eddy Jacobs Exchange	Pull My Coat	n/a
+Thu Apr  2 02:18:18 2015	61	Freddie Gorman	In A Bad Way	n/a
+Thu Apr  2 02:21:12 2015	60	Little Sonny	We Got A Groove	n/a
+Thu Apr  2 02:23:12 2015	62	Shorty Long	Here Comes The Judge	n/a
+Thu Apr  2 02:26:11 2015	66	The Volumes	Maintain Your Cool	Bigtop Soul Cellar
+Thu Apr  2 02:27:48 2015	65	Ohio Players	Love Slipped Through My Fingers	Cooler Shakers!
+Thu Apr  2 02:30:02 2015	64	King Kurtis	Green Onions	n/a
+Thu Apr  2 02:32:23 2015	63	Ruby Andrews	You Made A Believer (Out Of Me)	Black Ruby
+Thu Apr  2 02:34:32 2015	62	Cindy Scott	I've Been Loving You Too Long	n/a
+Thu Apr  2 02:37:28 2015	60	Aretha Franklin	Two Sides Of Love	n/a
+Thu Apr  2 02:39:38 2015	60	Dee Dee Warwick	Foolish Fool	Soulsugar, Volume 3 (Compilation)
+Thu Apr  2 02:42:52 2015	60	The Fuzz	I Love You For All Seasons	Sisters of Soul; the Sweeter Voices of Soul
+Thu Apr  2 02:45:50 2015	60	Carl Hall	Is Your Love Going Or Growing	Heartburn - A Rooky Ricardo's Mix
+Thu Apr  2 02:47:59 2015	61	The Stoppers	Come Back Baby	n/a
+Thu Apr  2 02:50:36 2015	61	King Diamond	That's All She Wrote	n/a
+Thu Apr  2 02:52:42 2015	63	The O'Jays	Standing In For Love	Eighteen With A Bullet
+Thu Apr  2 02:55:46 2015	61	Jesse James	I Know I'll Never Find Another	n/a
+Thu Apr  2 02:58:01 2015	60	The Major IV	Sugar Pie	Soul Archive (130529)
+Thu Apr  2 03:01:01 2015	59	The Possee	You Better Come On Out And Play	n/a
+Thu Apr  2 03:04:16 2015	59	Brothers Of Soul	I'd Be Grateful	n/a
+Thu Apr  2 03:06:15 2015	58	Sam Dees	Lonely For You Baby	Cooler Shakers!
+Thu Apr  2 03:08:53 2015	58	Five Flights Up	Black Cat	n/a
+Thu Apr  2 03:11:20 2015	58	Jimmy Ruffin	Falling In Love With You	n/a
+Thu Apr  2 03:14:18 2015	59	Bobby Hebb	Love Love Love	Fueled by Red Stripe
+Thu Apr  2 03:17:05 2015	59	Jean Wells	Somebody's Been Loving You (But It Ain't Me)	n/a
+Thu Apr  2 03:19:20 2015	59	Watts Line	Never Stop Loving Me	n/a
+Thu Apr  2 03:22:31 2015	62	Chuck Jackson	Millionaire	n/a
+Thu Apr  2 03:24:18 2015	63	Jr. Walker & The All Stars	Twist Lackawanna	Nothin' but Soul (disc 1)
+Thu Apr  2 03:26:32 2015	63	Lou Johnson	Magic Potion	Soul Archive (130330)
+Thu Apr  2 03:28:43 2015	62	Doris Troy	What'cha Gonna Do About It	n/a
+Thu Apr  2 03:30:27 2015	64	Pete Wingfield	Eighteen With A Bullet	Eighteen With A Bullet
+Thu Apr  2 03:33:50 2015	58	Inez Foxx	You Hurt Me For The Last Time	n/a
+Thu Apr  2 03:36:53 2015	59	The Debonaires	Headache In My Heart	n/a
+Thu Apr  2 03:39:16 2015	59	Ace Spectrum	Don't Send Nobody Else	Inner Spectrum
+Thu Apr  2 03:42:19 2015	62	Jackie Lee	The Duck	The Shotgun And The Duck
+Thu Apr  2 03:44:35 2015	61	Roy Thompson	Sookie Sookie	Funky16Corners Mix 2.0- Sookie!
+Thu Apr  2 03:47:18 2015	64	Amanda Love	You Keep Calling Me By Her Name	CD Club 2012 02- Hurt By Love
+Thu Apr  2 03:50:05 2015	64	Roy Alston	One More Tear	n/a
+Thu Apr  2 03:52:35 2015	63	Fantastic Four	As Long As I Live (I Live For You)	Best of The Fantastic Four
+Thu Apr  2 03:55:04 2015	63	The Sharpees	Tired of Being Lonely	Windy City Soul
+Thu Apr  2 03:57:45 2015	61	Joe Simon	I Ain't Givin' Up	n/a
+Thu Apr  2 03:59:41 2015	63	The Tymes	What Would I Do	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Thu Apr  2 04:02:17 2015	62	Jimmy James & The Vagabonds	Help Yourself	Work Your Soul
+Thu Apr  2 04:04:34 2015	60	The Olympics	The Same Old Thing	Andy Smith's Northern Soul
+Thu Apr  2 04:06:45 2015	63	Linda Carr	I Feel A Love Coming On	n/a
+Thu Apr  2 04:09:32 2015	61	Timothy Wilson	Love Is Like An Itching In My Heart	24 Classic Northern Soul Floorpackers
+Thu Apr  2 04:12:21 2015	58	Ted Taylor	That's Life I Guess	Soul Archive (130512)
+Thu Apr  2 04:14:36 2015	58	London Fog with the Continentals	Easy Mover	Funky16Corners Blog
+Thu Apr  2 04:17:18 2015	59	Chris Jackson	I'll Never Forget You	n/a
+Thu Apr  2 04:20:20 2015	58	Gwen Owens	I Lost A Good Thing	The Sound of Sidra
+Thu Apr  2 04:22:16 2015	58	The Dynells	Let Me Prove That I Love You	n/a
+Thu Apr  2 04:24:33 2015	57	Ramsey Lewis	Soul Man	n/a
+Thu Apr  2 04:27:16 2015	57	The Valentinos	I'll Make It Allright	n/a
+Thu Apr  2 04:29:09 2015	58	Paul Humphrey	Funky L.A.	Paul Humphrey and the Cool-Aid Chemists
+Thu Apr  2 04:31:49 2015	58	Fred Hughes	Oo Baby, I Love You	n/a
+Thu Apr  2 04:34:08 2015	58	Damn Sam The Miracle Man	Hard Times	n/a
+Thu Apr  2 04:37:11 2015	62	The Monitors	Step By Step	Greetings!... We're the Monitors
+Thu Apr  2 04:40:22 2015	61	Freddy Robinson	The Oogum Boogum Song	n/a
+Thu Apr  2 04:43:21 2015	64	The Holidays	I Keep Holding On	n/a
+Thu Apr  2 04:45:22 2015	62	Music City All Stars	Do The Philly	The Music City Story
+Thu Apr  2 04:48:17 2015	61	Baby Washington	I've Got A Feeling	n/a
+Thu Apr  2 04:50:56 2015	59	Irma Thomas	Long After The Night Is All Over	Sweet Soul Queen Of New Orleans: The Irma Thomas Collection
+Thu Apr  2 04:53:14 2015	61	Willie Henderson And The Soul Explosions	Funky Chicken (Part 1)	Funky Chicken
+Thu Apr  2 04:55:17 2015	61	R. Dean Taylor	There's A Ghost In My House	Soul Archive (120113)
+Thu Apr  2 04:57:45 2015	59	Love Kittens	I Like Everything About You	n/a
+Thu Apr  2 04:59:58 2015	60	James Brown	Part 1	n/a
+Thu Apr  2 05:03:36 2015	62	Ramona Jones	Sweet Devil	n/a
+Thu Apr  2 05:05:29 2015	60	The Capprells	Whatever Goes Up	n/a
+Thu Apr  2 05:09:39 2015	56	Johnny `Guitar` Watson	You Better Love Me	n/a
+Thu Apr  2 05:11:57 2015	59	Mill Evans	Why, Why, Why	King Northern Soul
+Thu Apr  2 05:14:39 2015	58	Darrow Fletcher	Gotta Draw The Line	Northern Soul • Golden Memories Volume One
+Thu Apr  2 05:16:51 2015	57	Willie West & The High Society Bros	Lesson Of Love	n/a
+Thu Apr  2 05:20:35 2015	60	The Originals	Moment Of Truth	n/a
+Thu Apr  2 05:23:30 2015	62	The Cre-Shendos	You're Still On My Mind	n/a
+Thu Apr  2 05:26:06 2015	59	Exit 9	I Love You! Love You Completely	n/a
+Thu Apr  2 05:28:45 2015	62	El Micheles Affair	Run Fay Run	n/a
+Thu Apr  2 05:32:35 2015	61	Mary Johnson	These Tears	King Northern Soul
+Thu Apr  2 05:34:51 2015	62	Prince Mitchell	Keep On Talking	n/a
+Thu Apr  2 05:37:31 2015	62	Roscoe Shelton	You're The Dream	Soul Soul Soul Vol. 1
+Thu Apr  2 05:39:44 2015	62	The C.O.D.s	Cry No More	n/a
+Thu Apr  2 05:42:19 2015	65	Fred Wesley	Damn Right I Am Somebody (Last Part That Went Over The Fence)	n/a
+Thu Apr  2 05:45:35 2015	64	The Impressions	Can't Satisfy	Soul Archive (120420)
+Thu Apr  2 05:47:57 2015	66	Gene Chandler	Duke of Earl	Oldies Archive (100521)
+Thu Apr  2 05:50:20 2015	64	Slim Smith	Try Again	n/a
+Thu Apr  2 05:53:16 2015	61	Bobby Womack	I'm Through Trying To Prove My Love To You	n/a
+Thu Apr  2 05:56:56 2015	62	Gene Miller	I Was Wrong	n/a
+Thu Apr  2 05:59:29 2015	63	Steve Guillory	Let The Door Hit You	n/a
+Thu Apr  2 06:01:43 2015	63	Screamin' Joe Neal	She's My Baby	n/a
+Thu Apr  2 06:04:41 2015	62	The Supremes	Early Morning Love	n/a
+Thu Apr  2 06:07:50 2015	65	Aretha Franklin	Sister From Texas	n/a
+Thu Apr  2 06:10:54 2015	70	Tony Clarke	They Call Me (A Wrong Man)	Hipshakin' Volume
+Thu Apr  2 06:14:23 2015	70	Chicago Gangsters	My Ship	n/a
+Thu Apr  2 06:17:32 2015	67	We The People	Making My Daydream Real	n/a
+Thu Apr  2 06:20:50 2015	46	McKinley Mitchell	Tell It Like It Is	n/a
+Thu Apr  2 06:23:32 2015	69	Jimmie Preacher Ellis & The Odd Fellows	I Gotta' See My Baby	n/a
+Thu Apr  2 06:26:18 2015	69	William Hunt	Would You Believe	n/a
+Thu Apr  2 06:28:49 2015	69	Tommy Hunt	She'll Hurt You Too	n/a
+Thu Apr  2 06:31:09 2015	66	The Spinners	I'll Always Love You	Soul Archive (060701)
+Thu Apr  2 06:33:53 2015	65	Marsha Gee	I'll Never Be Free	n/a
+Thu Apr  2 06:35:55 2015	64	Al Robinson	Sho' 'Bout To Drive Me Wild	Sunset Soul Club- November 21, 2004
+Thu Apr  2 06:38:29 2015	63	Bob Brady & The Con Chords	More, More of Your Love	Soul Archive (130712)
+Thu Apr  2 06:40:47 2015	63	The Continental Four	Heaven Must Have Sent You	Sunset Soul Club- Vol. 1
+Thu Apr  2 06:43:32 2015	67	Menahan Street Band	Keep Coming Back	The Crossing
+Thu Apr  2 06:46:36 2015	67	Marcia Hines	You Gotta' Let Go	n/a
+Thu Apr  2 06:49:59 2015	68	The Friends of Distinction	You're Gonna' Make It	n/a
+Thu Apr  2 06:53:33 2015	67	Eskew Reeder	Undivided Love	Soul Soul Soul Vol. 1
+Thu Apr  2 06:55:58 2015	69	The Exits	Under The Street Lamp	Soul Archive (120915)
+Thu Apr  2 06:58:50 2015	67	Train Robbers	Tricky Dick	The Essential Sweet Soul Selection
+Thu Apr  2 07:02:39 2015	66	J. Wyatt	This Thing Called Love	n/a
+Thu Apr  2 07:04:48 2015	68	Betty Everett	Getting Mighty Crowded	Cooler Shakers!
+Thu Apr  2 07:06:51 2015	68	Innocent Bystanders	Frantic Escape	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Thu Apr  2 07:09:01 2015	68	Lorrraine Chandler	I Can't Change	Contagious
+Thu Apr  2 07:11:14 2015	68	Walter Jackson	My One Chance To Make It	Hipshakin' Volume
+Thu Apr  2 07:13:48 2015	68	Mark V Unlimited	Gone	n/a
+Thu Apr  2 07:16:00 2015	68	Determinations	Bing Bong Goes My Heart	King Northern Soul
+Thu Apr  2 07:18:47 2015	71	Rocky Robertson	Just Because Of You	Soul Archive (130920)
+Thu Apr  2 07:20:41 2015	69	Andre Williams	Pearl Time	Mr. Rhythm Is Back (Compilation)
+Thu Apr  2 07:23:16 2015	71	William DeVaughn	Be Thankful For What You Got	Oldies Archive (100521)
+Thu Apr  2 07:26:36 2015	71	Freddie & The Kinfolk	Blabbermouth	n/a
+Thu Apr  2 07:28:35 2015	69	Marvin Sims	Sweet Thang	n/a
+Thu Apr  2 07:31:26 2015	67	Damn Sam The Miracle Man And The Soul Congregation	Smash Pt. 2	n/a
+Thu Apr  2 07:35:30 2015	68	Sly & The Family Stone	I Can't Turn You Loose	Soul Archive (090828)
+Thu Apr  2 07:38:47 2015	68	Gerald Wilson Orchestra	California Soul	n/a
+Thu Apr  2 07:40:20 2015	68	Ruben Wright	I'm Walking Out On You	n/a
+Thu Apr  2 07:43:34 2015	71	Ralph Weeks	What You Think You've Got	n/a
+Thu Apr  2 07:46:49 2015	71	The Four Tops	I Got A Feeling	The Complete Motown Singles Vol. 7: 1967
+Thu Apr  2 07:49:49 2015	72	Little Jerry Williams	Baby, You're My Everything	n/a
+Thu Apr  2 07:52:37 2015	70	The Diplomats	Accept Me	Greatest Recordings (Compilation)
+Thu Apr  2 07:54:56 2015	76	Erma Franklin	Gotta' Find Me A Love (24 Hours A Day)	Sunset Soul Club- May 2, 2004
+Thu Apr  2 07:57:16 2015	75	The Trammps	Hold Back The Night	Sunset Soul Club- Vol. 1
+Thu Apr  2 08:00:22 2015	77	Cheyanne	Promised Land	Black Magic Treats: A Collection of Northern Soul (Compilation)
+Thu Apr  2 08:02:23 2015	76	Spanky Wilson	Kissing My Love	n/a
+Thu Apr  2 08:06:43 2015	74	Marvin Gaye	Can I Get A Witness	n/a
+Thu Apr  2 08:09:34 2015	71	The Bar-Kays	Dance, Dance, Dance	n/a
+Thu Apr  2 08:12:18 2015	74	Big Ella	It Takes A Lot Of Loving	Soul Archive (060701)
+Thu Apr  2 08:14:43 2015	76	The O'Jays	Hold On	Soul Sounds
+Thu Apr  2 08:17:21 2015	77	Jimmy Vick	Take A Trip With me	More Stompin'
+Thu Apr  2 08:19:41 2015	77	Earl Van Dyke & The Soul Brothers	I Can't Help Myself	The Motown Sound
+Thu Apr  2 08:22:31 2015	75	Irma Thomas	Hittin' On Nothing	Sweet Soul Queen Of New Orleans: The Irma Thomas Collection
+Thu Apr  2 08:24:33 2015	81	Brenton Wood	Gimmie Little Sign	Soul Archive (091029)
+Thu Apr  2 08:26:42 2015	81	Edwin Starr	My Kind Of Woman	The Cream Of Vintage Soul Vol. 1 (Disc 3)
+Thu Apr  2 08:29:11 2015	79	The Temprees	My Baby Love	n/a
+Thu Apr  2 08:31:57 2015	82	The Intruders	Cowboys To Girls	Eighteen With A Bullet
+Thu Apr  2 08:34:45 2015	84	Dee Dee Sharp	(Heart And Soul) Baby I Love You	n/a
+Thu Apr  2 08:37:10 2015	85	Chuck Bridges	Don't You Make Me Cry	n/a
+Thu Apr  2 08:39:02 2015	89	Harvey Scales & The 7 Sounds	The Yolk	n/a
+Thu Apr  2 08:41:50 2015	86	Judy White	Vacuum Cleaner	n/a
+Thu Apr  2 08:44:41 2015	87	Stacy Johnson	Remove My Doubts	n/a
+Thu Apr  2 08:46:47 2015	86	Deniece Chandler	Shy Boy	n/a
+Thu Apr  2 08:49:08 2015	88	The Five Du-Tones	Shake A Tail Feather	The Five Du-Tones' Divorce Court
+Thu Apr  2 08:51:18 2015	85	The Showstoppers	What Can A Man Do?	n/a
+Thu Apr  2 08:53:54 2015	82	The Supremes	Nothing But Hearaches	Soul Archive (130529)
+Thu Apr  2 08:56:38 2015	80	Sunny	Headline News	n/a
+Thu Apr  2 08:59:59 2015	81	Rufus Thomas	Do The Funky Chicken	Do the Funky Chicken- EP
+Thu Apr  2 09:02:57 2015	75	Delagtates of Soul	What A Lucky Guy I Am	n/a
+Thu Apr  2 09:05:29 2015	76	Ruth Brown	You're A Stone Groovy Thing	Teen Angels- Rare Vintage Masters
+Thu Apr  2 09:07:14 2015	80	Carolyn Crawford	Forget About Me	6Ts Rhythm &amp; Soul Society: In The Beginning
+Thu Apr  2 09:09:54 2015	84	Marilyn Grimes	Oh, Sweet Love	n/a
+Thu Apr  2 09:12:39 2015	78	Bobby Bland	Shoes	Sunset Soul Club- Vol. 1
+Thu Apr  2 09:15:09 2015	81	The Accents	New Girl	Windy City Soul
+Thu Apr  2 09:17:38 2015	80	Don Ray	Born A Loser	Northern Soul Floorshakers!
+Thu Apr  2 09:19:17 2015	80	Silky Hargraves	Hurt By Love	n/a
+Thu Apr  2 09:21:50 2015	79	El Riot	Do It Right	n/a
+Thu Apr  2 09:26:53 2015	77	La Ragazza Del Clan	Eh! Gia	n/a
+Thu Apr  2 09:28:20 2015	76	The Olympics	Shimmy Like Kate	Something Old, Something New
+Thu Apr  2 09:30:52 2015	75	Jackie Hunt	Security Of Love	n/a
+Thu Apr  2 09:33:27 2015	74	Jimmy Norman	Someone To Care For Me	n/a
+Thu Apr  2 09:35:57 2015	72	Betty Lavette	Hey Love	n/a
+Thu Apr  2 09:38:51 2015	75	The Family	Nation Time	n/a
+Thu Apr  2 09:41:32 2015	76	The Ambers	I Love You Baby	n/a
+Thu Apr  2 09:44:04 2015	77	Dorothy Williams	Watchdog	Boogaloo Babes
+Thu Apr  2 09:46:20 2015	77	I.A.P. Co.	Check Yourself	n/a
+Thu Apr  2 09:49:27 2015	75	The Dynamics	Bingo	The Golden Torch Revisited- 25 Classic Northern Soul Shakers
+Thu Apr  2 09:51:40 2015	76	Clarence Reid	Baptize Me In Your Love	n/a
+Thu Apr  2 09:54:50 2015	78	Diana Ross & The Supremes	You Can't Hurry Love	20th Century Masters: The Millennium Collection: Best Of Diana Ross & The Supremes
+Thu Apr  2 09:57:56 2015	75	The Bandwagon	Breakin' Down The Walls Of Heartache	The Best Northern Soul All-Nighter...Ever!
+Thu Apr  2 10:00:01 2015	78	Willie Hatcher	Head Over Heels	King Northern Soul
+Thu Apr  2 10:02:14 2015	76	Nora Lee	Believe Me	n/a
+Thu Apr  2 10:04:28 2015	76	Leon Haywood	Ain't No Use	L.A. Happening: Mid-60s Soul Sides of Vault, Fat Fish &amp; Autumn (Compilation)
+Thu Apr  2 10:07:17 2015	77	Over Night Low	The Witch Doctor Catches Jungle Fever	n/a
+Thu Apr  2 10:10:11 2015	76	Willie Tee	Always Accused	n/a
+Thu Apr  2 10:12:27 2015	79	Evelyn Freeman	Didn't It Rain	Talkin' Trash: Lookey Dookey (Compilation)
+Thu Apr  2 10:15:41 2015	74	King Hannibal	The Truth Shall Make You Free	n/a
+Thu Apr  2 10:18:54 2015	76	Gene Chandler	Nothing Can Stop Me	Cooler Shakers!
+Thu Apr  2 10:21:29 2015	76	Bill Withers	The Same Love That Made Me Laugh	'Justments
+Thu Apr  2 10:25:00 2015	76	Jimmy Burns	Give Her To Me	n/a
+Thu Apr  2 10:27:44 2015	80	Johnny Maestro	Besame Baby	Soul Soul Soul Vol. 1
+Thu Apr  2 10:30:32 2015	80	Garland Green	It Rained 40 Days & 40 Nights	Heartburn (Rooky Ricardo's Presents)
+Thu Apr  2 10:32:16 2015	83	Ray Charles	Tired Of My Tears	n/a
+Thu Apr  2 10:34:23 2015	84	Ray Frazier	Your Eyes	n/a
+Thu Apr  2 10:37:40 2015	84	The Incredibles	I'll Make It Easy	Eighteen With A Bullet
+Thu Apr  2 10:40:23 2015	84	Duke Daniels	This Is The End	n/a
+Thu Apr  2 10:42:43 2015	83	The Vibrations	Finding Out The Hard Way	n/a
+Thu Apr  2 10:44:50 2015	80	Eddie Kendricks	If You Let Me	n/a
+Thu Apr  2 10:48:04 2015	83	Dee Dee Warwick	Foolish Fool	Soulsugar, Volume 3 (Compilation)
+Thu Apr  2 10:50:36 2015	82	Chris Clark	Love's Gone Bad	CD Club 2012 02- Hurt By Love
+Thu Apr  2 10:52:54 2015	82	The Sharpees	I've Got A Secret	Windy City Soul
+Thu Apr  2 10:55:14 2015	84	Rhetta Hughes	You're Doing It With Her (When It Should Be Me)	n/a
+Thu Apr  2 10:57:52 2015	84	Tammi Terrell	This Old Heart Of Mine	Irresistible
+Thu Apr  2 11:00:28 2015	78	Marvin Gaye	Trouble Man	Marvin Gaye The Millenium Coll
+Thu Apr  2 11:04:03 2015	76	The Cooperettes	Shing-A-Ling	n/a
+Thu Apr  2 11:06:44 2015	82	Fair Play	Guilty	n/a
+Thu Apr  2 11:09:25 2015	81	Sir Stan And The Counts	Soulin	Because You're Funky
+Thu Apr  2 11:11:44 2015	76	Major Lance	I	n/a
+Thu Apr  2 11:14:31 2015	76	Sam Fletcher	I'd Think It Over Twice	Cooler Shakers!
+Thu Apr  2 11:16:42 2015	76	T C Lee & The Bricklayers	Up & Down The Hill	King Northern Soul
+Thu Apr  2 11:18:39 2015	76	Bobby Helms	You're Mine, You	n/a
+Thu Apr  2 11:20:52 2015	76	Rosco Gordon	You Got My Bait	n/a
+Thu Apr  2 11:23:17 2015	75	Denise LaSalle	Too Late To Check Your Trap	n/a
+Thu Apr  2 11:25:36 2015	75	Skull Snaps	Didn't I Do It To You	n/a
+Thu Apr  2 11:28:41 2015	79	The Vontastics	Lady Love	Heartburn (Rooky Ricardo's Presents)
+Thu Apr  2 11:30:47 2015	76	The Passions	The Reason (Why I Love You)	n/a
+Thu Apr  2 11:33:40 2015	77	The Brothers Two	Here I Am In Love Again	n/a
+Thu Apr  2 11:35:54 2015	76	Evie Sands	Take Me For A Little While	Any Way That You Want Me
+Thu Apr  2 11:38:20 2015	75	Al Green	Look What You've Done For Me	n/a
+Thu Apr  2 11:41:35 2015	75	Mack Simmons	Skin Tight	n/a
+Thu Apr  2 11:45:36 2015	78	Stacie Johnson	Woman In My Eyes	n/a
+Thu Apr  2 11:48:23 2015	77	Rosco & Barbara	Could This Be Love	Soul Soul Soul Vol. 1
+Thu Apr  2 11:50:49 2015	80	J.J. Barnes	Say It	n/a
+Thu Apr  2 11:53:03 2015	79	The O'Jays	Lipstick Traces	Hard Chargin' Soul
+Thu Apr  2 11:55:39 2015	78	Quincy Jones	What's Going On (Part 1)	n/a
+Thu Apr  2 11:58:53 2015	77	Jackie Opal	Try Me	n/a
+Thu Apr  2 12:01:44 2015	76	Denny Cox	You Can't Hold Me Back	n/a
+Thu Apr  2 12:04:53 2015	76	Mr. Bloe	Sinful	n/a
+Thu Apr  2 12:07:38 2015	80	Nick Waterhouse	This Is A Game	Holly
+Thu Apr  2 12:10:24 2015	79	Lloyd W. Williams	Be Mine Tonight	n/a
+Thu Apr  2 12:13:24 2015	78	Brother Jack McDuff & David Newman	Duffin' Around	n/a
+Thu Apr  2 12:18:30 2015	77	Jesse Gee	Don't Mess With My Money	n/a
+Thu Apr  2 12:20:59 2015	77	Roscoe Robinson	That's Enough	Northern Soul '60s Mod
+Thu Apr  2 12:23:46 2015	77	Bill Crosby	Little Ole Man	n/a
+Thu Apr  2 12:27:51 2015	77	Scientists Of Soul	Be's That-Aways-Sometimes	Sunset Soul Club- November 21, 2004
+Thu Apr  2 12:29:55 2015	77	Marie Queenie Lyons	See And Don't See	Sunset Soul Club- June 4, 2005
+Thu Apr  2 12:33:17 2015	79	The Four Rivers	I Confess	n/a
+Thu Apr  2 12:35:42 2015	78	Edwin Starr	Scots On Swinger (S.O.S)	24 Classic Northern Soul Floorpackers
+Thu Apr  2 12:37:54 2015	80	Davy Jr. And Guess Who	Party In Joe Craig's Bar	Because You're Funky
+Thu Apr  2 12:41:50 2015	82	The Monitors	Bring Back The Love	Soul For Sale Vol. 1
+Thu Apr  2 12:44:39 2015	82	Sharon Soul	How Can I Get You	Boogaloo Babes
+Thu Apr  2 12:47:10 2015	83	Mary Jane Hooper	I've Got Reasons	n/a
+Thu Apr  2 12:49:36 2015	82	Len & The P.A.'s	Soul Block	n/a
+Thu Apr  2 12:52:19 2015	81	Pauline Shivers	Won't You Come Back Home	n/a
+Thu Apr  2 12:54:47 2015	82	Chuck Bernard	Funny Changes	n/a
+Thu Apr  2 12:57:16 2015	79	Joe Bataan	Ordinary Guy	Riot!
+Thu Apr  2 12:59:55 2015	79	Bob And Earl	Harlem Shuffle	The Shotgun And The Duck
+Thu Apr  2 13:02:32 2015	77	The Emotions	Best Of My Love	The Best Of The Emotions: Best Of My Love
+Thu Apr  2 13:06:02 2015	77	Millie Jackson	If Loving You Is Wrong I Don't Want To Be Right	n/a
+Thu Apr  2 13:09:35 2015	74	The O'Kaysions	Girl Watcher	n/a
+Thu Apr  2 13:11:50 2015	71	Rodger Collins	Soulful Train	Sunset Soul Club- November 21, 2004
+Thu Apr  2 13:14:38 2015	75	Nickie Lee	The Ten Commandments	Sunset Soul Club- November 21, 2004
+Thu Apr  2 13:17:36 2015	72	Ruby Johnson	Weak Spot	Boogaloo Babes
+Thu Apr  2 13:20:22 2015	71	The Dramatics	Thankful For Your Love	n/a
+Thu Apr  2 13:24:22 2015	71	Leon Haywood	She's With Her Other Love	n/a
+Thu Apr  2 13:26:34 2015	69	The Four Pros	The Reason Why	n/a
+Thu Apr  2 13:28:59 2015	68	The Canjoes	Dance The Boomerang	n/a
+Thu Apr  2 13:31:16 2015	72	Nolan Porter	What Would You Do If I Did That To You	n/a
+Thu Apr  2 13:33:49 2015	70	The Sherrell Brothers	The Price	n/a
+Thu Apr  2 13:36:38 2015	69	Lou Johnson	(There's) Always Something There To Remind Me	Soul Archive (130330)
+Thu Apr  2 13:39:41 2015	68	The Ambers	I Love You Baby	n/a
+Thu Apr  2 13:42:20 2015	68	Freddie Scott	Hey Girl	Sings and Sings and Sings
+Thu Apr  2 13:45:19 2015	64	Gene Chandler	Nothing Can Stop Me	Cooler Shakers!
+Thu Apr  2 13:47:58 2015	62	James Brown	Make It Funky (Part 1)	The 50th Anniversary Collection (Compilation)
+Thu Apr  2 13:51:08 2015	62	Linda Jones	Not On The Outside	n/a
+Thu Apr  2 13:54:50 2015	61	Ray Frazier	Good Side	n/a
+Thu Apr  2 13:57:37 2015	61	The Young Hearts	Count Down (Here I Come)	n/a
+Thu Apr  2 14:01:16 2015	62	Enchanting Enchanters	No One In This World	n/a
+Thu Apr  2 14:04:24 2015	64	Barbara Acklin	More Ways Than One	n/a
+Thu Apr  2 14:07:43 2015	64	Shep	Fool to Fool	n/a
+Thu Apr  2 14:10:25 2015	62	Christy Allen	Walk Tall Like A Man	Contagious
+Thu Apr  2 14:13:13 2015	63	Ornella Vanoni	Coccodrillo	n/a
+Thu Apr  2 14:14:56 2015	63	Tommy Ridgley	No One But Me	n/a
+Thu Apr  2 14:17:31 2015	62	The Five Stairsteps	Danger She's A Stranger	Danger, She's a Stranger / Behind Curtains (Single)
+Thu Apr  2 14:20:17 2015	62	The Contours	Just A Little Misunderstanding	Sunset Soul Club- Vol. 1
+Thu Apr  2 14:22:42 2015	62	The Artistics	I'm Gonna' Miss You	Eighteen With A Bullet
+Thu Apr  2 14:25:17 2015	61	The Family	Family Affair	n/a
+Thu Apr  2 14:27:25 2015	63	Jay W. King	I'm So Afraid	n/a
+Thu Apr  2 14:29:53 2015	62	The Ethics	Standing In The Darkness	Soul Archive (050128)
+Thu Apr  2 14:32:19 2015	63	The Honey Bees	Never In A Million Years	Sunset Soul Club- May 2, 2004
+Thu Apr  2 14:34:22 2015	60	B.B. King	The Hurt	n/a
+Thu Apr  2 14:36:19 2015	60	The Velvelettes	Needle In A Haystack	The Very Best Of The Velvelettes
+Thu Apr  2 14:38:35 2015	59	Ted Taylor	Something Strange Is Goin' On In My House	n/a
+Thu Apr  2 14:41:07 2015	58	Ike Turner & the Kings of Rhythm	Funky Mule	n/a
+Thu Apr  2 14:44:21 2015	55	Jomo	Uhuru (African Twist)	Soul Archive (091008)
+Thu Apr  2 14:46:55 2015	57	The Johnny Otis Show	Country Girl	n/a
+Thu Apr  2 14:49:31 2015	56	Freddie & The Kinfolk	The Goat	n/a
+Thu Apr  2 14:51:43 2015	56	The Imaginations	I Love You More (Than Anyone)	n/a
+Thu Apr  2 14:54:32 2015	56	The O'Jays	I'll Never Forget You	The Greatest Hits
+Thu Apr  2 14:56:43 2015	56	Dee Dee Warwick	I Can't Go Back	n/a
+Thu Apr  2 14:59:33 2015	53	Mike Vickers	On The Brink	The Sound Gallery, Volume 2 (Compilation)

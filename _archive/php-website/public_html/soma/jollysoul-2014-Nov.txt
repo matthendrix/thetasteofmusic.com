@@ -1,0 +1,203 @@
+Sun Nov 30 13:26:47 2014		Dido	Christmas Day	Die Hit Giganten: Best of Christmas
+Sun Nov 30 13:30:21 2014	1	Departure Lounge	Christmas Downer	Xfm: It's A Cool, Cool Christmas
+Sun Nov 30 13:33:26 2014	1	Sufjan Stevens	Silent Night	Hark! Songs For Christmas Volume 1
+Sun Nov 30 13:35:45 2014	1	Takeover UK, The	Christmas in LA	n/a
+Sun Nov 30 13:39:17 2014	1	Matt Pond PA	Snow Day	Winter Songs EP
+Sun Nov 30 13:42:36 2014	1	National Splits, The	Let's Wrap Each Other	n/a
+Sun Nov 30 13:45:13 2014	0	Maps & Atlases	Winter	BIRP! March 2012 (Compilation)
+Sun Nov 30 13:49:42 2014	0	Morgan	Christmas In Waikiki	Xfm: It's A Cool, Cool Christmas
+Sun Nov 30 13:54:11 2014	0	Beach Boys	Little Saint Nick	Christmas With the Beach Boys
+Sun Nov 30 13:56:10 2014	0	Smithereens, The	Christmas	Tommy
+Sun Nov 30 13:59:24 2014	0	Jigsaw Seen	God Rest Ye Merry Gentlemen (Remixed)	n/a
+Sun Nov 30 14:02:27 2014	0	Travis Denning	Ballad Of Rudolph	A Rock By The Sea Christmas :: Volume Three
+Sun Nov 30 14:05:56 2014	0	Six By Seven	I Believe In Father Christmas	Xfm: It's A Cool, Cool Christmas
+Sun Nov 30 14:10:28 2014	1	Mancino	Welcome Christmas	Do you EAR what I EAR?
+Sun Nov 30 14:13:30 2014	1	Asylum Street Spankers	You're a Mean One Mr. Grinch	A Christmas Spanking
+Sun Nov 30 14:16:37 2014	1	Dream Diary	Christmas All Over (Tom Petty cover)	n/a
+Sun Nov 30 14:19:15 2014	1	Ben Rector	Jingle Bells	Jingles and Bells
+Sun Nov 30 14:21:53 2014	1	Snow Patrol	When I Get Home For Christmas	Xfm: It's A Cool, Cool Christmas
+Sun Nov 30 14:26:13 2014	1	Maggie Chapman	Could've Been Summer	Paste Holiday Sampler 2013 (Compilation)
+Sun Nov 30 14:29:38 2014	1	I Break Horses	Winter Beats	Hearts
+Sun Nov 30 14:30:13 2014	1	Gene Toone	Baby Boy	n/a
+Sun Nov 30 14:35:20 2014	1	Salsoul Orchestra	Merry Christmas All	Christmas Jollies
+Sun Nov 30 14:38:26 2014	1	Count Sidney & His Dukes	Soul Christmas	n/a
+Sun Nov 30 14:42:55 2014	1	Huey Plano Smith & The Clowns	Silent Night	n/a
+Sun Nov 30 14:45:53 2014	1	The Staple Singers	The Last Month Of The Year	n/a
+Sun Nov 30 14:48:22 2014	1	Baby Washington	White Christmas	n/a
+Sun Nov 30 14:50:42 2014	1	The Emotions	Black Christmas	n/a
+Sun Nov 30 14:53:20 2014	1	Rufus Thomas	I'll Be Your Santa, Baby	n/a
+Sun Nov 30 14:56:34 2014	0	Vernon Garrett & Sir Stan and The Counts	Christmas Groove	n/a
+Sun Nov 30 14:59:09 2014	1	Soul Made / tmas ( R & B Version	Last Christmas	n/a
+Sun Nov 30 15:02:42 2014	1	The Soul Stirrers	Christmas Joy	n/a
+Sun Nov 30 15:05:43 2014	1	The Stylistics	I'll Be Home For Christmas	n/a
+Sun Nov 30 15:07:11 2014	1	Luther Vandross	May Christmas Bring You Happiness	R&B Christmas Volume 1
+Sun Nov 30 15:11:16 2014	1	Donnie Hathaway	This Christmas	n/a
+Sun Nov 30 15:14:24 2014	1	The Temptations	My Christmas Tree	n/a
+Sun Nov 30 15:17:32 2014	1	George Grant & The Castelles	At Christmas Time	n/a
+Sun Nov 30 15:19:49 2014	1	Smokey Robinson	A Child Is Waiting	n/a
+Sun Nov 30 15:22:41 2014	1	Roscoe Robinson	Tis Yuletide	n/a
+Sun Nov 30 15:25:10 2014	1	Bill Withers	The Gift Of Giving	n/a
+Sun Nov 30 15:27:40 2014	1	The Four Tops	Christmas Here With You	n/a
+Sun Nov 30 15:32:34 2014	1	The Dramatics	All I Want For Christmas Is My Baby	A Dramatic Christmas (The Very Best Christmas Of All)
+Sun Nov 30 15:37:15 2014	1	Rotary Connection featuring Minnie Riperton	Christmas Love	n/a
+Sun Nov 30 15:40:13 2014	1	Charles Brown	Christmas In Heaven	n/a
+Sun Nov 30 15:42:12 2014	1	Gary Walker	Santa's Got a Brand New Bag	n/a
+Sun Nov 30 15:45:10 2014	1	Funk Machine	Soul Santa	Christmas Groove
+Sun Nov 30 15:48:30 2014	1	Soul Searchers	Christmas In Vietnam	n/a
+Sun Nov 30 15:51:17 2014	1	The Meditation Singers	Blue Christmas	n/a
+Sun Nov 30 15:54:28 2014	2	Jimmy Reed	Christmas Present Blues	Christmas Groove
+Sun Nov 30 15:56:58 2014	2	The Soul Survivors	Snow Man	Amoeba Christmas 2009
+Sun Nov 30 15:59:10 2014	1	James Brown	Please Come Home for Christmas	Funky Christmas
+Sun Nov 30 16:02:26 2014	1	Otis Redding & Carla Thomas	New Year's Resolution	n/a
+Sun Nov 30 16:05:38 2014	0	Artie Fulilove	Santa Claus Please Listen To Me	n/a
+Sun Nov 30 16:08:11 2014	1	The Supremes	Little Bright Star	n/a
+Sun Nov 30 16:10:29 2014	0	Houghas Sorowonko	A Groovy Chirstmas and New Year	n/a
+Sun Nov 30 16:13:45 2014	0	Booker T. & The MGs	Santa Claus Is Coming To Town	n/a
+Sun Nov 30 16:16:13 2014	0	The Skyliners	You're My Christmas Present	n/a
+Sun Nov 30 16:18:50 2014	2	The Soul Stirrers	Christmas Means Love	n/a
+Sun Nov 30 16:20:57 2014	5	Count Sidney & His Dukes	Soul Christmas (Vocal)	n/a
+Sun Nov 30 16:23:10 2014	4	Marvin Gaye	Purple Snowflakes	Motown Christmas
+Sun Nov 30 16:25:58 2014	4	Vernon Garrett & Sir Stand and The Counts	Merry Christmas Baby	n/a
+Sun Nov 30 16:28:40 2014	4	The Shurefine Singers	Silent Night & The 11 O'Clock News	n/a
+Sun Nov 30 16:31:29 2014	4	Harlem Children's Chorus	Black Christmas	Christmas Groove
+Sun Nov 30 16:33:52 2014	7	Ohio Players	Happy Holidays	n/a
+Sun Nov 30 16:41:58 2014	6	The Salem Travellers	Merry Christmas To You	n/a
+Sun Nov 30 16:44:56 2014	7	Salsoul Orchestra	The Little Drummer Boy	Christmas Jollies
+Sun Nov 30 16:50:54 2014	8	The Dramatics	It's Christmas Time	A Dramatic Christmas (The Very Best Christmas Of All)
+Sun Nov 30 16:53:57 2014	7	Aretha Franklin	The Christmas Song	n/a
+Sun Nov 30 16:56:47 2014	8	Al Green	Silent Night	Soulful Christmas (disc 1)
+Sun Nov 30 16:59:58 2014	8	The Impressions	I Saw Mommy Kissing Santa Claus	n/a
+Sun Nov 30 17:05:46 2014	8	Otis Redding	White Christmas	n/a
+Sun Nov 30 17:08:47 2014	9	Salsoul Orchestra	New Year's / Americana Suite	Christmas Jollies
+Sun Nov 30 17:15:21 2014	6	James Brown	The Christmas Song (Version 2)	n/a
+Sun Nov 30 17:18:12 2014	6	The Staple Singers	Who Took The Merry Out Of Christmas	n/a
+Sun Nov 30 17:20:28 2014	7	2 Men 4 Soul	Ribbon In the Sky	The Irma Christmas Box (Snowy tunes in an icy lounge style)
+Sun Nov 30 17:24:30 2014	9	The Jackson 5	Santa Claus Is Coming To Town	The Best Christmas Album In The World...Ever!
+Sun Nov 30 17:26:50 2014	7	Martha Reeves	O Holy Night	n/a
+Sun Nov 30 17:30:23 2014	8	Rose Graham	Black Christmas	n/a
+Sun Nov 30 17:33:10 2014	8	Change of Pace	Hello Darling	n/a
+Sun Nov 30 17:35:24 2014	7	Johnny & Jon	Christmas In Viet Nam	n/a
+Sun Nov 30 17:38:20 2014	7	Jimmy Jules & Nuclear Soul System	Xmas Done Got Funky	Santa's Funk & Soul Christmas Party (Full Version)
+Sun Nov 30 17:41:46 2014	7	Lee Rogers	You Won't Have To Wait Till Christmas	n/a
+Sun Nov 30 17:44:14 2014	8	Margie Joseph	Christmas Gift	n/a
+Sun Nov 30 17:47:10 2014	7	The Sweet Divines	Everyday Will Be Like a Holiday	n/a
+Sun Nov 30 17:50:12 2014	5	Count Sidney & His Dukes	Soul Christmas	n/a
+Sun Nov 30 17:52:21 2014	7	Ike & Tina Turner	Merry Christmas Baby	n/a
+Sun Nov 30 17:54:20 2014	7	Gladys Knight & The Pips	Jingle Bells	n/a
+Sun Nov 30 17:58:21 2014	6	Solomon Burke	Presents For Christmas	n/a
+Sun Nov 30 18:01:24 2014	6	The Supremes	Rudolph The Red-Nosed Reindeer	n/a
+Sun Nov 30 18:04:05 2014	4	The Dramatics	A Holiday Thought	A Dramatic Christmas (The Very Best Christmas Of All)
+Sun Nov 30 18:10:20 2014	6	Brook Benton	Soul Santa	R&B Christmas Volume 1
+Sun Nov 30 18:13:37 2014	5	Isaac Hayes	The Mistletoe And Me	Christmas In Soulsville
+Sun Nov 30 18:17:25 2014	6	The Gems	Love For Christmas	n/a
+Sun Nov 30 18:19:59 2014	6	James Brown	Merry Christmas Baby	n/a
+Sun Nov 30 18:23:52 2014	7	Stevie Wonder	Christmastime	n/a
+Sun Nov 30 18:26:20 2014	7	Kim Weston	Wish You A Merry Christmas	n/a
+Sun Nov 30 18:28:47 2014	8	Marvin Gaye	I Want To Come Home For Christmas	n/a
+Sun Nov 30 18:32:12 2014	9	Count Sidney & His Dukes	Soul Christmas (Instrumental)	n/a
+Sun Nov 30 18:34:18 2014	8	Otis Redding	Merry Christmas, Baby	n/a
+Sun Nov 30 18:36:34 2014	7	The Temptations	White Christmas	n/a
+Sun Nov 30 18:40:59 2014	6	The Funk Brothers	Winter Wonderland	n/a
+Sun Nov 30 18:42:53 2014	6	The Flirtations	Christmas Time Is Here Again	n/a
+Sun Nov 30 18:46:33 2014	6	Electric Jungle	Funky Funky Christmas	Christmas Groove
+Sun Nov 30 18:49:29 2014	7	Somkey Robinson & The Miracles	The Christmas Song (Merry Christmas To You)	n/a
+Sun Nov 30 18:52:21 2014	8	Carla Thomas	Gee Whiz, It's Christmas	The Complete Stax/Volt Singles 1959-1968 [Disc 3]
+Sun Nov 30 18:54:57 2014	8	The Jackson 5	Christmas Won't Be The Same This Year	Christmas Album
+Sun Nov 30 18:57:19 2014	7	Fat Daddy	Holiday Baby	n/a
+Sun Nov 30 18:59:43 2014	8	Rufus Thomas	I'll Be Your Santa, Baby	n/a
+Sun Nov 30 19:02:59 2014	9	The Whispers	Santa Claus Is Coming To Town	n/a
+Sun Nov 30 19:06:47 2014	6	The Staple Singers	The Last Month Of The Year	n/a
+Sun Nov 30 19:09:19 2014	7	Lee Rogers	You Wont Have to Wait Till Xmas	n/a
+Sun Nov 30 19:11:37 2014	7	Detroit Junior	Christmas Day	n/a
+Sun Nov 30 19:13:49 2014	7	The Persuasions	You're All I Want For Christmas	n/a
+Sun Nov 30 19:16:51 2014	6	Jimmy Smith	The Christmas Song	Christmas Cookin'
+Sun Nov 30 19:21:21 2014	8	J. Hines And The Boys	A Funky Christmas To You	n/a
+Sun Nov 30 19:23:29 2014	9	The Twistin' Kings	Xmas Twist	n/a
+Sun Nov 30 19:26:10 2014	9	Vernon Garrett & Sir Stan and The Counts	Christmas Groove	n/a
+Sun Nov 30 19:28:40 2014	9	Clarence Carter	Back Door Santa	n/a
+Sun Nov 30 19:30:47 2014	7	Gene Toone	Baby Boy	n/a
+Sun Nov 30 19:36:12 2014	6	Jimmy McGriff	Christmas With McGriff	n/a
+Sun Nov 30 19:38:25 2014	7	The Emotions	What Do The Lonely Do At Christmas	n/a
+Sun Nov 30 19:41:36 2014	8	Vanessa Williams	What Child Is This	n/a
+Sun Nov 30 19:45:36 2014	8	Al Green	I'll Be Home For Christmas	n/a
+Sun Nov 30 19:48:46 2014	7	Smokey Robinson	A Child Is Waiting	n/a
+Sun Nov 30 19:51:40 2014	7	Soul Searchers	Christmas In Vietnam	n/a
+Sun Nov 30 19:54:33 2014	6	Binky Griptite	Stone Soul Christmas	n/a
+Sun Nov 30 19:57:49 2014	6	Jimmy Jules & Nuclear Soul System	Xmas Done Got Funky	Santa's Funk & Soul Christmas Party (Full Version)
+Sun Nov 30 20:01:14 2014	7	Bobby Womack	Dear Santa Claus	n/a
+Sun Nov 30 20:04:50 2014	7	Sam Cooke	Christmas Means Love	n/a
+Sun Nov 30 20:06:51 2014	8	Lou Rawls	Have Yourself A Merry Little Christmas	Ultra Lounge: Christmas Cocktails Part 3
+Sun Nov 30 20:10:20 2014	8	Luther Vandross	May Christmas Bring You Happiness	R&B Christmas Volume 1
+Sun Nov 30 20:14:29 2014	8	The Supremes	Silver Bells	n/a
+Sun Nov 30 20:17:22 2014	10	James Brown	Let's Unite the Whole World At Christmas	n/a
+Sun Nov 30 20:19:57 2014	8	The Dramatics	Here Comes Christmas Love	A Dramatic Christmas (The Very Best Christmas Of All)
+Sun Nov 30 20:25:18 2014	7	The O'Jays	Christmas Ain't Christmas (Without the One You Love)	n/a
+Sun Nov 30 20:27:23 2014	7	The Soul Stirrers	Christmas Joy	n/a
+Sun Nov 30 20:30:27 2014	7	Joe Tex	I'll Make Everyday Christmas (For My Woman)	n/a
+Sun Nov 30 20:33:53 2014	7	Smokey Robnson	Christmas Everyday	n/a
+Sun Nov 30 20:36:26 2014	8	Salsoul Orchestra	Sleigh Ride	Christmas Jollies
+Sun Nov 30 20:39:22 2014	7	Stevie Wonder	A Warm Little Home On A Hill	n/a
+Sun Nov 30 20:42:45 2014	7	Houghas Sorowonko	A Groovy Chirstmas and New Year	n/a
+Sun Nov 30 20:46:09 2014	7	Booker T. & The MGs	Jingle Bells	n/a
+Sun Nov 30 20:48:34 2014	6	Rotary Connection	Silent Night	n/a
+Sun Nov 30 20:54:12 2014	4	Gary Walker	Santa's Got a Brand New Bag	n/a
+Sun Nov 30 20:57:16 2014	4	Bill Withers	The Gift Of Giving	n/a
+Sun Nov 30 20:59:43 2014	4	Rotary Connection featuring Minnie Riperton	Christmas Love	n/a
+Sun Nov 30 21:02:38 2014	4	Brook Benton	Soul Santa	R&B Christmas Volume 1
+Sun Nov 30 21:05:57 2014	4	Marvin Gaye	Purple Snowflakes	Motown Christmas
+Sun Nov 30 21:08:45 2014	4	Charles Brown	Christmas In Heaven	n/a
+Sun Nov 30 21:10:57 2014	4	Otis Redding & Carla Thomas	New Year's Resolution	n/a
+Sun Nov 30 21:14:09 2014	4	Artie Fulilove	Santa Claus Please Listen To Me	n/a
+Sun Nov 30 21:16:37 2014	5	Soul Made / tmas ( R & B Version	Last Christmas	n/a
+Sun Nov 30 21:20:12 2014	6	Roscoe Robinson	Tis Yuletide	n/a
+Sun Nov 30 21:22:45 2014	6	Rose Graham	Black Christmas	n/a
+Sun Nov 30 21:25:29 2014	5	2 Men 4 Soul	Ribbon In the Sky	The Irma Christmas Box (Snowy tunes in an icy lounge style)
+Sun Nov 30 21:29:28 2014	6	The Soul Survivors	Snow Man	Amoeba Christmas 2009
+Sun Nov 30 21:31:46 2014	6	The Four Tops	Christmas Here With You	n/a
+Sun Nov 30 21:36:39 2014	5	The Shurefine Singers	Silent Night & The 11 O'Clock News	n/a
+Sun Nov 30 21:39:26 2014	5	Jimmy Reed	Christmas Present Blues	Christmas Groove
+Sun Nov 30 21:41:56 2014	4	The Salem Travellers	Merry Christmas To You	n/a
+Sun Nov 30 21:44:51 2014	4	Linda Lewis	Winter Wonderland	n/a
+Sun Nov 30 21:48:39 2014	4	Change of Pace	Hello Darling	n/a
+Sun Nov 30 21:50:58 2014	6	Baby Washington	White Christmas	n/a
+Sun Nov 30 21:53:22 2014	6	The Meditation Singers	Blue Christmas	n/a
+Sun Nov 30 21:56:38 2014	6	Count Sidney & His Dukes	Soul Christmas	n/a
+Sun Nov 30 22:01:10 2014	7	The Skyliners	You're My Christmas Present	n/a
+Sun Nov 30 22:03:45 2014	7	The Temptations	Rudolph The Red-Nosed Reindeer	n/a
+Sun Nov 30 22:06:38 2014	8	Ohio Players	Happy Holidays	n/a
+Sun Nov 30 22:14:46 2014	8	The Staple Singers	Who Took The Merry Out Of Christmas	n/a
+Sun Nov 30 22:17:17 2014	9	The Supremes	Just A Lonely Christmas	n/a
+Sun Nov 30 22:19:35 2014	9	The Dramatics	The Very Best Christmas	A Dramatic Christmas (The Very Best Christmas Of All)
+Sun Nov 30 22:24:40 2014	10	James Brown	Signs of Christmas	n/a
+Sun Nov 30 22:29:15 2014	11	The Impressions	I Saw Mommy Kissing Santa Claus	n/a
+Sun Nov 30 22:34:53 2014	11	The Sweet Divines	Everyday Will Be Like a Holiday	n/a
+Sun Nov 30 22:37:57 2014	11	Margie Joseph	Christmas Gift	n/a
+Sun Nov 30 22:41:08 2014	10	George Grant & The Castelles	At Christmas Time	n/a
+Sun Nov 30 22:43:22 2014	10	Martha Reeves	O Holy Night	n/a
+Sun Nov 30 22:46:56 2014	11	Salsoul Orchestra	There's Someone Who's Knocking	Christmas Jollies
+Sun Nov 30 22:49:24 2014	10	Solomon Burke	Presents For Christmas	n/a
+Sun Nov 30 22:52:26 2014	9	Kim Weston	Wish You A Merry Christmas	n/a
+Sun Nov 30 22:55:02 2014	8	Lee Rogers	You Won't Have To Wait Till Christmas	n/a
+Sun Nov 30 22:57:16 2014	8	Johnny & Jon	Christmas In Viet Nam	n/a
+Sun Nov 30 23:00:24 2014	8	Al Green	It Feels Like Christmas	n/a
+Sun Nov 30 23:03:40 2014	9	The Stylistics	I'll Be Home For Christmas	n/a
+Sun Nov 30 23:05:08 2014	9	William Bell	Everyday Will Be A Holiday	n/a
+Sun Nov 30 23:07:35 2014	11	The Flirtations	Christmas Time Is Here Again	n/a
+Sun Nov 30 23:11:13 2014	10	The Soul Stirrers	Christmas Means Love	n/a
+Sun Nov 30 23:13:17 2014	10	The Jackson 5	Santa Claus Is Coming To Town	The Best Christmas Album In The World...Ever!
+Sun Nov 30 23:15:36 2014	11	Jimmy Jules & Nuclear Soul System	Xmas Done Got Funky	Santa's Funk & Soul Christmas Party (Full Version)
+Sun Nov 30 23:18:58 2014	11	The Gems	Love For Christmas	n/a
+Sun Nov 30 23:21:31 2014	11	Carla Thomas	All I Want For Christmas Is You	The Complete Stax/Volt Singles: 1959-1968 [Disc 7]
+Sun Nov 30 23:23:08 2014	11	Isaac Hayes	The Mistletoe And Me	Christmas In Soulsville
+Sun Nov 30 23:26:59 2014	10	Aretha Franklin	The Christmas Song	n/a
+Sun Nov 30 23:29:43 2014	10	Stevie Wonder	Christmastime	n/a
+Sun Nov 30 23:32:16 2014	11	Clarence Carter	Back Door Santa	n/a
+Sun Nov 30 23:34:11 2014	12	Vernon Garrett & Sir Stan and The Counts	Christmas Groove	n/a
+Sun Nov 30 23:36:50 2014	10	Otis Redding	Merry Christmas, Baby	n/a
+Sun Nov 30 23:39:08 2014	9	Gladys Knight & The Pips	Jingle Bells	n/a
+Sun Nov 30 23:43:00 2014	9	Huey Plano Smith & The Clowns	Silent Night	n/a
+Sun Nov 30 23:45:58 2014	9	Somkey Robinson & The Miracles	The Christmas Song (Merry Christmas To You)	n/a
+Sun Nov 30 23:48:51 2014	10	Salsoul Orchestra	Silent Night	Christmas Jollies
+Sun Nov 30 23:50:56 2014	10	Solomon Burke	Presents For Christmas	n/a
+Sun Nov 30 23:54:01 2014	8	The Supremes	Rudolph The Red-Nosed Reindeer	n/a
+Sun Nov 30 23:56:36 2014	10	The Dramatics	A Holiday Thought	A Dramatic Christmas (The Very Best Christmas Of All)

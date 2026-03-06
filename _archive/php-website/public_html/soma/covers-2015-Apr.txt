@@ -1,0 +1,638 @@
+Wed Apr  1 00:01:21 2015	26	New Found Glory	J'y Suis Jamais Alle	From the Screen to Your Stereo 2
+Wed Apr  1 00:02:54 2015	28	Dingees	Dear John Letter (To The Devil)	Start Right Here: Tribute to Keith Green
+Wed Apr  1 00:05:23 2015	25	Hit The Lights	Hey Jealousy	Punk Goes 90's (Compilation)
+Wed Apr  1 00:08:20 2015	25	Stephen Malkmus And The Million Dollar Bashers	Maggie's Farm	Iam Not There
+Wed Apr  1 00:13:38 2015	26	Impossibles	The Good Life	Rock Music: A Tribute to Weezer (Compilation)
+Wed Apr  1 00:17:20 2015	28	Gary Jules	Mad World {From Donnie Darko}	Trading Snakeoil for Wolftickets
+Wed Apr  1 00:20:15 2015	26	Bonnie Prince Billy	I've Seen It All	Indie/Rock Playlist: December (2007)
+Wed Apr  1 00:24:12 2015	26	Dirty Projectors	Hyperballad	Stereogum Presents... Enjoyed: A Tribute to BjAPrk's Post
+Wed Apr  1 00:28:15 2015	26	Vampire Weekend	Everywhere	n/a
+Wed Apr  1 00:31:10 2015	26	Mount Eerie With Julie Doiron	Voice In Headphones	Lost Wisdom
+Wed Apr  1 00:33:29 2015	26	Me First And The Gimme Gimmes	Hava Nagila	Ruin Jonny's Bar Mitzvah
+Wed Apr  1 00:36:30 2015	26	Purplecar	Fascination Street	Strange as Angels
+Wed Apr  1 00:40:27 2015	27	Set Your Goals	Put Yo Hood Up	Punk Goes Crunk
+Wed Apr  1 00:45:12 2015	27	Alexq	Magic Carpet Ride	n/a
+Wed Apr  1 00:48:39 2015	29	Isaac Hayes	Lay Lady Lay	Tangled Up In Blues
+Wed Apr  1 00:54:16 2015	29	Inkubus Sukkubus	Paint It Black	Vampyre Erotica
+Wed Apr  1 00:57:27 2015	26	Cat Power	Red Apples	The Covers Record
+Wed Apr  1 01:01:28 2015	28	Manchester Orchestra	Brother	Annuals / Manchester Orchestra (Single)
+Wed Apr  1 01:04:40 2015	29	Eric Reed	My Man's Gone Now, Gone, Gone, Gone	n/a
+Wed Apr  1 01:12:42 2015	29	Motyrhead	God Save The Queen	n/a
+Wed Apr  1 01:15:55 2015	28	New Found Glory	That Thing You Do	From the Screen to Your Stereo
+Wed Apr  1 01:17:51 2015	28	Gym Class Heroes	Under The Bridge	Punk Goes 90's (Compilation)
+Wed Apr  1 01:21:08 2015	27	Rage Against The Machine	Kick Out The Jams	Renegades
+Wed Apr  1 01:24:21 2015	28	Jason & The Scorchers	Take Me Home, Country Roads	A Blazing Grace
+Wed Apr  1 01:27:29 2015	28	Stranglers	Walk On By	Greatest Hits 1977-1990
+Wed Apr  1 01:33:43 2015	28	Patti Smith	Smells Like Teen Spirit	Twelve
+Wed Apr  1 01:40:15 2015	27	Shane Macgowan & The Popes	Cracklin' Rosie	Rare Oul'stuff
+Wed Apr  1 01:43:40 2015	26	Sinyad O'connor	Chiquitita	n/a
+Wed Apr  1 01:47:54 2015	26	Flaming Lips	(Just Like) Starting Over	Instant Karma: The Amnesty International Campaign To Save Darfur [Disc 2]
+Wed Apr  1 01:51:14 2015	27	Me First And The Gimme Gimmes	Nobody Does It Better	Have a Ball
+Wed Apr  1 01:53:32 2015	28	Foo Fighters	Kiss The Bottle	Best of You (Single)
+Wed Apr  1 01:57:25 2015	28	Matthew Dear	Sound & Vision	Life Beyond Mars Bowie Covered
+Wed Apr  1 02:01:41 2015	27	Tom Verlaine And The Million Dollar Bashers	Cold Irons Bound	Iam Not There
+Wed Apr  1 02:08:58 2015	28	Blink-182	Dancing With Myself	Before You Were Punk
+Wed Apr  1 02:11:55 2015	26	Limp Bizkit	1999	n/a
+Wed Apr  1 02:15:15 2015	27	Gus	(Don't Fear) The Reaper	Undercover I (Compilation)
+Wed Apr  1 02:20:03 2015	27	Lene Lovich	I Think We're Alone Now	Lucky Number: The Best Of Lene Lovitch
+Wed Apr  1 02:22:58 2015	28	Dropkick Murphys	The Guns Of Brixton	Cheap Shots And Low Blows, Vol. 1: The Tko Singles 1997-1998
+Wed Apr  1 02:25:27 2015	28	Church	I Am A Rock	Postpunk Chronicles: Left of the Dial (Compilation)
+Wed Apr  1 02:27:38 2015	30	Belle And Sebastian	San Francisco	n/a
+Wed Apr  1 02:30:42 2015	31	She & Him	Swing Low, Sweet Chariot	Volume One
+Wed Apr  1 02:32:03 2015	31	Ghoti Hook	Hey Nonny Nonny	Songs We Didn't Write
+Wed Apr  1 02:35:03 2015	31	Say Anything	The Man In Me (Feat. Chris Conley)	n/a
+Wed Apr  1 02:37:24 2015	31	New Found Glory	Iris	From the Screen to Your Stereo 2
+Wed Apr  1 02:41:05 2015	30	Emperor Machine	Repetition	Life Beyond Mars Bowie Covered
+Wed Apr  1 02:47:01 2015	37	Marianne Faithfull	The Ballad Of Lucy Jordan	Songbird
+Wed Apr  1 02:50:53 2015	33	Whitlams	Tangled Up In Blue	Eternal Nightcap
+Wed Apr  1 02:56:21 2015	33	Tortoise And Bonnie 'Prince' Billy	Thunder Road	The Brave And The Bold
+Wed Apr  1 03:02:14 2015	34	Nouvelle Vague	Guns Of Brixton	Best of Nouvelle Vague
+Wed Apr  1 03:06:26 2015	37	Trotsky Icepick	The Light Pours Out Of Me	Duck And Cover
+Wed Apr  1 03:08:58 2015	34	Joey Ramone	1969	We Will Fall - The Iggy Pop Tr
+Wed Apr  1 03:12:45 2015	35	Postal Service	Against All Odds	Against All Odds (Single)
+Wed Apr  1 03:16:52 2015	35	Neil Young	All Along The Watchtower	Road Rock, Vol. 1: Friends & Relatives
+Wed Apr  1 03:22:58 2015	35	Aretha Franklin	Respect	Soul Queen
+Wed Apr  1 03:25:20 2015	34	Scissor Sisters	Comfortably Numb	Scissor Sisters [UK Bonus Tracks]
+Wed Apr  1 03:28:44 2015	34	Colin Meloy	Charlie	Colin Meloy Sings trad. arr. Shirley Collins EP
+Wed Apr  1 03:31:32 2015	36	Format	Do You Believe In Magic	B-Sides and Rarities (Compilation)
+Wed Apr  1 03:33:20 2015	36	Mission	Never Let Me Down	Aural Delight
+Wed Apr  1 03:37:30 2015	36	Equinox	Hole In The Sky	Hell Rules 2
+Wed Apr  1 03:41:39 2015	34	Vika Yermolyeva	Soundcheck Improvisation In Nin Style	n/a
+Wed Apr  1 03:44:10 2015	34	Belle And Sebastian	Billie Jean	n/a
+Wed Apr  1 03:48:34 2015	30	Mark Ronson F. Alex Greenwald	Just	Exit Music: Songs With Radio Heads
+Wed Apr  1 03:53:53 2015	30	Ol' Dirty Bastard	Sussudio	Urban Renewal: Featuring the Songs of Phil Collins
+Wed Apr  1 03:58:12 2015	29	Smashing Pumpkins	Landslide	Unplugged
+Wed Apr  1 04:01:09 2015	29	Shout Out Louds	Man On The Moon	Stereogum Presents... DRIVE XV: A Tribute to Automatic for the People
+Wed Apr  1 04:05:51 2015	29	Twistin' Tarantulas	Ace Of Spades	n/a
+Wed Apr  1 04:08:30 2015	29	Ben Lee	Thrash Unreal	Ben Lee Sings Against Me! New Wave
+Wed Apr  1 04:12:31 2015	30	Wilson Pickett	Hey Jude	Hey Jude
+Wed Apr  1 04:16:33 2015	30	Kelly Osbourne	Papa Don't Preach	Changes
+Wed Apr  1 04:19:54 2015	30	A Teens	Gimme Gimme Gimme (A Man After Midnight)	Greatest Hits
+Wed Apr  1 04:23:43 2015	30	Nouvelle Vague	In A Manner Of Speaking	Best of Nouvelle Vague
+Wed Apr  1 04:27:48 2015	32	Bruce Dickinson	All The Young Dudes	Tattooed Millionaire
+Wed Apr  1 04:31:12 2015	30	Faith No More	Let's Lynch The Landlord	Virus 100: Dead Kennedy Covers
+Wed Apr  1 04:33:58 2015	33	Rx Bandits	Holy Wars	n/a
+Wed Apr  1 04:39:12 2015	30	Living Colour	Should I Stay Or Should I Go	Vivid [Bonus Tracks]
+Wed Apr  1 04:41:34 2015	30	Frente	Bizarre Love Triangle	Marvin the Album
+Wed Apr  1 04:43:27 2015	29	Escape Frame	Nothin' But A G Thang (Dr. Dre)	n/a
+Wed Apr  1 04:46:50 2015	31	Audrye Sessions	Waltz 2 (Xo)	n/a
+Wed Apr  1 04:51:41 2015	29	Anberlin	Enjoy The Silence	Lost Songs
+Wed Apr  1 04:55:12 2015	29	Belle And Sebastian	Everyday People	n/a
+Wed Apr  1 04:57:29 2015	30	Me First And The Gimme Gimmes	East Bound And Down	Love Their Country
+Wed Apr  1 04:59:28 2015	31	Replacements	Cruella De Ville	All for Nothing/Nothing for All
+Wed Apr  1 05:01:29 2015	31	Matchbox 20	Never Going Back Again	Tribute To Fleetwood Mac
+Wed Apr  1 05:05:12 2015	30	Kim Wilde	You Keep Me Hangin' On	Very Best Of Kim Wilde [Emi]
+Wed Apr  1 05:09:20 2015	31	Stereophonics	Nothing Compares 2 U	Nme Presents: 1 Love
+Wed Apr  1 05:13:27 2015	31	Goldfinger	99 Red Balloons	Stomping Ground
+Wed Apr  1 05:17:00 2015	32	Vika Yermolyeva	Sentimental Improvisation, November 28 2008	n/a
+Wed Apr  1 05:22:10 2015	32	Forgive Durden	Watching The Detectives	B-Sides
+Wed Apr  1 05:24:47 2015	33	Feist	Sea-Lion Woman	live @ Bazaar Curieux 2004
+Wed Apr  1 05:30:23 2015	35	Ub40	Can't Help Falling In Love	Promises And Lies
+Wed Apr  1 05:33:37 2015	34	Hellacopters	455 Sd	Disappointment Blues
+Wed Apr  1 05:36:26 2015	34	Mallu Magalhyes	Folsom Prison Blues (Johnny Ca	n/a
+Wed Apr  1 05:38:32 2015	35	David Bazan	Waiting For Superman (Live)	n/a
+Wed Apr  1 05:41:59 2015	34	Clash	Police And Thieves	The Clash
+Wed Apr  1 05:47:48 2015	32	Elvis Costello	She	The Very Best Of Elvis Costello
+Wed Apr  1 05:50:54 2015	32	Paul Coleman	I'm So Blue	n/a
+Wed Apr  1 05:54:09 2015	32	Arno	Knowing Me, Knowing You	Song Of Norway (1944 Original Cast Members)
+Wed Apr  1 05:58:20 2015	31	Forever The Sickest Kids	Men In Black	Punk Goes Crunk
+Wed Apr  1 06:01:28 2015	30	Radiohead	Wonderwall	Live Covers
+Wed Apr  1 06:02:40 2015	30	Motoyyrhead	Enter Sandman	n/a
+Wed Apr  1 06:07:28 2015	33	Barenaked Ladies	A Message To You Rudy	Maybe You Should Drive
+Wed Apr  1 06:10:14 2015	33	Reel Big Fish	Hungry Like The Wolf	Sold Out E.P. (Single)
+Wed Apr  1 06:13:31 2015	34	Presidents Of The United S	Ca Plane Pour Moi	n/a
+Wed Apr  1 06:15:15 2015	34	Tool	Stranglehold	Unrealeased Tracks
+Wed Apr  1 06:24:43 2015	32	Mustard Plug	The Freshman	You / The Freshman (Single)
+Wed Apr  1 06:27:56 2015	31	Bishop Allen	Ring Of Fire	Live @ Velvet Lounge
+Wed Apr  1 06:30:34 2015	33	Ghoti Hook	True Faith	Songs We Didn't Write
+Wed Apr  1 06:34:36 2015	32	Doveman	Footloose	n/a
+Wed Apr  1 06:39:33 2015	32	Foo Fighters	I'm In Love With A German Filmstar	n/a
+Wed Apr  1 06:43:43 2015	32	Mxpx	Take On Me	On the Cover
+Wed Apr  1 06:47:08 2015	33	Vika Yermolyeva	Missing	n/a
+Wed Apr  1 06:50:36 2015	36	Jeff Buckley	Hallelujah	Grace
+Wed Apr  1 06:57:21 2015	35	Less Than Jake	Summer Nights	Greased
+Wed Apr  1 06:59:21 2015	36	New Found Glory	My Heart Will Go On	From the Screen to Your Stereo
+Wed Apr  1 07:02:11 2015	34	Emery	Holding Out For A Hero	Punk Goes 80's (Compilation)
+Wed Apr  1 07:06:12 2015	34	All Time Low	Umbrella	Punk Goes Crunk
+Wed Apr  1 07:09:51 2015	35	Torgny Melins	Hey Boy	Dansbander
+Wed Apr  1 07:13:08 2015	36	Cassie	Kiss Me	Cassie
+Wed Apr  1 07:17:16 2015	39	Roper	You're Still The One	Brace Yourself for the Mediocre
+Wed Apr  1 07:20:11 2015	37	Colin Meloy	Summertime	Colin Meloy Sings Sam Cooke EP
+Wed Apr  1 07:22:50 2015	39	Nouvelle Vague	Love Will Tear Us Apart	Nouvelle Vague
+Wed Apr  1 07:25:56 2015	37	Bobs	Psycho Killer	The Bobs
+Wed Apr  1 07:29:24 2015	39	Vika Yermolyeva	Weird Bluesy Tune	n/a
+Wed Apr  1 07:33:19 2015	37	David Lee Roth	California Girls	Classic Rock 80's
+Wed Apr  1 07:35:53 2015	38	Goldfinger	You Say You Don't Love Me	Darrin's Coconut Ass: Live
+Wed Apr  1 07:38:16 2015	38	Somethingawful.Com	Angel Of Death	n/a
+Wed Apr  1 07:43:02 2015	39	Amber Pacific	Video Killed The Radio Star	Punk Goes 80's (Compilation)
+Wed Apr  1 07:45:33 2015	38	Ghoti Hook	Earth Angel	Songs We Didn't Write
+Wed Apr  1 07:47:41 2015	40	Johnny Cash	In My Life	American 4: The Man Comes Around
+Wed Apr  1 07:50:34 2015	42	Fuzztones	Night Of The Vampire	Monster A-Go-Go
+Wed Apr  1 07:54:49 2015	38	Mg The Visionary	My Eyes Are Dry	Start Right Here: Tribute to Keith Green
+Wed Apr  1 07:58:43 2015	37	Emmy The Great	Where Is My Mind? (Pixies Cove	n/a
+Wed Apr  1 08:01:42 2015	38	Matisyahu	Message In A Bottle	Playlist: the Very Best of Matisyahu
+Wed Apr  1 08:05:32 2015	39	Aerosmith	Remember (Walking In The Sand)	Greatest Hits
+Wed Apr  1 08:09:34 2015	38	Mission Uk	Atomic	Ruby Trax
+Wed Apr  1 08:14:10 2015	40	Pet Ghost Project	Box Elder	n/a
+Wed Apr  1 08:16:51 2015	40	Slayer	Hand Of Doom	Nativity In Black Ii
+Wed Apr  1 08:22:09 2015	39	Say Anything	I Got Your Money	Punk Goes Crunk (Compilation)
+Wed Apr  1 08:26:37 2015	36	Solarisis	Nothing Else Matters	n/a
+Wed Apr  1 08:31:31 2015	37	Curtis Stigers	(What's So Funny About) Peace,	n/a
+Wed Apr  1 08:35:33 2015	38	U2	Everlasting Love	Best Of 1980-1990/B-Sides
+Wed Apr  1 08:38:49 2015	40	Bedlight For Blue Eyes	Jumper	Punk Goes 90's (Compilation)
+Wed Apr  1 08:42:36 2015	40	Leaving Trains	The Horse Song	Duck And Cover
+Wed Apr  1 08:44:12 2015	39	Run Run Run (Z-Trip Remix)	Fade Into You	n/a
+Wed Apr  1 08:47:31 2015	42	Death Cab For Cutie	Rocking Chair	n/a
+Wed Apr  1 08:52:03 2015	39	Peacocks	Ballroom Blitz	Metaliska
+Wed Apr  1 08:55:52 2015	35	Hellacopters	Low Down Shakin' Chills	Cream of the Crap!, Vol. 2
+Wed Apr  1 09:00:18 2015	31	Johnny Cash	I Won't Back Down	American Iii: Solitary Man
+Wed Apr  1 09:02:24 2015	32	Nomads	This Ain't The Summer Of Love	Showdown!
+Wed Apr  1 09:04:35 2015	31	Grade	Surf Wax America	Rock Music: A Tribute to Weezer (Compilation)
+Wed Apr  1 09:07:17 2015	34	Tina Turner	Unfinished Sympathy	Wildest Dreams
+Wed Apr  1 09:11:31 2015	36	Rabbit in the Moon	Waiting For The Night	For the Masses
+Wed Apr  1 09:18:46 2015	35	Rod Stewart	Just Like A Woman	Tonight I'm Yours
+Wed Apr  1 09:22:54 2015	33	Noise Ratchet	Crush	Punk Goes Pop (Compilation)
+Wed Apr  1 09:26:03 2015	32	Muffs	Kids In America	Clueless
+Wed Apr  1 09:28:42 2015	35	Sara Lov	My Body Is A Cage (Arcade Fire	The Young Eyes EP
+Wed Apr  1 09:33:14 2015	36	Joe Strummer & The Mescaleros	Redemption Song	Streetcore
+Wed Apr  1 09:36:44 2015	39	Electric Hellfire Club	Sunday Bloody Sunday	n/a
+Wed Apr  1 09:40:53 2015	33	New Found Glory	Tennessee	Punk Goes Crunk (Compilation)
+Wed Apr  1 09:44:53 2015	33	Angelic Upstarts	We Gotta Get Out Of This Place	Punk Singles Collection
+Wed Apr  1 09:48:54 2015	33	Bigwig	War Ensemble	n/a
+Wed Apr  1 09:53:56 2015	33	Revolting Cocks	Da Ya Think I'm Sexy?	Da Ya Think I'm Sexy?
+Wed Apr  1 09:59:35 2015	33	Palimpsest 9	Fascination Street	n/a
+Wed Apr  1 10:06:40 2015	33	Ben Lee	Stop	The Bens
+Wed Apr  1 10:09:00 2015	32	Get Up Kids	Suffragette City	Eudora
+Wed Apr  1 10:12:12 2015	33	Motion City Soundtrack	Pop Song 89	My Dinosaur Life (LP includes Download Insert) [Vinyl]
+Wed Apr  1 10:15:14 2015	32	Apocalyptica	Until It Sleeps	Cult
+Wed Apr  1 10:18:42 2015	32	Automatic 7	Pretty In Pink	Before You Were Punk
+Wed Apr  1 10:21:36 2015	33	Ciccone Youth	Into The Groove	Screaming Fields Of Sonic Love
+Wed Apr  1 10:25:50 2015	32	Johnny Cash	Personal Jesus	American Iv: The Man Comes Around
+Wed Apr  1 10:29:10 2015	34	P.O.S.	All Along The Watchtower	Paupers, Peasants, Princes &amp; Kings: The Songs of Bob Dylan (Compilation)
+Wed Apr  1 10:32:22 2015	29	Joe Cocker	You Can Leave Your Hat On	The Ultimate Collection 1968-2003
+Wed Apr  1 10:36:31 2015	34	Blind Faith	Well All Right	Blind Faith (Deluxe Edition)
+Wed Apr  1 10:40:36 2015	38	Foo Fighters	Sister Europe	Wasting Light
+Wed Apr  1 10:45:29 2015	38	Reel Big Fish	Boys Don't Cry	Our Live Album Is Better Than Your Live Album
+Wed Apr  1 10:47:15 2015	35	Letters To Cleo	Dreams	Sister
+Wed Apr  1 10:51:42 2015	32	Bruce Springsteen	Jersey Girl	Live/1975-85
+Wed Apr  1 10:58:26 2015	35	Easy Star All-Stars	No Surprises (Feat. The Meditations)	Radiodread [Vinyl]
+Wed Apr  1 11:02:12 2015	34	Xiu Xiu	Fast Car	A Promise
+Wed Apr  1 11:07:54 2015	32	Dresden Dolls	No One Knows	Live In Paris, FR Zenith 06-22-05
+Wed Apr  1 11:12:38 2015	29	Ben Folds	Songs Of Love	Supersunnyspeedgraphic - The LP
+Wed Apr  1 11:16:55 2015	29	Ravens & Chimes	So Long, Marianne (Leonard Coh	n/a
+Wed Apr  1 11:21:51 2015	29	Monster Magnet	Gimme Danger	We Will Fall: The Iggy Pop Tribute
+Wed Apr  1 11:25:30 2015	32	Stevie Ray Vaughan	Superstition	The Best Of
+Wed Apr  1 11:28:39 2015	30	Trio Sourire	Satisfaction	Ultra Chicks, Volume 5: Chicks A  Gogo! (Compilation)
+Wed Apr  1 11:31:10 2015	32	David Moore	Abandoned Love	Paupers, Peasants, Princes &amp; Kings: The Songs of Bob Dylan (Compilation)
+Wed Apr  1 11:35:38 2015	29	Hellsongs	Seek & Destroy	Lounge
+Wed Apr  1 11:38:52 2015	29	Steve Fitch	Sound & Vision	n/a
+Wed Apr  1 11:43:45 2015	28	John Mayer	Kid A	Bigger Than My Body (Single)
+Wed Apr  1 11:46:12 2015	27	Marilyn Manson	Tainted Love	Not Another Teen Movie Soundtrack
+Wed Apr  1 11:49:40 2015	28	Tori Amos	Losing My Religion	Higher Learning
+Wed Apr  1 11:54:39 2015	30	You Say Party We Say Die	Nightswimming	Stereogum Presents... DRIVE XV: A Tribute to Automatic for the People
+Wed Apr  1 11:58:37 2015	31	Fatboy Slim	The Joker	Palookaville
+Wed Apr  1 12:04:00 2015	31	Kidneythieves	Crazy	Zerospace
+Wed Apr  1 12:07:31 2015	32	Belle And Sebastian	Turn Turn Turn	n/a
+Wed Apr  1 12:10:15 2015	34	Vika Yermolyeva	Comptine D'un Autre Ete L'apres Midi	n/a
+Wed Apr  1 12:12:17 2015	32	Mad Caddies	S.O.S.	Holiday Is Cancelled
+Wed Apr  1 12:15:17 2015	29	Rachid Taha	Rock The Casbah	Worlds Dance Music July 5
+Wed Apr  1 12:19:35 2015	29	Format	Glutton Of Sympathy	Reel to Reel V3.4: Nettwerk Covers
+Wed Apr  1 12:23:12 2015	29	Helloween	Lay All Your Love On Me	Metal Jukebox
+Wed Apr  1 12:27:49 2015	29	O.C. Supertones	I Can Be Your Friend	Veggie Rocks!
+Wed Apr  1 12:30:39 2015	28	Me First And The Gimme Gimmes	Who Put The Bomp	Blow in the Wind [Vinyl]
+Wed Apr  1 12:32:31 2015	25	Talisman	Frozen	Truth
+Wed Apr  1 12:37:43 2015	26	Sinead O'Connor	Someday	Stay Awake (disney covers)
+Wed Apr  1 12:38:50 2015	26	Ramones	Street Fighting Man	Too Tough to Die [Expanded]
+Wed Apr  1 12:41:34 2015	26	Foo Fighters	Requiem	Colour & The Shape (Exp)
+Wed Apr  1 12:44:57 2015	25	Hives	Lost And Found	Main Offender (Single)
+Wed Apr  1 12:48:36 2015	28	Marissa Nadler	No Surprises (Feat. Black Hole Infinity)	n/a
+Wed Apr  1 12:52:34 2015	26	Cure	Young Americans	Seventeen Seconds [Deluxe Edition]
+Wed Apr  1 12:58:40 2015	30	Johnny Cash	Solitary Man	American III: Solitary Man
+Wed Apr  1 13:00:57 2015	29	Cardigans	Iron Man	First Band On The Moon
+Wed Apr  1 13:05:12 2015	29	Housemartins	He Ain't Heavy, He's My Brothe	London 0 Hull 4
+Wed Apr  1 13:07:55 2015	27	Gourds	Gin & Juice	Shinebox
+Wed Apr  1 13:14:34 2015	26	Nouvelle Vague	Psyche	Nouvelle Vague (Clean)
+Wed Apr  1 13:18:38 2015	28	Divine Comedy	There Is A Light That Never Go	n/a
+Wed Apr  1 13:23:34 2015	29	Jason & The Scorchers	Absolutely Sweet Marie	Essential, Vol. 1 (Are You Ready For The Country?)
+Wed Apr  1 13:26:49 2015	29	Dynamite Hack	Boys In The Hood	n/a
+Wed Apr  1 13:29:46 2015	30	Fugees	Killing Me Softly	The Score
+Wed Apr  1 13:34:32 2015	26	Dollyrots	Brand New Key	Because I'm Awesome
+Wed Apr  1 13:37:08 2015	27	Pogues	Dirty Old Town	Rum Sodomy & the Lash
+Wed Apr  1 13:40:51 2015	25	Elvis Costello	(What's So Funny About) Peace,	n/a
+Wed Apr  1 13:44:10 2015	24	Fall Silent	Sesame Street	Six Years in the Dessert
+Wed Apr  1 13:46:18 2015	25	Ben Lee	Float On (Modest Mouse)	n/a
+Wed Apr  1 13:50:17 2015	24	Faith No More	Glorybox	n/a
+Wed Apr  1 13:51:50 2015	27	Korn	Word Up	Korn - Greatest Hits, Vol. 1
+Wed Apr  1 13:54:37 2015	25	Sarcastic Dharma Society	First Day Of My Life (Bright E	n/a
+Wed Apr  1 13:57:07 2015	27	Bauhaus	Telegram Sam	In The Flat Field [Reissue]
+Wed Apr  1 13:59:12 2015	26	Thom Yorke	After The Gold Rush	Live @ The Bridge School
+Wed Apr  1 14:02:51 2015	28	Vika Yermolyeva	To Forgive	n/a
+Wed Apr  1 14:06:31 2015	28	Wrens	Nightswimming	Stereogum Presents... DRIVE XV: A Tribute to Automatic for the People
+Wed Apr  1 14:10:48 2015	25	My American Heart	California Love	Punk Goes Crunk
+Wed Apr  1 14:14:59 2015	28	Nouvelle Vague	Escape Myself	Bande a Part
+Wed Apr  1 14:18:33 2015	25	Green Day	I Fought The Law	Rhythms del Mundo: Revival
+Wed Apr  1 14:20:57 2015	26	Me First And The Gimme Gimmes	Danny's Song	Have a Ball
+Wed Apr  1 14:23:31 2015	28	Brazil	Wrapped Around Your Finger	n/a
+Wed Apr  1 14:28:21 2015	25	Metallica	Turn The Page	Garage, Inc.
+Wed Apr  1 14:34:26 2015	25	Tom Jones	Burning Down The House	Reload
+Wed Apr  1 14:37:42 2015	24	Flight 180	I Wanna Be Like You	Lineup
+Wed Apr  1 14:41:41 2015	25	Ben Lee	Up The Cuts	Ben Lee Sings Against Me! New Wave
+Wed Apr  1 14:44:17 2015	24	Doveman	Somebody's Eyes	n/a
+Wed Apr  1 14:48:44 2015	24	Easy Star All-Stars	Let Down (Feat. Toots & The Maytals)	Radiodread [Vinyl]
+Wed Apr  1 14:53:16 2015	25	Stevie Wonder	Redemption Song	The Very Best Of (2Cds)
+Wed Apr  1 14:56:59 2015	26	Pat Boone	Paradise City	In a Metal Mood: No More Mr. Nice Guy
+Wed Apr  1 15:01:40 2015	26	Sharon Jones & The Dap-Kings	Inspiration Information	Dark Was The Night- (2) That Disc
+Wed Apr  1 15:05:34 2015	27	Magic Numbers	There Is A Light That Never Go	n/a
+Wed Apr  1 15:09:43 2015	26	Paper Covers Rock	Girlfriend In A Coma	n/a
+Wed Apr  1 15:11:27 2015	26	Tunng	Pioneers	This Is Tunng Live from the BBC
+Wed Apr  1 15:15:54 2015	25	Ramones	Out Of Time	Acid Eaters
+Wed Apr  1 15:18:33 2015	28	Estelle	Superstizion	n/a
+Wed Apr  1 15:21:55 2015	26	Rodrigo Y Gabriela	Orion	Live In Japan
+Wed Apr  1 15:29:25 2015	27	Devo	Head Like A Hole	Pioneers Who Got Scalped: The Anthology
+Wed Apr  1 15:34:13 2015	26	Disturbed	Shout 2000	Sickness
+Wed Apr  1 15:38:28 2015	24	Death Cab For Cutie	World Shut Your Mouth	Crooked Teeth (Single)
+Wed Apr  1 15:41:12 2015	23	Wailing Souls	Like A Rolling Stone	Psychedelic Souls
+Wed Apr  1 15:45:24 2015	24	Cadet	You Are The One	Start Right Here: Tribute to Keith Green
+Wed Apr  1 15:49:23 2015	24	Nouvelle Vague	Friday Night, Saturday Morning	Nouvelle Vague (Clean)
+Wed Apr  1 15:53:41 2015	24	Scarling	Creep	Band Aid Covers The Bullet Hole Ep
+Wed Apr  1 15:57:14 2015	25	Type O Negative	Cinnamon Girl	October Rust
+Wed Apr  1 16:01:10 2015	19	Colin Meloy	Everyday Is Like Sunday	Colin Meloy Sings Morrissey EP
+Wed Apr  1 16:04:30 2015	19	Shinehead	Billie Jean	Back To Mine
+Wed Apr  1 16:07:37 2015	21	Ol' Dirty Bastard	Sussudio	Urban Renewal: Featuring the Songs of Phil Collins
+Wed Apr  1 16:11:46 2015	21	Internal Roster Error	God Must Have Spent A Little More Time On You	n/a
+Wed Apr  1 16:15:48 2015	24	Somethingawful.Com	Closing Time	n/a
+Wed Apr  1 16:20:17 2015	21	Flaming Lips	Seven Nation Army	Late Night Tales
+Wed Apr  1 16:23:14 2015	21	Cure	Hello, I Love You	Rubaiyat: Elektra's 40Th Anniversary
+Wed Apr  1 16:26:32 2015	22	Redbird	You Are The Everything	Redbird (IMPORT)
+Wed Apr  1 16:29:29 2015	22	Ricky Lee Jones	Rebel Rebel	Traffic From Paradise
+Wed Apr  1 16:33:56 2015	21	Rufus Wainwright	Smile	Sweetheart 2005: Love Songs
+Wed Apr  1 16:38:28 2015	20	Meat Puppets	Good Golly Miss Molly	Duck And Cover
+Wed Apr  1 16:41:14 2015	20	Susumu Yokota	Golden Years	Life Beyond Mars Bowie Covered
+Wed Apr  1 16:44:39 2015	20	Ugly Kid Joe	Live Wire	Great Metal Covers 8
+Wed Apr  1 16:50:40 2015	19	Motyrhead	Enter Sandman	n/a
+Wed Apr  1 16:55:39 2015	18	Mad Caddies	Sos	The Holiday Has Been Cancelled
+Wed Apr  1 16:58:32 2015	19	Iggy Pop	Real Wild Child	Blah Blah Blah
+Wed Apr  1 17:02:00 2015	19	Incubus	Turning Japanese	n/a
+Wed Apr  1 17:05:27 2015	18	Ike & Tina Turner	Stagger Lee	Proud Mary
+Wed Apr  1 17:08:16 2015	17	Nouvelle Vague	Just Can't Get Enough	Nouvelle Vague
+Wed Apr  1 17:11:12 2015	17	Flight 180	He'll Take Care Of The Rest	Start Right Here: Tribute to Keith Green
+Wed Apr  1 17:14:30 2015	16	Mxpx	Marie, Marie	On the Cover
+Wed Apr  1 17:16:09 2015	16	Rasputina	Wish You Were Here	Lost & Found 2nd Edition
+Wed Apr  1 17:20:17 2015	19	Hangnail	Run To The End Of The Highway	Start Right Here: Tribute to Keith Green
+Wed Apr  1 17:23:12 2015	20	Bonnie Prince Billy	I've Seen It All	Indie/Rock Playlist: December (2007)
+Wed Apr  1 17:26:46 2015	18	Patti Smith	Soul Kitchen	Twelve
+Wed Apr  1 17:30:31 2015	19	I'll Harmonics	40 Years	Start Right Here: Tribute to Keith Green
+Wed Apr  1 17:33:44 2015	18	T.a.t.u	How Soon Is Now?	The Best
+Wed Apr  1 17:36:53 2015	19	Soko	Love No	Love No (Single)
+Wed Apr  1 17:40:31 2015	21	Ub40	Red, Red Wine	Greatest Hits
+Wed Apr  1 17:45:40 2015	22	Pixies	I Can't Forget	n/a
+Wed Apr  1 17:48:56 2015	20	Kooks	Victoria	War Child - Heroes: The Ultimate Covers Album
+Wed Apr  1 17:52:12 2015	22	Sinners	Hey Bulldog	Piecebypiece
+Wed Apr  1 17:55:24 2015	21	Easy Star All-Stars	Exit Music (For A Dub)	Radiodread [Vinyl]
+Wed Apr  1 17:59:43 2015	20	The Gourds	Gin & Juice	Shinebox
+Wed Apr  1 18:06:19 2015	20	Fall Of Snow	Pretty In Pink (Talk Talk Talk)	n/a
+Wed Apr  1 18:08:54 2015	20	Colin Meloy	Barbara Allen	Colin Meloy Sings trad. arr. Shirley Collins
+Wed Apr  1 18:13:10 2015	21	L7	Hanging On The Telephone	Jerky Boys [Original Soundtrack]
+Wed Apr  1 18:15:40 2015	20	Format	Apeman	Reel to Reel V3.4: Nettwerk Covers
+Wed Apr  1 18:19:24 2015	20	Colour Revolt	These Few Presidents	Daytrotter Session (Compilation)
+Wed Apr  1 18:22:29 2015	21	Somethingawful.Com	Kashmir	n/a
+Wed Apr  1 18:30:57 2015	21	Dope	You Spin Me Round	X2: Felons And Revolutionaries/ Life
+Wed Apr  1 18:33:42 2015	22	Fall Out Boy	Love Will Tear Us Apart	My Heart Will Always Be The ..
+Wed Apr  1 18:36:50 2015	25	Eric Reed	Overture	Gilbert & Sullivan: H.M.S. Pinafore
+Wed Apr  1 18:38:29 2015	22	Postal Service	Suddenly Everything Has Changed	District Sleeps Alone Tonight
+Wed Apr  1 18:42:13 2015	21	Mark Ronson	Apply Some Pressure (Feat. Paul Smith)	Version
+Wed Apr  1 18:45:46 2015	20	Betty Carter	I'm Wishing	Stay Awake (disney covers)
+Wed Apr  1 18:50:12 2015	19	Arno	Knowing Me, Knowing You	Song Of Norway (1944 Original Cast Members)
+Wed Apr  1 18:54:32 2015	18	Clash	I Fought The Law	Essential Clash
+Wed Apr  1 18:56:59 2015	17	Selecter	James Bond	Greatest Hits
+Wed Apr  1 18:59:17 2015	17	Beyonce	Kitty Kat	B'Day
+Wed Apr  1 19:03:23 2015	17	Sentenced	Creep	Radiohead Tribute
+Wed Apr  1 19:06:56 2015	20	Pearl Jam	Hide Your Love Away	Lost Dogs
+Wed Apr  1 19:08:56 2015	18	Ben Gibbard	Joga	Read: Interpreting BjAPrk
+Wed Apr  1 19:11:57 2015	17	Sheryl Crow	Tombstone Blues	Sheryl Crow And Friends: Live In Central Park
+Wed Apr  1 19:16:46 2015	17	Ben Folds	In Between Days	Supersunnyspeedgraphic - The LP
+Wed Apr  1 19:19:33 2015	17	Hellsongs	Orgasmatron	Lounge
+Wed Apr  1 19:24:57 2015	17	Winter Gloves	Someone Great (Lcd Soundsystem	Fall '08 Sampler (Single)
+Wed Apr  1 19:26:49 2015	16	Krokus	Ballroom Blitz	Blitz
+Wed Apr  1 19:30:54 2015	16	Wall Of Voodoo	Ring Of Fire	Sedated In The Eighties, Vol. 2
+Wed Apr  1 19:34:28 2015	15	Marilyn Manson	Sweet Dreams (Are Made Of This	Smells Like Children
+Wed Apr  1 19:39:33 2015	16	Johnny Cash	Hurt	American Iv: The Man Comes Around
+Wed Apr  1 19:43:01 2015	16	Cat Power	Sea Of Love	The Covers Record
+Wed Apr  1 19:45:15 2015	16	Brand New	Car	Your Favorite Weapon
+Wed Apr  1 19:47:43 2015	16	Housemartins	Caravan Of Love	Now That's What I Call Quite Good!
+Wed Apr  1 19:51:17 2015	18	Steve Earle	Time Has Come Today	Sidetracks
+Wed Apr  1 19:54:58 2015	17	Nouvelle Vague	Dancing With Myself	Best of Nouvelle Vague
+Wed Apr  1 19:57:59 2015	17	Mighty Mighty Bosstones	Sweet Emotion	Awfully Quiet
+Wed Apr  1 20:00:42 2015	19	Slick Shoes	Candy	Punk Goes Pop (Compilation)
+Wed Apr  1 20:04:01 2015	18	Smashing Pumpkins	Dancing In The Moonlight	Unplugged
+Wed Apr  1 20:08:10 2015	17	Vika Yermolyeva	Porcelain Heart	n/a
+Wed Apr  1 20:13:41 2015	18	Mark Ronson	The Only One I Know (Feat. Robbie Williams)	Version [Vinyl]
+Wed Apr  1 20:17:40 2015	17	Sarah Slean	Climbing Up The Walls	Universe
+Wed Apr  1 20:22:46 2015	20	Pistoleers	Bank Robber	This Is Rockabilly Clash
+Wed Apr  1 20:24:44 2015	19	Reel Big Fish	New York, New York	Cheer Up
+Wed Apr  1 20:28:20 2015	18	James William Hindle	I Started A Joke	James William Hindle
+Wed Apr  1 20:31:55 2015	18	Wonder Stuff	Coz I Luv You	If The Beatles Had Read Hunter...The Singles
+Wed Apr  1 20:35:24 2015	19	Marcus Carl Franklin	When The Ship Comes In	I'm Not There [Disc 2]
+Wed Apr  1 20:38:54 2015	20	Ghoti Hook	The Guitar Song	Songs We Didn't Write
+Wed Apr  1 20:42:48 2015	19	Iron And Wine	Such Great Heights	Such Great Heights
+Wed Apr  1 20:46:52 2015	20	Eddie Vedder	I Believe In Miracles	We're a Happy Family: A Tribute to the Ramones
+Wed Apr  1 20:49:42 2015	19	Buena Vista Social Club	High And Dry (El Lele De Los Van Van Feat. Radiohead)	n/a
+Wed Apr  1 20:54:39 2015	18	Audio Adrenaline	Free Ride	The Ultimate Collection
+Wed Apr  1 20:57:59 2015	19	Escape Frame	Nothin' But A G Thang	Punk Goes Crunk (Compilation)
+Wed Apr  1 21:01:22 2015	22	New Found Glory	Lovefool	n/a
+Wed Apr  1 21:04:30 2015	20	Catholicgaydar	Distortions	n/a
+Wed Apr  1 21:07:39 2015	20	Rodrigo Y Gabriela	Stairway To Heaven	Stairway to Heaven
+Wed Apr  1 21:12:29 2015	20	Flight 180	Sing Sing Sing	Lineup
+Wed Apr  1 21:16:44 2015	22	Mog Stunt Team	Hello There	King Of The Retards
+Wed Apr  1 21:18:28 2015	22	Boyfriends	They Don't Know	Once Upon a Time
+Wed Apr  1 21:21:25 2015	20	Ava Quigley	Don't Think Twice, It's All Right	n/a
+Wed Apr  1 21:25:25 2015	19	Flaming Lips	Knives Out	Fight Test EP
+Wed Apr  1 21:29:47 2015	19	Eric Reed	I Got Rhythm	Pure Imagination
+Wed Apr  1 21:34:43 2015	19	Allister	Fraggle Rock Theme	Dead Ends & Girlfriends
+Wed Apr  1 21:35:57 2015	20	Stephen Malkmus And Lee Ranaldo	Can't Leave Her Behind	Iam Not There
+Wed Apr  1 21:37:42 2015	21	Mock Orange	Only In Dreams	Rock Music: A Tribute to Weezer (Compilation)
+Wed Apr  1 21:42:29 2015	19	Ben Folds Five	Video Killed The Radio Star	Ben Folds Five
+Wed Apr  1 21:46:29 2015	18	System Of A Down	Snowblind	Lonely Day
+Wed Apr  1 21:50:53 2015	18	Run-d.m.c.	Walk This Way	Millennium Hip-Hop Party
+Wed Apr  1 21:56:00 2015	16	Megadeth	Paranoid	Warchest
+Wed Apr  1 21:58:27 2015	16	Ben Folds	Bitches Ain't Shit	Bitches Ain't Shit Cds
+Wed Apr  1 22:02:17 2015	17	Flatliners	Rebel Yell	Pandemonium
+Wed Apr  1 22:06:30 2015	15	Starting Line	Big Time Sensuality	Punk Goes 90's (Compilation)
+Wed Apr  1 22:09:27 2015	15	Mobius Band	Subteranean Homesick Alien	n/a
+Wed Apr  1 22:13:39 2015	16	Meco	The Phantom Menace	n/a
+Wed Apr  1 22:16:39 2015	17	Fiona Apple	Across The Universe	Pleasantville [Original Soundtrack]
+Wed Apr  1 22:21:35 2015	19	Twilight Sad	Half A Person (The Smiths Cove	n/a
+Wed Apr  1 22:25:13 2015	18	Diesel Boy	Looks That Kill	Punk Goes Metal (Compilation)
+Wed Apr  1 22:28:37 2015	18	Soundgarden	Come Together	n/a
+Wed Apr  1 22:34:29 2015	19	Me First And The Gimme Gimmes	What I Did For Love	Are a Drag
+Wed Apr  1 22:36:01 2015	20	Laibach	Opus Dei	Anthems
+Wed Apr  1 22:41:02 2015	18	Ghoti Hook	Acquience	n/a
+Wed Apr  1 22:44:27 2015	18	Nouvelle Vague	Bela Lugosi's Dead	Bande a Part
+Wed Apr  1 22:48:17 2015	16	Mark Lanegan	Man In The Long Black Coat	Iam Not There
+Wed Apr  1 22:51:40 2015	16	Violent Femmes	Do You Really Want To Hurt Me	Why Do Birds Sing?
+Wed Apr  1 22:56:28 2015	17	Keane	With Or Without You	Hopes and Fears
+Wed Apr  1 22:59:43 2015	20	Ben Folds Five	Champagne Supernova	Battle of Who Could Care Less (Single)
+Wed Apr  1 23:01:23 2015	19	Ramones	Somebody To Love	Acid Eaters
+Wed Apr  1 23:03:36 2015	20	Roger Mc Guinn And Calexico	One More Cup Of Coffee	n/a
+Wed Apr  1 23:08:09 2015	24	Fake Id	All Or Nothing	Punk Goes Pop (Compilation)
+Wed Apr  1 23:11:22 2015	20	Superchic [K]	The Water Buffalo Song	n/a
+Wed Apr  1 23:14:11 2015	21	Rage Against The Machine	Down On The Street	Renegades
+Wed Apr  1 23:17:42 2015	21	Gary Jules	Mad World	Trading Snakeoil for Wolftickets
+Wed Apr  1 23:20:38 2015	22	Maine	I Wanna Love You	Punk Goes Crunk
+Wed Apr  1 23:23:38 2015	23	Tortoise And Bonnie 'Prince' Billy	Thunder Road	The Brave And The Bold
+Wed Apr  1 23:29:41 2015	25	Student Rick	Heaven Is A Place On Earth	Punk Goes Pop (Compilation)
+Wed Apr  1 23:33:03 2015	24	Bangles	A Hazy Shade Of Winter	Original Motion Picture Soundtrack
+Wed Apr  1 23:35:35 2015	23	W's	Country Roads	Trouble With X
+Wed Apr  1 23:39:26 2015	23	Final Fantasy	Peach, Plum, Pear (Joanna News	n/a
+Wed Apr  1 23:41:55 2015	24	Eric Clapton	After Midnight	Eric Clapton's Rainbow Concert
+Wed Apr  1 23:44:54 2015	23	Last Dinosaur	Beat It	n/a
+Wed Apr  1 23:47:32 2015	24	Patti Smith	The Boy In The Bubble	Twelve
+Wed Apr  1 23:51:54 2015	22	Motoyyrhead	God Save The Queen	n/a
+Wed Apr  1 23:55:26 2015	21	Postal Service	Against All Odds (Take A Look	Wicker Park
+Wed Apr  1 23:59:32 2015	22	Sexton Blake	I Need Love	Plays The Hits
+Thu Apr  2 00:03:42 2015	22	Vroom	Suspect Fled The Scene	n/a
+Thu Apr  2 00:08:45 2015	21	Meco	Lapti Nek	Music Inspired By Star Wars
+Thu Apr  2 00:13:40 2015	21	Colin Meloy	Cherry Tree Carol	Colin Meloy Sings trad. arr. Shirley Collins EP
+Thu Apr  2 00:17:23 2015	21	Billy Idol	Mony Mony	Vh1 Storytellers
+Thu Apr  2 00:22:14 2015	22	Lemonheads	Luka	Creator
+Thu Apr  2 00:25:23 2015	25	Devendra Banhart	In The Summertime	n/a
+Thu Apr  2 00:28:35 2015	23	Nouvelle Vague	Waves	Bande a Part
+Thu Apr  2 00:31:38 2015	23	Blur	Oliver's Army	Peace Together
+Thu Apr  2 00:34:46 2015	23	Ghoti Hook	Walking On Sunshine	Songs We Didn't Write
+Thu Apr  2 00:38:12 2015	25	Ben Folds Five	Raindrops Keep Falling On My Head (Burt Bacharach One Amazing N	n/a
+Thu Apr  2 00:41:16 2015	25	Helena Noguerra	Can't Get You Out Of My Head (	n/a
+Thu Apr  2 00:45:46 2015	23	Doveman	I'm Free (Heaven Helps The Man)	n/a
+Thu Apr  2 00:49:11 2015	26	Obadiah Parker (Outkast)	Hey Ya	n/a
+Thu Apr  2 00:53:35 2015	25	Fanmail	I Want It That Way	Fanmail 2000
+Thu Apr  2 00:56:29 2015	26	Mimi Page	Love Will Tear Us Apart	n/a
+Thu Apr  2 00:59:44 2015	26	Van Canto	Battery (Metallica)	Storm To Come
+Thu Apr  2 01:04:49 2015	27	Sufjan Stevens	Ring Them Bells	I'm Not There [Disc 2]
+Thu Apr  2 01:10:39 2015	25	Barenaked Ladies	One Week	Stunt
+Thu Apr  2 01:16:47 2015	26	Sator	Ring Ring	Svenskt
+Thu Apr  2 01:19:27 2015	25	Tori Amos	Smells Like Teen Spirit	Live at Montreux 1991 & 1992
+Thu Apr  2 01:22:32 2015	25	Who	Summertime Blues [Live]	Live at Leeds
+Thu Apr  2 01:25:44 2015	26	Yo La Tengo	I Wanna Be Your Lover	I'm Not There [Disc 2]
+Thu Apr  2 01:29:44 2015	26	Revolution 409	Crazy Horses	Duck And Cover
+Thu Apr  2 01:32:13 2015	27	Reel Big Fish	There Is Nothin' Like A Dame	Turn the Radio Off
+Thu Apr  2 01:36:39 2015	29	Antony Hegarty	I Was Young When I Left Home (Feat. Bryce Dessner)	n/a
+Thu Apr  2 01:41:20 2015	30	Candy Flip	Strawberry Fields Forever	Madstock
+Thu Apr  2 01:45:23 2015	30	Iron And Wine & Calexico	Dark Eyes	Iam Not There
+Thu Apr  2 01:50:05 2015	30	Flaming Lips	Bohemian Rhapsody	Killer Queen: A Tribute to Queen
+Thu Apr  2 01:57:36 2015	28	Kompressor	Debra	Tribute to Beck
+Thu Apr  2 02:01:39 2015	30	Sugarcult	I Melt With You	Rewind 2001-2008 (Compilation)
+Thu Apr  2 02:05:27 2015	26	Foo Fighters	Have A Cigar	Learn to Fly (Single)
+Thu Apr  2 02:09:04 2015	26	David Bowie	Cactus	Heathen
+Thu Apr  2 02:11:56 2015	27	Byrds	Mr. Tambourine Man	The Essential Byrds [Disc 1]
+Thu Apr  2 02:14:01 2015	24	Tom Jones	Black Betty	Reloaded: Greatest Hits
+Thu Apr  2 02:17:01 2015	28	Scissor Sisters	Do The Strand	War Child - Heroes: The Ultimate Covers Album
+Thu Apr  2 02:21:00 2015	24	Vika Yermolyeva	Terrible Lie	n/a
+Thu Apr  2 02:25:22 2015	22	Yngwie Malmsteen	Keep Yourself Alive	n/a
+Thu Apr  2 02:29:07 2015	21	Andrew Bird	The Giant Of Illinois	Dark Was The Night
+Thu Apr  2 02:33:38 2015	20	Arcade Fire	This Must Be The Place	Neighborhood
+Thu Apr  2 02:38:32 2015	20	Watson Twins	Just Like Heaven	Fire Songs
+Thu Apr  2 02:42:28 2015	20	Quicksand	How Soon Is Now?	Dine Alone (Single)
+Thu Apr  2 02:45:29 2015	21	Doctor And The Medics	Spirit In The Sky	Blandat
+Thu Apr  2 02:48:59 2015	21	Lagwagon	Bad Moon Rising	Duh
+Thu Apr  2 02:51:03 2015	21	Descendents	Wendy	Duck And Cover
+Thu Apr  2 02:53:15 2015	22	Ok Go	Ant Music	Get Over It
+Thu Apr  2 02:56:04 2015	22	Relient K	Manic Monday	Punk Goes 80's (Compilation)
+Thu Apr  2 02:58:30 2015	21	Ben Folds	Get Your Hands Off My Woman	Supersunnyspeedgraphic - The LP
+Thu Apr  2 03:02:17 2015	23	Toots & The Maytals	Take Me Home, Country Roads	In The Dark
+Thu Apr  2 03:05:20 2015	25	Bryan Ferry	Smoke Gets In Your Eyes	Another Time Another Place
+Thu Apr  2 03:07:57 2015	24	Nouvelle Vague	A Forest	Nouvelle Vague (Clean)
+Thu Apr  2 03:11:13 2015	26	Johnny Cash	Hurt	American Iv: The Man Comes Around
+Thu Apr  2 03:14:49 2015	25	Get Up Kids	Beer For Breakfast	Eudora
+Thu Apr  2 03:16:22 2015	25	Casual Lean	Sara	Paupers, Peasants, Princes &amp; Kings: The Songs of Bob Dylan (Compilation)
+Thu Apr  2 03:22:27 2015	30	Somethingawful.Com	Yellow	n/a
+Thu Apr  2 03:26:30 2015	30	Eighteen Visions	Beautiful People	Punk Goes 90's (Compilation)
+Thu Apr  2 03:30:03 2015	32	Reigning Sound	You Got Me Hummin'	Too Much Guitar
+Thu Apr  2 03:32:33 2015	32	Goldfinger	Man In The Suitcase	Darrin's Coconut Ass: Live
+Thu Apr  2 03:34:13 2015	31	Tool	Demon Cleaner	n/a
+Thu Apr  2 03:39:57 2015	31	Sister Double Happiness	Holiday In Cambodia	Virus 100: Dead Kennedy Covers
+Thu Apr  2 03:44:11 2015	30	Less Than Jake	We Go Together	Pez Collection
+Thu Apr  2 03:45:45 2015	31	Riddlin' Kids	It's The End Of The World As We Know It (And I Feel Fine)	Hurry Up & Wait
+Thu Apr  2 03:48:48 2015	30	Flyweight	Girls	n/a
+Thu Apr  2 03:51:44 2015	29	Mike Ness	Don't Think Twice, It's All Ri	Cheating at Solitaire
+Thu Apr  2 03:55:21 2015	28	Joy Electric	Make My Life A Prayer To You	Christian Songs
+Thu Apr  2 03:58:33 2015	28	Hold Steady	Atlantic City	War Child - Heroes Vol.1
+Thu Apr  2 04:02:51 2015	24	Foo Fighters	Drive Me Wild	The Colour and the Shape
+Thu Apr  2 04:06:14 2015	26	Mxpx	Kkk Took My Baby Away	n/a
+Thu Apr  2 04:07:50 2015	25	New Found Glory	Heaven Isn't Too Far Away	n/a
+Thu Apr  2 04:11:18 2015	24	Pseudo Echo	Funkytown	A Year In Your Life: 1987, Vol. 1
+Thu Apr  2 04:14:55 2015	24	Get Up Kids	Close To Me	Eudora
+Thu Apr  2 04:18:30 2015	24	Midnight Oil	Girls On Film	n/a
+Thu Apr  2 04:22:12 2015	25	Red Hot Chili Peppers	Love Rollercoaster	Beavis And Butt-Head Do America
+Thu Apr  2 04:26:34 2015	25	A Perfect Circle	Kashmir	APC Live
+Thu Apr  2 04:30:09 2015	25	Meco	Wizard Of Oz	The Best of Meco
+Thu Apr  2 04:32:52 2015	24	Bauhaus	Ziggy Stardust	Crackle
+Thu Apr  2 04:36:03 2015	23	Saints	The Music Goes Round My Head	Songs Of Salvation 1976-1988
+Thu Apr  2 04:39:30 2015	24	Easy Star All-Stars	Karma Police (Feat. Citizen Cope)	Radiodread [Vinyl]
+Thu Apr  2 04:44:15 2015	23	Nouvelle Vague	O Pamela	Bande a Part
+Thu Apr  2 04:48:32 2015	23	Ol' Dirty Bastard	Sussudio	Urban Renewal: Featuring the Songs of Phil Collins
+Thu Apr  2 04:52:42 2015	22	Dwight Yoakam	Suspicious Minds	Honeymoon In Vegas
+Thu Apr  2 04:56:23 2015	19	Emery	All I Want	Punk Goes 90's (Compilation)
+Thu Apr  2 04:59:57 2015	21	Placebo	Running Up That Hill	Sleeping With Ghosts
+Thu Apr  2 05:04:46 2015	22	Eric Reed	You'll Never Walk Alone	Pure Imagination
+Thu Apr  2 05:06:48 2015	21	Denison Witmer	Have You Forgotten	n/a
+Thu Apr  2 05:13:28 2015	23	Vika Yermolyeva	Orion	n/a
+Thu Apr  2 05:17:16 2015	23	Mike Ness	I Fought The Law	Under The Influences
+Thu Apr  2 05:19:52 2015	24	Mira Billotte	As I Went Out One Morning	I'm Not There [Disc 2]
+Thu Apr  2 05:22:49 2015	24	Mason Jennings	The Times They Are A-Changin'	I'm Not There [Disc 2]
+Thu Apr  2 05:26:29 2015	22	Limp Bizkit	Behind Blue Eyes	Results May Vary (Bonus DVD)
+Thu Apr  2 05:32:11 2015	23	Rico And The Prosthetics	Vindicated	n/a
+Thu Apr  2 05:34:58 2015	23	Hanoi Rocks	Up Around The Bend	This One's for Rock N Roll
+Thu Apr  2 05:37:58 2015	24	Pixies	Winterlong	Complete B-Sides
+Thu Apr  2 05:41:11 2015	25	Patti Smith	Changing Of The Guards	Twelve
+Thu Apr  2 05:46:41 2015	26	Jose Gonzalez	Heartbeats	Heartbeats
+Thu Apr  2 05:49:28 2015	27	Jimi Hendrix Experience	All Along The Watchtower	The Rolling Stone Magazines 500 Greatest Songs Of All Time
+Thu Apr  2 05:53:32 2015	28	Any Trouble	The Name Of The Game (Live)	Girls Are Always Right: The Stiff Years
+Thu Apr  2 05:57:31 2015	30	Editors	Feel Good, Inc.	n/a
+Thu Apr  2 06:00:50 2015	28	David Gray	Smile Like You Mean It	Beauty and the Beast [Original London Cast Recording]
+Thu Apr  2 06:03:43 2015	31	Foo Fighters	Ozone	I'll Stick Around (Single)
+Thu Apr  2 06:07:41 2015	28	Bob Mould	The Daily Show Dog On Fire	n/a
+Thu Apr  2 06:08:13 2015	28	Richie Havens	Tombstone Blues	I'm Not There [Disc 1]
+Thu Apr  2 06:13:43 2015	28	Bonnie Prince Billy	I've Seen It All	Indie/Rock Playlist: December (2007)
+Thu Apr  2 06:17:12 2015	28	Byrds	Mr. Tambourine Man	The Essential Byrds [Disc 1]
+Thu Apr  2 06:19:30 2015	29	Vika Yermolyeva	Hurt (Nine Inch Nails)	n/a
+Thu Apr  2 06:24:21 2015	29	Sonic Youth	I'm Not There	I'm Not There [Disc 1]
+Thu Apr  2 06:29:12 2015	29	Eldar Djangirov	Nature Boy	Eldar
+Thu Apr  2 06:34:15 2015	28	Kirsty Maccoll	A New England	A Hard Nights Day -A History Of Stiff Records -45 Classic Singles Of 2
+Thu Apr  2 06:37:54 2015	30	Black Flag	Louie Louie	Duck And Cover
+Thu Apr  2 06:39:28 2015	31	Colin Meloy	Good Times	Colin Meloy Sings Sam Cooke EP
+Thu Apr  2 06:42:19 2015	30	Judas Priest	The Green Manalishi	Unleashed in the East
+Thu Apr  2 06:45:43 2015	29	Wonder Stuff	Dizzy	Greatest Hits Of The 90's 19901999
+Thu Apr  2 06:48:51 2015	28	Mighty Lemon Drops	Another Girl, Another Planet	Just Say Anything (Vol. V Of J
+Thu Apr  2 06:51:38 2015	28	George Thorogood	Who Do You Love?	Live
+Thu Apr  2 06:55:49 2015	32	Fun Boy Three	Our Lips Are Sealed	Waiting
+Thu Apr  2 06:58:48 2015	32	Ewan Mcgregor, Alessandro Safi	Your Song	n/a
+Thu Apr  2 07:01:56 2015	32	Arcade Fire	This Must Be The Place	Neighborhood
+Thu Apr  2 07:06:36 2015	32	Yellowcard	Everywhere	Punk Goes Pop (Compilation)
+Thu Apr  2 07:09:55 2015	32	Me First And The Gimme Gimmes	Leaving On A Jet Plane	Have a Ball
+Thu Apr  2 07:12:38 2015	33	Nouvelle Vague	I Melt With You	Best of Nouvelle Vague
+Thu Apr  2 07:16:16 2015	34	The Boy Least Likely To	Faith (George Michael)	n/a
+Thu Apr  2 07:19:10 2015	33	Richard Thompson	Oops . I Did It Again	1000 Years Of Popular Music
+Thu Apr  2 07:22:59 2015	32	Vika Yermolyeva	Outside	n/a
+Thu Apr  2 07:27:40 2015	33	David Bazan	Hallelujah	n/a
+Thu Apr  2 07:32:29 2015	33	Tom Waits	Heigh Ho	Stay Awake (disney covers)
+Thu Apr  2 07:35:28 2015	34	Paul Young	The Tracks Of My Tears	Lovesongs Top 100 (1)
+Thu Apr  2 07:38:44 2015	37	At The Drive-In	This Night Has Opened My Eyes	Anthology: This Station Is Non-Operational (W/Dvd)
+Thu Apr  2 07:42:35 2015	32	Midtown	Your Love	Punk Goes 80's (Compilation)
+Thu Apr  2 07:46:46 2015	34	Revolting Cocks	Do Ya Think I'm Sexy	Linger Ficken' Good...And Other Barnyard Oddities
+Thu Apr  2 07:52:10 2015	35	Ataris	The Boys Of Summer	So Long Astoria
+Thu Apr  2 07:56:27 2015	36	Five Iron Frenzy	Everywhere I Go	Upbeats & Beatdowns
+Thu Apr  2 07:58:46 2015	36	Arno	Knowing Me, Knowing You	Song Of Norway (1944 Original Cast Members)
+Thu Apr  2 08:03:12 2015	35	Vonda Shepard	Hooked On A Feeling	Songs From Alley Mcbeal
+Thu Apr  2 08:05:57 2015	33	Various Artists	Sia	n/a
+Thu Apr  2 08:11:33 2015	30	Frida Snell	Bullet With Butterfly Wings	Black Trillium
+Thu Apr  2 08:15:41 2015	32	Mark Jackson	Rebel Yell (Billy Idol)	n/a
+Thu Apr  2 08:19:49 2015	33	Eric Reed	42nd Street	Pure Imagination
+Thu Apr  2 08:23:45 2015	33	Bif Naked	We're Not Gonna Take It	Another 5 Songs And A Poem
+Thu Apr  2 08:27:02 2015	34	Death By Stereo	Little Fighter	n/a
+Thu Apr  2 08:31:05 2015	34	Ben Lee	Animal	King Kong: Original Motion Picture Soundtrack
+Thu Apr  2 08:34:14 2015	32	Patti Smith	Are You Experienced	Twelve
+Thu Apr  2 08:38:41 2015	33	A Perfect Circle	Vacant	APC Live
+Thu Apr  2 08:42:24 2015	34	Saccharine Trust	Six Pack	Duck And Cover
+Thu Apr  2 08:44:56 2015	34	Tiamat	Sympathy For The Devil	Skeleton Skeletron
+Thu Apr  2 08:49:45 2015	33	Killing Moon	You Oughta Know	Punk Goes 90's (Compilation)
+Thu Apr  2 08:53:26 2015	36	Nine Inch Nails	Dead Souls	The Downward Spiral
+Thu Apr  2 08:58:01 2015	36	Big Country	Paranoid	Under Cover
+Thu Apr  2 09:00:45 2015	33	Snuff	I Will Survive	Six Of One, Half A Dozen Of The Other, 1986-2002
+Thu Apr  2 09:03:37 2015	36	Meco	Star Wars	Music Inspired By Star Wars
+Thu Apr  2 09:09:49 2015	37	White Stripes	I Just Don't Know What To Do W	Under Great White Northern Lights
+Thu Apr  2 09:12:36 2015	40	Face To Face	Whip It	We Are Not Devo
+Thu Apr  2 09:14:55 2015	37	New Pornographers	Hey, Snow White	Dark Was The Night
+Thu Apr  2 09:19:08 2015	36	Los Lobos	La Bamba	La Bamba Original Soundtrack
+Thu Apr  2 09:22:01 2015	37	Matisyahu	Watching The Wheels	Instant Karma: The Amnesty International Campaign To Save Darfur [Disc 2]
+Thu Apr  2 09:25:04 2015	36	Chantal Kreviazuk	Leaving On A Jet Plane	What If It All Means Something
+Thu Apr  2 09:29:39 2015	37	Butthole Surfers	American Woman	Rembrandt Pussyhorse
+Thu Apr  2 09:34:43 2015	38	D-a-d	Havana Affair	The Song Ramones The Same
+Thu Apr  2 09:36:48 2015	40	Hot Rod Circuit	Gin & Juice	Punk Goes Crunk (Compilation)
+Thu Apr  2 09:40:07 2015	35	Thing	Life On Mars	Life Beyond Mars Bowie Covered
+Thu Apr  2 09:44:26 2015	39	Bow Wow Wow	I Want Candy	Just Can't Get Enough -Vol. 5-
+Thu Apr  2 09:47:15 2015	34	Cat Power	In This Hole	The Covers Record
+Thu Apr  2 09:51:37 2015	34	Ted Leo	Since U Been Gone, Maps	n/a
+Thu Apr  2 09:55:02 2015	35	John Mayer Trio	Wait Until Tomorrow	Try!
+Thu Apr  2 09:59:15 2015	34	Otep	Breed	Ascension
+Thu Apr  2 10:02:37 2015	35	Annie Lennox	A Whiter Shade Of Pale	Medusa
+Thu Apr  2 10:07:37 2015	37	Offspring	I Wanna Be Sedated	We're A Happy Family: A Tribute To The Ramones
+Thu Apr  2 10:10:01 2015	37	Flash Hawk Parlor Ensemble	The Tourist	Stereogum Presentsa| OKX: A Tribute to OK Computer
+Thu Apr  2 10:16:02 2015	33	Husker Du	Eight Miles High	Duck And Cover
+Thu Apr  2 10:19:37 2015	33	Tori Amos	Raining Blood	Strange Little Girls
+Thu Apr  2 10:25:54 2015	34	Heartbreak	Loving The Alien	Life Beyond Mars Bowie Covered
+Thu Apr  2 10:32:56 2015	30	George Michael	I Can't Make You Love Me	Ladies & Gentlemen: The Best of George Michael
+Thu Apr  2 10:38:41 2015	27	Eva Cassidy	Fields Of Gold	Songbird
+Thu Apr  2 10:42:59 2015	29	Nazareth	Love Hurts	Power Ballads
+Thu Apr  2 10:46:51 2015	32	Nomads	I Remember You	Song Ramones the Same
+Thu Apr  2 10:49:10 2015	30	Fear Factory And Danzig	Enter Sandman	Metallic Assault
+Thu Apr  2 10:54:24 2015	29	Yeah Yeah Yeahs	Sheena Is A Punk Rocker	War Child Presents Heroes
+Thu Apr  2 10:56:48 2015	29	Sufjan Stevens	You Are The Blood	Dark Was The Night- (1) This Disc
+Thu Apr  2 11:06:55 2015	32	Reverend Horton Heat	Folsom Prison Blues	Holy Roller
+Thu Apr  2 11:09:40 2015	30	Siouxsie & The Banshees	The Passenger	Through The Looking Glass
+Thu Apr  2 11:13:33 2015	32	At The Drive-In	Take Up Thy Stethoscope And Walk (Live)	This Station Is Non-Operational/Anthology
+Thu Apr  2 11:18:49 2015	30	Patti Smith	White Rabbit	Twelve
+Thu Apr  2 11:22:36 2015	30	Me First and the Gimme Gimmes	Uptown Girl	Have a Ball [Vinyl]
+Thu Apr  2 11:24:49 2015	31	Sheryl Crow	Sweet Child Of Mine	n/a
+Thu Apr  2 11:28:38 2015	31	Nouvelle Vague	Blue Monday	Best of Nouvelle Vague
+Thu Apr  2 11:31:22 2015	31	A Teens	Dancing Queen	Greatest Hits
+Thu Apr  2 11:35:13 2015	29	Somethingawful.Com	Hidden Nesmix Intro	n/a
+Thu Apr  2 11:36:48 2015	29	Peaches	Search And Destroy	War Child - Heroes: The Ultimate Covers Album
+Thu Apr  2 11:40:29 2015	32	Sonata Arctica	World In My Eyes	Don`t Say A Word - Cds
+Thu Apr  2 11:44:12 2015	31	Bryan Ferry	A Hard Rain's A-gonna Fall	Best of Bryan Ferry (Deluxe Edition) (CD + NTSC/Region 0 DVD)
+Thu Apr  2 11:48:16 2015	32	Vika Yermolyeva	Battery	n/a
+Thu Apr  2 11:52:53 2015	30	Lemonheads	Mrs. Robinson	It's A Shame About Ray
+Thu Apr  2 11:56:30 2015	30	First Aid Kit	Tiger Mountain Peasant Song (F	n/a
+Thu Apr  2 11:59:26 2015	30	Beck	Leopard-Skin Pill Box Hat	n/a
+Thu Apr  2 12:02:12 2015	29	Rooney	Here Today, Gone Tomorrow	We're a Happy Family: A Tribute to the Ramones
+Thu Apr  2 12:05:01 2015	30	Creedence Clearwater Revival	I Put A Spell On You	Creedence Clearwater Revival
+Thu Apr  2 12:09:47 2015	31	Billy Bragg	When Will I See You Again	Must I Paint You A Picture - Ltd Ed
+Thu Apr  2 12:12:38 2015	33	Sun Kil Moon	Neverending Math Equation	Tiny Cities (Dig)
+Thu Apr  2 12:15:35 2015	33	The Goops	Build Me Up Buttercup	CMJ New Music Monthly, Volume 28: December 1995 (Compilation)
+Thu Apr  2 12:17:52 2015	34	Colin Meloy	I've Changed My Plea To Guilty	Colin Meloy Sings Morrissey EP
+Thu Apr  2 12:20:58 2015	33	Meteors	Bad Moon Rising	Anagram Singles Collection
+Thu Apr  2 12:23:33 2015	35	Tori Amos	Love Song	n/a
+Thu Apr  2 12:27:16 2015	34	Beach Boys	California Dreamin'	The Warmth of the Sun (Compilation)
+Thu Apr  2 12:30:07 2015	38	Me First And The Gimme Gimmes	Different Drum	Blow in the Wind [Vinyl]
+Thu Apr  2 12:32:41 2015	34	Flamin' Groovies	Absolutely Sweet Marie	Groovies' Greatest Grooves
+Thu Apr  2 12:35:51 2015	36	Doveman	The Girl Gets Around	n/a
+Thu Apr  2 12:39:57 2015	35	Belle And Sebastian	Final Day	Books EP
+Thu Apr  2 12:42:16 2015	34	Emanuel	Kryptonite (I'm On It)	n/a
+Thu Apr  2 12:46:34 2015	35	Nick Cave & Shane Macgowan	It's A Wonderful World	n/a
+Thu Apr  2 12:49:33 2015	34	Seth Avett	Mary	n/a
+Thu Apr  2 12:52:11 2015	36	Nashville Pussy	(I'm) Misunderstood	Eat More Pussy [Ep]
+Thu Apr  2 12:54:35 2015	35	Sade	Why Can't We Live Together	Diamond Life
+Thu Apr  2 13:00:09 2015	33	H.I.M.	(Don't Fear) The Reaper	Greatest Lovesongs Vol. 666
+Thu Apr  2 13:06:22 2015	30	Storm And The Balls	Total Eclipse Of The Heart (Si	n/a
+Thu Apr  2 13:09:53 2015	30	Honeydippers	Guns Of Brixton	This Is Rockabilly Clash
+Thu Apr  2 13:13:00 2015	30	Patti Smith	Gimme Shelter	Twelve
+Thu Apr  2 13:17:55 2015	34	Jughead's Revenge	Talk Dirty To Me	Punk Goes Metal (Compilation)
+Thu Apr  2 13:21:32 2015	30	Soul Asylum	School's Out	The Faculty
+Thu Apr  2 13:24:50 2015	30	Foo Fighters	Life Of Illusion	Medium Rare (Compilation)
+Thu Apr  2 13:28:12 2015	31	Nouvelle Vague	Heart Of Glass	Bande a Part
+Thu Apr  2 13:31:44 2015	34	Rico And The Prosthetics	Clint Eastwood	n/a
+Thu Apr  2 13:35:37 2015	30	Apocalypso	Man, It's So Loud In Here	Miscalculated Dance Moves
+Thu Apr  2 13:38:39 2015	33	Vika Yermolyeva	Snuff	n/a
+Thu Apr  2 13:42:12 2015	35	Wayne High School Marching Band	Iron Man	Sounds of the Stadium 2003-2004
+Thu Apr  2 13:44:11 2015	33	Format	For You	Light of Day: A Tribute to Bruce Springsteen
+Thu Apr  2 13:48:37 2015	31	Guns N' Roses	Live And Let Die	Use Your Illusion I
+Thu Apr  2 13:51:37 2015	31	Willy Porter	Whip It	Gag Me With A Spoon
+Thu Apr  2 13:55:31 2015	30	Ian Mcglynn	Mistaken For Strangers (The Na	n/a
+Thu Apr  2 13:59:00 2015	29	Rufus Wainwright	Hallelujah	Lifted-Songs of the Spirit
+Thu Apr  2 14:02:58 2015	28	Mutton Birds	(Dont Fear) The Reaper	Flock-Best of Mutton Birds
+Thu Apr  2 14:08:43 2015	29	Doveman	Let's Hear It For The Boy	n/a
+Thu Apr  2 14:11:52 2015	28	John Lennon	Stand By Me	ROCK 'N' ROLL
+Thu Apr  2 14:15:12 2015	30	Vika Yermolyeva	Nothing Else Matters	n/a
+Thu Apr  2 14:20:47 2015	31	Thrice	Send Me An Angel	If We Could Only See Us Now (W/Dvd)
+Thu Apr  2 14:24:20 2015	30	Sarcastic Dharma Society	Bad Bad Things (Andrew Jackson	n/a
+Thu Apr  2 14:27:20 2015	31	Reach The Sky	Sometimes	So Far From Home
+Thu Apr  2 14:30:39 2015	32	Fine Young Cannibals	Ever Fallen In Love?	The Finest
+Thu Apr  2 14:34:36 2015	29	Me First And The Gimme Gimmes	I'll Be There	Take a Break
+Thu Apr  2 14:36:37 2015	29	Nouvelle Vague	The Killing Moon	Bande a Part
+Thu Apr  2 14:39:55 2015	30	Jamison Parker	Everyone Wants To Rule The World	n/a
+Thu Apr  2 14:43:23 2015	29	Plasmatics	Stand By Your Man	n/a
+Thu Apr  2 14:46:14 2015	29	Black Kids	Damn I Wish I Was Your Lover	I'm Not Gonna Teach Your Boyfriend How to Dance With You (Single)
+Thu Apr  2 14:48:36 2015	27	Somethingawful.Com	Eye Of The Tiger	n/a
+Thu Apr  2 14:52:34 2015	27	New Found Glory	Don't You (Forget About Me)	From the Screen to Your Stereo 2
+Thu Apr  2 14:56:40 2015	29	Lemonheads	Mrs. Robinson	It's A Shame About Ray
+Thu Apr  2 15:00:06 2015	30	Secret Handshake	I Wish	Punk Goes Crunk
+Thu Apr  2 15:02:47 2015	30	Charlatans	You're A Big Girl Now	Tellin' Stories
+Thu Apr  2 15:05:38 2015	28	Gatsby's American Dream	Just Like Heaven	Punk Goes 80's (Compilation)
