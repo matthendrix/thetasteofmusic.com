@@ -9,7 +9,11 @@ type Props = {
 
 export default function ArtistWall({ items }: Props) {
   const [activeSlug, setActiveSlug] = useState<string | null>(null);
+  const [showBrightSweep, setShowBrightSweep] = useState(false);
+  const [hasInteracted, setHasInteracted] = useState(false);
   const audioRef = useRef<HTMLAudioElement>(null);
+  const wallRef = useRef<HTMLUListElement>(null);
+  const tileRefs = useRef<Record<string, HTMLLIElement | null>>({});
 
   const activeArtist = useMemo(
     () => items.find((item) => item.slug === activeSlug) ?? null,
@@ -27,6 +31,19 @@ export default function ArtistWall({ items }: Props) {
   }, [items]);
 
   useEffect(() => {
+    if (hasInteracted) {
+      return;
+    }
+    const timer = window.setTimeout(() => {
+      setShowBrightSweep(true);
+    }, 3000);
+
+    return () => {
+      window.clearTimeout(timer);
+    };
+  }, [hasInteracted]);
+
+  useEffect(() => {
     if (activeSlug) {
       audioRef.current?.pause();
       window.history.replaceState(null, "", `#${activeSlug}`);
@@ -37,10 +54,33 @@ export default function ArtistWall({ items }: Props) {
     void audioRef.current?.play().catch(() => null);
   }, [activeSlug]);
 
+  useEffect(() => {
+    if (!activeSlug) {
+      return;
+    }
+
+    const wall = wallRef.current;
+    const tile = tileRefs.current[activeSlug];
+    if (!wall || !tile) {
+      return;
+    }
+
+    const targetLeft = tile.offsetLeft - wall.clientWidth / 2 + tile.clientWidth / 2;
+    wall.scrollTo({ left: Math.max(0, targetLeft), behavior: "smooth" });
+  }, [activeSlug]);
+
+  function activateSlug(slug: string) {
+    if (!hasInteracted) {
+      setHasInteracted(true);
+      setShowBrightSweep(false);
+    }
+    setActiveSlug(slug);
+  }
+
   return (
     <main>
-      <section className="persona-wrap">
-        {activeArtist ? (
+      {activeArtist ? (
+        <section className="persona-wrap">
           <div className="persona">
             <button type="button" className="close-btn" onClick={() => setActiveSlug(null)}>
               x
@@ -55,21 +95,40 @@ export default function ArtistWall({ items }: Props) {
               allowFullScreen
             />
           </div>
-        ) : (
-          <div className="persona-idle">
-            <h1>The Taste Of Music</h1>
-            <p>Pick an artist tile to play a track.</p>
-          </div>
-        )}
-      </section>
+        </section>
+      ) : null}
 
-      <ul className={`wall ${activeArtist ? "scrub" : ""}`}>
-        {items.map((item) => {
+      <ul
+        ref={wallRef}
+        className={`wall ${activeArtist ? "scrub" : ""}`}
+        onWheel={(event) => {
+          if (!activeArtist || !wallRef.current) {
+            return;
+          }
+          if (Math.abs(event.deltaY) > Math.abs(event.deltaX)) {
+            wallRef.current.scrollLeft += event.deltaY;
+            event.preventDefault();
+          }
+        }}
+      >
+        {items.map((item, index) => {
           const isActive = item.slug === activeSlug;
+          const shouldBlink = showBrightSweep && !hasInteracted;
           return (
-            <li key={item.slug} className={isActive ? "active" : ""}>
-              <button type="button" onClick={() => setActiveSlug(item.slug)}>
-                <img src={`/img-songs/${item.slug}.jpg`} alt={`${item.artist} portrait`} loading="lazy" />
+            <li
+              key={item.slug}
+              ref={(element) => {
+                tileRefs.current[item.slug] = element;
+              }}
+              className={`${isActive ? "active" : ""} ${shouldBlink ? "bright" : ""}`.trim()}
+            >
+              <button type="button" onClick={() => activateSlug(item.slug)}>
+                <img
+                  src={`/img-songs/${item.slug}.jpg`}
+                  alt={`${item.artist} portrait`}
+                  loading="lazy"
+                  style={shouldBlink ? { animationDelay: `${index * 0.1}s` } : undefined}
+                />
                 <div>
                   <span>{item.artist}</span>
                   <span>{item.song}</span>
