@@ -13,11 +13,17 @@ type YTPlayerState = {
 
 type YTPlayerEvent = {
   data: number;
+  target: YTPlayer;
+};
+
+type YTReadyEvent = {
+  target: YTPlayer;
 };
 
 type YTPlayer = {
   destroy: () => void;
   loadVideoById: (videoId: string) => void;
+  playVideo: () => void;
 };
 
 type YTApi = {
@@ -26,7 +32,10 @@ type YTApi = {
     config: {
       videoId?: string;
       playerVars?: Record<string, number>;
-      events?: { onStateChange?: (event: YTPlayerEvent) => void };
+      events?: {
+        onReady?: (event: YTReadyEvent) => void;
+        onStateChange?: (event: YTPlayerEvent) => void;
+      };
     }
   ) => YTPlayer;
   PlayerState: YTPlayerState;
@@ -82,6 +91,7 @@ export default function ArtistWall({ items }: Props) {
     const hash = window.location.hash.replace("#", "");
     if (hash && items.some((item) => item.slug === hash)) {
       setActiveSlug(hash);
+      setHasInteracted(true);
       return;
     }
 
@@ -145,6 +155,9 @@ export default function ArtistWall({ items }: Props) {
           rel: 0
         },
         events: {
+          onReady: (event) => {
+            event.target.playVideo();
+          },
           onStateChange: (event) => {
             if (event.data !== window.YT?.PlayerState.ENDED) {
               return;
@@ -175,6 +188,35 @@ export default function ArtistWall({ items }: Props) {
       playerRef.current = null;
     };
   }, []);
+
+  useEffect(() => {
+    function handleKeyDown(event: KeyboardEvent) {
+      if (event.key === "Escape") {
+        setActiveSlug(null);
+        return;
+      }
+
+      const currentSlug = activeSlugRef.current;
+      if (!currentSlug) {
+        return;
+      }
+
+      if (event.key === "ArrowRight" || event.key === "ArrowLeft") {
+        const currentIndex = orderedSlugs.indexOf(currentSlug);
+        if (currentIndex === -1) {
+          return;
+        }
+        const delta = event.key === "ArrowRight" ? 1 : -1;
+        const nextSlug = orderedSlugs[(currentIndex + delta + orderedSlugs.length) % orderedSlugs.length];
+        setHasInteracted(true);
+        setShowBrightSweep(false);
+        setActiveSlug(nextSlug);
+      }
+    }
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [orderedSlugs]);
 
   function activateSlug(slug: string) {
     if (!hasInteracted) {
