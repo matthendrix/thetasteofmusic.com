@@ -34,6 +34,7 @@ export const artists: Artist[] = [
   { slug: "roger-daltry", artist: "Roger Daltry", song: "See Me Feel Me", embed: "NzuNJod_o7g" },
   { slug: "nico", artist: "Nico", song: "Femme Fatale", embed: "ggHPtzVSEeE" },
   { slug: "john-lydon", artist: "John Lydon", song: "Pretty Vacant", embed: "R6GDdKrQ8EI" },
+  { slug: "gary-numan", artist: "Gary Numan", song: "Cars", embed: "LrjM8Fi7J58" },
   { slug: "nina-simone", artist: "Nina Simone", song: "I Shall Be Released (live)", embed: "w-du8MDE8nk" },
   { slug: "scott-walker", artist: "Scott Walker", song: "Plastic palace people", embed: "ayrS74ktTyE" },
   { slug: "neil-young", artist: "Neil Young", song: "Cortez The Killer", embed: "uX9k9aoX6gk" },
