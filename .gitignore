@@ -2,3 +2,11 @@ public_html/somafm/index.php
 public_html/_*
 public_html/*.log
 public_html/**/*.log
+node_modules/
+.next/
+out/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
