@@ -58,6 +58,12 @@ main {
   border: 0;
 }
 
+.video iframe {
+  width: 100%;
+  min-height: 22rem;
+  border: 0;
+}
+
 .wall {
   margin: 0;
   padding: 0;
@@ -183,6 +189,10 @@ main {
 
 @media (max-width: 680px) {
   .video {
+    min-height: 14rem;
+  }
+
+  .video iframe {
     min-height: 14rem;
   }
 

@@ -7,6 +7,38 @@ type Props = {
   items: Artist[];
 };
 
+type YTPlayerState = {
+  ENDED: number;
+};
+
+type YTPlayerEvent = {
+  data: number;
+};
+
+type YTPlayer = {
+  destroy: () => void;
+  loadVideoById: (videoId: string) => void;
+};
+
+type YTApi = {
+  Player: new (
+    element: string | HTMLElement,
+    config: {
+      videoId?: string;
+      playerVars?: Record<string, number>;
+      events?: { onStateChange?: (event: YTPlayerEvent) => void };
+    }
+  ) => YTPlayer;
+  PlayerState: YTPlayerState;
+};
+
+declare global {
+  interface Window {
+    YT?: YTApi;
+    onYouTubeIframeAPIReady?: () => void;
+  }
+}
+
 export default function ArtistWall({ items }: Props) {
   const [activeSlug, setActiveSlug] = useState<string | null>(null);
   const [showBrightSweep, setShowBrightSweep] = useState(false);
@@ -14,11 +46,37 @@ export default function ArtistWall({ items }: Props) {
   const audioRef = useRef<HTMLAudioElement>(null);
   const wallRef = useRef<HTMLUListElement>(null);
   const tileRefs = useRef<Record<string, HTMLLIElement | null>>({});
+  const playerRef = useRef<YTPlayer | null>(null);
+  const activeSlugRef = useRef<string | null>(null);
+  const [ytReady, setYtReady] = useState(false);
 
   const activeArtist = useMemo(
     () => items.find((item) => item.slug === activeSlug) ?? null,
     [activeSlug, items]
   );
+  const orderedSlugs = useMemo(() => items.map((item) => item.slug), [items]);
+
+  useEffect(() => {
+    if (window.YT?.Player) {
+      setYtReady(true);
+      return;
+    }
+
+    const script = document.createElement("script");
+    script.src = "https://www.youtube.com/iframe_api";
+    script.async = true;
+    document.body.appendChild(script);
+
+    const previous = window.onYouTubeIframeAPIReady;
+    window.onYouTubeIframeAPIReady = () => {
+      previous?.();
+      setYtReady(true);
+    };
+
+    return () => {
+      window.onYouTubeIframeAPIReady = previous;
+    };
+  }, []);
 
   useEffect(() => {
     const hash = window.location.hash.replace("#", "");
@@ -55,6 +113,10 @@ export default function ArtistWall({ items }: Props) {
   }, [activeSlug]);
 
   useEffect(() => {
+    activeSlugRef.current = activeSlug;
+  }, [activeSlug]);
+
+  useEffect(() => {
     if (!activeSlug) {
       return;
     }
@@ -68,6 +130,51 @@ export default function ArtistWall({ items }: Props) {
     const targetLeft = tile.offsetLeft - wall.clientWidth / 2 + tile.clientWidth / 2;
     wall.scrollTo({ left: Math.max(0, targetLeft), behavior: "smooth" });
   }, [activeSlug]);
+
+  useEffect(() => {
+    if (!activeArtist || !ytReady || !window.YT?.Player) {
+      return;
+    }
+
+    if (!playerRef.current) {
+      playerRef.current = new window.YT.Player("persona-video", {
+        videoId: activeArtist.embed,
+        playerVars: {
+          autoplay: 1,
+          controls: 1,
+          rel: 0
+        },
+        events: {
+          onStateChange: (event) => {
+            if (event.data !== window.YT?.PlayerState.ENDED) {
+              return;
+            }
+
+            const currentSlug = activeSlugRef.current;
+            if (!currentSlug) {
+              return;
+            }
+            const currentIndex = orderedSlugs.indexOf(currentSlug);
+            if (currentIndex === -1) {
+              return;
+            }
+            const nextSlug = orderedSlugs[(currentIndex + 1) % orderedSlugs.length];
+            setActiveSlug(nextSlug);
+          }
+        }
+      });
+      return;
+    }
+
+    playerRef.current.loadVideoById(activeArtist.embed);
+  }, [activeArtist, orderedSlugs, ytReady]);
+
+  useEffect(() => {
+    return () => {
+      playerRef.current?.destroy();
+      playerRef.current = null;
+    };
+  }, []);
 
   function activateSlug(slug: string) {
     if (!hasInteracted) {
@@ -87,12 +194,9 @@ export default function ArtistWall({ items }: Props) {
             </button>
             <h1>{activeArtist.artist}</h1>
             <p>{activeArtist.song}</p>
-            <iframe
+            <div
+              id="persona-video"
               className="video"
-              src={`https://www.youtube-nocookie.com/embed/${activeArtist.embed}?autoplay=1&rel=0`}
-              title={`${activeArtist.artist} - ${activeArtist.song}`}
-              allow="autoplay; encrypted-media; picture-in-picture"
-              allowFullScreen
             />
           </div>
         </section>
