@@ -42,9 +42,11 @@ export const artists: Artist[] = [
   { slug: "stevie-wonder", artist: "Stevie Wonder", song: "Sir Duke", embed: "6sIjSNTS7Fs" },
   { slug: "marvin-gaye", artist: "Marvin Gaye", song: "What's Going On", embed: "H-kA3UtBj4M" },
   { slug: "aretha-franklin", artist: "Aretha Franklin", song: "Bridge Over Troubled Water", embed: "_9-yfeA2JZs" },
+  { slug: "barbara-streisand", artist: "Barbra Streisand", song: "Send In The Clowns", embed: "FEbafV3PFuQ" },
   { slug: "barry-white", artist: "Barry White", song: "I've Got So Much to Give", embed: "RVF_H21yg9E" },
   { slug: "bob-marley", artist: "Bob Marley", song: "Could You Be Loved", embed: "sL_BcaI0i0w" },
   { slug: "devo", artist: "Gerald Casale", song: "Planet Earth", embed: "yzwrefrmNAM" },
   { slug: "ralf-hutter", artist: "Ralf Hutter", song: "Spiegelsaal", embed: "fzNOEpZSMwM" },
-  { slug: "leo-sayer", artist: "Leo Sayer", song: "Giving It All Away", embed: "6OEarewzmwI" }
+  { slug: "leo-sayer", artist: "Leo Sayer", song: "Giving It All Away", embed: "6OEarewzmwI" },
+  { slug: "split-enz", artist: "Split Enz", song: "Message To My Girl", embed: "n0pcM30pjgQ" }
 ];

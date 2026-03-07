@@ -146,7 +146,10 @@ export default function ArtistWall({ items }: Props) {
       return;
     }
 
-    if (!playerRef.current) {
+    const currentPlayer = playerRef.current;
+
+    if (!currentPlayer || typeof currentPlayer.loadVideoById !== "function") {
+      currentPlayer?.destroy?.();
       playerRef.current = new window.YT.Player("persona-video", {
         videoId: activeArtist.embed,
         playerVars: {
@@ -179,7 +182,7 @@ export default function ArtistWall({ items }: Props) {
       return;
     }
 
-    playerRef.current.loadVideoById(activeArtist.embed);
+    currentPlayer.loadVideoById(activeArtist.embed);
   }, [activeArtist, orderedSlugs, ytReady]);
 
   useEffect(() => {
