@@ -8,6 +8,15 @@ This repo now runs as a Next.js App Router project.
 - `public/`: runtime assets (`img-songs/`, `audio/`, favicon files).
 - `_archive/php-website/`: historical PHP snapshot for reference only; do not treat as active runtime code.
 
+## Project Intent
+- Treat this site as a personal artwork piece for Matt and friends, not a conventional public-facing product.
+- Treat the homepage as artwork, not a conventional landing page.
+- Do not add or suggest a homepage title, hero, or explanatory intro unless explicitly requested.
+- Do not default to accessibility, compliance, old-browser, or generic product UX critiques unless explicitly requested.
+- Keep technical work simple and tightly scoped to actual breakage, reliability issues, content updates, or explicit requests.
+- Do not expand simple requests into lint/tooling migrations, process-heavy workflows, or speculative cleanup.
+- If a task starts to sprawl, stop and return to the simplest interpretation of the request.
+
 ## Build, Test, and Development Commands
 - `npm install`: install dependencies.
 - `npm run dev`: start local dev server.
