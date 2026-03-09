@@ -1,48 +1,26 @@
-# The Taste Of Music
+# The Taste of Music
 
-This repository contains the **Next.js migration** of `thetasteofmusic.com`, designed for deployment on Vercel.
+A personal artist wall. Click a tile to watch a YouTube embed.
 
 ## Stack
 
-- Next.js (App Router)
-- React
-- TypeScript
+Plain HTML, CSS, and JavaScript. No framework, no build step.
 
-## Project Structure
+## Files
 
-- `src/app/` - App Router pages and global styles
-- `src/components/` - UI components (artist wall)
-- `src/data/` - artist/song/embed data
-- `public/` - runtime static assets (images/audio)
-- `_archive/php-website/` - legacy PHP website snapshot (reference only)
+- `index.html` — page shell
+- `style.css` — all styles
+- `app.js` — all behaviour
+- `data.js` — artist list (edit here to add/remove artists)
+- `img-songs/` — one `.jpg` per artist tile
+- `audio/` — ambient background audio
 
-## Local Development
+## Adding an Artist
 
-```bash
-npm install
-npm run dev
-```
+1. Add an entry to `data.js`
+2. Drop `img-songs/{slug}.jpg`
+3. Push to master — GitHub Pages deploys automatically
 
-Open: `http://127.0.0.1:3000`
+## Local Dev
 
-If port `3000` is already in use, Next.js will auto-pick another port (for example `3003`) and print it in the terminal.
-
-## Build And Run
-
-```bash
-npm run build
-npm run start
-```
-
-## Deployment (Vercel)
-
-1. Import this GitHub repository into Vercel.
-2. Use the default Next.js framework detection.
-3. Build command: `npm run build`
-4. Output: Next.js managed output (default)
-5. Production branch: `master`
-
-## Notes
-
-- Legacy root PHP files were archived to keep the repository focused on the Next.js app.
-- Temporary local files are ignored via `.gitignore` (`.next-*.log`, `dev-*.log`, `CLAUDE.md`).
+Open `index.html` in a browser, or serve with XAMPP / any static server.
