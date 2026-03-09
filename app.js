@@ -1,5 +1,3 @@
-import { artists } from "./data.js";
-
 // --- State ---
 let activeSlug = null;
 let showBrightSweep = false;

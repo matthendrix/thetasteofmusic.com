@@ -1,4 +1,4 @@
-export const artists = [
+const artists = [
   { slug: "miles-davis", artist: "Miles Davis", song: "Blue In Green", embed: "TLDflhhdPCg" },
   { slug: "brian-wilson", artist: "Brian Wilson", song: "Let's Go Away for Awhile", embed: "SEoKf52h9ok" },
   { slug: "john-lennon", artist: "John Lennon", song: "God", embed: "aCNkPpq1giU" },
