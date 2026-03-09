@@ -89,6 +89,7 @@ function mountPlayer() {
 
 // --- State setter ---
 function setActiveSlug(slug) {
+  const wasActive = activeSlug !== null;
   activeSlug = slug;
 
   if (slug) {
@@ -99,7 +100,16 @@ function setActiveSlug(slug) {
     audio.play().catch(() => null);
   }
 
-  render();
+  if (wasActive && slug) {
+    // Switching between artists — update text in place, don't rebuild the DOM
+    // (rebuilding would detach the YouTube player iframe)
+    const artist = artists.find((a) => a.slug === slug);
+    document.querySelector(".persona h1").textContent = artist.artist;
+    document.querySelector(".persona p").textContent = artist.song;
+    renderWall();
+  } else {
+    render();
+  }
 
   if (slug) {
     mountPlayer();
