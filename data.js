@@ -8,7 +8,7 @@ export const artists = [
   { slug: "janis-joplin", artist: "Janis Joplin", song: "Ball & Chain (live)", embed: "X1zFnyEe3nE" },
   { slug: "elton-john", artist: "Elton John", song: "Curtains", embed: "g_bJhnJlCDg" },
   { slug: "kurt-cobain", artist: "Kurt Cobain", song: "All Apologies", embed: "0LFVQpDKHk4" },
-  { slug: "tony-iommi", artist: "Tony Iommi", song: "Sprial Architect", embed: "lkx7SQ4Wuh0" },
+  { slug: "tony-iommi", artist: "Tony Iommi", song: "Spiral Architect", embed: "lkx7SQ4Wuh0" },
   { slug: "jimmy-page", artist: "Jimmy Page", song: "That's the Way", embed: "GGsmyqIrZRo" },
   { slug: "billy-joel", artist: "Billy Joel", song: "Captain Jack", embed: "2xxugNQUtpE" },
   { slug: "sandy-denny", artist: "Sandy Denny", song: "I'll keep it with mine", embed: "CUtFXmS9FmA" },
