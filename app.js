@@ -68,12 +68,11 @@ function mountPlayer() {
   const artist = artists.find((a) => a.slug === activeSlug);
   if (!artist || !ytReady || !window.YT || !window.YT.Player) return;
 
-  if (player && typeof player.loadVideoById === "function") {
+  if (player) {
     player.loadVideoById(artist.embed);
     return;
   }
 
-  if (player) player.destroy();
   player = new window.YT.Player("persona-video", {
     videoId: artist.embed,
     playerVars: { autoplay: 1, controls: 1, rel: 0 },
@@ -120,7 +119,7 @@ function scrollToActive() {
 // --- Keyboard ---
 function handleKeyDown(e) {
   if (e.key === "Escape") {
-    setActiveSlug(null);
+    if (activeSlug) setActiveSlug(null);
     return;
   }
   if (!activeSlug) return;
@@ -182,6 +181,7 @@ function buildWall() {
 
 function renderWall() {
   if (!wall) return;
+  for (const key in tileRefs) delete tileRefs[key];
   wall.textContent = "";
 
   artists.forEach((artist, index) => {
