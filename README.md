@@ -23,4 +23,4 @@ Plain HTML, CSS, and JavaScript. No framework, no build step.
 
 ## Local Dev
 
-Open `index.html` in a browser, or serve with XAMPP / any static server.
+Open `index.html` directly in a browser, or serve with any static server (e.g. `npx serve .` or VS Code Live Server).
