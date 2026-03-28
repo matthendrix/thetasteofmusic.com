@@ -15,7 +15,7 @@ const artists = [
   { slug: "jim-morrison", artist: "Jim Morrison", song: "The End", embed: "VScSEXRwUqQ" },
   { slug: "roy-orbison", artist: "Roy Orbison", song: "In Dreams", embed: "mSeIh9rmEUs" },
   { slug: "elvis-presley", artist: "Elvis Presley", song: "An American Trilogy (live)", embed: "0FT3SmZ_zx0" },
-  { slug: "frank-sinatra", artist: "Frank Sinatra", song: "I've got you under my skin", embed: "C1AHec7sfZ8" },
+  { slug: "frank-sinatra", artist: "Frank Sinatra", song: "I've Got A Crush On You (Live At The Sands Hotel And Casino/1966)", embed: "5xcwSV0WvYg" },
   { slug: "ravi-shankar", artist: "Ravi Shankar", song: "Raga Bhimpalasi (live)", embed: "ev9TFGQj4rA" },
   { slug: "grace-slick", artist: "Grace Slick", song: "Today (live)", embed: "XzPDZINn9V0" },
   { slug: "paul-mccartney", artist: "Paul McCartney", song: "Let Me Roll It", embed: "kWFehaQEMYI" },
