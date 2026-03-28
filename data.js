@@ -1,7 +1,7 @@
 const artists = [
   { slug: "miles-davis", artist: "Miles Davis", song: "Blue In Green", embed: "TLDflhhdPCg" },
   { slug: "brian-wilson", artist: "Brian Wilson", song: "Let's Go Away for Awhile", embed: "SEoKf52h9ok" },
-  { slug: "john-lennon", artist: "John Lennon", song: "God", embed: "aCNkPpq1giU" },
+  { slug: "john-lennon", artist: "John Lennon", song: "God", embed: "MDXxilRkw34" },
   { slug: "kate-bush", artist: "Kate Bush", song: "This Woman's Work", embed: "UXzx--YefD8" },
   { slug: "lou-reed", artist: "Lou Reed", song: "Perfect Day", embed: "9wxI4KK9ZYo" },
   { slug: "david-bowie", artist: "David Bowie", song: "Heroes (live)", embed: "LBpyJ3bqs6I" },
