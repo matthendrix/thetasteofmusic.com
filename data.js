@@ -12,7 +12,7 @@ const artists = [
   { slug: "jimmy-page", artist: "Jimmy Page", song: "That's the Way", embed: "GGsmyqIrZRo" },
   { slug: "billy-joel", artist: "Billy Joel", song: "Captain Jack", embed: "2xxugNQUtpE" },
   { slug: "sandy-denny", artist: "Sandy Denny", song: "I'll keep it with mine", embed: "CUtFXmS9FmA" },
-  { slug: "jim-morrison", artist: "Jim Morrison", song: "The End", embed: "VScSEXRwUqQ" },
+  { slug: "jim-morrison", artist: "Jim Morrison", song: "The End", embed: "9pRGoSbYHQE" },
   { slug: "roy-orbison", artist: "Roy Orbison", song: "In Dreams", embed: "mSeIh9rmEUs" },
   { slug: "elvis-presley", artist: "Elvis Presley", song: "An American Trilogy (live)", embed: "0FT3SmZ_zx0" },
   { slug: "frank-sinatra", artist: "Frank Sinatra", song: "I've Got A Crush On You (Live At The Sands Hotel And Casino/1966)", embed: "5xcwSV0WvYg" },
